@@ -30,6 +30,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <stddef.h>
 #include <stdint.h>
 #include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
 #include <yara.h>
 
 
@@ -59,12 +61,32 @@ extern "C" int LLVMFuzzerTestOneInput(const uint8_t* data, size_t size)
     return 0;
   }
 
+  FILE* log_file = fopen("fuzz_log.txt", "a");
+  if (log_file == NULL)
+  {
+    yr_compiler_destroy(compiler);
+    free(buffer);
+    return 0;
+  }
+
   if (yr_compiler_add_string(compiler, (const char*) buffer, NULL) == 0)
   {
     if (yr_compiler_get_rules(compiler, &rules) == ERROR_SUCCESS)
+    {
+      fprintf(log_file, "Rules fuzzed successfully.\n");
       yr_rules_destroy(rules);
+    }
+    else
+    {
+      fprintf(log_file, "Failed to get rules.\n");
+    }
   }
-
+  else
+  {
+    fprintf(log_file, "Failed to add string to compiler.\n");
+  }
+  
+  fclose(log_file);
   yr_compiler_destroy(compiler);
   free(buffer);
 
