@@ -60,7 +60,7 @@ extern "C" int LLVMFuzzerTestOneInput(const uint8_t* data, size_t size)
     free(buffer);
     return 0;
   }
-
+  
   FILE* log_file = fopen("fuzz_log.txt", "a");
   if (log_file == NULL)
   {
@@ -75,6 +75,7 @@ extern "C" int LLVMFuzzerTestOneInput(const uint8_t* data, size_t size)
     {
       fprintf(log_file, "Rules fuzzed successfully.\n");
       yr_rules_destroy(rules);
+      printf(""Rules fuzzed successfully.\n");
     }
     else
     {
