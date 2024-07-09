@@ -197,7 +197,7 @@ int  elf_identification(int);
 void verifySHT(void);
 void verifyPHT(void);
 
-FILE *start_logger(char *, char *){
+FILE *start_logger(char *logfname, char *elfname){
 	FILE* logfp = fopen(logfname, "a"); // Open file for appending
     if (logfp == NULL) {
         perror("Failed to open log file");
