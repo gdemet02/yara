@@ -30,9 +30,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <stddef.h>
 #include <stdint.h>
 #include <yara.h>
+#include <string.h>
 
 #include "melkor.h"
-#include "banner.h"
+// #include "banner.h"
 
 #include <unistd.h>
 #include <getopt.h>
@@ -70,7 +71,7 @@ Elf_Phdr	*orcOrigPHT;
 Elf_Dyn		*elfOrigDYN;
 
 extern int errno;
-int PAGESIZE = 4096;
+// extern int PAGESIZE = 4096;
 
 YR_RULES* rules = NULL;
 
@@ -105,7 +106,7 @@ int callback(
 
 extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max_size, unsigned int seed) 
 {
-    int		opt, elffd, orcfd, fuzzed_flag5 = 0, k = 0;
+    int		opt, elffd, orcfd, fuzzed_flag = 0, k = 0;
 	char        *elfname;
 	Elf_Shdr	elfshstrtab_section, orcshstrtab_section, linkstrtab_section;
 
@@ -120,13 +121,13 @@ extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max
 	}
     /* Separate the filename from the dirname. The same as basename() */
 	
-	elfname  = strrchr(data, '/');
+	elfname  = strrchr((char*)data, '/');
 	if(!elfname)
-		elfname = data;
+		elfname = (char*)data;
 	else
-		elfname = strrchr(data, '/') + 1;
+		elfname = strrchr((char*)data, '/') + 1;
 
-    if((elffd = open(data, O_RDONLY)) == -1){
+    if((elffd = open((char*)data, O_RDONLY)) == -1){
 		perror("open");
 		exit(EXIT_FAILURE);
 	}
@@ -160,13 +161,13 @@ extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max
 	char dirname[strlen("orcs_") + strlen(elfname) + 1];
 	char orcfname[strlen("orc_") + 16];
 	char logfname[strlen("Report_") + strlen(elfname) + 5];
-	char *ext = "";
+	const char *ext = "";
 	if(strcmp(elfname + strlen(elfname) - 2, ".o") == 0)
 		ext = ".o";
 	if(strcmp(elfname + strlen(elfname) - 3, ".so") == 0)
 		ext = ".so";
 
-	dirname_orcfname = malloc(sizeof(dirname) + sizeof(orcfname) + 2);
+	char* dirname_orcfname = (char*)malloc(sizeof(dirname) + sizeof(orcfname) + 2);
 
 	snprintf(dirname, sizeof(dirname), "orcs_%s", elfname);
 	snprintf(logfname, sizeof(logfname), "Report_%s.txt", elfname);
