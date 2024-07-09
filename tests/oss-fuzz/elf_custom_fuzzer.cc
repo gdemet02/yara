@@ -197,8 +197,25 @@ int  elf_identification(int);
 void verifySHT(void);
 void verifyPHT(void);
 
-FILE *start_logger(char *, char *);
-void stop_logger(FILE *);
+FILE *start_logger(char *, char *){
+	FILE* logfp = fopen(logfname, "a"); // Open file for appending
+    if (logfp == NULL) {
+        perror("Failed to open log file");
+        exit(EXIT_FAILURE);
+    }
+
+    if (elfname != NULL) {
+        fprintf(logfp, "ELF Name: %s\n", elfname); // Log the ELF name
+    }
+
+    return logfp;
+}
+
+void stop_logger(FILE* logfp) {
+    if (logfp != NULL) {
+        fclose(logfp); // Close the log file
+    }
+}
 
 void fuzz_hdr(void);
 void fuzz_sht(void);
@@ -498,7 +515,7 @@ extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max
 					orcSHT->sh_type == SHT_REL ? "SHT_REL" : "SHT_RELA");
 
 				for(entry = 0; entry < orcSHT->sh_size / orcSHT->sh_entsize; entry++){
-					fuzz_rel();
+					// fuzz_rel();
 
 					fuzzed_flag = 1;
 
@@ -541,7 +558,7 @@ extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max
 					orcptr + orcshstrtab_offset + orcSHT->sh_name, (unsigned int) (orcSHT->sh_size / orcSHT->sh_entsize));
 
 				for(entry = 0; entry < orcSHT->sh_size / orcSHT->sh_entsize; entry++, elfSYM++, orcSYM++){
-					fuzz_sym();
+					// fuzz_sym();
 
 					fuzzed_flag = 1;
 				}
@@ -581,7 +598,7 @@ extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max
 					orcptr + orcshstrtab_offset + orcSHT->sh_name, (unsigned int) (orcSHT->sh_size / orcSHT->sh_entsize));
 
 				for(entry = 0; entry < orcSHT->sh_size / orcSHT->sh_entsize; entry++, elfDYN++, orcDYN++){
-					fuzz_dyn();
+					// fuzz_dyn();
 
 					fuzzed_flag = 1;
 
@@ -618,7 +635,7 @@ extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max
 				elfNOTE = (Elf_Nhdr *) (elfptr + orcSHT->sh_offset);
 				orcNOTE = (Elf_Nhdr *) (orcptr + orcSHT->sh_offset);
 
-				fuzz_note();
+				// fuzz_note();
 
 				fuzzed_flag = 1;
 			}
@@ -655,7 +672,7 @@ extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max
 
 				orcSTRS = (char *) (orcptr + orcSHT->sh_offset);
 
-				fuzz_strs();
+				// fuzz_strs();
 
 				fuzzed_flag = 1;
 			}
@@ -673,7 +690,7 @@ extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max
 			printf("\n[+] Fuzzing the Section Header Table with %d entries\n", orcHDR->e_shnum);
 			fprintf(logfp, "\n[+] Fuzzing the Section Header Table with %d entries\n", orcHDR->e_shnum);
 
-			fuzz_sht();
+			// fuzz_sht();
 		}
 
 		if(mode & PHT){
@@ -683,14 +700,14 @@ extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max
 			printf("\n[+] Fuzzing the Program Header Table with %d entries\n", orcHDR->e_phnum);
 			fprintf(logfp, "\n[+] Fuzzing the Program Header Table with %d entries\n", orcHDR->e_phnum);
 
-			fuzz_pht();
+			// fuzz_pht();
 		}
 
 		if(mode & HDR){
 			printf("\n[+] Fuzzing the Elf Header\n");
 			fprintf(logfp, "\n[+] Fuzzing the Elf Header\n");
 
-			fuzz_hdr();
+			// fuzz_hdr();
 		}
 
 		// Reflect the changes in filesystem
