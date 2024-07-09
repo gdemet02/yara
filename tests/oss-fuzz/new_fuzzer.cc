@@ -29,20 +29,41 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #include <stddef.h>
 #include <stdint.h>
-#include <string.h>
-#include <stdio.h>
-#include <stdlib.h>
 #include <yara.h>
+
+
+YR_RULES* rules = NULL;
 
 
 extern "C" int LLVMFuzzerInitialize(int* argc, char*** argv)
 {
-  yr_initialize();
+  YR_COMPILER* compiler;
+
+  if (yr_initialize() != ERROR_SUCCESS)
+    return 0;
+
+  if (yr_compiler_create(&compiler) != ERROR_SUCCESS)
+    return 0;
+  
+  if (yr_compiler_add_string(compiler, "import \"elf\"", NULL) == 0)
+    yr_compiler_get_rules(compiler, &rules);
+
+  yr_compiler_destroy(compiler);
+
   return 0;
 }
 
 
-extern "C" int LLVMFuzzerTestOneInput(const uint8_t* data, size_t size)
+int callback(
+    YR_SCAN_CONTEXT* context,
+    int message,
+    void* message_data,
+    void* user_data)
+{
+  return CALLBACK_CONTINUE;
+}
+
+extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max_size, unsigned int seed)
 {
   YR_RULES* rules;
   YR_COMPILER* compiler;
@@ -89,6 +110,16 @@ extern "C" int LLVMFuzzerTestOneInput(const uint8_t* data, size_t size)
   fclose(log_file);
   yr_compiler_destroy(compiler);
   free(buffer);
+
+  return 0;
+}
+extern "C" int LLVMFuzzerTestOneInput(const uint8_t* data, size_t size)
+{
+  if (rules == NULL)
+    return 0;
+
+  yr_rules_scan_mem(
+      rules, data, size, SCAN_FLAGS_NO_TRYCATCH, callback, NULL, 0);
 
   return 0;
 }
