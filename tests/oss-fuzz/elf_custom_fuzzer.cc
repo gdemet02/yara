@@ -176,11 +176,11 @@ extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max
 		if(errno == EEXIST)
 			printf("[!] Dir '%s' already exists. Files inside will be overwritten !\n", dirname);
 
-    printf("%s", elf_ascii[0]);
-	// printf(elf_ascii[1], argv[optind]);
-	printf("%s", elf_ascii[2]);
-	printf(elf_ascii[3], n);
-	printf("%s", elf_ascii[4]);
+    // printf("%s", elf_ascii[0]);
+	// // printf(elf_ascii[1], argv[optind]);
+	// printf("%s", elf_ascii[2]);
+	// printf(elf_ascii[3], n);
+	// printf("%s", elf_ascii[4]);
 
 	if(mode & AUTO){
 		printf("[+] Automatic mode\n");
