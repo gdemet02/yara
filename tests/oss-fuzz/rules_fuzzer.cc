@@ -75,7 +75,7 @@ extern "C" int LLVMFuzzerTestOneInput(const uint8_t* data, size_t size)
     {
       fprintf(log_file, "Rules fuzzed successfully.\n");
       yr_rules_destroy(rules);
-      printf(""Rules fuzzed successfully.\n");
+      printf("Rules fuzzed successfully.\n");
     }
     else
     {
