@@ -103,56 +103,56 @@ int callback(
   return CALLBACK_CONTINUE;
 }
 
-extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max_size, unsigned int seed)
-{
-  YR_RULES* rules;
-  YR_COMPILER* compiler;
+// extern "C" size_t LLVMFuzzerCustomMutator(uint8_t *data, size_t size, size_t max_size, unsigned int seed)
+// {
+//   YR_RULES* rules;
+//   YR_COMPILER* compiler;
 
-  char* buffer = (char*) malloc(size + 1);
+//   char* buffer = (char*) malloc(size + 1);
 
-  if (!buffer)
-    return 0;
+//   if (!buffer)
+//     return 0;
 
-  strncpy(buffer, (const char*) data, size);
-  buffer[size] = 0;
+//   strncpy(buffer, (const char*) data, size);
+//   buffer[size] = 0;
 
-  if (yr_compiler_create(&compiler) != ERROR_SUCCESS)
-  {
-    free(buffer);
-    return 0;
-  }
+//   if (yr_compiler_create(&compiler) != ERROR_SUCCESS)
+//   {
+//     free(buffer);
+//     return 0;
+//   }
 
-  FILE* log_file = fopen("fuzz_log.txt", "a");
-  if (log_file == NULL)
-  {
-    yr_compiler_destroy(compiler);
-    free(buffer);
-    return 0;
-  }
+//   FILE* log_file = fopen("fuzz_log.txt", "a");
+//   if (log_file == NULL)
+//   {
+//     yr_compiler_destroy(compiler);
+//     free(buffer);
+//     return 0;
+//   }
 
-  if (yr_compiler_add_string(compiler, (const char*) buffer, NULL) == 0)
-  {
-    if (yr_compiler_get_rules(compiler, &rules) == ERROR_SUCCESS)
-    {
-      fprintf(log_file, "Rules fuzzed successfully.\n");
-      yr_rules_destroy(rules);
-    }
-    else
-    {
-      fprintf(log_file, "Failed to get rules.\n");
-    }
-  }
-  else
-  {
-    fprintf(log_file, "Failed to add string to compiler.\n");
-  }
+//   if (yr_compiler_add_string(compiler, (const char*) buffer, NULL) == 0)
+//   {
+//     if (yr_compiler_get_rules(compiler, &rules) == ERROR_SUCCESS)
+//     {
+//       fprintf(log_file, "Rules fuzzed successfully.\n");
+//       yr_rules_destroy(rules);
+//     }
+//     else
+//     {
+//       fprintf(log_file, "Failed to get rules.\n");
+//     }
+//   }
+//   else
+//   {
+//     fprintf(log_file, "Failed to add string to compiler.\n");
+//   }
   
-  fclose(log_file);
-  yr_compiler_destroy(compiler);
-  free(buffer);
+//   fclose(log_file);
+//   yr_compiler_destroy(compiler);
+//   free(buffer);
 
-  return 0;
-}
+//   return 0;
+// }
 extern "C" int LLVMFuzzerTestOneInput(const uint8_t* data, size_t size)
 {
   if (rules == NULL)
