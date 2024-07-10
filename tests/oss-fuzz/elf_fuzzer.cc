@@ -30,7 +30,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <stddef.h>
 #include <stdint.h>
 #include <yara.h>
-
+#include <dirent.h>
 
 YR_RULES* rules = NULL;
 
