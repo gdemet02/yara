@@ -1,0 +1,1 @@
+import "elf","pe","dex" rule otOy7NJy4YA { condition : elf.segments.alignment ( pe.import_details.functions.name ) & ( - 12.777923770609412 | pe.checksum ) = pe.signatures.issuer ( dex.field_ids.class_idx ) } 

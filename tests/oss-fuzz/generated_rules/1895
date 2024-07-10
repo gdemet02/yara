@@ -1,0 +1,1 @@
+import "elf" rule fgxbxvVe720 { condition : elf.SHT_REL matches /[?/ } 

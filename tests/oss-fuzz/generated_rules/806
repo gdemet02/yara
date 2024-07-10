@@ -1,0 +1,1 @@
+rule Al924CZ7tr9 { strings : $fY5BSTctxoXDHDIR4aEri = <built-in function hex> $rrWPEjvKC6EqDybrlphSZ = /\?/ ascii nocase fullword fullword $FFEdjbUPTqRd6dGrWO5fX = "N3VHRWr1QmBGmcdcoav0d" base64wide ( "z24y4VRiAtUmRDOYHwd5b" ) condition : all of ( $FFEdjbUPTqRd6dGrWO5fX ) } 

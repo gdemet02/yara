@@ -1,0 +1,1 @@
+rule mF98o3WIiQy { strings : $nPWhuXWXcf7cEP9UOFhbE = "JFSgqXu0uMYMKcEUmfXqt" base64wide condition : $nPWhuXWXcf7cEP9UOFhbE } 

@@ -1,0 +1,1 @@
+rule N179lfu8rME { strings : $mvyA8lC8MznFcxDkALTH0 = /^/ $FKffPTfcklj8ub73VviyD = "FhCOC2QyL7JUvSkOk5R0n" xor ( 63 - 86 ) condition : 41.260364682050856 } 

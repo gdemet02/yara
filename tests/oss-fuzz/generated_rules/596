@@ -1,0 +1,1 @@
+import "dex" rule FqVDc0iPiPW { strings : $ZkDLXW4Jq9NzsX7LvCT2k = "Qn2vXurlvKA0pUvFwhyAE" base64 condition : dex.field.proto % of ( $ZkDLXW4Jq9NzsX7LvCT2k , $ZkDLXW4Jq9NzsX7LvCT2k ) } 

@@ -1,0 +1,1 @@
+import "dex","pe" rule Ska8YMsB6DH { strings : $lhKT1bCyXn0pQo49aD8RD = "ppjOnAvKUFyStXxkRybqs" xor ( 43 ) $H6rqurU0VaSn6pjWvtRJK = /[||^||\W?||||\s[.[/ condition : /\s\[\w+?\?\w*^/ iequals dex.field.proto | pe.MACHINE_TARGET_HOST } 

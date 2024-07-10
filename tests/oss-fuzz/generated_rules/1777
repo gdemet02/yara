@@ -1,0 +1,1 @@
+import "elf" rule TjRXcqUT2gh { strings : $DqfsXABX1wz1otTKUx3D6 = "mHScqKWjMnacSdMNs6ZIw" wide condition : elf.EM_SPARC % of ( $DqfsXABX1wz1otTKUx3D6 * , $DqfsXABX1wz1otTKUx3D6 * ) } 

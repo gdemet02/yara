@@ -1,0 +1,1 @@
+rule LUqt72htVGN { strings : $BmFJwcDPuVUsVcuKMeGc8 = /[*\W+\B\w+?||\s+|[+|\+?/ condition : for any } 

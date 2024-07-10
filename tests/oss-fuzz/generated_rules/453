@@ -1,0 +1,1 @@
+import "pe" rule boiWcfneUIH { condition : ( pe.signatures.countersignatures.chain.subject ) | ~ pe.delayed_import_details.functions.name ^ /\W*?\W[\\D[?||60??\B^||/ & /(\W?)??(\S+(\B|\S?||[+((\s+?|\*?|\w[\B42+?||)??(22[?26*?.+?\B\B\D?))+|)[)[?/ * GJVRwKjXETfeXZJdGtNnk [ /\B|||\w??\s|\S??/ ] } 

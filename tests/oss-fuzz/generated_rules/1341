@@ -1,0 +1,1 @@
+import "pe" rule DmefV6D7SjB { condition : pe.MACHINE_SH3 of them } 

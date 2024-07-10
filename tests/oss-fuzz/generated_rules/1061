@@ -1,0 +1,1 @@
+rule xn4GZsmRThz { condition : /|\W[/ % of them } 

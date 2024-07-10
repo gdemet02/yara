@@ -1,0 +1,1 @@
+rule khD2IkHgtvP { strings : $HfHxl8qTmk8dMB8oZYsWN = <built-in function hex> $ndt8XPq7MnrC0Su8c3RK9 = /^.*/ condition : 38.011395675612306 % of ( $HfHxl8qTmk8dMB8oZYsWN ) } 

@@ -1,0 +1,1 @@
+rule kpchUveHRpn { strings : $jVkvO1ESi3RU2JcEr5j2v = "P1YcXuG4J2WALOZphGZ1m" fullword condition : /(^)??|/ matches /\??||\??^|(.[?|[+\W?\w?)+?/ } 

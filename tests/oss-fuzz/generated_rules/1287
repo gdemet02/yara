@@ -1,0 +1,1 @@
+import "pe" rule Y0rdh9OJ9f1 { condition : all of them at pe.sections.virtual_address & /\+/ + pe.signatures.serial + ( ~ - "elf.telfhash" ( ) ^ - pe.SECTION_MEM_FARDATA ^ /86*?\W[^(\??)+/ ) - "pe.imports" ( /\D+|||||/ /\B/ ) } 

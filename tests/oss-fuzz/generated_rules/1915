@@ -1,0 +1,1 @@
+rule Cuz3UnDozvZ { strings : $gQTLPs5y7QcfQKFmSaQi8 = /[*?|64+/ fullword nocase condition : false } 

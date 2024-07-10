@@ -1,0 +1,1 @@
+rule ZCL2Uw2xELC { strings : $Dmm9IU1z9TCLH79kLNhzJ = /[*?|||/ nocase wide $RNSlQjuKzpr7pSR8Ukdg0 = /83*?\W*?/ ascii fullword condition : true } 

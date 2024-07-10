@@ -1,0 +1,1 @@
+import "dex","pe" rule mFadar6EYTn { condition : defined dex.method.code_item.insns icontains pe.signatures.countersignatures.chain.not_after } 

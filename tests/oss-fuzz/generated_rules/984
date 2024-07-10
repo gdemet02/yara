@@ -1,0 +1,1 @@
+rule K0QikQ7mXfx { strings : $nEc8aVGMTydGkHvRIuJkI = "e5b61Y2yXSxmqV3irTVTx" xor ( 84 - 19 ) base64wide base64wide nocase condition : ~ /\D[/ endswith 75.04241722518141 } 

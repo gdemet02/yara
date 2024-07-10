@@ -1,0 +1,1 @@
+rule sQGuFQzUZKn { condition : 24.653868129041722 startswith ~ ~ /\W[?|||||.*(\B|)?\D|[??|^.+/ } 

@@ -1,0 +1,1 @@
+import "pe","elf" rule Vgf8ePMe91S { condition : 33.98667511215405 % pe.signatures.countersignatures.chain.thumbprint contains elf.SHT_SYMTAB } 

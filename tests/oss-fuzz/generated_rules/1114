@@ -1,0 +1,1 @@
+rule QDbiT7UZMv7 { strings : $lsHRNq12yoeQNzTl9k4Wn = <built-in function hex> condition : ~ 49.040400583906504 iequals 9.472065585917889 } 

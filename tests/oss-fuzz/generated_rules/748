@@ -1,0 +1,1 @@
+rule BS3hBGzjIfk { strings : $Rn5MzydB5rRD9Io6pGrRY = <built-in function hex> condition : all of ( $Rn5MzydB5rRD9Io6pGrRY ) } 

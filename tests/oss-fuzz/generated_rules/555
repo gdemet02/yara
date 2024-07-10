@@ -1,0 +1,1 @@
+rule pjzyYZppPP9 { strings : $aQ08w6IxBgFicK1xmweBZ = /\W??.+?\B\W*|/ $UfVeGIxWgLkR1iqYOr4EL = /(\S*\S+?||[)|.*?|\s*?|17[*[*?[+?|||\|\S?\w*/ $R6Oe5LLLT9owezSKUZ8sn = "HDIuUX9gk7amT4FDlf6Jz" nocase $fpjkZ5UYSiiWxVbI8mfPY = <built-in function hex> $REagwQTU4aG3GzHSYIEB1 = "YyT6W4VZ3ilevTY198bU1" xor ( 56 - 79 ) condition : ( none of ( $R6Oe5LLLT9owezSKUZ8sn ) ) } 

@@ -1,0 +1,1 @@
+rule cbrWz0srmlg { strings : $FMhLzZ6iJUteRdGL5qTL4 = "zIFk47y4wruhO7MRXgBa8" condition : 40.33347145218116 } 

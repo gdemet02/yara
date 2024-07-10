@@ -1,0 +1,1 @@
+import "pe" rule YUneptBLs3o { condition : /5??/ & 35.20615315469329 | 6.75849577788944 pe.signatures.signer_info.chain.algorithm & pe.MACHINE_CEE matches /\s[\W||.??^|67*/ } 

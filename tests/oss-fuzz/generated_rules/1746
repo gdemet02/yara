@@ -1,0 +1,1 @@
+import "pe" rule DsqOsRbkIaM { strings : $MwnTWyc00hXdWiUQ8w3Fv = "kIbgay3BQmSuxrzuu3Iet" ascii fullword condition : ( ~ - /^\B/ /.[?|/ \ pe.signatures.number_of_countersignatures /\W+?/ % ( pe.signatures.signer_info.digest_alg ) ) % of ( $MwnTWyc00hXdWiUQ8w3Fv , $MwnTWyc00hXdWiUQ8w3Fv ) } 

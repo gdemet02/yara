@@ -1,0 +1,1 @@
+rule IDqh703PDJx { strings : $HSaheYyaO78TPNfhLXh7w = <built-in function hex> $wR1Iu3TeZhFn39kKAagW6 = /\??\W[?/ ascii condition : not true } 

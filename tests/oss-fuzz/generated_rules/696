@@ -1,0 +1,1 @@
+import "pe","elf" rule pQKIEtEbnpl { condition : 75.82199805212994 - - /\B.*?/ * /\D+?\S*||/ contains pe.signatures.signer_info.digest_alg & ( 57.63986458985876 \ pe.IMAGE_DIRECTORY_ENTRY_LOAD_CONFIG /13||\S[||/ ) & - "pe.is_64bit" ( ) elf.DT_JMPREL } 

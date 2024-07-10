@@ -1,0 +1,1 @@
+import "elf","pe" rule nuVKS12z7XG { condition : ~ elf.symtab.type % pe.timestamp * 5.616143965455766 ^ elf.PT_SHLIB } 

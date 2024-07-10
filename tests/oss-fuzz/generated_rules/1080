@@ -1,0 +1,1 @@
+rule BxOtXJ1pcSl { strings : $nGwMoJomoB9dzcpJhbUxY = /|\S+(\B^\W[||^||[[?.[?[+\W*)*?||(\s+?|\S+\W+?||)*\s*\s*|||\B(\s*[|||)[?|\*|^\w||/ condition : $nGwMoJomoB9dzcpJhbUxY } 

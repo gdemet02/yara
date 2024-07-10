@@ -1,0 +1,1 @@
+rule cOpZzzu3S92 { strings : $uK7DexxDqQXv45qveTxCW = <built-in function hex> $Cdyu3QlQ5RfyX1HU0i0n2 = /||/ nocase $IoOrxTH3k7XI5XIh4maCM = /\D[?(37*?.+?\S+?\B||\W|||\w)[?/ condition : true } 

@@ -1,0 +1,1 @@
+rule iZmzuFWvIuM { strings : $iye0RXRbccGc04d8YXL3N = /[+/ fullword $VzgPjng1RcS9R3K8krvWD = <built-in function hex> condition : /\W?/ of them } 

@@ -1,0 +1,1 @@
+import "pe","dex" rule Wz1bG94Q0Y3 { condition : pe.os_version.minor & /\B\*?.?||[+\??^\^\s+|\W+|||.[\W.*|||\D??[[?/ = "dex.has_method" ( dex.DEX_FILE_MAGIC_036 ) } 

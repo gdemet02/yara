@@ -1,0 +1,1 @@
+import "elf" rule LEUcXy5movY { condition : defined elf.STT_TLS matches /\+\+?/ } 

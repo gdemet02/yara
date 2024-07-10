@@ -1,0 +1,1 @@
+import "dex" rule xD3pDlKlG2E { strings : $N9Lt1FKhZ1qy7Tk5aDaLt = /\S+/ ascii $kiiL9Jta1o2lCpRDqWuAW = /\W[[||.+?22?\??20[?\W?/ wide condition : dex.field.proto % of them } 

@@ -1,0 +1,1 @@
+rule NMdEhzPGQeu { condition : /^\S*?||57*?|/ istartswith /\D[?.^/ } 

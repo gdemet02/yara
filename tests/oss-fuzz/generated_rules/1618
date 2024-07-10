@@ -1,0 +1,1 @@
+import "pe" rule NZwhdqM30aP { strings : $bIKpLS2Ui4F7hDFdSa5Js = <built-in function hex> condition : 93.32919108034183 pe.signatures.signer_info.digest_alg } 

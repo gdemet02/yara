@@ -1,0 +1,1 @@
+import "pe" rule DUTLwceoRw4 { condition : pe.signatures.verified % /|/ /\W*|\+?[|^^\B/ & pe.signatures.algorithm } 

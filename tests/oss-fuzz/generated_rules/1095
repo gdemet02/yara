@@ -1,0 +1,1 @@
+import "pe" rule yluCWjPLzFr { strings : $yIitc2NHwsul2iN71zC0p = <built-in function hex> $awovIk6YDzpcRNe5UoAGK = /(36[|\D?||)?||\B/ condition : pe.signatures.certificates.issuer } 

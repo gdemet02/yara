@@ -1,0 +1,1 @@
+rule tZHlmj9mH7R { strings : $VcTHZeIuAhadGkEoj0BGB = "GZ2KhdMMLSOjOsclDfHUj" xor ( 50 ) base64 ( "dGho7BSmDFHfEDW7TxDw3" ) $AGIt1A3CEcAXvUT2IP6Fe = /||/ ascii $IYTOlnpTrgFQvPUmngvxu = <built-in function hex> condition : none of ( $IYTOlnpTrgFQvPUmngvxu * , $VcTHZeIuAhadGkEoj0BGB * ) } 

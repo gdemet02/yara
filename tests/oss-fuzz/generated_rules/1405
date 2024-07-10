@@ -1,0 +1,1 @@
+import "pe","elf" rule F7Y1YmIMpRA { strings : $fILIZca2vWXYpwOL4IB8E = "wggt2NDKvO7VvOtPFf85d" base64wide $E6yTELnK6Rpguhaa7jz4d = /\W?|\B\[\S+|\w+?.[\s+/ $ISagyD504ZIBiQVoV7qBy = /\+3??^|\W|/ condition : pe.os_version.major = elf.STT_FUNC } 

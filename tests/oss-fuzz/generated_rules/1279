@@ -1,0 +1,1 @@
+rule mTQSk2hhH6U { strings : $yXKo2QS3n1avX3LzKVDHF = "a9LQfYu0HP2YDqEvr7ltG" condition : not false } 

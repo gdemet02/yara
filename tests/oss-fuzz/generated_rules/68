@@ -1,0 +1,1 @@
+import "dex","pe" rule RoUkbHTrtYS { strings : $gbzsyPSRS5kongnyhEcHZ = <built-in function hex> condition : dex.TYPE_DEBUG_INFO_ITEM endswith pe.MACHINE_SH5 } 

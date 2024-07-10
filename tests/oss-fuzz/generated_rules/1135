@@ -1,0 +1,1 @@
+import "pe" rule Ta8gUcsFQ5l { condition : ~ pe.signatures.certificates.issuer - 6.743171046422292 /^/ + 86.49314287286558 } 

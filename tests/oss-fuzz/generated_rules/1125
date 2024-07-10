@@ -1,0 +1,1 @@
+import "dex" rule WJ51CM2jjlw { strings : $ShRHgCDXXi3Qj8Q86pNqg = /\W*\w+|\W+?/ wide ascii wide $mfDOfQd4pIrl8ByBFq30x = "utJzVcpxwMLRlCIq7MUsb" nocase $ohTL7IzMUJuKleAil3V9A = "IpjDTeXQorOrNRsPRwhpf" condition : dex.field_ids.type_idx } 

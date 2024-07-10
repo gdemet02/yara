@@ -1,0 +1,1 @@
+rule pLJetWurcic { strings : $Q7ZKmlBluYPPpkASe78sa = "n64wXA718l9iRCbK9f6uz" $pKHcdRCkHlexFGXrBjc7w = <built-in function hex> $b6uWErEiiUeJ35kiZhZPD = "ELFlFSTXAGOxrnowcHEHx" condition : any of ( $pKHcdRCkHlexFGXrBjc7w ) } 

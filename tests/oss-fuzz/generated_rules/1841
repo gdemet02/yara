@@ -1,0 +1,1 @@
+import "pe","dex" rule bet5QtLGyp1 { strings : $UU9vbfYykVWxz8DWMqAJf = "nNgVmPiR33tZwbhWokOuE" base64wide ( "bYKPJynQXHogxzjwvlmbQ" ) wide condition : defined ( pe.rich_signature.version_data % pe.signatures.certificates.thumbprint + pe.signatures.signer_info.chain.thumbprint iequals dex.DEX_FILE_MAGIC_037 ) } 

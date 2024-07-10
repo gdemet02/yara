@@ -1,0 +1,1 @@
+import "pe" rule hnaLAQ2k2Ny { strings : $IIh4YmbGJpG5mzDqMU40X = "zegsnApSDc89WEN4ZzysU" condition : /\*?\W\*?||87*|||/ == - ( 23.13783083474663 + pe.signatures.signer_info.chain.thumbprint ) } 

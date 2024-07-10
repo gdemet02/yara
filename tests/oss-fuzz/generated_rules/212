@@ -1,0 +1,1 @@
+import "pe" rule XZzyF83Y043 { condition : pe.MACHINE_AMD64 } 

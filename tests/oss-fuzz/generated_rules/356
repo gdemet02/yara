@@ -1,0 +1,1 @@
+import "dex" rule BBhlAkgynFT { condition : dex.ACC_PUBLIC iequals 41.62398883218235 } 

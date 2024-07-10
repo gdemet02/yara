@@ -1,0 +1,1 @@
+rule VXSaRjG34yk { strings : $o7Fkg5WeE0N8TlN9dDpMX = "oBCAhhCksHBvHLGm8D776" nocase fullword condition : ( for all ) } 

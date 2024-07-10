@@ -1,0 +1,1 @@
+import "elf" rule ul12bGRm2Fw { strings : $wr1HRKLGRCIlyu42mXcO4 = <built-in function hex> condition : elf.entry_point matches // } 

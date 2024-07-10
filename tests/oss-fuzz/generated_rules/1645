@@ -1,0 +1,1 @@
+import "elf","pe" rule mEG4kp2Ysk4 { strings : $fnBPF3DcPsTNwO6phjwW7 = /[??|||\S+?\D*?\s*|\s*\B/ condition : elf.SHT_NULL != pe.resource_timestamp } 

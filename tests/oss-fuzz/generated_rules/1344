@@ -1,0 +1,1 @@
+rule zi8c9pWuY3O { condition : /\S\W[?|/ /\B\w||\B\[?\w[?|||||\B\W+()[?|98+/ } 

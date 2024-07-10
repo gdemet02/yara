@@ -1,0 +1,1 @@
+rule Hg6dmD05L2J { strings : $sAPktt57BMzUcZCWQX6jn = "ZNvOuEFrx1Va24nZ1lqNt" condition : /.+/ % of ( $sAPktt57BMzUcZCWQX6jn , $sAPktt57BMzUcZCWQX6jn ) } 

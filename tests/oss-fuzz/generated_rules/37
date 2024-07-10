@@ -1,0 +1,1 @@
+rule OGTEJB4yWqP { strings : $bEoVyM9AEBL4xjnyQQ4yk = /(\D+?(\s[)[\s*\B\D?||\w?\S?|||[[)/ condition : true } 

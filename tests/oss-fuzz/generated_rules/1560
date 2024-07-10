@@ -1,0 +1,1 @@
+import "dex" rule R3jETquHOvq { strings : $uFOcQ3ttsj7k2pibwreUs = "HDZqrNicrDOafrBdIrkzm" $niBARSipfvl03z4vIIYOK = /^||\S?|||||[||51?/ wide fullword fullword fullword condition : /\S*?||\S[?/ iequals dex.field.proto } 

@@ -1,0 +1,1 @@
+rule Md6ZS6ObKv3 { strings : $xXqHjMbMYLalLAawaaeff = "E6TFbxTJDCKHsb8YyaYxr" wide ascii condition : $xXqHjMbMYLalLAawaaeff } 

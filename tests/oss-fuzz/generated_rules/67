@@ -1,0 +1,1 @@
+import "dex","pe" rule JbRNyCeqszE { condition : dex.method.class_name endswith pe.os_version.major } 

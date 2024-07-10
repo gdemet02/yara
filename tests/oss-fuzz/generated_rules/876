@@ -1,0 +1,1 @@
+rule kcZLZsKHBbo { strings : $FUYT5E0ZtRi9gTK1d8vBT = <built-in function hex> $j6SEYdiFIbV90j6oW1SF2 = /|||/ fullword condition : any of them } 

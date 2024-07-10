@@ -1,0 +1,1 @@
+rule NI0rzV7sJVs { strings : $btCGndsMJSb6ohPD0zJxO = /\w[?||\+?\[\D[|||/ condition : any of them } 

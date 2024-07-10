@@ -1,0 +1,1 @@
+import "dex","pe" rule CVBP4ysHHXw { strings : $yJ9tlL0pV9KLvZtQ90yDf = "oGMCBird5NnNrOGVGNxX8" $aCmaLXEKOOyG3Wbgu5csT = /([+)\B\[\S+?\+((|[[?[)\D*|||)??/ $mFaRcNgnGnhnhlPlbi092 = <built-in function hex> condition : not dex.field.class_name ^ 38.15505048274069 + pe.export_details.forward_name istartswith ( ( - /.*/ ^ ~ ( - pe.RESOURCE_TYPE_DLGINCLUDE ) % 74.45941473734177 ) ) } 

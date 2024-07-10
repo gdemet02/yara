@@ -1,0 +1,1 @@
+rule pvK8XxBCUZU { strings : $gBFGZnCEXocjT1XI3xEUL = <built-in function hex> $cxwy6frNDpPEokpPPmIVi = "mnsLXF3d3CHLmdJ6ISWDo" fullword xor ( 38 - 79 ) xor ( 74 ) $t9N7em8DcE5P2bIJHYCxa = "xQgvZTgOxZ5yqO2bKsq7I" base64wide ascii xor condition : false } 

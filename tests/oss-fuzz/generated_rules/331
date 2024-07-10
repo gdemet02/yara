@@ -1,0 +1,1 @@
+rule mh0KezPKoOP { strings : $X9nLpSyGFhJz3kO27LBnP = "ZxBlj8bzTvH8zU88FPtH9" xor ( 82 ) condition : true } 

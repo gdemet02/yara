@@ -1,0 +1,1 @@
+rule Ft7Wz8x2wob { strings : $a8mirGne4My0dc4kayJWE = "ABqKjmNywuHMayZJuTUE8" condition : all of them } 

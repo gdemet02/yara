@@ -1,0 +1,1 @@
+import "pe" rule IC810A5XsD4 { strings : $fnHAanPezMggStSxgdNOI = <built-in function hex> condition : pe.linker_version.minor % of ( $fnHAanPezMggStSxgdNOI , $fnHAanPezMggStSxgdNOI ) } 

@@ -1,0 +1,1 @@
+import "pe","elf" rule lkkuHy9EZCC { condition : pe.rich_signature.clear_data == elf.DT_FLAGS } 

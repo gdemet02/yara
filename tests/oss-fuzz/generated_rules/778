@@ -1,0 +1,1 @@
+import "dex" rule k8J9a4ZvIuA { strings : $XXyLYmqzm7CELfq12Vp2z = <built-in function hex> $WEUAWr2SCAswWXnDXzWIQ = // condition : dex.method.code_item.insns = /|\S+?/ % ( ( "pe.imphash" ( ) ) ) } 

@@ -1,0 +1,1 @@
+import "pe" rule H5MfQvseMVR { strings : $mV59EhaE2TXqI4IRwebgl = /\S[?29?\B/ $CdvnBGvMcuK6VFlrEl3gT = <built-in function hex> $zDA0pHgbxvBrPMkhuP0Rd = <built-in function hex> $jT3w7NLw1SX43OtExmxHd = <built-in function hex> $HEhv2bMDaZ3RrX8XJ2fla = <built-in function hex> condition : ~ pe.signatures.certificates.serial matches /[[?||\S?|/ } 

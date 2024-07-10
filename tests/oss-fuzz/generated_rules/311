@@ -1,0 +1,1 @@
+import "pe","elf","dex" rule zeq7M7op3Cw { condition : ~ ( pe.signatures.countersignatures.chain.subject ^ "elf.telfhash" ( ) ) % pe.SECTION_ALIGN_32BYTES == "elf.telfhash" ( ) % 40.68226636533737 & 55.85966903909674 + ~ ~ "pe.imports" ( elf.DT_STRTAB /\S[?\??\D+\*?\D[.[\W??|/ /\*?\??/ ) % dex.header.magic } 

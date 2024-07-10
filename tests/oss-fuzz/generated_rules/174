@@ -1,0 +1,1 @@
+rule WG20sJwt5wg { strings : $hw3BXnVtx1DJrhD2D2Epo = "hC4y9dnG8jeGOft7GE2xr" condition : false } 

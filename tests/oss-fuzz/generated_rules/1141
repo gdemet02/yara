@@ -1,0 +1,1 @@
+rule oUiXWHJs8ex { strings : $ve3NHw8fPFInVUiOovqKK = /^|\D\s+?\W+?\s??\W*?\s/ ascii condition : true } 

@@ -1,0 +1,1 @@
+rule LIOt01Edx1S { strings : $f13Lh4VivULdvRQBSrqyt = "nbwtgQTc8XawNV8uEQsye" fullword $XftECLXUbxGSNE14aWEJN = /75??|/ fullword $eVzA53cTyYrOUZRcDbq7k = <built-in function hex> $ZfPdwjzaCj0bLhwHDVNQF = <built-in function hex> condition : /^\S[\B||\s[\s?||/ } 

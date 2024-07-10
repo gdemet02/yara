@@ -1,0 +1,1 @@
+rule U269OpPI2L3 { strings : $Q7g1Bm6JhQXhNNOUWGtgs = /^/ $aB0CuHhw3jj9G9aAhmtKX = /^/ condition : false } 

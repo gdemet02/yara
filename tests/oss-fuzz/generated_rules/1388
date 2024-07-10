@@ -1,0 +1,1 @@
+import "pe","elf" rule yFwmptwdaq6 { condition : pe.MACHINE_ARM64 pe.export_details.name ^ elf.SHT_NULL == /\w+?()+?|\B/ } 

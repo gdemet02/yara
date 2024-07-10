@@ -1,0 +1,1 @@
+rule cC1138gLxWe { strings : $CZc4AzSAhfxhPsbCuR3Ek = "pOgTg1lOI1FoxJLzfC7Cr" xor ( 51 - 44 ) xor condition : true } 

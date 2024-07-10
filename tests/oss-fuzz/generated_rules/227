@@ -1,0 +1,1 @@
+import "dex" rule iKp7Edrov17 { strings : $U5egHzUSEAPHAXbZSib3G = <built-in function hex> condition : ( dex.field.name ) % of them } 

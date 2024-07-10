@@ -1,0 +1,1 @@
+import "elf" rule dYCXnxs40Ah { condition : elf.PT_GNU_STACK = /^\W+?(74+.|53??)??\B20*/ } 

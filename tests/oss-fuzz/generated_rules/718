@@ -1,0 +1,1 @@
+import "pe","dex" rule fS7OPiW5fie { condition : 30.49883934406097 = pe.signatures.signer_info.digest_alg & dex.class_defs.interfaces_offset } 

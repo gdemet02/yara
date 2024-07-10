@@ -1,0 +1,1 @@
+rule dWcn9zdBvIC { strings : $V9oMT1TuFvkNxranjCsTH = "c27eqVSBujh7H9PorUMIa" $vkaGAF0iPIMzVxOBMmnvq = /\S?/ condition : for any } 

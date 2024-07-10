@@ -1,0 +1,1 @@
+rule LhH2YHBjeaB { strings : $F03QPVA0vgYCCsS4csArY = <built-in function hex> $R3h7pCzVsr3yddmBQiuXj = /\w??\D*?|[*/ $YmmnCwxyRQyKQmWIeAVCx = /.|[+?\w*?|/ condition : for any } 

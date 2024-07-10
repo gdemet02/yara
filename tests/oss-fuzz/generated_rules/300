@@ -1,0 +1,1 @@
+import "pe" rule iqS64uApGXA { strings : $w5jCPrL3427aOXidunKQy = "vl4PQHT7XAKNf7I7cfwOY" base64wide base64 ( "rmupltfXkL5WKQg0Nn3HE" ) base64wide wide wide condition : pe.signatures.signer_info.chain.subject + - pe.signatures.countersignatures.chain.issuer \ ~ pe.resources.type_string of ( $w5jCPrL3427aOXidunKQy * , $w5jCPrL3427aOXidunKQy * ) } 

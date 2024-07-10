@@ -1,0 +1,1 @@
+rule x5XF0vOtckT { strings : $CGgvQSMCtSWHYFJGeUs3J = "igsWlC4JMW21F80LJpxEi" $AXT3jJ2mmvQsIpAOKnvXb = <built-in function hex> condition : false } 

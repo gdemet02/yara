@@ -1,0 +1,1 @@
+rule MjklLzddgqf { strings : $DL4WtfHW8IG9XOmpzSooL = "rtNwvyWZjdDlto4eortEy" condition : /\+^/ \ - 42.86410243393386 - ( 55.54846238980458 ) } 

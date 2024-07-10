@@ -1,0 +1,1 @@
+rule B7Syt6FJQ30 { strings : $TaUJM4W2e19IZOEp9dUeJ = <built-in function hex> condition : ( not false ) } 

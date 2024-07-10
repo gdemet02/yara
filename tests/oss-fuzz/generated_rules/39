@@ -1,0 +1,1 @@
+import "dex" rule fdLMPMURRo2 { strings : $FyyL9IGrsOoeGIPZRi4Oz = "x20BjcYWo7w5SU4B1wXjb" ascii base64wide $DGzK1m22MDvdImxjz6ghN = /\s*|\B/ nocase condition : dex.method.code_item.insns - dex.TYPE_CLASS_DEF_ITEM } 

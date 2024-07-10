@@ -1,0 +1,1 @@
+rule XWkV1f9ikbS { strings : $VGToriB2snxPWiY6yQ0Ih = /47*?/ ascii condition : none of ( $VGToriB2snxPWiY6yQ0Ih , $VGToriB2snxPWiY6yQ0Ih ) } 

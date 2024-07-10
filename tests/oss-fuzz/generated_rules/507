@@ -1,0 +1,1 @@
+import "dex","elf" rule dif01GSpIeN { condition : dex.header.proto_ids_size = ~ ~ elf.segments.virtual_address } 

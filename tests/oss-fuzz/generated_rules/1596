@@ -1,0 +1,1 @@
+import "elf","pe" rule JeHAszVLwpe { condition : not elf.EM_MIPS pe.signatures.thumbprint } 

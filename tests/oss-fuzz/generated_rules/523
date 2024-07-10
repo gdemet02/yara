@@ -1,0 +1,1 @@
+import "pe" rule mc7ZZH71o0e { strings : $QeZFKJZGewlVIaUKJEMSw = "TnzezQf86HJ2ZshOR6U7n" base64wide ( "tAIaAhtvRHFrPEkBFGuc8" ) $LZcc6ZiY8GPboQERHQBrT = <built-in function hex> condition : for pe.signatures.certificates.subject } 

@@ -1,0 +1,1 @@
+import "elf" rule fe0cwScOsD6 { strings : $laUiMelmxHjchiwb73yLF = "cOxmBF189sZ7zsAp37A7d" xor ( 18 - 38 ) $vrbcHNcUqfYDhqsAMadrH = "rbeepmxZjahLNG1CDN1Uq" base64wide ( "DMWZXdvpUzO57xRcWCzt9" ) condition : $vrbcHNcUqfYDhqsAMadrH in ( $vrbcHNcUqfYDhqsAMadrH . $vrbcHNcUqfYDhqsAMadrH ( true ) .. elf.segments.file_size ) } 

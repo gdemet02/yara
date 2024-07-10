@@ -1,0 +1,1 @@
+import "elf" rule lTMykG7utJO { strings : $hrAmWPh6ZZ2oYLwjQGI5i = /\W+(\[|\S?.??)+|\D[|||/ fullword wide wide ascii condition : "yg9j6D1OfgxjoXuvw5hfM" = elf.dynamic.val - 71.80039978716668 - /[[?\B||(\D*?)*?/ - - 85.53957470289303 * ~ ( /\s+|(\B|||)+\S*?||\s*/ ) ^ /\S*?52+?|/ } 

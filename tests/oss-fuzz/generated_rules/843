@@ -1,0 +1,1 @@
+import "pe" rule FQrkfHmPDst { condition : pe.NO_SEH matches /[+?\s[|||.+/ } 

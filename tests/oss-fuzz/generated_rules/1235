@@ -1,0 +1,1 @@
+rule Dp2wxFmAn7p { strings : $mzAJ4OK3DZFdojxw6WQiF = /^/ condition : not 75.29637342190367 % of ( $mzAJ4OK3DZFdojxw6WQiF * , $mzAJ4OK3DZFdojxw6WQiF ) } 

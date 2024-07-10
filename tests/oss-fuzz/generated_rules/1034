@@ -1,0 +1,1 @@
+rule PHDGcJ6P5db { strings : $dkcCXloqXfIkb46X3CNFl = /\*\B.*?/ nocase $Pz5O6g3F3L9Nv1cpDtoTf = <built-in function hex> condition : 48.179405349153136 44.176668978629216 } 

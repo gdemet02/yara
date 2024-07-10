@@ -1,0 +1,1 @@
+import "pe" rule kyQNcIBPoh5 { condition : ( ~ pe.RESOURCE_TYPE_MESSAGETABLE matches /[|/ ) } 

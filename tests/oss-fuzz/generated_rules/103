@@ -1,0 +1,1 @@
+import "elf" rule CFUTb2TDZMk { condition : elf.SHT_SHLIB iequals // } 

@@ -1,0 +1,1 @@
+rule Tji2NrllVNK { strings : $YNWIXPlO1xbjDjVQUGNCF = <built-in function hex> $wbjGFWxgU5PcBgokDA0Gp = /\s?.+/ condition : ( all of ( $YNWIXPlO1xbjDjVQUGNCF * , $wbjGFWxgU5PcBgokDA0Gp ) ) } 

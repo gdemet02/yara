@@ -1,0 +1,1 @@
+rule c6ADwNGRPcK { strings : $ZJbDlT0k8ujXfCJG8k8do = /|100[|\w+\B/ ascii condition : true } 

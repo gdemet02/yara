@@ -1,0 +1,1 @@
+import "dex" rule Ta4JdKm8HvH { strings : $xsE9rdPFGhxXL9QMk9cwT = /[*?/ nocase condition : dex.ACC_FINAL } 

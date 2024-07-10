@@ -1,0 +1,1 @@
+rule DUzCPkmInLY { strings : $zEONOoK2P5nqWNj68GZpz = "CdNBnhRIi6EQ3X9HKJmpu" condition : for all } 

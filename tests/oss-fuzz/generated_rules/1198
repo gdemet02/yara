@@ -1,0 +1,1 @@
+import "pe","dex" rule zb3xsk3TTB7 { condition : pe.signatures.countersignatures.digest icontains dex.class_defs.access_flags } 

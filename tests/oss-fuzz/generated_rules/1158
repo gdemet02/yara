@@ -1,0 +1,1 @@
+import "dex" rule p66GKlWpMgN { strings : $hmfZw6nC5jlMplA2xcUs6 = <built-in function hex> condition : ~ dex.header.field_ids_offset % of ( $hmfZw6nC5jlMplA2xcUs6 ) } 

@@ -1,0 +1,1 @@
+import "elf" rule mSYYZDt8m7a { condition : for elf.PT_NULL } 

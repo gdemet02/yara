@@ -1,0 +1,1 @@
+import "dex" rule gQlNAIegXyH { strings : $TbZoyRO5vyLYI3RsCutGo = <built-in function hex> $WAvD5Oh5XzsvEykMFCEtD = /\B\s*?|\D+?|\B/ condition : $WAvD5Oh5XzsvEykMFCEtD at dex.TYPE_HEADER_ITEM } 

@@ -1,0 +1,1 @@
+import "pe" rule Xhf0MUO8loI { strings : $gPZGsM6KlxcUdvrcIKzzt = /\s*|||/ nocase nocase condition : pe.resources.language_string matches /[.[?[+\S\w*?||/ } 

@@ -1,0 +1,1 @@
+import "pe" rule I1qdxQMDWEJ { condition : - pe.IMPORT_DELAYED % of them } 

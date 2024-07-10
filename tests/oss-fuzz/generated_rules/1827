@@ -1,0 +1,1 @@
+rule oh6bDOi7hta { strings : $HTfxR4R0Uq0UHcxVIwf6G = /86^\w[?(\D??|)+\w??|\B|.+?|\S[?\s+?/ condition : defined not for any } 

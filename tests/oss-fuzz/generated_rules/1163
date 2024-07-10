@@ -1,0 +1,1 @@
+rule nmz02DZnaHq { condition : /\D[\B\w\S?|83?\D|28[||/ * /^^(\w45?)*?|\s+|\B/ % of them } 

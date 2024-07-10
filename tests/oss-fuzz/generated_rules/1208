@@ -1,0 +1,1 @@
+import "pe" rule F1AtrmYqE8y { strings : $hTBiYSbq6a0pvNQnLVa2j = "ONbDVQ52LMmQVtcid9QjP" condition : pe.sections.name endswith ( ( pe.import_details.library_name ) ) } 

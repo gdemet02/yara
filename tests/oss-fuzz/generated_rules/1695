@@ -1,0 +1,1 @@
+import "pe" rule sqaKxzetdxD { strings : $TRKwHwL4Ye5nRDiaIkgbB = "W4PSkq1GVlNwuYrW51I8B" wide condition : - 40.63907586451182 pe.signatures.countersignatures.chain.thumbprint \ /\[?/ } 

@@ -1,0 +1,1 @@
+rule Rbhx7yW9eo3 { strings : $HAvs5tUsVIkmOEx3uVvDx = <built-in function hex> condition : 16.870835124120443 matches /.*?\W*?^||/ } 

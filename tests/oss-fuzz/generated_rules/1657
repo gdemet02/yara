@@ -1,0 +1,1 @@
+import "pe" rule Ir1pz6zDx2z { condition : pe.MACHINE_TARGET_HOST pe.resources.language_string iendswith /\s?|^^\w+?\B\w+^\?|\W??\B|||||/ } 

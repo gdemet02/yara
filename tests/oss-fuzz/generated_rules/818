@@ -1,0 +1,1 @@
+import "elf" rule GpoAXIos3uf { strings : $gnEQnik2Zxbmmohiu05te = <built-in function hex> condition : elf.ET_CORE } 

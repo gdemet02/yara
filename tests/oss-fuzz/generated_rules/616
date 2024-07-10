@@ -1,0 +1,1 @@
+rule By18K1lzDFw { strings : $FrXqz15zC3q5IZclGXw04 = "MUj7OJJGliXhX8BeuqBbX" ascii condition : true } 

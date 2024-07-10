@@ -1,0 +1,1 @@
+rule eLHvELvrIUD { strings : $sMnrBmPUs4c6GAIQ3y0iU = /\W*(\S|||)[?\D?\/ condition : ( 34.76956689825862 ~ /(\s??||||^(\w+|\S*|\[|\s+|)??|\\w??\s|\D??\w??[[|\S)*\W?\S*?^/ | 45.627880259787034 ) } 

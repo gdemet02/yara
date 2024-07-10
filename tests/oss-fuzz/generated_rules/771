@@ -1,0 +1,1 @@
+rule Utw3qGYtWGX { strings : $l2lNwCST1fTliXO3CUByh = "Ji1vvOFUWNG3SzGIcgp2D" wide $XNA5RuzUXQLh7up9rmvKn = "A1MMEtDU24xkzXr94e0tG" condition : $XNA5RuzUXQLh7up9rmvKn } 

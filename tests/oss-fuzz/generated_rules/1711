@@ -1,0 +1,1 @@
+rule kFPA565TI1j { strings : $BZrFvm12bklF6HT69FuZk = /(\+?^(\w||\W?((|.+||\w?\w?[+[?|\w.??^|[*|\W[?\s?||.??\s[\D+?)*)+?|\[?)[?92+\D[?\|||)?.\?|||.|51^||[*?||||82[?\w??^[*|/ $S4mhtkQQ3WeCkmiiFYvMq = <built-in function hex> condition : $S4mhtkQQ3WeCkmiiFYvMq } 

@@ -1,0 +1,1 @@
+import "pe" rule YyjDDfrH8JE { condition : ( pe.IMAGE_DEBUG_TYPE_FIXUP & 67.37726027170655 ) of them } 

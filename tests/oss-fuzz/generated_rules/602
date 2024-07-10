@@ -1,0 +1,1 @@
+rule A5qgGhMurOr { strings : $wGdTfQ4Xr70PooA53s2hn = "Un5taUp6LKpMKK9wQAvk3" $E5P4kgqJYOYmr98vtmUD9 = <built-in function hex> $SfNrwi4vqScnjGxe7WTd0 = "IzEasfsvhX2XMSMc4xULI" condition : /[*||/ endswith 29.939990704425988 } 

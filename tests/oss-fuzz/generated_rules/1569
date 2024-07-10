@@ -1,0 +1,1 @@
+rule vnyW1rrKtYS { strings : $gf6vQ4Dr4uL86nvSj3T2B = /[?/ fullword condition : defined true } 

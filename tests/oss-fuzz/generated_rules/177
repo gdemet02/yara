@@ -1,0 +1,1 @@
+import "elf","pe" rule Y150Xz2iQbK { condition : ~ - 15.047778713645199 + ~ /[?||/ elf.symtab.size != pe.signatures.not_before } 

@@ -1,0 +1,1 @@
+rule RpzrUIyyg8U { strings : $JuKrRubRFIKMckyjBE5oy = /49/ condition : /\S??\D+?/ iendswith 71.80813702424054 } 

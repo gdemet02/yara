@@ -1,0 +1,1 @@
+rule sg2KVELxDqt { strings : $a3q7P2IjDGazzjq0wR2ta = <built-in function hex> $cJhctTQhOy2SYz92fNXCO = "BcPp85SVweKsepvPiBHn0" base64wide condition : false } 

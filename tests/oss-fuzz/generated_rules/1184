@@ -1,0 +1,1 @@
+rule qjZ7s4UJyGz { strings : $ZSpaj1hplW7FCCIMkOEXX = "Qd2Rr4VHtkB10j6OtArce" $HFMjOaChYroNiFNVFhwdP = "AKtuL0kcn90mUshXv6aBj" condition : ( $HFMjOaChYroNiFNVFhwdP ) } 

@@ -1,0 +1,1 @@
+import "pe","elf" rule A7IxonlnXVg { strings : $dxZKUtdadltjvulx3UcCA = "EokOnHCXJqSHva8iJyIt2" condition : pe.signatures.subject startswith ~ pe.signatures.countersignatures.chain.not_after \ 52.23132462074235 /(.[|.??70[?||[*?\D[||\[)+\*?|[[?||\s[\B||.*?\s|\W*/ | ~ elf.dynsym.shndx ~ pe.MACHINE_M32R & "pe.exports_index" ( /\S??[[?/ ) \ /^\B7+^/ } 

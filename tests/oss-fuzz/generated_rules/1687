@@ -1,0 +1,1 @@
+import "pe" rule jW0WFhUS78N { condition : pe.signatures.issuer = /([[?|\W+)?/ } 

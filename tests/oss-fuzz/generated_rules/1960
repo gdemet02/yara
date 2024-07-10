@@ -1,0 +1,1 @@
+rule ImXcAZ7KSND { strings : $PHBuQ5O4fo4NvvqNCQkFy = /\D/ fullword nocase $tfxKONyTsq6Iwo1vFmhXg = <built-in function hex> condition : true } 

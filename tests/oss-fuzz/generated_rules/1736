@@ -1,0 +1,1 @@
+rule cZjLDH8eCly { strings : $rbeNr5VLf6r107L2YW2KP = "hSig83pwl5wwy4gXZDilV" wide condition : for /\w+?|\w*?/ } 

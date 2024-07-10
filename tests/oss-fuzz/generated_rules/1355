@@ -1,0 +1,1 @@
+rule JdpzgymxuwM { strings : $dwCxrwXR5iJ275cDyB5yj = /()*?\W+.??|/ condition : all of ( $dwCxrwXR5iJ275cDyB5yj ) } 

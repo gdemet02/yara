@@ -1,0 +1,1 @@
+import "pe" rule Ebaebedhe97 { strings : $bRT1pgiGAtB2UEpIIOZjT = "T7Owqm8SbROyE3KDWl7KG" base64wide xor ( 25 ) xor base64 condition : pe.SECTION_MEM_FARDATA istartswith ~ pe.os_version.major ^ pe.pdb_path + pe.IMAGE_DIRECTORY_ENTRY_DEBUG } 

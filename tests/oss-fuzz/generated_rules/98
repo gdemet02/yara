@@ -1,0 +1,1 @@
+rule NkeMvjSXc9J { strings : $wXwyb1n8yqmL9UZEVEIWw = <built-in function hex> condition : not /||\??|/ contains /[*?/ } 

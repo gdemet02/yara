@@ -1,0 +1,1 @@
+rule EWJUb98gnAB { strings : $Rc11U692Ei6WfbIqBmk0d = /\D??\w[?(42[?[+?|.\w?)+/ $cfq5JcYeIhn4IoTiNYEkk = "YmTETqtT1gDj7l7IvjNg9" $fb7O3miuA9nZYioNGZrHu = "ZwDOtSlePcUygBvCl5Vrq" condition : for any of ( $Rc11U692Ei6WfbIqBmk0d , $fb7O3miuA9nZYioNGZrHu ) : ( true ) } 

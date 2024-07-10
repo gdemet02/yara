@@ -1,0 +1,1 @@
+rule WkVz4jI31Nh { strings : $skPTqAH8e0plb0epOmAlO = "MnuNwp8TuZa5SOYqoxEbI" $oItjpWFQ5kV3m9lOQHOSf = <built-in function hex> $xBtfIeJBNIKHU9cWF3Mvc = "Hgj9dV3NaOrxKywrrh6q5" xor ( 75 ) ascii $PKTFe1p1G1kIGhSDSxMxA = /\+?||.[\S+?.?\S+\s[||/ condition : false } 

@@ -1,0 +1,1 @@
+import "pe" rule IcDsx3HvtwY { strings : $XeWdLG82QLUinNbFInUpY = "ANleECyRN69vh5VQpo12t" base64wide $ooNJWE8q8S342XRCx2ONe = /99|\D??||\W*?/ wide fullword $SdCWH6b44cREdZmBlkxmw = <built-in function hex> condition : for pe.rich_signature.offset } 

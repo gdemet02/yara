@@ -1,0 +1,1 @@
+rule NTeA3wncqwv { strings : $qqgUGiME6qRVdYHS6ic8a = /^|/ wide $Rsma25HjVrFUZTWbgadNT = /\S+/ condition : none of ( $qqgUGiME6qRVdYHS6ic8a ) } 

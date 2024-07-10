@@ -1,0 +1,1 @@
+rule w19nEcgsLkg { strings : $YkNBewEQ3J7T7TZeUjHMa = "QnJVQ9MTZdeHmnufbvoPH" base64wide ( "qepdnXVxJ0NjblONNS4Rz" ) $oZnvrvrfyOHlpIXS0bDt9 = <built-in function hex> condition : 89.61385181157671 of them } 

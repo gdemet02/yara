@@ -1,0 +1,1 @@
+import "pe" rule wYWKDkIEiJQ { strings : $prCiIjfUuvQLNx2weXVyS = <built-in function hex> condition : /\[|/ pe.MACHINE_M32R } 

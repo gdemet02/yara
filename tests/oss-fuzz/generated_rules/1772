@@ -1,0 +1,1 @@
+rule DN68R6CCT7p { strings : $sBCGDHAQt4MmeI0EbZPKf = /(||\w[?\*?^|)?/ wide nocase fullword $IFtI0wnhrZZAdOvh1MskA = /\w\S*\??|/ fullword $XCmZE51eMRjZtmubFmLZO = /\+/ condition : none of ( $sBCGDHAQt4MmeI0EbZPKf ) at // } 

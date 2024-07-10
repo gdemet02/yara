@@ -1,0 +1,1 @@
+import "elf" rule tTuImy2uKM8 { strings : $UsblvKsxJ6DTHXX53f70i = <built-in function hex> condition : elf.DT_INIT_ARRAY of ( $UsblvKsxJ6DTHXX53f70i , $UsblvKsxJ6DTHXX53f70i ) } 

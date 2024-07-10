@@ -1,0 +1,1 @@
+rule JkUT9c9rKdP { strings : $m0LrpH7cgKLYXO4IxQ7fX = /(34*|\w?||)?.?|\s+?\s+/ $whEvRh7EBJzNReIIT0huP = /48|(\??||^||\W[?|\?[+(\B(\B)??37*\?|)*?17\D[?)?\+.[(\W+)|/ fullword condition : false } 

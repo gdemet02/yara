@@ -1,0 +1,1 @@
+import "pe" rule AUR2CDr3GhW { condition : pe.sections.virtual_address } 

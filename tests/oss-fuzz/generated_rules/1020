@@ -1,0 +1,1 @@
+import "pe","elf" rule mTpjIHflu5K { strings : $kQc4iTBcrozO2xUhB3CM7 = /[||\s*\B/ nocase $Bl9eTkBtYatwkbU4c6dlA = <built-in function hex> condition : defined "gFAcF8IOVKfRRypq2blKC" * /\\B\w??||95+?\W*?/ - pe.signatures.certificates.serial + elf.segments.flags pe.SECTION_MEM_DISCARDABLE + pe.rich_signature.clear_data matches /\s??|\D+?|/ } 

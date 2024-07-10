@@ -1,0 +1,1 @@
+rule TssLezZz9qB { strings : $Cra9mO3d9X8e0F6jYRPvu = "SNE3ovqPshj7tNU3G9TF1" condition : any of ( $Cra9mO3d9X8e0F6jYRPvu ) } 

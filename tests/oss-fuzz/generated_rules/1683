@@ -1,0 +1,1 @@
+import "pe" rule KCxBlqx0UFE { strings : $sx7L63jp7NKFauW6Gm1f0 = "WE7BMBNJEUulmwqEejKhZ" wide $O0zD11aWxL212DCaxrKj1 = "Q9LlNrYyExEHHlOZtVx1S" base64 xor xor ( 32 - 100 ) condition : ( - /|/ ) contains - pe.image_version.major } 

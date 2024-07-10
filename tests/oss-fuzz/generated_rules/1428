@@ -1,0 +1,1 @@
+rule CNOViZALXbt { strings : $XRmOybKLNtJepLdKlQkxE = /||||/ condition : for /^/ } 

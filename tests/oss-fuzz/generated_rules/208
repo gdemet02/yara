@@ -1,0 +1,1 @@
+import "pe","elf" rule HAUFOBjAxDR { strings : $HRUB8PAk9dl312KoKa4si = /\s*?|\W77/ condition : $HRUB8PAk9dl312KoKa4si in ( ~ 71.61098110940205 .. pe.GUARD_CF elf.PT_NOTE \ pe.pdb_path ) } 

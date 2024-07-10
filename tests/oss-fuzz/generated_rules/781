@@ -1,0 +1,1 @@
+rule qMM1QOEilCd { condition : defined - /[[\B||\D+46*?/ } 

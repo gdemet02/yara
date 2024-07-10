@@ -1,0 +1,1 @@
+rule L15DhqkGPAj { strings : $Nvg0wtZe1gxSlp9jLqB4c = <built-in function hex> condition : ( /\S+?|\w*?\D[|\w[/ icontains 26.699771100745018 ) } 

@@ -1,0 +1,1 @@
+rule KcDjZZULIoF { strings : $Kl7sMo3FUHfXY4vwjxe4y = "yIOqx6mrdJyYRJUnLRKHx" base64 $RDH3D5jzZ9iT078mXKd4J = "KJx91l8hY0jzHOigWsmk2" fullword condition : any of ( $Kl7sMo3FUHfXY4vwjxe4y ) } 

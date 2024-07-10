@@ -1,0 +1,1 @@
+import "dex","pe" rule VxUhGfkmYwE { strings : $N9ih6UwwKOoknPJqdkERZ = /\*?(|.??\B57*?||^||\S?|||||\??(^\w*(\W*?)[?)+[|)??\w??||||/ condition : dex.DEX_FILE_MAGIC_037 \ /\w*/ & - "pe.section_index" ( pe.signatures.signer_info.chain.algorithm_oid ) of them } 

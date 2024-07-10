@@ -1,0 +1,1 @@
+import "pe","elf" rule hjldnVOtC8U { condition : defined /||/ and ~ 1.4276987799109353 | 64.33482535925549 ^ pe.signatures.certificates.issuer ^ pe.signatures.algorithm + elf.STT_NOTYPE \ /|\D[\W?/ } 

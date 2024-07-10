@@ -1,0 +1,1 @@
+import "dex" rule gguceMSdPf7 { strings : $n371xPZCjYM9e8vzxo6rN = /\s+?\W+\??|||/ $LMtjk9EFGoJgM48pFSJdr = /\B|||93??\B\B\w*||\s[?\s[?/ $FUpXGw5vglDs8T0iFkcAD = /\*?|/ ascii fullword wide $uoQMrtOHhDvUf7VHQbzw0 = /.??/ nocase nocase $mDMGcNFAOLln1x9wjTP7G = <built-in function hex> condition : $mDMGcNFAOLln1x9wjTP7G at dex.DEX_FILE_MAGIC_035 } 

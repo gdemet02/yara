@@ -1,0 +1,1 @@
+import "dex" rule gp79mVnRAL3 { strings : $IHyGftc5ujhFudcAfaV4R = /\D/ ascii ascii condition : ( ~ ~ dex.method.name icontains 30.523587946350204 ) } 

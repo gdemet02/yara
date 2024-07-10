@@ -1,0 +1,1 @@
+rule tRmU1pKitp6 { strings : $DF0D3bn8Wwz2fZrfu5aj3 = /\B|/ condition : for /|\B||^|/ } 

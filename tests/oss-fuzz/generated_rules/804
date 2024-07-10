@@ -1,0 +1,1 @@
+rule jX2AqZETw8S { strings : $CkAetFMCjwCNU5RbxE6or = <built-in function hex> $hNBm412kkVb7MPv9Ni0Cg = /^\[\D??|||\D[?/ fullword condition : false } 

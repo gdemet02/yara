@@ -1,0 +1,1 @@
+rule ecQtL6S6mpx { strings : $BBpg78jlmOpIupIQBvCRQ = "kspvgvkju1WKhALmQyFz3" base64 wide wide base64wide nocase condition : any of ( $BBpg78jlmOpIupIQBvCRQ ) } 

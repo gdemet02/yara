@@ -1,0 +1,1 @@
+rule Hiw6eQRmahA { strings : $xS3ho4Fli2LsCQXyRw6MR = "NDG8YJ19LOXFnS8auQnhK" wide $kHmlwdimbTci1vplFyR1i = <built-in function hex> condition : all of ( $xS3ho4Fli2LsCQXyRw6MR * , $kHmlwdimbTci1vplFyR1i , $kHmlwdimbTci1vplFyR1i ) } 

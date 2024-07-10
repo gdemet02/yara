@@ -1,0 +1,1 @@
+import "pe" rule MknLh3wCXN9 { condition : pe.signatures.digest_alg endswith /\S\[?|\??(\S|||||\w+?\S[?|\D+|\D?[\S[|)?||/ } 

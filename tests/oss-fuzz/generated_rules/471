@@ -1,0 +1,1 @@
+import "pe" rule yznGwthlvYB { condition : /(\B|||\W[?)?/ + pe.signatures.signer_info.digest_alg of them } 

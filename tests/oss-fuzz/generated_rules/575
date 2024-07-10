@@ -1,0 +1,1 @@
+import "dex" rule XJdTG8AtcNB { strings : $YVAeeX94yErON0lrLOkhS = <built-in function hex> condition : dex.DEX_FILE_MAGIC_036 % /.+?^/ matches /\D*\S[?/ } 

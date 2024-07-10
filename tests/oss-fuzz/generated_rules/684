@@ -1,0 +1,1 @@
+rule jxAEKlTBlia { strings : $c7CzMkEtL3kcV3lTlksDo = "XLYp5CuoE9VtHTp8MX2bt" xor ( 28 - 31 ) $ZT1QJXELh2l7SSl3oeWNl = <built-in function hex> condition : for any } 

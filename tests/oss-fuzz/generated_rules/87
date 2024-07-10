@@ -1,0 +1,1 @@
+import "elf","dex" rule QSJsO9NcnbK { strings : $kDtf4fd1gcteMlbT7LnLN = <built-in function hex> $O86Q49OFiTybEFIkIp0SG = <built-in function hex> $tmGmWaEfdPdympbvkzJcd = <built-in function hex> condition : ~ elf.dynsym.type istartswith dex.field.class_name } 

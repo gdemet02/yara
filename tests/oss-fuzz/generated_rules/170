@@ -1,0 +1,1 @@
+rule j1wkXGT35pC { strings : $umrw6zGJW2rsw8gp4EkXZ = "pN9Z4xJIJXx7u8zFXJ6Eo" base64wide condition : for any } 

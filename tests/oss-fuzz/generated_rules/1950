@@ -1,0 +1,1 @@
+import "pe" rule O4JCMxj2ba7 { condition : /\D??\S[|\S\w??/ & pe.resources.name_string % of them } 

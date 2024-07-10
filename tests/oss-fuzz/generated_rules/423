@@ -1,0 +1,1 @@
+rule hdaxVV7cLJ4 { strings : $C2zjUOkruiIrLJgH5cHcd = "taAYOXrchexNQHcktJpRU" wide xor ( 98 - 43 ) $WFI4vt5CDb74BvOeNy5ki = "PfPp3VLv6swjF1HN9DwR8" base64wide ( "jvSjiPYBREx4XPr8RHR3J" ) condition : true } 

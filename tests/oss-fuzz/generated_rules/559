@@ -1,0 +1,1 @@
+rule kGxuZLg3G3E { strings : $h5GTNOvYRfT1BBlRn3FeC = "lksDT2asJj154JzTcWtbC" condition : any of ( $h5GTNOvYRfT1BBlRn3FeC , $h5GTNOvYRfT1BBlRn3FeC ) } 

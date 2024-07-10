@@ -1,0 +1,1 @@
+rule MJTTxO8s1tl { strings : $SxjLvBRdNW3sw7DsD3cMS = // fullword condition : $SxjLvBRdNW3sw7DsD3cMS } 

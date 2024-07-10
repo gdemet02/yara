@@ -1,0 +1,1 @@
+rule mAF0vL5yMFR { strings : $CM9LEyTmYyq9OpuwgEPfF = <built-in function hex> condition : all of ( $CM9LEyTmYyq9OpuwgEPfF ) } 

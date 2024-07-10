@@ -1,0 +1,1 @@
+import "pe","dex" rule lqzzWf0NdPl { condition : 58.70782040939022 iendswith ( 23.59159413513938 ) ^ - - pe.signatures.signer_info.chain.issuer + pe.signatures.issuer * ( dex.TYPE_CLASS_DEF_ITEM ) 53.51222734366363 % dex.DEX_FILE_MAGIC_038 & /\W??.*?90??||\B|\s[|\B||\B[*.*?/ or - pe.delayed_import_details.functions.name % of them } 

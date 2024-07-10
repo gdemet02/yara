@@ -1,0 +1,1 @@
+import "pe" rule s8782NjdgxP { condition : ~ - pe.signatures.signer_info.chain.algorithm_oid % /.[|[??||\S??/ ( 24.305848685650755 ) \ 38.93890071795969 | - aFBN3brCCPE8rdxHlNo19 icontains 94.72077814905971 } 

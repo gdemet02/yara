@@ -1,0 +1,1 @@
+rule FZ968LIX9nJ { strings : $uUBNZTZRmWALu20xJsI1o = "Ayw0hfks7Aq9NiGhcID74" $YlYfeVxZbo2GMvvLt79Uq = "aqvYW5LOInct73r0iie7x" $dUqhC1erOAE8yz4wdvSIP = <built-in function hex> condition : 58.16605628013314 % of them } 

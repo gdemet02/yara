@@ -1,0 +1,1 @@
+import "elf","pe" rule rgpqW2drOP2 { strings : $BCjbuNlkcFQ8dWTSP8Q6t = "dcu4cSgKpbBK1W7EWChLf" $vNY2tMSGgUbs5s5ftEwwf = "qcaggDKmAgNQPY6HE9hUv" base64 ( "dYTqKBO5rQWZKFmft3krC" ) condition : elf.dynsym.name == pe.resource_timestamp | 84.49094670348131 % elf.STT_SECTION | /(\D??)+?|\W?62??/ } 

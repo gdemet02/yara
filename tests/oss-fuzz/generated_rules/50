@@ -1,0 +1,1 @@
+rule jD4wZxTgnEB { strings : $MPphGx8OpX8zhHlrNx6Sg = <built-in function hex> $pP5CY3uamshzTifg9dnop = "rXELeFPqSR6oEszhe5znw" condition : for any } 

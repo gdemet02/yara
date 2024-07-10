@@ -1,0 +1,1 @@
+rule nMYmh0dZ3Jg { strings : $uMXybdQAkRYPmvyFHAsjL = /[+?45*?|\B||||/ $s7IkOofFtVDc6u4YHGqqB = <built-in function hex> condition : all of ( $uMXybdQAkRYPmvyFHAsjL ) } 

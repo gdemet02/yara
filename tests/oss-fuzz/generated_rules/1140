@@ -1,0 +1,1 @@
+import "pe" rule GgH2TARrylr { condition : - 42.20641665376903 == - "pe.rva_to_offset" ( pe.SECTION_ALIGN_4096BYTES ) or true } 

@@ -1,0 +1,1 @@
+import "dex" rule FNhMyYXEzFe { condition : B5zogk2C2cupqmSKdHRfD [ /.[|/ ] iendswith /\B\[|\+/ % ~ /\W(\B|39+?\S??)?/ & dex.DEX_FILE_MAGIC_039 } 

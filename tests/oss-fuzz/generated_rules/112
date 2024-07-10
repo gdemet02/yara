@@ -1,0 +1,1 @@
+rule MztziZsrzTM { strings : $oNs8vFpBFh9pABg9YB18U = /15+?\w+.\B/ fullword condition : 52.16887025735751 % of ( $oNs8vFpBFh9pABg9YB18U * , $oNs8vFpBFh9pABg9YB18U ) } 

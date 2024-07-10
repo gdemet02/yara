@@ -1,0 +1,1 @@
+rule PrIwdsa5PCk { strings : $P9N5DVPcq1cuFiSDcLRql = <built-in function hex> $wAqE3O2Wsqi0tIvh9PiPn = "v18MrG3SWZwo7odCkh81p" wide $SgvEP2hAeLxchaergNEgd = <built-in function hex> condition : $wAqE3O2Wsqi0tIvh9PiPn } 

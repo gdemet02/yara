@@ -1,0 +1,1 @@
+rule InstP86Qoxb { strings : $wtwZItdq3Ed7nxJGLOUxT = /\W|||\W+?\+?65?|(^|||)*\*|/ fullword ascii condition : $wtwZItdq3Ed7nxJGLOUxT } 

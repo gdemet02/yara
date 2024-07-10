@@ -1,0 +1,1 @@
+import "pe" rule t757GljtEWi { strings : $lUozwKs2Qqu7TwEQVwa5L = /^\s+?||/ ascii ascii wide condition : ( pe.signatures.signer_info.digest_alg ) % 12.233694145962504 % ( pe.resources.type_string ) } 

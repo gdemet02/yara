@@ -1,0 +1,1 @@
+rule ym2323glxOa { strings : $PJjFLrRralTZpJv3iGQhg = /\B\w||87*|\B|6+/ fullword condition : for all } 

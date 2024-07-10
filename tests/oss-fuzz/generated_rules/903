@@ -1,0 +1,1 @@
+rule IhR9gsbvo7Q { strings : $Nk70m1eN4c7X2JWUOVRF3 = "BHKi2ZXTeNnMRONUX2amS" nocase $RRgdjiwVnZyk55VfufDo9 = <built-in function hex> $sLxOSYcirrs9n35u3Szjx = "sNuWxTpTm5ll8dhB77ltC" base64wide xor ( 21 - 54 ) condition : none of them } 

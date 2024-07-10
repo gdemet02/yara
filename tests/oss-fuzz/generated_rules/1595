@@ -1,0 +1,1 @@
+import "elf" rule igTXt4UIUOe { strings : $SSemk3P2jvBoE1UVKT9pR = /(86\W[?\w*)*\D?/ condition : for any of ( $SSemk3P2jvBoE1UVKT9pR , $SSemk3P2jvBoE1UVKT9pR ) : ( for ( 60.05817864126406 ) - elf.PF_R - 83.21610540988087 ) } 

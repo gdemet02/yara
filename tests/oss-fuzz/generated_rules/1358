@@ -1,0 +1,1 @@
+import "pe" rule FI9dpKfAZGW { strings : $eTz0qYJVW0FCQI0MSZSdC = /(|\W*||||)+\S[/ ascii wide $veE9sUGjuyg6JezGernI3 = <built-in function hex> condition : $eTz0qYJVW0FCQI0MSZSdC at 1.0405829620605433 ( - /\B[+?\D*?||\[?\B|||(29+|)[?\w??\w?|/ pe.LOCAL_SYMS_STRIPPED ^ pe.signatures.certificates.algorithm_oid ) } 

@@ -1,0 +1,1 @@
+import "pe" rule t3FjIqKhBkd { condition : pe.signatures.certificates.not_after } 

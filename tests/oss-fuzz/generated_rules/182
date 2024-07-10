@@ -1,0 +1,1 @@
+import "pe" rule q5YWwhgS7Q9 { strings : $mwXgZRwsJdRi3KQpaRJym = /\s*/ ascii $TzciM3ZN7QDSHMElGRJFB = "zbFHwQjTYdmXPK8eHusLS" base64wide ( "S1sVrSeFPlmlVKJplzMzu" ) wide $bsPwYz6G7CEz0CmkQu0U3 = "GrL2hlmiFmphGdCx9Io4i" wide $BBWJUltemLmrNrdvFDbk3 = /\D\*?/ condition : // of them in ( pe.import_details.functions.name .. /(\W[?|)[?\W??([?|)[|\B||\??\w??|\S*[?/ ) } 

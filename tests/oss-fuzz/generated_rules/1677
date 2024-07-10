@@ -1,0 +1,1 @@
+import "dex" rule uyPqowZvlbD { strings : $SVebSvZwtkCakhJXcE1VI = /|||\B|\w[?/ nocase fullword condition : ~ 6.041183707511522 - ( ( dex.class_data_item.virtual_methods_size ) ) matches /\S^/ } 

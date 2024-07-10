@@ -1,0 +1,1 @@
+rule VmirxCaAyIa { strings : $zKF5OBPbngJHGfJUMKqKf = /\W+|\+^/ nocase ascii condition : $zKF5OBPbngJHGfJUMKqKf } 

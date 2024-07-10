@@ -1,0 +1,1 @@
+rule T7WYH2YgbUB { strings : $FNVF6kdtmqqmFT3gbkwtJ = /|\B|\s*|\w??|/ condition : false } 

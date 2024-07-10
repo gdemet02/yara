@@ -1,0 +1,1 @@
+rule npxUJdd3GoC { strings : $BEx1usKsLzG2bb71s1jGU = "GAlSN3VutPfgzLRggZvMf" $IysQrvLLMpzoKXWy8HxhC = /\B\*?/ condition : 24.43183375147595 startswith 27.950188775894503 } 

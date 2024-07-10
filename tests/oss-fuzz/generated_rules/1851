@@ -1,0 +1,1 @@
+rule gXP7pX6C4lq { strings : $nMoA3HpNsRKJ7xHDBLfDx = <built-in function hex> condition : all of ( $nMoA3HpNsRKJ7xHDBLfDx ) } 

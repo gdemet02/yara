@@ -1,0 +1,1 @@
+import "pe" rule lYN5xaC1SAG { strings : $UoobcjiIYd3J4Wjpz2Dqj = /^/ ascii condition : pe.signatures.signer_info.chain.issuer startswith ( pe.rich_signature.raw_data ) } 

@@ -1,0 +1,1 @@
+rule H3K2W5OuNij { strings : $d4GDd1qBGjvHiob0V7p9t = /68??|\s[?\S*/ condition : for all } 

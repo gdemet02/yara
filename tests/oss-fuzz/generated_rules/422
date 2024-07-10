@@ -1,0 +1,1 @@
+import "dex","pe" rule lkYaJqHSrEl { condition : ( dex.class_defs.annotations_offset dex.DEX_FILE_MAGIC_036 ) \ 36.122746869655245 iendswith pe.TERMINAL_SERVER_AWARE } 

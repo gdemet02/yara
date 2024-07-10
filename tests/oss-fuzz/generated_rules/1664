@@ -1,0 +1,1 @@
+rule Vckyix6oqG2 { strings : $glYr9kgBnjk0qwPYUqYvO = <built-in function hex> condition : /.*?/ 67.21776623102257 and ( none of ( $glYr9kgBnjk0qwPYUqYvO , $glYr9kgBnjk0qwPYUqYvO , $glYr9kgBnjk0qwPYUqYvO , $glYr9kgBnjk0qwPYUqYvO ) ) } 

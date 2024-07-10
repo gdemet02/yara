@@ -1,0 +1,1 @@
+rule ROquOOXV70B { strings : $ChvNN1jCMiL8qqRYAIkiH = /\D*?\W\S+?/ nocase nocase condition : any of ( $ChvNN1jCMiL8qqRYAIkiH * , $ChvNN1jCMiL8qqRYAIkiH , $ChvNN1jCMiL8qqRYAIkiH ) } 

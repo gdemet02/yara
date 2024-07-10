@@ -1,0 +1,1 @@
+rule Q0VChjjjlbf { strings : $lkwx8RWXAqp6FJ8ZI8Ip9 = <built-in function hex> $J1J4fy0QnX2tx2pl5s0un = "pQP1acsCwU3RexpP2tT8c" xor ( 10 - 41 ) $CJA3DCtCyPYvxNLBpjUha = "TMwBXFWoTpCh4eeTcoEXc" fullword base64 $mUt1cMqs139QE8IpvM1BE = // nocase wide fullword fullword condition : any of ( $mUt1cMqs139QE8IpvM1BE , $CJA3DCtCyPYvxNLBpjUha ) } 

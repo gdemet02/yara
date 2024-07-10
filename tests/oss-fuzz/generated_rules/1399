@@ -1,0 +1,1 @@
+import "pe" rule FjkpB0GzlYZ { condition : pe.data_directories.size ^ pe.signatures.countersignatures.chain.subject startswith 33.66152296738998 } 

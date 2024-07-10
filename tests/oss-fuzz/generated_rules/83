@@ -1,0 +1,1 @@
+import "dex","elf","pe" rule VdzX1hzqxCG { condition : ( ~ /[+|/ & - dex.method.direct + - elf.DT_JMPREL ) icontains pe.signatures.countersignatures.chain.algorithm_oid & pe.os_version.minor * /\B\D*?/ } 

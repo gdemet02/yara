@@ -1,0 +1,1 @@
+rule ePtLrdaii8a { strings : $bV1tcOAb7qeZeTtB9bIN1 = <built-in function hex> condition : for /[*/ } 

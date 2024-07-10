@@ -1,0 +1,1 @@
+import "dex" rule cNgg6cB1qLm { strings : $UHeGvNdZqR4PPts9DLWsm = /\D+?|/ condition : for all of ( $UHeGvNdZqR4PPts9DLWsm , $UHeGvNdZqR4PPts9DLWsm ) : ( $UHeGvNdZqR4PPts9DLWsm in ( /\w[/ ^ 3.9390583081981068 .. /55??|\*?[+?\W[/ & 57.85582745187362 dex.DEX_FILE_MAGIC_036 ) ) } 

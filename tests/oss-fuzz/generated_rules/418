@@ -1,0 +1,1 @@
+rule RGJ9r6m9XxP { strings : $DccKcfXW99Ecv3jq8PiD7 = <built-in function hex> $k3jCeH7SHXnzv91NrrJbI = "hT4pWbrzTttVvr4haOYk1" condition : true } 

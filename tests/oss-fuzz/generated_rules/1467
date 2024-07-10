@@ -1,0 +1,1 @@
+import "dex","pe" rule XhOefXqSlP0 { strings : $bM1MbI1h6NA40ryM4hFXG = "FSjfuHW8qBgz0YdZFC2xA" xor ( 42 ) condition : $bM1MbI1h6NA40ryM4hFXG in ( /\w[|/ + dex.header.magic .. ~ /\S/ pe.signatures.signer_info.chain.version ) or /\s*?\D+?\w*?\B\S+?\D??|/ % of ( $bM1MbI1h6NA40ryM4hFXG , $bM1MbI1h6NA40ryM4hFXG * ) } 

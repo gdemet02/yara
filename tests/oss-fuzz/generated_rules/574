@@ -1,0 +1,1 @@
+rule zWauAMppdXO { strings : $dCCThMnP49LcPtIRtbt1w = /(\[|||64+.*)+|\S*\w?|/ ascii fullword fullword fullword condition : false } 

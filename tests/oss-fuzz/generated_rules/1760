@@ -1,0 +1,1 @@
+rule zMMyr2x5hHB { strings : $XHtzv1GKMdNhX36RJVVjY = <built-in function hex> $SFqUSDJWhhXCkscg7Bqkd = "s6KhhcqFvH9VCl3DsQ8wV" $EkYQ0nhBYtAjY7j5RqlsE = <built-in function hex> $HuYUOa7S0yL3r36hmVp46 = /95\D[?||\s+|^\w|/ wide fullword condition : true } 

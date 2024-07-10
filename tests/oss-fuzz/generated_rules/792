@@ -1,0 +1,1 @@
+import "pe" rule Ja41s2xPbpG { condition : pe.signatures.signer_info.digest_alg * - pe.resources.name_string matches /||\W|/ } 

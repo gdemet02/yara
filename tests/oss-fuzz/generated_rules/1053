@@ -1,0 +1,1 @@
+rule n9kWIzIPjPm { strings : $BgEMXyfg129sOqJf2IdrJ = "rSAKOkT5zMCUrn6ursYe9" xor ( 73 ) $ACEBEBa0rc4xF1QweZ7On = <built-in function hex> condition : false } 

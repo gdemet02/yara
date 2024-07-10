@@ -1,0 +1,1 @@
+rule WpJ6yXawIx3 { strings : $k7PnmbwMLAaG5VNmSxV9t = /(^|||\B|\W+?|)[([*)|\D[?|/ $KnRWLnTNh3mlWdU8T0YwI = "SQHrMSYltnxOznTZamVPt" xor ( 50 - 83 ) condition : true } 

@@ -1,0 +1,1 @@
+import "pe" rule XPT4Ut3xVtG { strings : $IOSjYSYuvScMo9bNc5Wyp = <built-in function hex> condition : /\S*[?[[\D[\w[?|||\s.+|/ + /(.[^\B)??.+\W?||||/ contains pe.signatures.algorithm_oid } 

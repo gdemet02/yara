@@ -1,0 +1,1 @@
+import "pe","dex" rule Z2lRKH3xeog { strings : $Ap5srgcz5MA4pivlW5MiC = /54[?|./ fullword condition : ~ - // & pe.signatures.algorithm = ~ 30.10880065238346 % ( ( /\w[?\w?\w*?|\S+|.|/ ) % dex.ACC_VOLATILE ) and $Ap5srgcz5MA4pivlW5MiC } 

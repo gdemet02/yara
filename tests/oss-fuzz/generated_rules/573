@@ -1,0 +1,1 @@
+import "pe" rule b4h6isGJ2yM { strings : $sr8JJZmhk5wR1EEhveDq6 = "SMTEAyzi75ZNxUUHlsrJS" $x0mFHcf14KKV1n8CgkgTD = /\+?||\|/ wide condition : $sr8JJZmhk5wR1EEhveDq6 at pe.signatures.signer_info.chain.algorithm or for none } 

@@ -1,0 +1,1 @@
+rule ItoZDgF7TrK { strings : $yHtWRCRAI0HRmHb9p92n5 = "Y400Yhs2S7Iv4Xmk9hvoC" condition : true } 

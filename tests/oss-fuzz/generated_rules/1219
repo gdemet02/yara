@@ -1,0 +1,1 @@
+import "elf" rule BMtbrTynsjW { strings : $i0xbMYUmnyehr4nXod7Hk = <built-in function hex> $xG5o0FbYD55C4NdX91nPd = /^|60|(\W?||.\w[?\B|\S[|\??)+?|/ wide fullword $NQvSfkT5mls5P98KQWzuN = /\S+[?|/ wide nocase condition : elf.sections.name of ( $xG5o0FbYD55C4NdX91nPd , $NQvSfkT5mls5P98KQWzuN * , $NQvSfkT5mls5P98KQWzuN * , $xG5o0FbYD55C4NdX91nPd ) } 

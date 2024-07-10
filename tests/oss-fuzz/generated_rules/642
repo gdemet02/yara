@@ -1,0 +1,1 @@
+import "pe" rule Y1ue3mP3fz5 { strings : $DDLIXA3v0nIyukgmZm4tW = "rWSybG8TPxh15TQWLFM7n" $Yo0o8PPb9gqKHnUtP0Vhz = <built-in function hex> condition : ( ( pe.MACHINE_R10000 ) ) endswith pe.signatures.signer_info.chain.issuer } 

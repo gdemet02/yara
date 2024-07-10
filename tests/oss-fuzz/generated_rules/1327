@@ -1,0 +1,1 @@
+rule pA6Mxblejtz { strings : $nxmsj4YCgcJ23bgDvl0t1 = "n4rsnKAM8iVQQGrdgw73V" $OCNMxfStQCxjoyGqVEko7 = <built-in function hex> condition : all of them } 

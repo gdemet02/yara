@@ -1,0 +1,1 @@
+import "pe" rule VUMgVgpGime { condition : ( pe.signatures.digest_alg matches /||||14[\s*?|./ ) } 

@@ -1,0 +1,1 @@
+import "pe" rule PtS3nMGJGu7 { strings : $DHjkaCOtc5CVE3FU9nlcA = "c5W2GR2Lvczlyt6GZTRQb" xor condition : $DHjkaCOtc5CVE3FU9nlcA at pe.signatures.issuer } 

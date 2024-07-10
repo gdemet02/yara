@@ -1,0 +1,1 @@
+rule WHJH5l7avv1 { strings : $HpqH745LNyO9kSh5gIxoX = /\B^/ condition : false } 

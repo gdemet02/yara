@@ -1,0 +1,1 @@
+rule zBrdNnCCkh8 { strings : $sQpfHrTyckrrr40nNMKwM = /\B/ condition : true } 

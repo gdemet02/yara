@@ -1,0 +1,1 @@
+import "pe" rule nep4CcHYfRW { strings : $RsYCHbGrWge4KQcPQ8rb5 = <built-in function hex> condition : not pe.signatures.certificates.subject endswith /\w*?\\*?\s*/ 99.41472746023958 } 

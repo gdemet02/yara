@@ -1,0 +1,1 @@
+rule FhCwYIjyhKr { strings : $qWgsWSBsYh0xVDAXyHgzd = "NOoyVSl6SZlM6xk4ZbRwH" base64wide ( "AgoYY4egUYek4IyJISLqQ" ) wide condition : true } 

@@ -1,0 +1,1 @@
+import "pe","dex" rule y9Nb3fDffU5 { strings : $yUh3DAJw9KzgQNBPPu3lq = /\s[/ nocase nocase $nsMPyzCxSbN5OPfde0Bcb = "QeJKB6t0VoEDDUOFlamSd" condition : ~ pe.RESOURCE_TYPE_ICON + 76.68744163289739 % dex.map_list.map_item.offset endswith pe.SYSTEM } 

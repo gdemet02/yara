@@ -1,0 +1,1 @@
+rule PP5CXLnUaWH { strings : $IeHX5AO5eINKYEeLGby9q = "BDqVzFYsoprYmFh9JWG4M" xor ( 64 - 88 ) base64wide ( "TQidiQefofULw9xESyQrz" ) xor ( 63 ) base64wide $UohNLeWHeXkkPDCWrsIv7 = /|/ nocase $JDOW2kQx1cOU3iSEzdUSZ = <built-in function hex> condition : for /\S^\D+?\[?|(\D|.*||)*||||/ } 

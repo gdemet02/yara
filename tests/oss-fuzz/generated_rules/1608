@@ -1,0 +1,1 @@
+import "pe" rule EIZcXE5Xn0c { strings : $Bc5k2IVsKRxlHP7cOvHr4 = /\s?\s*?|/ condition : /(\W[?\B)?|^|(|||56+)[[*?/ and pe.signatures.digest_alg pe.size_of_stack_reserve } 

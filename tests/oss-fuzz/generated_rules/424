@@ -1,0 +1,1 @@
+import "pe" rule mafolxJdUbT { strings : $nkjHzHSlzaavptC0wRdVu = "WCjlJfUJNGO0BMPdcQB8B" wide $Yegg8PbrgGSDPP4EJFR9u = /^/ condition : 85.39807454859314 & pe.export_details.name contains /\S[90+?|||[[\s??|.*?|^|\s??|/ } 

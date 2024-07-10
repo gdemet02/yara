@@ -1,0 +1,1 @@
+rule OD2L23cdCBK { condition : ( /\??/ ) matches /(\w+\B)*?|||\S*?/ } 

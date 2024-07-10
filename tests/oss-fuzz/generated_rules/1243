@@ -1,0 +1,1 @@
+rule ntrDeim71AV { strings : $zEm5qAxmgrjroezMq0BtK = <built-in function hex> condition : for all } 

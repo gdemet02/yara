@@ -1,0 +1,1 @@
+import "pe","dex" rule btqkxI1J762 { strings : $jMM4p5IPa3M1owofpTeNA = /.+?||/ wide ascii $bNhCW4mUxWy4K1hCQw8ZE = "z0I7NGagAvBJjzfmX0GWb" xor ( 19 - 47 ) condition : pe.rich_signature.raw_data = 25.107728702358212 \ pe.signatures.thumbprint ^ 94.66193245313343 | dex.field.access_flags pe.SUBSYSTEM_EFI_APPLICATION % pe.MACHINE_UNKNOWN } 

@@ -1,0 +1,1 @@
+rule SavMNhpE1Pg { strings : $c7rbhhchnl9KtKlpVKt6V = "xXH4Ru2045O3D6rKj0RQh" $yUh3DAJw9KzgQNBPPu3lq = /.??/ ascii ascii wide fullword condition : false } 

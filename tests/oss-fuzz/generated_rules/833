@@ -1,0 +1,1 @@
+rule e3h6KY9SD7M { strings : $nj59PuGhbYH4qN65rk5F8 = <built-in function hex> $h3Fjs9d9t74kpyMGijYHg = /\S[?((\s[?)*?)??/ fullword ascii $h3Fjs9d9t74kpyMGijYHg = <built-in function hex> condition : defined true } 

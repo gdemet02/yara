@@ -1,0 +1,1 @@
+import "elf" rule DZwHZj6aQTQ { strings : $CfKHUnICEZZi3wu81UFoo = "Va8bG1byfG1ai0VqOtMNN" ascii condition : $CfKHUnICEZZi3wu81UFoo at elf.EM_68K } 

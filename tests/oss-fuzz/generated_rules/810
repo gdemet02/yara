@@ -1,0 +1,1 @@
+rule oZPT3dLPCyW { strings : $w2JsVISyT9vLUe0SkcZBM = "byGjRUThjk5wbq3Q7tHVi" xor $xcNMrdsl1ANXrZsnErnwz = <built-in function hex> $eTfQZUo8GqF8NgE32uUZN = <built-in function hex> $CYEbjXGVFhN6UxT3N3yTn = "N4RNu9syTLsQieGllZGgD" base64wide base64 $A6H7QPFCcw7mnD5Ij99FH = /\B/ ascii condition : any of ( $CYEbjXGVFhN6UxT3N3yTn ) } 

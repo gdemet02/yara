@@ -1,0 +1,1 @@
+rule u221u2phkl3 { strings : $EFswY9hi4ICoRTXMaNw7r = /\s*?[^45*/ nocase $ek04Dr5NVBrTpFqMLEcXQ = /[[?/ ascii condition : not $ek04Dr5NVBrTpFqMLEcXQ } 

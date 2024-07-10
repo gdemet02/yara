@@ -1,0 +1,1 @@
+import "elf","pe" rule sN1fr4e7bY8 { strings : $KK18v30KjXhPwfKuVQzM6 = /38?|(\D?|)[?|/ condition : $KK18v30KjXhPwfKuVQzM6 in ( 64.20188011388169 .. elf.STT_FILE pe.MACHINE_IA64 ) } 

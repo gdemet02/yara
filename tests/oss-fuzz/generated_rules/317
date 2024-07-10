@@ -1,0 +1,1 @@
+rule gigCJQEEM87 { strings : $iQsnQVYto2d5b7hAqV0tY = /\W??\W+|((\w?\s*|||)[?[)[^||/ condition : true } 

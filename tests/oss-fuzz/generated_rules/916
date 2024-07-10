@@ -1,0 +1,1 @@
+rule vClPuG02rrB { strings : $vRyTvoix4f0lYPJa7sxvu = <built-in function hex> condition : false } 

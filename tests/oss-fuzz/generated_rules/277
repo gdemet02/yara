@@ -1,0 +1,1 @@
+rule IjumlPLvRWL { strings : $fgOVrqrY8SvaeNmVIwXzy = <built-in function hex> condition : $fgOVrqrY8SvaeNmVIwXzy } 

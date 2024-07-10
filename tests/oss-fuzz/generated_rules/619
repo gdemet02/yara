@@ -1,0 +1,1 @@
+rule GVPIir36OQK { strings : $hc9XasDg3xuGyowWYPzI0 = <built-in function hex> condition : all of ( $hc9XasDg3xuGyowWYPzI0 , $hc9XasDg3xuGyowWYPzI0 ) } 

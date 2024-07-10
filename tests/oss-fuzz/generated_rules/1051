@@ -1,0 +1,1 @@
+import "pe" rule zTQzgcNIeOT { strings : $CpmqfyUU4E30dYfLD7618 = /^96||18|\S??/ condition : ( pe.SECTION_NO_PAD ) } 

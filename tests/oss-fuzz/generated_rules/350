@@ -1,0 +1,1 @@
+import "pe" rule lOzChCZis29 { condition : for all of them : ( pe.NO_SEH iequals "pe.calculate_checksum" ( ) ) } 

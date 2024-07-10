@@ -1,0 +1,1 @@
+rule VhsLwyt9eT5 { strings : $ORgmZdKXWzLRgg0sHvgq9 = <built-in function hex> $k5hnNDLjGSVsczmBvw86M = <built-in function hex> $Iyh02rJgvTpacWOwuyh3P = <built-in function hex> $k5hnNDLjGSVsczmBvw86M = /\B\S??\s[?\D[?|||\S??.+?[\S[[+?||/ condition : $Iyh02rJgvTpacWOwuyh3P } 

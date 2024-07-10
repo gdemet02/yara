@@ -1,0 +1,1 @@
+import "pe" rule DX3eFngFXmr { strings : $ZfOoorTaUUyw1DwOFymYW = <built-in function hex> $VGaZW0nhl8NmsGFET9SPa = "CHptqLqASTeJfFuInZDLI" xor ( 47 ) condition : for all $VGaZW0nhl8NmsGFET9SPa , $ZfOoorTaUUyw1DwOFymYW , $ZfOoorTaUUyw1DwOFymYW in ( 55.5762921139762 , pe.IMAGE_NT_OPTIONAL_HDR64_MAGIC ) : ( false ) } 

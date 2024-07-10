@@ -1,0 +1,1 @@
+rule XnoQoa8UorR { strings : $NqOQu5VZRnUwYmxPZCxda = /20[?\D+?|^|\D+?/ condition : all of ( $NqOQu5VZRnUwYmxPZCxda * , $NqOQu5VZRnUwYmxPZCxda * ) } 

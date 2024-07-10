@@ -1,0 +1,1 @@
+import "elf" rule vEo7DdjslHd { strings : $wEJ0SKzPux25HCLDM9A7I = "b5vdYSyPwGn0sOYM7rkCg" $ZE1gUQxMbwmlAIROnZZ8F = /(\?|\D||)??|\D[?\w?(\*?)\B\w*|/ wide condition : "elf.telfhash" ( ) * elf.EM_88K % of them } 

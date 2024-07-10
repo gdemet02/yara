@@ -1,0 +1,1 @@
+import "dex" rule zeJkzY4YZCX { strings : $sOHyNFCKndvhxcTiHw7cJ = /\s??|[+/ $pmrWyLydDqJnZoblgK8qH = "KVrD2DkcnIdAvhGcw1Rpz" condition : any of ( $sOHyNFCKndvhxcTiHw7cJ ) at dex.header.signature } 

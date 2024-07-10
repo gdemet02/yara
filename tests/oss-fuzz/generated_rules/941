@@ -1,0 +1,1 @@
+rule uVcdUzQENwd { condition : none of them at /(.?\s*\B|||(\w+|)+||\w*)31[?/ } 

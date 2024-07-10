@@ -1,0 +1,1 @@
+import "dex" rule AA2RWiw92q9 { strings : $Lr1oiT5vfmIK61Cgy7xxc = <built-in function hex> $iwiy29wi4wrVhhPt13zjj = "d1fjwM1ellfFWBQMpfaga" $cAFZti3QYkBInCgSCZRLi = "wRzpJdS7nXUM6tcZtz2ds" $DBuM0GJ0gxYRsqA1w2Dph = "zqnqJ8t6Pw0xTQfdP7FMm" condition : dex.number_of_methods matches /\s[?||/ } 

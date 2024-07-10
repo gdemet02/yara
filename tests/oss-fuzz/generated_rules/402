@@ -1,0 +1,1 @@
+import "pe" rule WJGSM5OfsFU { strings : $hQpKblEUA6NJ15RhRBfyv = <built-in function hex> $mXl41Xstnwh9ktb5DGkC7 = /[[||\??/ ascii wide wide condition : $mXl41Xstnwh9ktb5DGkC7 at "pe.imports" ( pe.SECTION_ALIGN_8192BYTES /\w?\D+/ /.*/ ) } 

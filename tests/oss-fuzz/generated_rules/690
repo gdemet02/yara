@@ -1,0 +1,1 @@
+import "pe","elf" rule iaZs1SGgOLw { condition : pe.version_info_list.key icontains "R7SZxiJkIZZnf21IlSGk5" | elf.DT_RELASZ ^ /\s?\s+?57[?||||^||^|.*\D[?|/ } 

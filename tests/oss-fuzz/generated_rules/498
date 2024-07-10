@@ -1,0 +1,1 @@
+rule ua3Ya4PL8KR { strings : $XnTrY8kiyMEOfuoSa27Ue = /\S|\W*^||\S*?/ nocase $qo5mBXYAl5hiAS5cgIEjH = /\D??|/ fullword wide wide condition : true } 

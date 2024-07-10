@@ -1,0 +1,1 @@
+rule ZbS5BhoZmCh { strings : $jIzHbdB8XbKHLVNwBEPD6 = /(^||\W.?|\+||||)*?\[?\B/ wide ascii wide ascii ascii ascii wide condition : false } 

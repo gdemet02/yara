@@ -1,0 +1,1 @@
+rule qpaVroqueSv { strings : $e6BGBYuxby6CnbHk81KeI = /\s[?51+|\w*\\s?/ wide condition : for any } 

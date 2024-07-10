@@ -1,0 +1,1 @@
+import "elf","pe" rule DYDOhLTJsKu { condition : /\S[?95?||.??\B|/ ^ elf.DT_PLTGOT = pe.signatures.countersignatures.chain.serial } 

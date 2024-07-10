@@ -1,0 +1,1 @@
+rule KdZWbZ5Yplm { strings : $gicMmlycsCER7XgivS0hu = <built-in function hex> $cmnf5Wb246efhOapSUo2g = "LONsvRwohkL5G5nbeS4ci" $XNmUjW0COyBiM1jCwUG1P = "xzCFzsP8wlFavY3bM1N1V" xor ( 55 ) condition : true } 

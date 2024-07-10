@@ -1,0 +1,1 @@
+rule ijW84bPc1Sy { strings : $DjOUuDLvI0vV0GzBuDcMv = /\W[?([|(\S?([+?|||[(||\S*?)??85+?|\S+?^)*?|\w[?0+?[[^..[)+)*?/ $iPzXV7fBNfHfowtwPfJqB = /(.\W[)[||59??^|\S*/ condition : any of ( $iPzXV7fBNfHfowtwPfJqB , $iPzXV7fBNfHfowtwPfJqB * , $DjOUuDLvI0vV0GzBuDcMv * ) } 

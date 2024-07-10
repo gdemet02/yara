@@ -1,0 +1,1 @@
+rule URBOsOQ3OSA { strings : $dauRLWVnl2D2JecVoek7q = "ixNaArSnmQE6CLVB6NTmC" $PJBsKvU2OkoPIzFCaJcDk = "rRwggU789jzJNacKZoLml" xor ( 66 - 91 ) nocase condition : any of them } 

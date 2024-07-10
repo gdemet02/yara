@@ -1,0 +1,1 @@
+import "dex","pe" rule MVGkcXJN9T3 { condition : dex.string_ids.value = 97.27690780999295 \ ( ( ~ - ~ 81.89954841818741 ) + ( "pe.imports" ( dex.DEX_FILE_MAGIC_036 pe.signatures.signer_info.program_name ) ) % 59.78360432802956 ) } 

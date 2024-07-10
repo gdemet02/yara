@@ -1,0 +1,1 @@
+import "pe","elf" rule S4HknJz7Tdw { condition : pe.IMAGE_DEBUG_TYPE_EXCEPTION elf.PT_GNU_EH_FRAME } 

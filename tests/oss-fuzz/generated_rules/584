@@ -1,0 +1,1 @@
+rule MOigLKInUSb { strings : $nmcS2ok3Gaa62rLW8NpM3 = /\s[?/ condition : $nmcS2ok3Gaa62rLW8NpM3 } 

@@ -1,0 +1,1 @@
+rule bhV0ZRf3PpY { strings : $HMSA05AhBQ64zC7A43vKp = "dnbJC7UDlGie3hktfSpvW" condition : defined /(\S*)/ of them at - 78.51146355757771 ^ 99.00403194761996 20.17064421798491 } 

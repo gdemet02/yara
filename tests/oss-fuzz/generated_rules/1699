@@ -1,0 +1,1 @@
+import "pe" rule b154kVMx6vz { condition : for pe.SUBSYSTEM_EFI_ROM_IMAGE } 

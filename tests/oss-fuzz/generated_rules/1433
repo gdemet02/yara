@@ -1,0 +1,1 @@
+rule CrByfxF9Uif { strings : $DNJxozaWlGlzM0FrPo4LS = "qU0wenpGxWNKnZXIKQ2Q7" condition : - /|/ startswith /|||/ } 

@@ -1,0 +1,1 @@
+import "elf","pe" rule MjPmrihWuOx { condition : - elf.type pe.pdb_path } 

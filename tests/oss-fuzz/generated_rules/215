@@ -1,0 +1,1 @@
+rule tSC1GjvuQSm { strings : $RTqXzYFT7k9n4VjDWP7V9 = /\B([*?)+?.*/ nocase ascii wide wide $YKH1BfqSCl8U8DAbOdLOU = /\B[[?|\s??/ wide wide nocase ascii condition : not all of ( $YKH1BfqSCl8U8DAbOdLOU ) } 

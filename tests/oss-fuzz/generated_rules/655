@@ -1,0 +1,1 @@
+import "pe" rule Tl9JtTLD29f { strings : $PrwLkJ8X18nGHaLPwFdcT = "lAKd8hEKz9IRUGqvFG0V3" condition : /\S??|61+?67[?/ != pe.UP_SYSTEM_ONLY } 

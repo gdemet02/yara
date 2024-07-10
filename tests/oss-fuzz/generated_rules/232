@@ -1,0 +1,1 @@
+rule ksC4XPMRlKZ { strings : $ZWoxHHKNLuVsM7Ysz6DkE = /|.+?/ wide fullword nocase nocase condition : for any of ( $ZWoxHHKNLuVsM7Ysz6DkE , $ZWoxHHKNLuVsM7Ysz6DkE , $ZWoxHHKNLuVsM7Ysz6DkE ) : ( $ZWoxHHKNLuVsM7Ysz6DkE ) } 

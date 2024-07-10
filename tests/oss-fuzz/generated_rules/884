@@ -1,0 +1,1 @@
+rule LVucM6tRj3F { strings : $QlOuMY623aO10UWKNh8Ly = /6*|\s*?\B/ condition : false } 

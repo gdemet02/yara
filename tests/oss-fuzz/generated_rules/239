@@ -1,0 +1,1 @@
+rule UIkV9aExkwI { strings : $sHdYgkDH9ZqzTUztywwlu = /^|/ nocase nocase nocase nocase fullword condition : none of ( $sHdYgkDH9ZqzTUztywwlu ) } 

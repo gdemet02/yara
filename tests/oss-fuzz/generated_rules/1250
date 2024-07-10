@@ -1,0 +1,1 @@
+import "pe" rule vr1GNZPQrD2 { condition : ~ 44.4130689712027 % ( ( pe.sections.name - /\w*/ ) ) iendswith 25.921941242478074 } 

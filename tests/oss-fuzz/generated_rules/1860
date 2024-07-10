@@ -1,0 +1,1 @@
+import "dex","elf" rule ETmRuwTrAfJ { condition : dex.field.proto elf.ET_DYN = elf.DT_PLTREL } 

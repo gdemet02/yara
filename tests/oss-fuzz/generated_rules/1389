@@ -1,0 +1,1 @@
+import "pe" rule KCqwMXu9YQl { condition : ( pe.export_details.forward_name ) contains ( 26.804019549795665 pe.base_of_data ) ^ ~ /^.?.*|/ ^ pe.signatures.signer_info.chain.thumbprint + ( pe.MACHINE_MIPS16 ) } 

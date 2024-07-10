@@ -1,0 +1,1 @@
+import "pe" rule pt2ZL4C07Lx { strings : $VtYAHgQHGW80PKtRFnLxV = <built-in function hex> $dBZzXJEjMvbkWbQv6mrER = "lt5wUNtWNuPw6e315h49z" xor $p9T2eGzGA1Rvo443uEYuB = /\W[?/ ascii $onXuhXeCn4UgWWgZpcGWR = <built-in function hex> condition : pe.resources.language & 92.50601607818211 } 

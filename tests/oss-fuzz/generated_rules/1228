@@ -1,0 +1,1 @@
+import "dex" rule GkieoBJyJ96 { strings : $eh5BEoYF3uSncyvcfe7rY = /\D[?|||/ nocase condition : dex.method.proto \ /\D[?\B||/ % of them } 

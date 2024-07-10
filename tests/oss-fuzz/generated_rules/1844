@@ -1,0 +1,1 @@
+rule CyHz3QYT2n0 { strings : $Fqrzb3nTHSbWY10vG4s7n = /^|\B[\*?[*\B^^\D*?||/ condition : all of them } 

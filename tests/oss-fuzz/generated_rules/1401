@@ -1,0 +1,1 @@
+import "pe","dex" rule Kr321UVIdNx { condition : ~ pe.signatures.countersignatures.chain.algorithm ( 96.71641331270506 ) - 92.79719406206387 + 11.878406507173079 == ( 49.96837339489086 - - G9lN4ZdVF5tVdROn7RcDr + ~ ( ~ - 69.51050753573368 & dex.method.name + NQBUstbTE6BB7NPpRT9LQ ) ) } 

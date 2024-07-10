@@ -1,0 +1,1 @@
+rule wLeL7Ik32I4 { strings : $G7wl8Of7uqyCa17gTe05W = "gy7rwijiMaejkJYFG1EZZ" wide wide base64 base64 ( "pEYgqBYpLFCUEeAizQQfy" ) $DyBy506OFsJ5e0KMBA2ke = "WJX6Jh1E3KBiB2fubjsny" condition : false } 

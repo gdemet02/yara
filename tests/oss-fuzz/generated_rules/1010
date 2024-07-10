@@ -1,0 +1,1 @@
+import "dex","pe" rule KM6KlphkEbr { condition : dex.header.method_ids_offset icontains ~ ( pe.signatures.signer_info.chain.thumbprint - 4.841210200668645 % ~ 59.31736335487283 ) } 

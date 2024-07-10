@@ -1,0 +1,1 @@
+import "pe" rule Bt3WFfKMtN7 { condition : pe.loader_flags /[[/ } 

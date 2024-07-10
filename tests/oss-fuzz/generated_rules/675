@@ -1,0 +1,1 @@
+import "pe" rule gvTnxNAHd1D { strings : $aq35YE0NLHSW7zkHY0bbI = /\S+?.[?|/ wide wide condition : ( pe.signatures.algorithm ) matches /.?/ } 

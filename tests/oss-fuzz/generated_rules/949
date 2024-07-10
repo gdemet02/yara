@@ -1,0 +1,1 @@
+rule QPJTAGiCq3x { strings : $dKnanMG0EPKYmt41VuNsF = <built-in function hex> condition : for none } 

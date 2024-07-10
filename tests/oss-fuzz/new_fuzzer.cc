@@ -30,6 +30,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <stddef.h>
 #include <stdint.h>
 #include <yara.h>
+#include <dirent.h>
 
 
 YR_RULES* rules = NULL;
@@ -37,20 +38,59 @@ YR_RULES* rules = NULL;
 
 extern "C" int LLVMFuzzerInitialize(int* argc, char*** argv)
 {
-  YR_COMPILER* compiler;
 
-  if (yr_initialize() != ERROR_SUCCESS)
-    return 0;
+	YR_COMPILER* compiler;
+    YR_RULES* rules;
+    const char* rules_dir = "generated_rules"; // Specify your rules directory here
+    struct dirent* entry;
+    DIR* dp;
 
-  if (yr_compiler_create(&compiler) != ERROR_SUCCESS)
-    return 0;
-  
-  if (yr_compiler_add_string(compiler, "import \"elf\"", NULL) == 0)
-    yr_compiler_get_rules(compiler, &rules);
+    if (yr_initialize() != ERROR_SUCCESS)
+        return 0;
 
-  yr_compiler_destroy(compiler);
+    if (yr_compiler_create(&compiler) != ERROR_SUCCESS)
+        return 0;
+
+    dp = opendir(rules_dir);
+    if (dp == NULL) {
+        perror("Failed to open rules directory");
+        yr_compiler_destroy(compiler);
+        yr_finalize();
+        return 0;
+    }
+
+    while ((entry = readdir(dp))) {
+        if (entry->d_type == DT_REG) { // Check if it is a regular file
+            char filepath[256];
+            snprintf(filepath, sizeof(filepath), "%s/%s", rules_dir, entry->d_name);
+            
+            FILE* rule_file = fopen(filepath, "r");
+            if (rule_file == NULL) {
+                perror("Failed to open rule file");
+                continue;
+            }
+
+            int errors = yr_compiler_add_file(compiler, rule_file, NULL, NULL);
+            fclose(rule_file);
+
+            if (errors != 0) {
+                fprintf(stderr, "Error loading rules from %s\n", filepath);
+            }
+        }
+    }
+    closedir(dp);
+
+    if (yr_compiler_get_rules(compiler, &rules) != ERROR_SUCCESS) {
+        fprintf(stderr, "Failed to get compiled rules\n");
+        yr_compiler_destroy(compiler);
+        yr_finalize();
+        return 0;
+    }
+
+    yr_compiler_destroy(compiler);
 
   return 0;
+
 }
 
 

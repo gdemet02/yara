@@ -1,0 +1,1 @@
+import "dex" rule vzCWnaMeAap { condition : for dex.ACC_SYNCHRONIZED } 

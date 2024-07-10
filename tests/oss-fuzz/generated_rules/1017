@@ -1,0 +1,1 @@
+rule IVFdxFWmaql { strings : $x4HphBrS3fWDKOZDg28Vg = <built-in function hex> $Yhz6JONpwgXv97Mlt1n1y = <built-in function hex> $fmgmWc0o5jZpIKelcWV83 = /\W/ $RL5tzndgbR9OvaOJr16bN = /\D?^/ nocase fullword $kQnQeGmUUMzxMP2YJc1Bs = <built-in function hex> condition : $x4HphBrS3fWDKOZDg28Vg } 

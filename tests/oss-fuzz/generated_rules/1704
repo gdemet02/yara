@@ -1,0 +1,1 @@
+rule QDGLt225Ihz { strings : $YUfZI2xvqzRmkwcVnzcMB = "oeQFAmegIVcQECxtOSkk4" $X4gIZQ0wwZj7UbJ6jjx1J = "Cp8JPt8ubYNWrtIQto3E0" $p3SAhNreGBZmobCePF8Si = "VnJakGj5IKvxABo02laAj" xor ( 88 - 96 ) condition : /(\D?|\B^)?[[?|/ of ( $YUfZI2xvqzRmkwcVnzcMB , $YUfZI2xvqzRmkwcVnzcMB ) } 

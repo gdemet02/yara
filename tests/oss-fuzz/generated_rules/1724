@@ -1,0 +1,1 @@
+import "pe" rule Dd0jMfbQ38W { strings : $YqwRYr5vCRRdfsquU9vqm = "IcvGdyFdzRJ7Ob6YluYZD" nocase $nKwcgCKLZrj0jTlT5OQm0 = "jjOuDVHXY7Fu9hqVQnhJX" fullword $TnKCHwROyICbJXGEfhPTh = /^(\W[\[?(^\B)+\s+|\s??85)?||\S\D+||/ ascii wide condition : pe.signatures.issuer = 72.92963835571784 } 

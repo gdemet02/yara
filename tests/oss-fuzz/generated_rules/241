@@ -1,0 +1,1 @@
+import "elf","pe" rule EYDJQhpVwCQ { strings : $szZ51EKWXCEgYFuXjbTRI = <built-in function hex> $X39ORQU3epowmbPAJdg6x = "e6afJiybDnktWb2P4XH6h" $MwtYUU1sm581d1mOkfczE = <built-in function hex> condition : ( ( elf.DT_HASH ) pe.signatures.digest_alg ) } 

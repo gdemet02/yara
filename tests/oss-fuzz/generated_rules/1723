@@ -1,0 +1,1 @@
+rule AI8c27NBc05 { strings : $h3r9UEvIMFqNe7BKPcGbS = "oZkHUTiobkkfXA97yt1hG" base64 ( "AHZBb2U7x79vvQIkaLCL4" ) $OsJADRpRUhdNA4wsEwOTw = /\s+?|/ condition : true } 

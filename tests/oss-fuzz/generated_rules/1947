@@ -1,0 +1,1 @@
+import "pe" rule wc2OCkOzagn { strings : $yuvtjghGzvhmA2nlMEKEq = <built-in function hex> condition : $yuvtjghGzvhmA2nlMEKEq at pe.SUBSYSTEM_WINDOWS_CUI } 

@@ -1,0 +1,1 @@
+rule t4PMQIXo43e { strings : $bUsmURN3ETmISMa0Iuabn = /^[[?[/ $y9JGrgpkkoSCLbku9o038 = "j2a4YEPphjIFC2OSL5qeq" condition : any of ( $bUsmURN3ETmISMa0Iuabn * , $y9JGrgpkkoSCLbku9o038 * ) } 

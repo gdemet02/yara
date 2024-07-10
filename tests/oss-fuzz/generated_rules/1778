@@ -1,0 +1,1 @@
+rule EU6VcAe2p7P { strings : $JoiKyVLVAl8ihvePogBMH = "aj5CPrKLh1IsZodg1ZNDH" condition : $JoiKyVLVAl8ihvePogBMH } 

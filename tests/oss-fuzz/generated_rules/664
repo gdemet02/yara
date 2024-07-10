@@ -1,0 +1,1 @@
+rule pBAC5cXXFlW { condition : all of them at /\B|(\w*|\D+[+?\W+?|\s[|)*?2*?||/ ^ /\W*?|/ } 

@@ -1,0 +1,1 @@
+import "pe" rule dkWfAUWo0mC { strings : $bdST8FBGZ3KK4ucRuQo2k = <built-in function hex> condition : pe.signatures.certificates.algorithm_oid & 91.11325072674525 of ( $bdST8FBGZ3KK4ucRuQo2k ) } 

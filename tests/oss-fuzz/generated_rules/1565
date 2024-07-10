@@ -1,0 +1,1 @@
+import "pe" rule msmHpOdGfSM { condition : pe.size_of_image istartswith 81.49390034010541 } 

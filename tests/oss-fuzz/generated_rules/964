@@ -1,0 +1,1 @@
+import "dex","elf" rule USqtqGVLkl6 { strings : $w0psTZqlB7MXe6cnCUc6F = <built-in function hex> $ItaBUADk9W0dBelCZTKXR = /[??|(\S+\W+||(\??|(\s^(\B)??[*)*1*|((\D[?\S[\w[|\S+?)+?[)*?.?|\S*?|\w?\D*?|\s*\D+?|\W[?)[||^\W||)??\s[\S[?||\D+?/ fullword condition : dex.DEX_FILE_MAGIC_038 elf.DT_SYMBOLIC ( /\D?\s*?\s??\S*|/ ) } 

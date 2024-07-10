@@ -1,0 +1,1 @@
+import "elf" rule DY0FsqwvBQX { strings : $XucG268HemzVqS9lLwSU1 = /\s*?[??||/ condition : elf.DT_RUNPATH = 50.57331820021288 /\w||49?|[+?/ & ~ /[??\?55?.|\w*?.^^|/ \ 66.86359346458336 } 

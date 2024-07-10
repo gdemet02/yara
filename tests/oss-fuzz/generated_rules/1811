@@ -1,0 +1,1 @@
+rule DUkWbFIgkw7 { strings : $z8rJAP4tP4b6LDbccjbIC = "gu76nLocLbg15JJDAvcIU" base64 ( "ConPpX2FTN2tGLw4RcJJx" ) $STnsRmi0TndISBu77NCH5 = <built-in function hex> $yqrK94ctKGh2CjEiNHsB5 = /^\B.??|(.?.*\*?|\S(\??)+?63+|)[?||.+?/ nocase wide wide wide condition : ( ( false ) ) } 

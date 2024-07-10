@@ -1,0 +1,1 @@
+import "pe","elf" rule QG4epeG8PaS { strings : $ZosdWolXVrRKVIXnnMifK = <built-in function hex> condition : for none of ( $ZosdWolXVrRKVIXnnMifK , $ZosdWolXVrRKVIXnnMifK ) : ( pe.signatures.signer_info.chain.subject * 67.11727693874116 % 70.62890797070528 ^ 18.169653436462742 & elf.PT_NOTE + pe.RESOURCE_TYPE_DIALOG contains /|\B|\D[||/ ) } 

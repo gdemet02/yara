@@ -1,0 +1,1 @@
+import "elf" rule EKnwTnSnxLv { condition : for - elf.segments.flags } 

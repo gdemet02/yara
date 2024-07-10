@@ -1,0 +1,1 @@
+import "pe","elf" rule Vsz0ayxFtDR { condition : ~ ( /\D?|.*||\w+?\S?|.*?\W\w??|30?|||\B||||[.[?^\s?|.*.*||\s[?|\s??|\s\s*?/ ) & pe.subsystem_version.major + - elf.entry_point icontains pe.entry_point } 

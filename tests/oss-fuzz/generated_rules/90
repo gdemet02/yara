@@ -1,0 +1,1 @@
+rule XYTVmuTm6iB { strings : $YP3Wp0ZrIYKQ5jsmQiocv = /\D*\s?\w*?[+\s?\D*|49[|\s[?\s?|\D[?[||\S+?\S[?^|\W[?\W[\W[|\[?\D^\D+?\*22?/ wide nocase fullword ascii $I8Uerg5z1iyhCJO0f6YE4 = /\B\B\D+?|||/ $fOHerahQswsgurJm8h7ZA = /\w??\S+/ ascii condition : true } 

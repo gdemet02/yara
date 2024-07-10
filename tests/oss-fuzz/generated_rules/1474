@@ -1,0 +1,1 @@
+import "pe" rule sagdHLoZV0P { condition : pe.IMAGE_DIRECTORY_ENTRY_DELAY_IMPORT icontains pe.MACHINE_SH3E } 

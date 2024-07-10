@@ -1,0 +1,1 @@
+import "pe" rule xpCIpEuFxCx { strings : $sSULkQXUCeRvLsyMQV5I1 = /^/ wide $lYEDCcakDszj4799fWcIv = "OEvHutRmOwsehN3kHciXs" base64wide condition : ~ pe.pdb_path % of ( $lYEDCcakDszj4799fWcIv * ) } 

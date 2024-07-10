@@ -1,0 +1,1 @@
+import "elf","dex","pe" rule SkzTGO8W6vP { strings : $HkSq7TazV8ZXJHDfEcGiD = <built-in function hex> $LCnG7DKMiJJquIJ2dHlCl = <built-in function hex> condition : ~ 20.989507023846365 or /||\B||\(\S*?|99+?85?[*?||\w+|(\s??\+^||)[|)+||\B/ = elf.EM_X86_64 - 77.68883294208506 dex.ENDIAN_CONSTANT ^ /\S|/ pe.IMAGE_DIRECTORY_ENTRY_LOAD_CONFIG & ~ - 33.58777422571002 } 

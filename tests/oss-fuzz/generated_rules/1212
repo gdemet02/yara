@@ -1,0 +1,1 @@
+rule MUM3EHWqsHL { strings : $NA4kQCXdGd6rDl2Yrg77q = "M5omVmzZ4JVcAqkteCQFR" base64wide xor ( 39 ) condition : $NA4kQCXdGd6rDl2Yrg77q } 

@@ -1,0 +1,1 @@
+import "pe" rule q1ic80DFuwC { condition : - 15.797283519477656 \ /(||[[*?)[?.??[?/ - 26.9652853778375 icontains /\s[\S?/ ~ /\D[?16?||/ \ - pe.signatures.signer_info.digest + /\B|/ & - pe.number_of_delayed_imported_functions } 

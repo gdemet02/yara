@@ -1,0 +1,1 @@
+rule ztFBUpdH1dy { strings : $h1Mv4ZkMuoSbchNKsuDco = /\D/ wide fullword $byLqY4leAMqHd5iPEOxKU = /\w??||\B/ condition : none of ( $h1Mv4ZkMuoSbchNKsuDco , $byLqY4leAMqHd5iPEOxKU ) } 

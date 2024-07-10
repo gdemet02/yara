@@ -1,0 +1,1 @@
+import "elf","pe","dex" rule HukykLyUYWr { condition : elf.symtab.type /(.)??|/ & /\[|\w\s[?|||/ | pe.IMAGE_DEBUG_TYPE_CLSID dex.TYPE_FIELD_ID_ITEM % dex.REVERSE_ENDIAN_CONSTANT endswith pe.RESOURCE_TYPE_ANICURSOR } 

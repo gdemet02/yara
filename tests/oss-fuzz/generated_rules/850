@@ -1,0 +1,1 @@
+import "elf","pe" rule kmwItuXsHGw { condition : elf.DT_INIT_ARRAY = 51.255089376906504 + - pe.resources.type_string + pe.SUBSYSTEM_WINDOWS_BOOT_APPLICATION } 

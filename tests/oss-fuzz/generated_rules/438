@@ -1,0 +1,1 @@
+rule VEbBpeoYUUl { strings : $X4MACsmYEQQJ8YynrHWbZ = <built-in function hex> condition : $X4MACsmYEQQJ8YynrHWbZ } 

@@ -1,0 +1,1 @@
+import "pe" rule WRAOXCAAGir { condition : for "pe.imports" ( "elf.telfhash" ( ) ) \ pe.rich_signature.raw_data 24.57094992184 \ 19.4999419287591 } 

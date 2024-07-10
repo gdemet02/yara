@@ -1,0 +1,1 @@
+rule GNmrP7LyaqI { strings : $bcTWedCShItKEaE9rE3c6 = "E9MtJBx8ydf4SZWlqIl5K" condition : 22.39338243489498 istartswith 0.0060578884577333625 } 

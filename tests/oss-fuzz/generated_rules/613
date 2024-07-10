@@ -1,0 +1,1 @@
+rule Cj63Sd0xPR5 { strings : $W8Te69nyhVkNK5C0QXmxQ = "Zi5d2SPSXTf8d3BnSqGLr" fullword base64 $y6Zmfb428xP7n9A1VizKS = /.+?||(\B||||\w+|80[?)[||/ condition : for all } 

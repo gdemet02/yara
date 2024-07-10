@@ -1,0 +1,1 @@
+rule LobeprRdYGM { strings : $BYURp5jkn5WI2wYaNFwlO = <built-in function hex> $ZpmiBeAEJYmGju3Tr4DNY = /90[\W??\S[^\S*?|()[.[?/ $hF0EA7HxxFUT4nJ539R9c = "VWV4reKg1JP2OxtviQsjK" condition : false } 

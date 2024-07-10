@@ -1,0 +1,1 @@
+import "pe","dex" rule IwU7cHJyO5r { strings : $yeHcXcGaBMXNpbr9yaS8N = "hwacD1wvu02E6ED3k0frW" condition : pe.resources.type_string of them in ( /\s*?||||\B\D?|\D+?||(\D?63?)*?||(^)[?[|^|\D*?\S[?|/ .. dex.header.link_offset ) } 

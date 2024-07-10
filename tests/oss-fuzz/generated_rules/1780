@@ -1,0 +1,1 @@
+import "pe" rule HI1R4QXKxnO { strings : $euRdZKawsOo16wPatF4Zk = /(\S*?|\B\S?)?\D*?[?/ wide $C0j26Fj5WvPj0t0hcb6yV = <built-in function hex> condition : $euRdZKawsOo16wPatF4Zk at ( pe.signatures.certificates.subject ) } 

@@ -1,0 +1,1 @@
+import "dex" rule BewtP9ABc5O { strings : $yVh8TNNdZqjvyev4yK37R = "DmrgmxHmW2YYG1f1Uo2B8" condition : /^|^|/ + ( - ( dex.header.proto_ids_offset ( 74.5074229268409 ) | 38.56354094970227 ) ) endswith - 46.011189142786314 } 

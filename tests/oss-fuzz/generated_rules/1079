@@ -1,0 +1,1 @@
+rule CJEG0CDMN8Y { strings : $XqqHZZWpDQ9FrR9fBGpou = <built-in function hex> condition : for any } 

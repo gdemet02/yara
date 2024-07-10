@@ -1,0 +1,1 @@
+import "pe" rule hOoSowJPKkg { strings : $k0B1x521Uew0XD4dl9Axi = "HhjLqYN9Z34HZ9PIW6KiG" condition : - pe.version_info_list.key == ( /|\s?\w[?||||.[|/ ) } 

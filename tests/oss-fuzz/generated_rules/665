@@ -1,0 +1,1 @@
+import "elf" rule tg4JpgLTvys { strings : $kzh6pS6aFeCCUjB8RGL9L = /\w+?.\W*.*/ nocase condition : $kzh6pS6aFeCCUjB8RGL9L at elf.number_of_segments } 

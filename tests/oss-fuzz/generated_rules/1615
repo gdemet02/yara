@@ -1,0 +1,1 @@
+rule NGTO68GIX4n { strings : $C3C7tLtC3BE9gSlhup9m4 = <built-in function hex> $H35vOjqzTcSuG6xjS7hzj = <built-in function hex> $yZjapfpaII8MRYJYNL3SK = "pX4d1ChIIJxgejzwUIm9t" $Wr218FU5xXYGPpFawwM27 = /([?)?[*\S.\D+^[+||\D?\S*|\D[?||\S\B/ fullword nocase condition : ( none of ( $yZjapfpaII8MRYJYNL3SK ) ) } 

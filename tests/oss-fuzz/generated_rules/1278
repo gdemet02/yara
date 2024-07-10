@@ -1,0 +1,1 @@
+import "pe" rule RwfZDgU0yu4 { condition : ~ /\[|(|\s[?\s?\s+?|)??||||/ == pe.signatures.countersignatures.chain.issuer % ( pe.signatures.digest ) } 

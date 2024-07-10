@@ -1,0 +1,1 @@
+import "dex" rule jCE5Eprqn0h { strings : $lCtFfxTULKpQ63mE4OGZx = /\S??\s[?\B\W+/ condition : 78.92685820101917 + /\?\B94+?/ iendswith dex.header.proto_ids_size } 

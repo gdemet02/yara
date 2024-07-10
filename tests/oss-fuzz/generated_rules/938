@@ -1,0 +1,1 @@
+import "pe" rule nKrONo2Yvq9 { strings : $AFdcrB4IKYSJPfkaC9iD8 = /(\w+?[*?|)+|/ fullword wide ascii $p9NRnHTjbNhNGRsCtVoc7 = "bw7IY4gy0tiwzHBGuhyIU" base64wide ( "IQB7iLjuoOz6XU3nkqfE3" ) condition : pe.MACHINE_CEF of ( $p9NRnHTjbNhNGRsCtVoc7 ) } 

@@ -1,0 +1,1 @@
+import "pe" rule rL5COt2Kr8M { strings : $DbELS6odUNyB8FHDAKBgg = <built-in function hex> condition : /^^/ endswith pe.signatures.countersignatures.chain.issuer } 

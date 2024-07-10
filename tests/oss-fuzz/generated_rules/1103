@@ -1,0 +1,1 @@
+rule VzzOCQQYWKm { strings : $zXHbYMuIe5LSUnrfUKuOF = /\W[49??/ condition : all of them } 

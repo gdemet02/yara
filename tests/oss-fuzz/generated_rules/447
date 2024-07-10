@@ -1,0 +1,1 @@
+import "dex","pe" rule EfdSoyXchNK { strings : $wqYw6VFTGoBCUPrtVAzky = "gQNVY6sJGkdGVQrQSwI1q" condition : none of them in ( "pe.imports" ( "pe.imports" ( /|1+?|\S[^/ /.*\s|||^|\B\B|||\S*|||/ ) dex.method.name ) .. 55.963872160455665 - pe.signatures.certificates.algorithm_oid ) } 

@@ -1,0 +1,1 @@
+import "dex" rule dDzB239196F { condition : defined /^\W+?97[?||||(\B||([[||.[|||.*\s?\S??)?)*?/ = dex.TYPE_STRING_ID_ITEM } 

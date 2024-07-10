@@ -1,0 +1,1 @@
+import "pe" rule J8rUmtWjHmn { strings : $NYbYG2d8xydMY1ZJc8urJ = <built-in function hex> $uL54sHaBazl5kETmSJfnr = "V6DSPdsKDkXZZzB2sHc4T" xor ( 19 - 70 ) condition : - pe.pdb_path of them in ( /\w*?/ .. - ( 83.5171882639025 ^ /\W??\w+?/ ) ) } 

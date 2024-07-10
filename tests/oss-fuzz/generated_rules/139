@@ -1,0 +1,1 @@
+import "pe","dex" rule FGBQOxcGalW { strings : $VItDvd7l0g2nZqzj2NHET = "Q5R0JIGq2bmGfgSPf6SCs" $OXBG4BS5pkZNKYu4c2AQo = /[??|[[\s/ condition : $VItDvd7l0g2nZqzj2NHET in ( "pe.imports" ( pe.linker_version.minor dex.header.signature ) .. /\D+?\s|||\*?^\w[|[+\s??|^||\B\??\D\W/ ) } 

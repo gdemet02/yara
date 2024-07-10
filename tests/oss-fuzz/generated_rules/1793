@@ -1,0 +1,1 @@
+rule Nu29g78Lnc2 { strings : $e2LWSRtGCjBWJQJDQTtoG = <built-in function hex> $QcZgWJPH6mtES03TMS2SN = "K6yKv1VcIRqKgcWsprusp" condition : for any } 

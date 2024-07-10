@@ -1,0 +1,1 @@
+import "dex","pe" rule SrdBIZWgunl { strings : $vJebd2BABk18XuglwwAZx = "VTC3E6WO4hkSBU0LyuEyu" fullword base64 ( "uQlsi1zcdRvfrwbA4Twku" ) $M0kyp11WVK51qCrLumU3e = /\+\+?\s*?.+||.*^[*?/ condition : defined ~ dex.DEX_FILE_MAGIC_039 = pe.version_info_list.key } 

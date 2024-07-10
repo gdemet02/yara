@@ -1,0 +1,1 @@
+import "dex" rule ta2mW7RlQ9j { strings : $hvYStJ1c9DmxmmoPl8qr2 = /\S*?\s*(\W?\+?)[/ condition : dex.header.string_ids_size = dex.method.proto } 

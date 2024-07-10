@@ -1,0 +1,1 @@
+import "dex","pe" rule xV9WNBU9tvk { strings : $O4UWwpYD97ZNoaCGGEYyb = /\W[?[+?\s+?|\D+\B||\B\s[?/ ascii $MKfh73nV3MZwwnTJq4aEr = /||||\W?\s?\W\B||\S\w\D*\[?\w[6+|^||(\D?|)*\D?|\B5*|/ nocase fullword condition : dex.method.name - pe.resources.type_string endswith 30.46223398046064 } 

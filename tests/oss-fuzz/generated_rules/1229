@@ -1,0 +1,1 @@
+import "elf","pe" rule UeS7x7I5hq9 { strings : $kZIiv49tcMHC6LsaGBqAJ = "YSwJyy8ygFlaHppRcVIUg" $JzuPfuB8GiC8q5CKN5Rm0 = /\w??|/ condition : elf.dynamic.type iendswith pe.resources.type_string } 

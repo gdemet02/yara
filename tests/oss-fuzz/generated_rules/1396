@@ -1,0 +1,1 @@
+rule MMrk7O6rwbq { strings : $Vuopk0Qk34cw1rz5KWu5C = /[|/ $vJrm7OV3iNMZznq7eLVTH = /^\?\w[*|\+|/ ascii $deXWUooFpA0XYlkFxpcqh = "nrtUoP41LeaeXUde11lKS" $RjtAPNXCZDF9bwcBmcwy3 = "nVMYbzfWLm4nCUNVLO0tW" $sKs8oSYAY9SDQN44DWVTf = "e0671wJYMfBvhxY2kPOaa" $EBoEilgRRkamjiLUF0X2x = /[?/ condition : all of them } 

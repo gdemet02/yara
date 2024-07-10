@@ -1,0 +1,1 @@
+rule KpfdkBvyWlC { strings : $W9TNDWaXO65u5dFPmv4Ah = /(\W+|[[)[\w?|\s[?|[[|/ nocase ascii fullword nocase wide $AvWMYlmjcxc9QxX09Rwiz = <built-in function hex> condition : not $AvWMYlmjcxc9QxX09Rwiz } 

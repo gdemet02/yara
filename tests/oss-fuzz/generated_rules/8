@@ -1,0 +1,1 @@
+import "dex","pe" rule MYbhg4xisrq { condition : dex.method.proto = pe.delayed_import_details.library_name } 

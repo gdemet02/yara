@@ -1,0 +1,1 @@
+rule DO3MvPQVKyL { strings : $xGTuoEhesBQ8WaqOPeCOU = "fd7VYGsDHxmxXagw3QGoo" condition : for none } 

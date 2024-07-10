@@ -1,0 +1,1 @@
+rule xeTthw02WF4 { strings : $a8Ocz5TFoZxsRa9lvuLUn = <built-in function hex> $OeCZqhWYr94O2u6KkTFoE = "j4DTXGtcXK4WgCl8GVIkk" base64wide $jrwNuHvecLUCdF3nzDOFS = "MI8zTxx95JeGShzjNJRs3" $T7nhJtcXX1Wr5uMxGMJrc = /^\S??|||/ ascii wide condition : false } 

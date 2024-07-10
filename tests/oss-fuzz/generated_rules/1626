@@ -1,0 +1,1 @@
+import "pe" rule gZ7I10TUjAH { condition : /\s?|/ ^ pe.delayed_import_details.library_name contains - pe.MACHINE_R3000 & 43.32063709823878 * /\[?\??/ + 59.6564623087111 * /\w?/ pe.signatures.countersignatures.chain.algorithm - /\S??/ } 

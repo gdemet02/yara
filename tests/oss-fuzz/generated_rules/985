@@ -1,0 +1,1 @@
+rule EBBA8dxhBma { strings : $mAM23KaY4BX6WrNefbrsZ = /\S[?/ condition : $mAM23KaY4BX6WrNefbrsZ } 

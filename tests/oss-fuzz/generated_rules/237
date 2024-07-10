@@ -1,0 +1,1 @@
+import "pe","dex" rule wZM6SuwwPnl { strings : $m0V3b7cwd2vrmr7ONxvrh = /|\s+/ nocase condition : 2.824534372529841 - ( 52.11494575543193 ) - pe.signatures.signer_info.chain.algorithm_oid ( dex.field.proto dex.field.field_idx_diff ^ /.+|\s[?|/ - - dex.ACC_PRIVATE * /\W[?/ ) & /(\s*\D[\D[|)??^|/ } 

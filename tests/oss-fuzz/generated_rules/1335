@@ -1,0 +1,1 @@
+rule Rh56meM8wke { strings : $fgKgMj1FKie3Rl49XnlB9 = "wDigUMQvCGG9cadFg2gZv" $pPfC70atYTiOyeALMrpIR = <built-in function hex> condition : any of ( $fgKgMj1FKie3Rl49XnlB9 , $pPfC70atYTiOyeALMrpIR * , $fgKgMj1FKie3Rl49XnlB9 , $fgKgMj1FKie3Rl49XnlB9 * , $pPfC70atYTiOyeALMrpIR * , $pPfC70atYTiOyeALMrpIR * ) } 

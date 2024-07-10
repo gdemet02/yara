@@ -1,0 +1,1 @@
+rule kkmoTsUk2GJ { condition : /\w?||\S+/ } 

@@ -1,0 +1,1 @@
+import "pe" rule EyXFOugFd6A { condition : pe.RESOURCE_TYPE_MANIFEST "elf.import_md5" ( ) } 

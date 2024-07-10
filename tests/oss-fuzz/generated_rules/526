@@ -1,0 +1,1 @@
+rule AnLckKqbggB { strings : $Ys7Yvlyxq5lXCcQUBIqqO = "vw47ppUPYGaP54NuDpjx7" $hFJRvSrE61ltmxuIsIziz = <built-in function hex> $beKdhzL5aQ6Cxsnd8uJY2 = "GX1fk69mnInfxtp3bmHyb" $brQsQeUXLi0wrNOaOiH78 = "dQkDwexSbgZX9s2avwKMl" wide xor ( 41 ) condition : any of them } 

@@ -1,0 +1,1 @@
+rule V1MBLQ63KAG { strings : $I7QjPRAQ4UYIbdRDwyiR5 = <built-in function hex> $uu7qB0txXM7oXAgsjmxjV = "wIgTa7sc6iMGr8RqSOcPk" xor $Hu43svnUsAeTACQCyFCfN = /[*\w[?.[?\s+?/ ascii $NHTMiV7Mz8K5eZ3mrkH1r = <built-in function hex> $RQMosCuYbKs8q7cTnGCMm = <built-in function hex> condition : false } 

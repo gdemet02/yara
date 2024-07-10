@@ -1,0 +1,1 @@
+rule oLxIik1BLua { strings : $kn7JgHAx646HC6vppO9KC = <built-in function hex> condition : none of them and not /^|67*?/ istartswith - 94.8955846133599 } 

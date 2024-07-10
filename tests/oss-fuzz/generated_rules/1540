@@ -1,0 +1,1 @@
+rule y9Gz50JjcOz { strings : $gxjU8ZE8hj0wysC9TBprt = /(\B||||[??\s[)?|\B/ condition : true } 

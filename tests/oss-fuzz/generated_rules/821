@@ -1,0 +1,1 @@
+import "pe" rule EHYgMUqb8Ym { strings : $BlmW6HT5hrlg5mJFHmOUB = "ncIdj25f3CCOjJxuwulel" $u6XQLZ6DH5UbhmlAOvTLs = /\D??\[2\B|/ wide $tMb8FJJzsYyh2I5Sr5pvZ = <built-in function hex> condition : ~ - pe.rich_signature.clear_data of ( $BlmW6HT5hrlg5mJFHmOUB , $u6XQLZ6DH5UbhmlAOvTLs ) } 

@@ -1,0 +1,1 @@
+import "pe" rule PHCNMZE415z { strings : $qB30z3FgFsR904QWmlxvz = /(\?\w+?)[?\W/ nocase nocase ascii fullword ascii condition : any of ( $qB30z3FgFsR904QWmlxvz , $qB30z3FgFsR904QWmlxvz ) at pe.export_details.ordinal } 

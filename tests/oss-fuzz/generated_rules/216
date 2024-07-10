@@ -1,0 +1,1 @@
+rule dIIMNotna2V { strings : $mPJlqFVWXtJWt6mVFaoxV = <built-in function hex> $D3PBESEz4AGTM336b6Ehz = "lalcNWmqQVfRQPlSARNPk" condition : false } 

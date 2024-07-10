@@ -1,0 +1,1 @@
+import "pe" rule ciDmisxe6ul { strings : $Z4mgxXqX2iSfIscx06XNf = /^^|\*(\W[\S?)+\D+?\W?|||\W+\s??\s+\D+[?|\B||/ $zejLedQr9fyUxbMX0XMYm = "Wi1vK6NyWHOhIpQCd7nYm" wide xor ( 95 ) $FqbqQqwOmXbU3IspUvyue = /|[[*|\S[?|\w??27*||28*([?||)??|||/ nocase ascii condition : - pe.signatures.signer_info.chain.serial } 

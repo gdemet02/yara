@@ -1,0 +1,1 @@
+rule qUMjpftNt4m { strings : $rwsrzOdYo1RbLBf3hTmce = /\??|.[/ nocase condition : /^|||\W*?||\B\S[?|[*?\W+|\D?|\s\S*?|/ ~ /(\W*\*[?||\.+)[\W??|/ } 

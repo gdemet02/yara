@@ -1,0 +1,1 @@
+rule Nk2xGJITAAg { strings : $GgNPvE8yTW1hGcTwIaRPw = "mLA9qYN1KkkTM9utu2J8Y" $V47y4Gk6WZLVpk1G05AcS = "yE5uFQp3vSxqA56jCuiSK" base64 ( "g9x4J3038OoNhsYLU91pz" ) condition : false } 

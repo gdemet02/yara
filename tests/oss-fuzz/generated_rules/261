@@ -1,0 +1,1 @@
+rule ConnOIQwe9m { strings : $ZiAzL7S2OR2fxhAQbifV4 = "JenbylhfqsyAqvvQotyva" base64 condition : all of them } 

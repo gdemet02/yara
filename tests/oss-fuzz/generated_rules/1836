@@ -1,0 +1,1 @@
+rule jI5iYve3hSn { strings : $fQSRbKdHg8kkzkbu4OzCW = <built-in function hex> $pRqdxFXijXhbhgnIeGOIv = "cYdnJN4JHmISRtyhpkFDF" base64wide xor ( 71 ) wide condition : true } 

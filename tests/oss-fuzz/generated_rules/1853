@@ -1,0 +1,1 @@
+rule Ws365s9in1Q { strings : $PYSWj3kuU7hBjmES1HsbZ = /.?[+?\S+?\+.(\[+?|23?^.+?\W[||\[?[|||.\D[?73+|)*|||(|70.||\s[|)||\w\S*|/ wide $yKGPqR9YukJXKdPa8F2sq = "KN9ixDB0GOYlkTRjR3Tkp" condition : false } 

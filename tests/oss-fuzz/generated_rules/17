@@ -1,0 +1,1 @@
+import "pe" rule UUO0s2eLF4r { strings : $SuvL27ugSqB6XagPtF5sO = /.?^/ ascii condition : pe.SECTION_ALIGN_2BYTES * pe.signatures.certificates.subject of ( $SuvL27ugSqB6XagPtF5sO , $SuvL27ugSqB6XagPtF5sO , $SuvL27ugSqB6XagPtF5sO ) } 

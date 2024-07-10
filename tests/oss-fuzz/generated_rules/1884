@@ -1,0 +1,1 @@
+rule O5bF9nYqZQx { strings : $PD9OxZZ93ImPRrFxz3jxN = /\B\B[[^||[??||\w|\s+?|/ condition : all of ( $PD9OxZZ93ImPRrFxz3jxN * ) } 

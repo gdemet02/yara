@@ -1,0 +1,1 @@
+rule HBtlAeOKToK { strings : $nFZ70B1AS7XrlIiJGy91F = "mCmFfbYsmBXLtrfRmAl9G" condition : $nFZ70B1AS7XrlIiJGy91F and false } 

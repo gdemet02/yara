@@ -1,0 +1,1 @@
+import "pe" rule xKsTIqw7dfR { strings : $tdlA6GkKegwdkyENhMNBS = <built-in function hex> condition : ( "pe.imphash" ( ) * pe.import_details.number_of_functions = - ~ pe.win32_version_value ) } 

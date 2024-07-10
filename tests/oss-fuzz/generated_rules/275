@@ -1,0 +1,1 @@
+rule yZ2ul6FX81H { strings : $OFtn5TVNNMVA52wXdcRmn = "MWKedpuzR9PXL5pavUaRc" ascii xor ( 33 - 29 ) condition : $OFtn5TVNNMVA52wXdcRmn } 

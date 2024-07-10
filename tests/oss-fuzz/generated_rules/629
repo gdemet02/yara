@@ -1,0 +1,1 @@
+rule PhxQh9oLnOz { strings : $dsTRoIxeutvzZ8sdA2efF = <built-in function hex> $zqsLY78cdnzqLpsySZa7F = /\s?\S[?[[?||||(\+.+\s[)*?/ condition : true } 

@@ -1,0 +1,1 @@
+rule LLtex8vh5dm { strings : $I0FjEryUSEjymfKfixtVz = "vzHwbHANc4QmE7h1xOS9S" nocase xor ( 25 - 29 ) $DJvPeE46J9LtzKxcuRQOn = /|\D[?\s?\w[^|([[?\W+?\w+|\B|.|)??61/ wide ascii $tyd7NJaOqQQEbZORXkthX = "XEFlPn2iBjaikgVakmApO" xor ( 25 - 53 ) condition : 18.127576025760874 % of them } 

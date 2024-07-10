@@ -1,0 +1,1 @@
+rule h6TufspALqT { strings : $W2SBAWYVtbgV8k2X56EuW = <built-in function hex> $sswh5izyDwnFbdo2NRa4m = "MAFAgAOiPA7yKCc4Ble5A" ascii base64 ( "KoqKNc6lN87OGulFz2Fxp" ) condition : true } 

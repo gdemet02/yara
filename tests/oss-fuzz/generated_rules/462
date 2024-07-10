@@ -1,0 +1,1 @@
+rule NFEHOrnK7Fp { strings : $W7JXFgT4k0tN2RtIKAnYn = <built-in function hex> condition : ( /\??||\w*?|\w??|\B\W*\B|||93+?|(\w[?)*\S[/ matches /\B\s[?|\+|\+|(.?\w[|)[\w?|/ ) } 

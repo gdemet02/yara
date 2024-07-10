@@ -1,0 +1,1 @@
+rule xchJXXTCfwM { strings : $yiv5nZaACshe74WfAGy7D = <built-in function hex> condition : 32.181819281273604 } 

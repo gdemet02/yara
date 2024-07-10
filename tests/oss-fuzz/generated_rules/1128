@@ -1,0 +1,1 @@
+import "pe" rule DDontwpYrbP { strings : $QRGCYPC3Pm3Eztp7bNg9o = "jS6sLpVCTOkuT4vr6qBIE" condition : - /\D[?/ % pe.MACHINE_TRICORE /[?|||||/ % of ( $QRGCYPC3Pm3Eztp7bNg9o * , $QRGCYPC3Pm3Eztp7bNg9o * , $QRGCYPC3Pm3Eztp7bNg9o * , $QRGCYPC3Pm3Eztp7bNg9o , $QRGCYPC3Pm3Eztp7bNg9o , $QRGCYPC3Pm3Eztp7bNg9o * ) } 

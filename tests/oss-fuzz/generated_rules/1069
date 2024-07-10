@@ -1,0 +1,1 @@
+import "pe" rule AMk1V8VDKby { condition : ~ pe.WDM_DRIVER \ /[\??|.*?|||||[+|34|.*|/ istartswith /(\??)+?|\w?|26+?||\w*?\s[?\w?\D??||^|\S.??|.\s?|\w+||/ } 

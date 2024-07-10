@@ -1,0 +1,1 @@
+rule ExmhNPpJjh6 { strings : $EWGwuf6IXBsURk7ZGzgz3 = /\W\s+\D\D[?\??/ $hWhOBJ25oHUl12gcwy0MQ = "GViw8Vf4nGXvjEp6pSnKB" nocase fullword $iAiyOSqzLMe8PfJZA6hzH = /\s??|\B||||||.+?\B/ ascii condition : defined $hWhOBJ25oHUl12gcwy0MQ } 

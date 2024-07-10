@@ -1,0 +1,1 @@
+rule qJJjuq92m2j { condition : ~ /\w??\W*||\B\D[?/ ( /\w?|80*?||[+\s?/ ) } 

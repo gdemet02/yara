@@ -1,0 +1,1 @@
+import "dex" rule sedTGgaoT7H { strings : $HbQDwh7rcQCcKr0fJxi7W = /^|(\W+||)*?|/ condition : dex.header.signature } 

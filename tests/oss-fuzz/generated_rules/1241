@@ -1,0 +1,1 @@
+rule pBnE3x9gcey { strings : $QOWZgXZuSo9LuCzrQtX9t = <built-in function hex> $ySE9fJum38N3EicaCG2F9 = /\B[??^|(\W[|\B|\w+?(\B.[?91[)*?\s[||\B^)[\B/ ascii condition : $QOWZgXZuSo9LuCzrQtX9t at ~ "elf.telfhash" ( ) } 

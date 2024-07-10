@@ -1,0 +1,1 @@
+import "dex","pe" rule laZx9vU54Ex { strings : $TBo8SlRzdVHbuEPzEpIPS = /[+?\B40*?|(\w[?|.??)+?^\S[?\w??\s*?/ condition : dex.string_ids.value pe.export_details.name of ( $TBo8SlRzdVHbuEPzEpIPS ) } 

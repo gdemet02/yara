@@ -1,0 +1,1 @@
+rule nVxVzDa2aUO { strings : $jQYIBUIlS6x9pHFWWkHx0 = /\S?\w?/ $JivJ6fxF4nsABmAsIAnrU = <built-in function hex> $kZLeHCacBwPaBTU9PDVix = "mELmdqM2YAiqt9DdLUAy4" xor ( 37 - 9 ) condition : true } 

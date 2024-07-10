@@ -1,0 +1,1 @@
+rule Nf19atbr3Ml { strings : $EMVqHoFtIsIwnprrfAIPr = "wtQ00DbLj8lfIPzWLqE8E" fullword condition : none of ( $EMVqHoFtIsIwnprrfAIPr ) } 

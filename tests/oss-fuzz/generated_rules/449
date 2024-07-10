@@ -1,0 +1,1 @@
+rule YHB3ccSef8G { strings : $NHbAXMBaakuGmtIuHIwe3 = /\D[?|\B\S[.[?/ fullword condition : $NHbAXMBaakuGmtIuHIwe3 } 

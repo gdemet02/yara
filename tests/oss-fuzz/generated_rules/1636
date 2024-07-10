@@ -1,0 +1,1 @@
+rule lTb5MCKAYdM { strings : $EuQ9Kqqqg2iLCxBi822ec = "GUUWpCutXm6nPndwYJP7J" xor $mWTjILcnZbnxErb2JNtwT = <built-in function hex> condition : any of ( $mWTjILcnZbnxErb2JNtwT ) } 

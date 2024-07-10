@@ -1,0 +1,1 @@
+import "pe" rule RBFucrzPueI { strings : $KxQ2DwbSliTznSxZOMfOk = "bwrrtmBwVWlEPkruBts9b" $H4dg8mXa3J0XJYYoOxZqK = "pwuR82lzaTP7UyIhUsrPI" wide condition : defined ( pe.delayed_import_details.functions.name ) contains ~ ( pe.dll_name ) } 

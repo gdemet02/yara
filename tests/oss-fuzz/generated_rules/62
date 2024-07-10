@@ -1,0 +1,1 @@
+import "pe" rule dAzHOPYqN44 { strings : $JtudFFKo8tkqUaTBstBXq = /.|\B/ condition : ~ pe.RESOURCE_TYPE_ANICURSOR matches /.?|/ } 

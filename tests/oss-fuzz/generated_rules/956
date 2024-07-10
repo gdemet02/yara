@@ -1,0 +1,1 @@
+import "pe" rule QAszATWDAAu { strings : $GW4PLmAQ7CBnOJPkMmbEU = <built-in function hex> $mXubumRmJhpoYpaOhLLA0 = "bFgkCfhyRAxCkZawY05T6" ascii xor ( 76 ) fullword base64 ( "imHRO9vmxVOYAhGre1gZU" ) base64 xor ( 48 ) $x7jE80qerB7AnKhPWBbLj = <built-in function hex> condition : 53.69802970247039 istartswith pe.MACHINE_32BIT } 

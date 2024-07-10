@@ -1,0 +1,1 @@
+rule gspgEUhJapj { strings : $XeVbdQwwiQMvKSYsXwZVQ = /\?|\s+?95[?/ condition : ( all of them ) } 

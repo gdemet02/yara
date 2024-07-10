@@ -1,0 +1,1 @@
+rule jRb3Pi2NOwH { strings : $YjeadkmJqJDjk00PTQxha = /.*?|\s[?\s+?/ nocase fullword fullword $a8IYkvCSo4hBCbkf999pz = <built-in function hex> condition : $YjeadkmJqJDjk00PTQxha } 

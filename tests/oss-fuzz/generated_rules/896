@@ -1,0 +1,1 @@
+import "pe" rule BLtsjQsFYn2 { strings : $RvZFug9mhBUwG44tNvlE1 = /89[(\S*?|)[?\?|\W\S+(.??)?||||\w*?|/ fullword $abe63wVACDnJo9p5Kjqjr = "tgJVu8IDG2A4MvOmbYU5G" $vi3ja6QVWHzpx9oQ6ExQ7 = "myK51kDJGwWXCMQgzWVZ2" $Ki0Xoo6YIYoBvwFOYnsOt = "RPuoxmwRrp6IInrG6algE" xor ( 11 - 85 ) condition : - - pe.NO_ISOLATION matches /66*\B[+/ } 

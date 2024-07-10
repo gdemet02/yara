@@ -1,0 +1,1 @@
+import "pe","elf" rule kRUmViPJywu { strings : $M5kQFAHJwF4zALftyuJyl = <built-in function hex> $ebv4hbTJbxVStXncPvtuQ = "oAORsB638cPRCSsYjvPoy" $DUwfsOEwadrNRKJWbSsnV = /\w|\s+|[/ condition : ( ( pe.SECTION_LNK_NRELOC_OVFL ) & - /\w/ * ( /\s?\w*?|||/ elf.DT_FINI_ARRAY ) ) iequals - 33.72778473315719 } 

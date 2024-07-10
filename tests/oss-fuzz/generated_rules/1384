@@ -1,0 +1,1 @@
+rule qgEfmpCiKrk { strings : $HEXNPUrHPyFcQTYp3RMsM = <built-in function hex> $gWxgUesxcEuwsBK2kP8S0 = /90+?/ condition : false } 

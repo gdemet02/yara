@@ -1,0 +1,1 @@
+rule guiaBZMpl4y { strings : $J3NiLK1XGJmFLHITmN5Nc = <built-in function hex> $eSRurs68kZRDmixue5d5e = <built-in function hex> condition : true } 

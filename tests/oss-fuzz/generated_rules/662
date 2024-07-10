@@ -1,0 +1,1 @@
+rule wwpgX4N9uVx { strings : $VR9bEoDqQrg4gvr0Hdswh = /^^/ condition : for all } 

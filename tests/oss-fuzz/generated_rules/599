@@ -1,0 +1,1 @@
+import "pe" rule GCNJySWhYqK { strings : $GmIZgoPwydsC254vz91tR = /\S??^^\w*(36+?)\s?\s*?|.[|||/ fullword nocase $LHtdD3jL51HPr1VgxGRJg = <built-in function hex> condition : pe.signatures.issuer % of ( $LHtdD3jL51HPr1VgxGRJg ) } 

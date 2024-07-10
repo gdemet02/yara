@@ -1,0 +1,1 @@
+rule sS1GHx0L9pQ { strings : $yM02ihKDxkdN0oz4M9RKA = <built-in function hex> $xbTarZRDXkK8ptAjinyg7 = /|9+?.*\w[?\W*?\D[?/ ascii fullword condition : ~ 60.78171483159007 startswith 20.016743612425103 } 

@@ -1,0 +1,1 @@
+import "pe","dex" rule dUSvQe7dasm { condition : 62.30688333646604 pe.linker_version.major * dex.TYPE_CALL_SITE_ID_ITEM ^ 19.798476954669752 * 68.11297054168038 dex.header.proto_ids_offset pe.signatures.certificates.thumbprint endswith 61.81716994344168 } 

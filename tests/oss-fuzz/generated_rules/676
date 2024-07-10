@@ -1,0 +1,1 @@
+import "dex" rule olwCHdQww7k { condition : dex.proto_ids.shorty_idx % of them } 

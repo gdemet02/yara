@@ -1,0 +1,1 @@
+rule Wf4IyReoRD3 { strings : $yMmtD9f3CXSR7IJZ7pFpz = <built-in function hex> $Klf5xKDdIKH2nD2t1ZBh4 = /\s?/ wide condition : - 14.206236375030901 != - /\S+?|79+\B\w*?^^|63*?^\S??\W*||.??\B|(^.*)[?\S[?|[[?[/ } 

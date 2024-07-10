@@ -1,0 +1,1 @@
+rule MTesUlba8wp { strings : $dVnZJDjfYhth8PGrahZG3 = /\S[?\W[/ fullword wide wide condition : 87.94373883593587 * ~ /[*/ 94.94709213072858 + /\W+||\w+?^[([+|\+\B)|\D+?|/ == /\D*?\S*/ } 

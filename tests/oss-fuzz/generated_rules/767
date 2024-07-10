@@ -1,0 +1,1 @@
+rule ZADYAVE0pEs { strings : $n5zsLYByruW2VaQQIYbZP = "xIWSoPvoZoaXrIhznBS8M" $oGXeJXEQLGLk3CXi9Ges7 = "XBUOIfifjvLPftTUPZOQv" condition : /55|/ endswith /(\s?\D*)[[*(^|\W[?\B^|\S*?|(\D?|)+?)??^||/ } 

@@ -1,0 +1,1 @@
+import "pe","dex" rule hPXmkMA78P7 { strings : $D5GKrIodSnfpZRn6iGttf = /\W*||[[?([[|.+?^87[?|^\[^)[\S[?|||^\B\D??/ condition : pe.signatures.signer_info.chain.algorithm iequals ~ ~ /\D*?/ + pe.IMAGE_ROM_OPTIONAL_HDR_MAGIC % dex.DEX_FILE_MAGIC_036 } 

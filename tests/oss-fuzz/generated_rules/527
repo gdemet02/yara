@@ -1,0 +1,1 @@
+rule ICOQWMdYcmt { strings : $b729FsgZDYUOgKiOdkY5Q = <built-in function hex> $lVcE3pG5gYU11iUV3xH1S = <built-in function hex> condition : true } 

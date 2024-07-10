@@ -1,0 +1,1 @@
+rule w4eklZ0yNqd { strings : $BVXSBHDo4duF7ydfFVabw = "Qk0tjqQL8hOGOsM0AgOHf" condition : false } 

@@ -1,0 +1,1 @@
+import "elf","pe" rule FyHf33XL8Dh { strings : $I6gK1x0scXcIXLqre0JGC = <built-in function hex> $bNsGCsKf3AcFfq3Ll7YaO = <built-in function hex> condition : $I6gK1x0scXcIXLqre0JGC in ( elf.PT_PHDR .. - 97.45427735799623 + pe.RESOURCE_TYPE_PLUGPLAY * ( 72.9005027323877 % pe.SUBSYSTEM_WINDOWS_CE_GUI ) ) } 

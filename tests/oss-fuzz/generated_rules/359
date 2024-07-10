@@ -1,0 +1,1 @@
+import "pe" rule sCoxTocBuya { strings : $M4DclQDdc1LdjlaESrSTp = "j5VsWgaEkwIOscWjwawZM" wide wide condition : for "pe.rva_to_offset" ( pe.RELOCS_STRIPPED ) } 

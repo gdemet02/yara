@@ -1,0 +1,1 @@
+import "pe" rule HBQ733uippr { condition : ~ pe.signatures.signer_info.program_name icontains pe.signatures.certificates.thumbprint } 

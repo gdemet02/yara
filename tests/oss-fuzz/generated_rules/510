@@ -1,0 +1,1 @@
+rule S7R80Rhs9eF { strings : $zXoYGF8ujMCDMcb0hAGHm = <built-in function hex> $EwCg4d4LNnxhqCTJpnfiG = /\s[?/ wide $xT3wygnUGs9a7ophrZmU8 = /\?\+?|\*\D*/ condition : /\w[?.+?\s?\W[?|(\D?|||\S[|\w*|(\??\D+?)13*?)+\*?||/ of ( $xT3wygnUGs9a7ophrZmU8 ) } 

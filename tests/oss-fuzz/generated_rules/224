@@ -1,0 +1,1 @@
+import "pe" rule o79iAQs3xtJ { strings : $m6ABRXhEs0ux5ZTUj5mmC = /[+|||/ $alxGI9PBgNW7UzbwEcD3a = /^/ ascii nocase nocase nocase condition : defined 94.21084434262501 contains pe.SECTION_MEM_PRELOAD & 41.962817996360315 } 

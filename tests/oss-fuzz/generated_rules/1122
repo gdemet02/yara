@@ -1,0 +1,1 @@
+import "dex" rule dOFDHJkOlJA { strings : $D1ogoS2abyf8KQWeEWlMy = <built-in function hex> condition : dex.method.code_item.insns contains - // + dex.method.class_name } 

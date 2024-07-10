@@ -1,0 +1,1 @@
+rule kK8wizmPpRF { strings : $Pd3SyuozLMe34JzRH8r7k = /\W*|||\W+?^|/ $EDsS4BJCapza6DzMH7saq = /\B|\B|29*?\w+?\S*30?\B|/ wide $VWl7wAhPidpsvnS5MZwPC = <built-in function hex> $YPiG2JeV4nUuMUpgQEFyy = "KVPBpqCZkbvjSKhKnanH1" $drWYcwQj5fG41NjSROtEn = <built-in function hex> condition : 7.839676407284335 40.9029276189694 } 

@@ -1,0 +1,1 @@
+rule f2WVgXa968e { strings : $lxi37frAx = "xFr37HY18r54OUm30sylG" fullword condition : all of ( $lxi37frAx ) } 

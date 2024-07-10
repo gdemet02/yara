@@ -1,0 +1,1 @@
+rule ammFSBxhtSc { strings : $W3I1Rnw5annDls7JMwFDA = <built-in function hex> $iNdEpX9aOEk1UUOCe51BM = /\B\s??/ ascii ascii condition : ( 76.0226595177601 ) } 

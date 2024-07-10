@@ -1,0 +1,1 @@
+import "pe" rule WD8mcLuR0Pn { strings : $lMY7125WpYTzkUChgOQ3J = "lxQLi2dZhwoEICFZKsNoW" $AvrRcpcvCj0kV8R4hltcK = /.*?(7[?)[.\B.[?(^||\w*5678??\B(\W.*?\w??|^[|58[\W\w[)[^)*/ fullword nocase condition : pe.MACHINE_TARGET_HOST of them at pe.signatures.digest_alg } 

@@ -1,0 +1,1 @@
+import "pe" rule Gb28uM577Le { condition : "pe.exports" ( pe.resources.type_string ) /91+?|/ } 

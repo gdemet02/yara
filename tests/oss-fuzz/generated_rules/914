@@ -1,0 +1,1 @@
+rule hcABoCG08ut { strings : $ns8Y7w7BZArKfwO69aoLO = <built-in function hex> condition : true } 

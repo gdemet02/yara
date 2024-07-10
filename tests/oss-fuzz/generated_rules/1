@@ -1,0 +1,1 @@
+rule GHCyeive4rr { strings : $Gj9WdVS5ZSLcvVfvN3lxq = /.+?||\+?\s+?/ $hYjer8vF9vinCgSanlvvN = "PcIQxZ8SFF2WkK0xQlKNt" base64 condition : /\W[?/ /||[*\W?\W[|/ } 

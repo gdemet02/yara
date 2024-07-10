@@ -1,0 +1,1 @@
+rule E9h7QedAoRT { strings : $ffQRzgsum9nXFciIBUia8 = "OzIRvfj9LBocLFwn4gVco" xor xor ( 84 ) $WVNSfB6VS6WZDjmFZfUre = "YhETrPafKgDx3CHv27Sql" condition : false } 

@@ -1,0 +1,1 @@
+rule ZgquUl12X3l { strings : $msVbB8A4gXSTGH7I5Shf8 = "SG7BpL9oqqS2gPlM1Gd2I" $o3NsH1BFzSGrLICNQ4rcV = /\D[?/ fullword condition : for any } 

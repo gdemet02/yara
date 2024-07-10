@@ -1,0 +1,1 @@
+rule M7MU492BvQX { strings : $QqB7goND9NbGxALhWjvu7 = "hiW10d4z1sqFX8flvhkna" xor condition : $QqB7goND9NbGxALhWjvu7 } 

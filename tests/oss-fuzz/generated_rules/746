@@ -1,0 +1,1 @@
+import "dex" rule NTVf3OVManq { condition : dex.DEX_FILE_MAGIC_038 - dex.header.link_offset matches /[\D?||\w*|.*?||/ } 

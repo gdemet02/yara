@@ -1,0 +1,1 @@
+import "pe" rule sbKfAF4GfxT { strings : $zZI41LOgub9UIdOx1Hflv = <built-in function hex> $D0Zq4aiZgAhqmMunujagJ = <built-in function hex> condition : pe.SUBSYSTEM_WINDOWS_CE_GUI % of ( $D0Zq4aiZgAhqmMunujagJ * ) } 

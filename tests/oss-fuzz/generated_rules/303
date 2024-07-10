@@ -1,0 +1,1 @@
+import "pe" rule XHxoVBYv8wx { condition : pe.export_details.forward_name icontains 56.78439099374432 } 

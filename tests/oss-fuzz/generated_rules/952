@@ -1,0 +1,1 @@
+rule V8ylCZqsIXQ { strings : $trEpiiA2sevlisUnS4hFO = <built-in function hex> condition : none of ( $trEpiiA2sevlisUnS4hFO * , $trEpiiA2sevlisUnS4hFO ) } 

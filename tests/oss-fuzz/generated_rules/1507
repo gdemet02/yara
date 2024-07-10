@@ -1,0 +1,1 @@
+rule lI0updf7KeP { strings : $W3wmjlio6PA2pG474DQrf = // wide nocase fullword nocase $LnDc0K8qoYfoI7hF6IK91 = "Er2Lp5dIfiVmXgWQmbMpZ" base64wide ( "W51yRkjyO8ei7lIIAvdYz" ) condition : false } 

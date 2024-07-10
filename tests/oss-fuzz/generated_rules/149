@@ -1,0 +1,1 @@
+import "pe" rule qKGckCEA8rT { strings : $AStBBZ6OtdCOB3FftpVwV = "W5KnKN0hotQjNaGWTOyXv" condition : for all of ( $AStBBZ6OtdCOB3FftpVwV , $AStBBZ6OtdCOB3FftpVwV ) : ( 67.75769652894246 of ( $AStBBZ6OtdCOB3FftpVwV ) at pe.export_details.name * pe.size_of_uninitialized_data ) } 

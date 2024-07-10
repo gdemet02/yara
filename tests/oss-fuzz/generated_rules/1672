@@ -1,0 +1,1 @@
+rule NqG4hL9TZAz { strings : $fo63b7PuEL9ltP0zEzahz = "pH4dVGxohL0LyIq8TuFzs" $mQVyNqNdKhdoaE6xOlUrQ = /.*\w[\??/ condition : $mQVyNqNdKhdoaE6xOlUrQ } 

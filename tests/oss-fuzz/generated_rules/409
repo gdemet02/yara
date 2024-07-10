@@ -1,0 +1,1 @@
+rule Zk7mXNI9JBT { strings : $Da9LpTLPzgSmZQuL36s0O = /\B\W[\s?|||\B\D4+?\|.*?||(\s??)*?/ condition : for all } 

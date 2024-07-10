@@ -1,0 +1,1 @@
+rule gCHYUtpJjwW { strings : $DvvYPgGrmfcT9FPRPhDl5 = "S4McRiD7v3zzTTqaSZ0sd" $tflj1a6DC7faPcuqxfZsa = <built-in function hex> $CtXsCiPB9E0ilJ88UOVoC = <built-in function hex> condition : none of ( $DvvYPgGrmfcT9FPRPhDl5 * ) } 

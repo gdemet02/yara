@@ -1,0 +1,1 @@
+rule nF1j39sDwus { strings : $DMQg6HysjGz4NAgprqxkc = "vRYPGzQXHk1F4tudK2iRR" wide base64wide ( "FZSBJMenIzsHuR0q4qn13" ) condition : none of them } 

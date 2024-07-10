@@ -1,0 +1,1 @@
+rule yB9QHD0k4tj { strings : $NZd0a5tcqwJIl5maOwwu3 = /\W+||^/ wide fullword fullword nocase wide $u8tatsRj3cTrfPRBEhMcO = <built-in function hex> condition : true } 

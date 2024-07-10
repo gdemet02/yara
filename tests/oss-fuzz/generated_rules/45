@@ -1,0 +1,1 @@
+rule yAoq1KIoxLh { strings : $Brl62hVyOHf9gmLxxoZmX = <built-in function hex> $TYfwz8b2LLZglNS5ssZrQ = /.*?.?/ fullword wide fullword condition : false } 

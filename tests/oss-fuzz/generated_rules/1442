@@ -1,0 +1,1 @@
+rule YM1dfVBhUgJ { strings : $h0DYKhYWpRTBzDp982GrP = /\[||/ ascii nocase fullword fullword fullword condition : false } 

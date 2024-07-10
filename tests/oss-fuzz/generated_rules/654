@@ -1,0 +1,1 @@
+import "dex","pe","elf" rule nVF671UXmqK { condition : /(\D?\S+?51[|73*?\w*|\w??|)*^.[/ * dex.proto_ids.return_type_idx pe.signatures.signer_info.chain.issuer ^ pe.signatures.digest_alg - pe.signatures.signer_info.digest_alg elf.EM_MIPS pe.sections.name + pe.signatures.countersignatures.chain.serial or pe.rich_signature.clear_data - /.*/ matches /\s?\D?\S\D??|/ } 

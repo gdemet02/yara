@@ -1,0 +1,1 @@
+rule bXGyQaztGJf { strings : $ZdesZYWKrtrLckXsgk4ea = /\w*[[?\+^/ nocase fullword $eDXSeZat8riwUqQrtBcPl = <built-in function hex> $W079lMhlmvsY7OHmnSQM5 = <built-in function hex> $UnTexjPb8CLBYHPy0CISY = <built-in function hex> $ujytIjYdY4iLd32JVKLVi = <built-in function hex> condition : for all } 

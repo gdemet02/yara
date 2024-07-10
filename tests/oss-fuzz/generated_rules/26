@@ -1,0 +1,1 @@
+import "pe" rule PdL4LMcEmMn { strings : $JFU9DUg2xMXqgpJDOKYSr = "R04TxBSRB4d7JxkfxJrfA" $qKTBpKiMMtKbfQsr5Uvda = /\w[?\D+?|/ wide ascii fullword ascii wide nocase condition : any of them in ( pe.signatures.file_digest .. pe.subsystem_version.minor ) } 

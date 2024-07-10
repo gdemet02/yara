@@ -1,0 +1,1 @@
+rule Sx0eUZg4okQ { strings : $w1ZwyZAsByeNk1sV4giFM = /\W??^^^/ ascii wide $w1ZwyZAsByeNk1sV4giFM = /\S*?/ fullword condition : none of ( $w1ZwyZAsByeNk1sV4giFM , $w1ZwyZAsByeNk1sV4giFM ) } 

@@ -1,0 +1,1 @@
+rule yfjCizC8Ocp { strings : $DkJE6AXpbOy5qwLgnJ9Tm = <built-in function hex> $xSjvMp8FWfgyn8vdxanS3 = /[\B/ $iBtU6mTgG3gyT6M9TU3l6 = "zBYRhpSxqXTbaHvWKLlWR" $JDPFdq6219l5WWlSR18bb = /^||\W[?\\w+.*/ condition : /.??\D+?.*?.[?/ of ( $JDPFdq6219l5WWlSR18bb ) } 

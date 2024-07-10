@@ -1,0 +1,1 @@
+import "dex" rule bez6GbDCt0f { condition : dex.header.map_offset matches /80*|/ } 

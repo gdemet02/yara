@@ -1,0 +1,1 @@
+rule Rkap16UiAla { strings : $TZbpVYF5UPh6KJiiMcu65 = /89?\D??||/ condition : true } 

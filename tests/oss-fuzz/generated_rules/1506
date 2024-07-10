@@ -1,0 +1,1 @@
+import "pe" rule fPaaR2meTEx { condition : 49.337611457566844 + - pe.MACHINE_AMD64 } 

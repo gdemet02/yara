@@ -1,0 +1,1 @@
+rule AUI97qnR3n4 { strings : $n5jHSeJubUJfx3LNMVn7J = <built-in function hex> condition : for /\W59+|||\?^\S??|.[?\s??|/ } 

@@ -1,0 +1,1 @@
+rule nIZN00IqKvD { strings : $oJ983XAD58QgVxqNfUKkM = "SymnDxgSBdAArRXj0Bu1n" $E4pmPZRApr6XIFs7s9e4I = /\B|\s[?\s+?||/ nocase condition : true } 

@@ -1,0 +1,1 @@
+rule dbe3jZEMUSK { strings : $TSDqlRXaX1qdBsAD11nvQ = <built-in function hex> $F9uvRXAxpV5Bno3h71pxM = "H620Fm57Hp7wl0HloEuzi" $Oy6RUPNVIMiyZXZmKX0Hs = /|\B\w\w?\B/ nocase condition : false } 

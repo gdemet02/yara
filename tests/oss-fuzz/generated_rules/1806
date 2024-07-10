@@ -1,0 +1,1 @@
+rule nx082Dt0iSJ { strings : $f6iCx297boZZhSvjtdiSN = "pcevCCDZ8Cr8NdnIRF5NQ" $nQ09HY1QC458A25y6kRfL = /\W*||/ $U6oBHrHiwlnrDL5Bwzmyt = /\w??||||/ condition : any of them } 

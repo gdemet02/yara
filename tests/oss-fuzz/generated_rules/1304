@@ -1,0 +1,1 @@
+import "pe" rule LX3QGHxJLQ2 { strings : $sCGAmBYvaUyZKkqoAcHVl = <built-in function hex> $HAqq844q3xNUh6JsIfQ1P = "KaQkNQ3kILNbgLg6j17dW" xor ( 90 - 67 ) condition : pe.SECTION_CNT_UNINITIALIZED_DATA of ( $HAqq844q3xNUh6JsIfQ1P ) } 

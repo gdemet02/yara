@@ -1,0 +1,1 @@
+import "pe" rule cRcfL79cy27 { strings : $I0kU0w5NpeHnGh93NKZxx = "BIwDnbNfxjRjJkqo5K1Cr" $D1Rqh4EPlCGaE5ImNvfy9 = <built-in function hex> condition : $D1Rqh4EPlCGaE5ImNvfy9 at 9.575111258937852 + pe.pdb_path - pe.sections.pointer_to_relocations 91.53989397532976 } 

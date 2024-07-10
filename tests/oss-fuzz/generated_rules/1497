@@ -1,0 +1,1 @@
+import "dex" rule pRrYXDhc3FJ { condition : dex.header.signature } 

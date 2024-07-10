@@ -1,0 +1,1 @@
+rule xenp6S0FqfF { strings : $b2qpp2uwv4QqC2baQwbMr = /\w[|\s*?/ condition : for none } 

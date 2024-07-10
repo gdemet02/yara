@@ -1,0 +1,1 @@
+import "pe" rule AF2Vx31J8hL { condition : 52.29225199584289 pe.SECTION_SCALE_INDEX } 

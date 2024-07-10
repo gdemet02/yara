@@ -1,0 +1,1 @@
+rule BAvxRa8QV5C { strings : $C8yZ4uUoJux9s2dmKYwXJ = "RuBKeGA4ztEawOZ3vCWbG" wide base64wide ( "vvINajHyEldT7ER3B5qZs" ) xor base64wide ( "WLaMHsvdZoyg50B7NWtid" ) condition : true } 

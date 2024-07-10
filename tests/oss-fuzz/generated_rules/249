@@ -1,0 +1,1 @@
+import "pe" rule rFTbbzQKiFW { strings : $fiPNvjVPRRtoCfAM7pUYo = "NVp6amrvKtcfxNiq5Rga1" base64 base64 ( "PCdtXMPPUxf96g16bucEZ" ) base64wide $Q7eZoOGuP5zPzCMlePYPs = <built-in function hex> $U9Uloolkx7n4iTeeZ9qrC = <built-in function hex> condition : ~ pe.pointer_to_symbol_table istartswith 41.71121312934254 } 

@@ -1,0 +1,1 @@
+rule H2HlLpUmclN { strings : $rMJ6hEc6smwYZkBC0Z3lW = "ulOmusQgUF1p1c3xWaytA" condition : all of ( $rMJ6hEc6smwYZkBC0Z3lW , $rMJ6hEc6smwYZkBC0Z3lW * , $rMJ6hEc6smwYZkBC0Z3lW ) } 

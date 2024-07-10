@@ -1,0 +1,1 @@
+import "pe" rule xH0TpdfAgIY { strings : $B4UEy15ovoCthd1GORvbs = "jt6Vhw8LoFDDoi4UO8ErB" base64wide condition : pe.signatures.signer_info.chain.algorithm_oid icontains ( /\s+/ ) } 

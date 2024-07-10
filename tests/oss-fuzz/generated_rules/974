@@ -1,0 +1,1 @@
+rule UyrjoYZLkVV { strings : $xNc15LvGUMJ2s8j7kbbUI = <built-in function hex> $yaVc97y5xwe9IKBZWZNI3 = /.*?/ $FIMJ0DDa9sUshEoM32Cnw = <built-in function hex> $XssS33MYqj61rmHPZTQ6e = "D9GH7PMOzDgo9JxSMDYHw" condition : for ~ /\S/ } 

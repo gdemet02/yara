@@ -1,0 +1,1 @@
+import "pe" rule klkqas6MRLA { condition : all of them at /^\S+/ * pe.IMAGE_DIRECTORY_ENTRY_TLS ^ /76||(87?\s?\[?\W+?||[?|\s*)[|/ % pe.NO_BIND * 37.724191046818525 } 

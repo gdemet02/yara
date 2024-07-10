@@ -1,0 +1,1 @@
+import "pe" rule gRqmbFk7LQn { strings : $ylWiUxy5ma1zBrBsSMMRO = <built-in function hex> $kyDBO2VAJ1qZQ6eBIz6Iz = /\W+||\s*||\W[|/ $PSyf806HpTWn1BUBuZVGN = /\?\w+||\w[?/ condition : all of them in ( ~ /\s[?/ .. pe.signatures.digest_alg ) } 

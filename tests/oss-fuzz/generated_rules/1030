@@ -1,0 +1,1 @@
+import "pe","dex" rule iO8DkuwvWh2 { strings : $EdX1AzpScwexUixYMeFOo = /[[\s??/ fullword wide ascii $Ka4HABMFwlyhYLnVPGxVP = "PWW0XoyqYeTkrdCYMR4GP" fullword fullword base64 ( "acR1P3rtpOsnATmFWQqn9" ) fullword condition : cQBrqJpBIXBJzzHYBV5Eo [ 57.147967402279974 * pe.signatures.digest ] % 39.9602532374151 + /\D?|/ = dex.TYPE_METHOD_ID_ITEM ^ ( /\B|\S*|0??||^[||\B/ ) } 

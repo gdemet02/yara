@@ -1,0 +1,1 @@
+import "elf" rule ErTkJKUBTtz { condition : 94.7724635102725 + /(\w??|\D[)[?/ icontains ( /^[[?/ & elf.STT_FILE ) } 

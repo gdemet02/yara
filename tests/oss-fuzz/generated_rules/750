@@ -1,0 +1,1 @@
+import "elf" rule xsm9uEehZaY { condition : defined 14.999064767415737 startswith 21.917879660624816 * /\W*?\+/ + elf.STB_GLOBAL /48+?\W[?/ } 

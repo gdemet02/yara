@@ -1,0 +1,1 @@
+import "pe" rule UsMLPmBt07i { strings : $f6PaILnAfgUx4U1cKMSF3 = /(.??\S[)*?\W*?/ fullword wide ascii $OI8r8CyrkdwxwTuMB7iFl = "I19bjSltL27CPI1SURNNr" wide $ujkdpigiZ5mR2dBiam48E = <built-in function hex> condition : pe.RESOURCE_TYPE_VERSION 64.46844187682339 } 

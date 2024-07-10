@@ -1,0 +1,1 @@
+rule aAvmTlD2vbo { strings : $KLwRIK7tmFaywxTxuZisD = <built-in function hex> condition : /\B/ } 

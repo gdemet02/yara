@@ -1,0 +1,1 @@
+import "dex","pe","elf" rule Smop4qj2UED { condition : dex.DEX_FILE_MAGIC_036 pe.SUBSYSTEM_NATIVE % ~ - elf.symtab.size + /.??|/ - /\w*/ ^ dex.DEX_FILE_MAGIC_037 - /\D??\D+|||(.??)+|/ & dex.header.method_ids_offset * pe.SECTION_ALIGN_16BYTES & 6.068257072180472 % ~ /\B\W*?\B|\B||^|^[?/ } 

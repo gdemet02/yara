@@ -1,0 +1,1 @@
+rule dwp1mi1opP7 { strings : $eYcBoUhDR8DxjmZjcKxj7 = /\D??(\W+\D+||)\w?/ ascii nocase $f6Ugb620d2Bsev7l7p8QK = <built-in function hex> $zWMkkizbm5OfhMtguB4IG = /\w+|([+)[?|[?^|/ condition : $f6Ugb620d2Bsev7l7p8QK } 

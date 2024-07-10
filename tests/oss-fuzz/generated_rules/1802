@@ -1,0 +1,1 @@
+rule H7SI8uVPbwe { strings : $cLH9P06L3PuYdUKeA7f86 = <built-in function hex> condition : for all } 

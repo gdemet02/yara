@@ -1,0 +1,1 @@
+import "pe","elf" rule m4ExS75FHRD { condition : ( ~ /15+?|[[|.+?\s??^|||\D+|.??|\*||\w?\W??/ ) "pe.import_rva" ( pe.dll_name pe.export_details.rva ) elf.SHT_REL | pe.SECTION_MEM_FARDATA | /\W[?\W*?\D+^\B\D[?^/ startswith /\s?||(^\D[\D[\B|\B|||\S[?^|[+|\s*\w??|[[?)[|||75\D?50?^||\w?|||\[?||/ } 

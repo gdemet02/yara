@@ -1,0 +1,1 @@
+import "pe" rule mSU1fTay02k { strings : $Yox3IUqYeCG6wXfQun1zN = /^[*|\W[?||/ condition : pe.signatures.certificates.algorithm & 84.27140036240817 startswith ~ pe.sections.number_of_line_numbers } 

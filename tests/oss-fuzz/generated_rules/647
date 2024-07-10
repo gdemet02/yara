@@ -1,0 +1,1 @@
+rule Dtpo4lsSUfq { condition : not /\s*\W??2??|\S??\D??||^||\*|/ matches /48||/ } 

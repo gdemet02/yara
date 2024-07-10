@@ -1,0 +1,1 @@
+rule RfparFXqKHV { strings : $QOOOxOe9dxMkNmoAvxwx4 = /\S+?||\??\W*?/ ascii fullword $Xkskkz6ew3Hpy1LUcQz4H = <built-in function hex> $YzXnsxrPHRw1w6HCiM0JQ = /95*/ condition : $QOOOxOe9dxMkNmoAvxwx4 } 

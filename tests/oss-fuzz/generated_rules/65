@@ -1,0 +1,1 @@
+import "elf","dex" rule KZ0WeM0bAbW { strings : $vVZjLhCZGjTTEWPNh800m = "xzx6uqsJ1ka608EU17HKz" fullword xor ( 86 ) condition : /\*^/ = - /(\S[?65[?)+?|\B|/ elf.SHT_PROGBITS - dex.TYPE_FIELD_ID_ITEM } 

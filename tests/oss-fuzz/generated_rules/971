@@ -1,0 +1,1 @@
+rule C7To2Q4ecdT { strings : $CsRDNyH2HDnNWhn4C7e6P = /\B/ fullword $q0MFh47CqqVXgr3BEP8Xg = /^25??|42+?||||/ fullword $V01qczL15p2hJHORfe5SH = /85*|.|^|\*?|.??\S\w*/ condition : not $q0MFh47CqqVXgr3BEP8Xg at ( /\W*?|\W|.??/ ) } 

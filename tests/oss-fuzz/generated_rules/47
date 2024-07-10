@@ -1,0 +1,1 @@
+rule ePuR1KNpprY { strings : $F9B4THKX5B99V7a4dcdQU = <built-in function hex> condition : none of ( $F9B4THKX5B99V7a4dcdQU * ) } 

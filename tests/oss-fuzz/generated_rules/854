@@ -1,0 +1,1 @@
+import "pe" rule UhumpHdlTe6 { condition : pe.APPCONTAINER } 

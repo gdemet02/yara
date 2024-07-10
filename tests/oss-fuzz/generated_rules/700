@@ -1,0 +1,1 @@
+import "pe" rule XMdRh6pD9OW { strings : $MYwG3pnZY6ldvNnYably5 = /||\S[\W[?\W??||/ ascii fullword nocase ascii fullword $AteTCcMGxq2OkyN2w0c8y = /\S??85[/ condition : pe.export_details.name 80.93645813894715 } 

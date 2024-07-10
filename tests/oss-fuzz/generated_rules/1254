@@ -1,0 +1,1 @@
+import "pe" rule TkAQJK2TUcH { strings : $bxxLs9sPkAzuzO5KAsCgx = /\D?/ fullword nocase $gvtQjBaSCjjy0vuTs1ibI = "qGp2zgW8eCvsQyDfjBgxC" $rqK848IzJwLX4XJ9agD5K = <built-in function hex> condition : defined /\D?|\[?\S[||/ /\B/ | /.+?|\W[?\s/ | pe.MACHINE_TRICORE } 

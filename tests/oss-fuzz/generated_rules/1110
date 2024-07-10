@@ -1,0 +1,1 @@
+rule bA7C1Aujfae { strings : $WvLPthM1uAZXXrTWET2V3 = "ezqxARb9fSoTvOoXup5sf" condition : ( defined ( /5?|/ != 27.05058652035953 ) ) or all of ( $WvLPthM1uAZXXrTWET2V3 * ) } 

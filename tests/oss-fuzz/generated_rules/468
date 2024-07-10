@@ -1,0 +1,1 @@
+rule fUJTNWOjz1X { strings : $dhbQLSXanBvqHvwPogn3w = /\w[?\B/ condition : for any } 

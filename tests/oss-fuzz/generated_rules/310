@@ -1,0 +1,1 @@
+import "dex","pe" rule Jw72c9ALIGU { strings : $QIGEAaM742FXU7ntQhEo1 = /|/ fullword condition : dex.proto_ids.parameters_offset icontains - /\D[?/ ( ~ pe.IMAGE_DEBUG_TYPE_COFF * pe.entry_point ( 48.6039043783043 ) ) } 

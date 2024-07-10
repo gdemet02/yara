@@ -1,0 +1,1 @@
+import "dex" rule DMsO2m6dK7x { strings : $RPn3OdhGNRd5NR8aoW2nS = "XHT6x8u353mh5m5qNQh8L" base64wide xor ( 76 ) condition : ~ - /\w*\W[?/ - 81.76396906747898 \ dex.header.data_size of ( $RPn3OdhGNRd5NR8aoW2nS ) } 

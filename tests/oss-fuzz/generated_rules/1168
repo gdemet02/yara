@@ -1,0 +1,1 @@
+rule X3bFSVQiQWO { strings : $Ac8671MnlSf7QMItfm4lf = /(^)*?||[\B|||\B/ ascii fullword condition : all of them } 

@@ -1,0 +1,1 @@
+rule PwkcxLnif1y { strings : $pp87C6oSbxXEQmYWu4h0v = /\B||^|(.*|\w[?|\B|.+)*||^/ fullword fullword condition : $pp87C6oSbxXEQmYWu4h0v } 

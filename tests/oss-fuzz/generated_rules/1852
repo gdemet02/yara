@@ -1,0 +1,1 @@
+import "elf","pe" rule xYwY2pjsUNN { condition : elf.DT_FINI_ARRAY pe.signatures.countersignatures.digest_alg | - elf.sections.type + 31.65236076921756 } 

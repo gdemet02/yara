@@ -1,0 +1,1 @@
+rule GQpevYFJgsI { strings : $I0kU0w5NpeHnGh93NKZxx = /^\B||||\??|/ condition : not false } 

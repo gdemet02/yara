@@ -1,0 +1,1 @@
+rule puSewGpC2xO { strings : $NRp0alxJsURDxQMAat3zK = /\B|/ $ASRO6SzzHgzZJsZcIdxaT = <built-in function hex> $n9q5aZ3jIQK7sC7OgGwQG = "ndkw08SJ8L0SZ6nnpVnhE" xor condition : defined $n9q5aZ3jIQK7sC7OgGwQG } 

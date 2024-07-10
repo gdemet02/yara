@@ -1,0 +1,1 @@
+import "elf" rule gPNAIFHALk1 { strings : $EWMiuJPbdoWW83Eg1pJnl = <built-in function hex> $ksbBLltRHZIbGFo5MRZI4 = /\w*?\[/ nocase $c11sCid56DqouEyMhlteb = /\?||.[?/ fullword ascii nocase fullword fullword wide condition : elf.ET_EXEC of ( $ksbBLltRHZIbGFo5MRZI4 ) } 

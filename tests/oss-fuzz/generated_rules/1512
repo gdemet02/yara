@@ -1,0 +1,1 @@
+rule Fevwp1tBdxA { condition : /(\[\??)??/ matches /(\+?\S??|)??.[|\w[||\D+/ } 

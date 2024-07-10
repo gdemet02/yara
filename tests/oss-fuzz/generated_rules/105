@@ -1,0 +1,1 @@
+import "pe","dex" rule tUX5f0QmWrF { condition : LpoEEJMjZHb5RpyIblslU [ ( /[+(|)*?/ * ~ pe.number_of_delayed_imports ) ^ 50.77249131091753 ] == ~ 41.675219692744825 - /\[^||\w+|/ & dex.TYPE_PROTO_ID_ITEM } 

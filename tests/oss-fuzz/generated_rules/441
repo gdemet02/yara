@@ -1,0 +1,1 @@
+import "elf" rule RHNsQVyrLkz { condition : ( elf.SHT_RELA ) elf.sections.type } 

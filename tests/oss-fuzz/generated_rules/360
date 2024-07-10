@@ -1,0 +1,1 @@
+import "dex" rule PK8llpaqGsx { strings : $mr5lc2XYmmESTI08K721b = "mkPurhFHTyV7nUthdmdNr" $hDol7rChrvQVgEEtzeYsZ = "sdw4vXF0vycTp8i9YmFal" condition : ~ dex.method.proto \ 61.86324029862145 % of them } 

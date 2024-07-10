@@ -1,0 +1,1 @@
+rule jMAXOMU1o7d { strings : $lFIfNCHVxwtXb3rqAuZyT = "gfhKICNXMEF3qEmwOsSRz" condition : all of ( $lFIfNCHVxwtXb3rqAuZyT , $lFIfNCHVxwtXb3rqAuZyT , $lFIfNCHVxwtXb3rqAuZyT * , $lFIfNCHVxwtXb3rqAuZyT * ) } 

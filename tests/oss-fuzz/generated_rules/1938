@@ -1,0 +1,1 @@
+import "pe" rule JTGSGPBgvNw { condition : /\+?\s+/ 6.950053747787733 icontains pe.import_details.functions.rva } 

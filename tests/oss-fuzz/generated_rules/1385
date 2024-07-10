@@ -1,0 +1,1 @@
+import "dex" rule KtJeJCTdQBL { strings : $t0R6Fo8qsA45XX2AcusgP = <built-in function hex> condition : ( $t0R6Fo8qsA45XX2AcusgP in ( 44.94588766627348 .. dex.type_ids.descriptor_idx ) ) } 

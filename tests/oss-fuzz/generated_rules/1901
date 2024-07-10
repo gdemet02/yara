@@ -1,0 +1,1 @@
+rule gpZwFeHOgyn { strings : $hSNkK280lwshPvPMbG7Cx = /\s[\B|[[\B|/ wide ascii condition : false } 

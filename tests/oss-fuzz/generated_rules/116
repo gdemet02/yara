@@ -1,0 +1,1 @@
+import "dex","pe" rule E9dhOpb9M5E { strings : $mD9qYBmtjeM6mJgjBxoXu = "QwlSk6PSzK8UuPSzd0QZy" base64 xor ( 45 ) $bFYSHAseepuLjPat9ZniX = /\*?7[?.?|^\+|^|/ nocase condition : dex.DEX_FILE_MAGIC_035 = - ~ ~ 10.292124142321091 & pe.signatures.certificates.thumbprint - dex.class_data_item.static_fields_size % 93.58548947325163 } 

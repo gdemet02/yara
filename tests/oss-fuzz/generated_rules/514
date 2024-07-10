@@ -1,0 +1,1 @@
+import "pe" rule gLttOqVy9AG { condition : pe.IMAGE_DIRECTORY_ENTRY_IMPORT % of them } 

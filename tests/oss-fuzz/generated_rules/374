@@ -1,0 +1,1 @@
+rule Tq15ZPP8GG1 { strings : $oR3Aifp2vESnC3QQBSMuf = "pJkpL0gTIoP6SfiGbGQD3" base64wide base64wide ( "Kw7adu0DEqsFZrwGg8MWC" ) fullword condition : any of ( $oR3Aifp2vESnC3QQBSMuf ) } 

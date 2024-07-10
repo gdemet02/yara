@@ -1,0 +1,1 @@
+import "elf" rule AsXY0ogNhMN { condition : elf.symtab.name ^ elf.segments.offset matches /.??|.|||^\s+(\w*\w??\B|\w[?[+\W??\B|\D+|[+?||||[[?(\w+(\B)*.\*?||84*\W+?)?)[/ } 

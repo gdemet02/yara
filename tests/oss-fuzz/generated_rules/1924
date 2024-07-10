@@ -1,0 +1,1 @@
+rule iqnVGJISWUu { strings : $SYf43sa98I7QWKDB7MNzr = <built-in function hex> $ck9ZXk4hlzb69t2WgvJ7J = "cqfOf1wXndYpoL6yZzi88" $FgQPj2YYe7KfR7fnxBR9e = "I9V8Takji9DjhQYfDGZ0u" nocase wide condition : ( /.+||/ endswith /\S+\s?\|\w??|[+?\D+\w?\s*?|\s[?\S+?8[||||||\S[?.[?(\D*)?|/ ) and ~ 92.36280096878856 & /\D+\B[??/ } 

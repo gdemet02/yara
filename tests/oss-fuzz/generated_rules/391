@@ -1,0 +1,1 @@
+rule L2DkebRsQPY { strings : $MfCLqxtPKgIYP5n5NSqFu = "m8aBLRlbl751hvIMCxxGz" $i9iR2bCrL8kHEldRk7Lp5 = "KkakqhX0EQK7HRfXO1mhg" condition : any of them at 88.35105594441201 } 

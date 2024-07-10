@@ -1,0 +1,1 @@
+import "pe","dex" rule V414GKjqNeM { strings : $NzettUwgIGAwNUHJ8UFTg = <built-in function hex> $BOzKif8SqiH5joGr1rP5e = "lTc9tWMM6PCThlAR7uZZA" base64wide ( "whO7kuoyJmJ37iH9a678S" ) condition : pe.MACHINE_CEF 67.91473949705887 \ dex.field.name | ~ - 11.051543919484574 19.85529895985931 } 

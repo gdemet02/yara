@@ -1,0 +1,1 @@
+rule mHoWtPNSx9s { strings : $RKdFwMLxN5ieFx3IW5aJ8 = /\S^\w*?|\S*/ $tsDr4jwRt5jwK3PZgm6si = <built-in function hex> condition : any of them } 

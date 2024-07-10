@@ -1,0 +1,1 @@
+import "pe" rule t5xXVZJw2rM { strings : $GzDCjmH9M6svw28TNSpR0 = <built-in function hex> $JkT0ABtaIf454KM321tj7 = "CuIqh5m17Sg298kNgvBTX" $GdRVO2Dn3asZ0ja2PUbzl = "AgTtjrR3hwbiYFfXIUXJz" base64wide ( "OD9PQmo5zk5SW7nPjrdaY" ) condition : pe.signatures.certificates.serial of ( $GdRVO2Dn3asZ0ja2PUbzl ) } 

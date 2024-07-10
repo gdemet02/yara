@@ -1,0 +1,1 @@
+rule obB3t9kJOln { strings : $yK0PK11oAZdSZ9yrNsBDg = /^|34||\W?|||/ condition : $yK0PK11oAZdSZ9yrNsBDg } 

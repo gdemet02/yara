@@ -1,0 +1,1 @@
+import "pe" rule ghOYkH3z61v { strings : $AmBCCpqA4IdKTJaCaRG77 = "bH48JAppN1dVbYFQg3dZS" condition : for ( pe.signatures.countersignatures.chain.not_after ) } 

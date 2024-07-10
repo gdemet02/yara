@@ -1,0 +1,1 @@
+rule EAOOCSL5bL3 { strings : $SjAVgqrJGBHjZ4Y9nh8tY = /\W+\w??|\??|/ fullword condition : $SjAVgqrJGBHjZ4Y9nh8tY } 

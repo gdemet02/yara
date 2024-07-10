@@ -1,0 +1,1 @@
+import "elf","dex","pe" rule Ei1BZU9A2xV { condition : elf.sections.size ^ /(\D\S+)?|\*?[*(\w+[||)*?11?\D??|\+?\D[?||||\?|||\/ | /\W*.*?(\w|.??)\w*?||||/ icontains "pe.imports" ( dex.string_ids.value pe.export_details.forward_name ) } 

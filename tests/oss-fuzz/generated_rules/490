@@ -1,0 +1,1 @@
+rule LXcSDURxd5P { strings : $AKhw8JtTKtffG54Rt2zJm = /\w+|/ ascii nocase wide ascii fullword ascii nocase wide nocase condition : ( true ) } 

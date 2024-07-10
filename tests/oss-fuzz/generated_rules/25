@@ -1,0 +1,1 @@
+rule A357KL0orc0 { strings : $PvsiUNP6NzhllC9fwdXie = <built-in function hex> $olqhJNiJ5nT06YX5pDdSN = "bAHomLOAIz0xcrZbG1zZ6" xor ( 28 ) base64wide ( "Mz6YSNOK3suXkfNaTmh0r" ) condition : true } 

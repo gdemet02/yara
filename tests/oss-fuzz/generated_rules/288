@@ -1,0 +1,1 @@
+rule ZpZnxW9dFdx { strings : $jk76boJdw3blxNu5wNCaJ = <built-in function hex> $KDGqe5REkqbRz2xdw6cNz = "Q6qsvuW8TEkVnS1N2YnSw" xor condition : none of ( $jk76boJdw3blxNu5wNCaJ * ) } 

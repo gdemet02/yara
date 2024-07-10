@@ -1,0 +1,1 @@
+import "dex" rule QKWe7XsVQHH { condition : for dex.DEX_FILE_MAGIC_039 of them : ( 68.82079745328278 endswith 66.16381671524377 ) } 

@@ -1,0 +1,1 @@
+import "pe" rule Qsy3KkIEUUR { condition : pe.signatures.countersignatures.chain.thumbprint pe.timestamp /\B\S*(^||\B|\W(\D+|42|)[?\S*?)[?66*?/ } 

@@ -1,0 +1,1 @@
+import "pe" rule FaCXfOrJCrA { condition : pe.RESOURCE_TYPE_DIALOG = pe.RESOURCE_TYPE_RCDATA % pe.SECTION_GPREL } 

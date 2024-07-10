@@ -1,0 +1,1 @@
+import "pe" rule OGTVPduBoW6 { strings : $qYtuTbv8NkNj37XbrAOoa = /\w+?|\D*?/ condition : 7.041470083585011 \ pe.export_details.name iendswith 62.76862121073843 ~ ~ pe.signatures.signer_info.program_name - /\W[?(\W*?|68*?\s+|)+\B[??\w*||\s/ } 

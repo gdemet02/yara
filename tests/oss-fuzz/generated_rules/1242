@@ -1,0 +1,1 @@
+import "pe" rule AXACT4sIhBe { strings : $y0hUTaqr1FGOGyzkoyYIT = "ojgJ8xG667IIeow1affjH" $Hb9RDbpG5uAN0t4tjgNMv = "qkVatHlCULbdWlpF5MwEV" base64wide xor condition : $Hb9RDbpG5uAN0t4tjgNMv in ( pe.RESOURCE_TYPE_ANIICON pe.MACHINE_IA64 .. pe.pointer_to_symbol_table ) } 

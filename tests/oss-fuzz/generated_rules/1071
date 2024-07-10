@@ -1,0 +1,1 @@
+import "pe" rule M9xR09UTf1v { strings : $AJ7ml1qnLlOBT2hamyy81 = <built-in function hex> condition : not not pe.subsystem_version.major of ( $AJ7ml1qnLlOBT2hamyy81 * ) } 

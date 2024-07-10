@@ -1,0 +1,1 @@
+rule ZTRjIPcwNsd { strings : $PDWVli7wOfoklQ36ie4yj = "MohElBkslGMoNnAraxIeR" base64 ( "D7jtaQDaVliw2M2hwGqEk" ) condition : all of ( $PDWVli7wOfoklQ36ie4yj , $PDWVli7wOfoklQ36ie4yj * , $PDWVli7wOfoklQ36ie4yj , $PDWVli7wOfoklQ36ie4yj * ) } 

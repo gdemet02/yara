@@ -1,0 +1,1 @@
+rule lGeW0xGaTb2 { condition : "pe.is_dll" ( ) % of them } 

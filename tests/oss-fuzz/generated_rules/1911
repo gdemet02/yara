@@ -1,0 +1,1 @@
+import "pe" rule YRCZSJYnPXP { strings : $ZSS0vDPaJMkRlq93PPtVl = "Ffr159wnjt368DZqlhqLl" xor ( 66 ) nocase wide wide base64wide condition : pe.signatures.signer_info.chain.algorithm - 0.7013198692545242 matches /^.*|\S\D|\*|/ } 

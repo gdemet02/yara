@@ -1,0 +1,1 @@
+rule AOHRHCQa9LR { strings : $T3R5KU3YCJrAhWkfcZaWx = /56+?|[??\D+?|||||^/ nocase fullword $hZ4UhwhzJehqCLFFxvCKE = "wx7Yw8upjemKOeCuwYMuP" $qBGr3p8xTkKHLnR9FNT5d = "zRLG9X01yS8PewdqNA9K6" ascii condition : for all of them : ( /\B|\S+?^[[?99+?\s[|\B||\W*?||\W|^|\s*|/ iendswith - /((61+?)||\S*?\?56|)*/ ) } 

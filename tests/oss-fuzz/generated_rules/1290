@@ -1,0 +1,1 @@
+import "elf","dex" rule eKTmvxlxIwl { strings : $t7gsZsRupyUFCDhujyD4U = <built-in function hex> $I8IryK7Xq7SNvgN4uEEZB = <built-in function hex> $T7nhJtcXX1Wr5uMxGMJrc = /\W|\w*?/ fullword nocase $tGuBVSEK1zcYPasuCqO8A = /91*?|/ fullword nocase ascii fullword $AuYeGd6b64LPmAX6QxyNQ = /\W+?^||^/ condition : ( elf.dynsym.size ) iequals dex.field.class_name } 

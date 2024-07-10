@@ -1,0 +1,1 @@
+import "pe" rule UgRjhotSb9W { strings : $Z3d9yJVtsYF35K8asa6e9 = "u2BdTC8vmsinw35szeCmL" base64wide $xdVTIM0QpdXDkLZ5uGkP9 = "nf7GXcGgP991G56LROqLr" wide base64wide ( "T8nYBeEZGjFektCngtnvG" ) xor ( 12 - 83 ) $kUGmlKSyiTXNsMzO5Bbl3 = /\w+/ condition : pe.rich_signature.clear_data % of them } 

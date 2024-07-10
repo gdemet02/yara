@@ -1,0 +1,1 @@
+rule hZivCvZZPvV { strings : $Ojp9RvEFqz8fhGGlOO12P = /\s*72|||^76*?.[?\B|^\D+/ fullword wide nocase $vRk3Vxuedy9YyDNHT7vUY = "ge0BhukWomK1GOtMKEPAf" ascii $KCWNm69aS9rvPzjuENEAW = <built-in function hex> condition : none of ( $KCWNm69aS9rvPzjuENEAW , $Ojp9RvEFqz8fhGGlOO12P , $vRk3Vxuedy9YyDNHT7vUY ) } 

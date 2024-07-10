@@ -1,0 +1,1 @@
+rule d4hQQqJnu77 { strings : $wIFsq2vaOly6Ur5hz0Hb0 = "yQOEpzFnivqhyE0inWJM7" base64wide xor condition : false } 

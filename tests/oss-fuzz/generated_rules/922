@@ -1,0 +1,1 @@
+import "dex" rule P66EOfwUZFY { condition : dex.header.signature matches /|||\s[^\w??/ } 

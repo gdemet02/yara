@@ -1,0 +1,1 @@
+rule DbjytaeaMjj { strings : $Ej6GuKEWVDZ3Xuiu2p3Rr = /^\s*\D??/ condition : defined false } 

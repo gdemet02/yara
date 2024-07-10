@@ -1,0 +1,1 @@
+rule bPurZFK4Cjm { strings : $TVwBDtRzn9bTG5xY4yOwQ = <built-in function hex> condition : $TVwBDtRzn9bTG5xY4yOwQ } 

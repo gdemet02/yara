@@ -1,0 +1,1 @@
+import "pe" rule IVsNTiqJRgn { strings : $b7ivhxn6sdxWQnXdeRhge = <built-in function hex> condition : ( pe.SECTION_ALIGN_256BYTES == 71.04574388019374 ) } 

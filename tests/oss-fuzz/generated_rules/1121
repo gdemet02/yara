@@ -1,0 +1,1 @@
+rule L3vuMegH4pf { strings : $HATJfB6H8PBR4zdznM1jm = <built-in function hex> condition : any of ( $HATJfB6H8PBR4zdznM1jm * , $HATJfB6H8PBR4zdznM1jm * , $HATJfB6H8PBR4zdznM1jm * ) } 

@@ -1,0 +1,1 @@
+rule lgZzVI6pyao { condition : /\B\w[?|/ /^/ } 

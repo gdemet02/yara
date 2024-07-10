@@ -1,0 +1,1 @@
+rule r6qwjzVsIJJ { strings : $OjjI0fQHLbFqg1CKAMbK4 = "Jrs2fbfVqEEZNWHQMFs9G" nocase condition : 71.84174129750642 % of ( $OjjI0fQHLbFqg1CKAMbK4 ) } 

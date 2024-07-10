@@ -1,0 +1,1 @@
+rule bIbg1HHYt9b { strings : $STIpVKm5EyvnW30g4Zc5T = /[?\?|\W+/ ascii fullword ascii condition : true } 

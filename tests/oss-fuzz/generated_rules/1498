@@ -1,0 +1,1 @@
+rule GyByGbTwG85 { strings : $vkSBvTft66SqHWU8pexGJ = "OYzgq4vAU5TuFY8RjybIW" fullword condition : any of ( $vkSBvTft66SqHWU8pexGJ , $vkSBvTft66SqHWU8pexGJ ) } 

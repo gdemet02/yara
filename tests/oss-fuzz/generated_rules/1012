@@ -1,0 +1,1 @@
+import "elf" rule THoe0Jd2m1m { strings : $GmJGEAwZGkoTIABZK3D58 = <built-in function hex> $LmdhhjOca9OCFY77ze5a4 = <built-in function hex> condition : not - /|\s[/ of them at elf.DT_STRSZ } 

@@ -1,0 +1,1 @@
+import "dex" rule Iw3VoitsPOF { condition : dex.method.code_off contains 37.03623498395747 } 

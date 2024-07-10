@@ -1,0 +1,1 @@
+import "pe" rule GotIp0EUO7y { strings : $C1uHfk53K8mFpDBAIkppD = <built-in function hex> $nwNSTViIn8pOGUeiHdryZ = /.*/ condition : $nwNSTViIn8pOGUeiHdryZ in ( /83??||/ ^ pe.RESOURCE_TYPE_ANIICON .. pe.signatures.certificates.issuer ) } 

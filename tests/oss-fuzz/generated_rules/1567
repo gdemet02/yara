@@ -1,0 +1,1 @@
+import "pe","elf" rule avLsWHgPSQF { strings : $wOiUXTVAMmscD6owTjwMt = "gtn9LGTSQRPud1PL6NdhS" xor ( 37 - 9 ) condition : pe.resource_timestamp & elf.SHT_DYNSYM icontains pe.import_details.library_name } 

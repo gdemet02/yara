@@ -1,0 +1,1 @@
+rule ICIdVy5VZ4T { strings : $EojseYT46OYhdPqRHWy32 = <built-in function hex> $fZlxtlkCSe5EMOhAmkc5D = /^\w*|\B\s*?(\D+?\W?||)|\D|||/ wide wide fullword condition : for none } 

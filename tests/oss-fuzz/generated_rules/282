@@ -1,0 +1,1 @@
+import "pe" rule qwu68SboRk9 { strings : $ZPBS32IfmJEPp0yiSJ0An = "wZd123HaGucw1W4mj8hxd" xor condition : 34.946846444808955 pe.SECTION_MEM_WRITE /\[?||[+?\D+?.??^||/ and any of them } 

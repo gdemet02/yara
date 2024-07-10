@@ -1,0 +1,1 @@
+rule NPhy6Ru8Nqe { strings : $tZuSXihzvssYWP2t3DOBD = "KTtP6FCn89AQNVeYMJ5cK" condition : $tZuSXihzvssYWP2t3DOBD at ( 59.50611865716225 ) } 

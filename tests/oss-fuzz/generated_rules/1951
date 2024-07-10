@@ -1,0 +1,1 @@
+rule gQ7GZLdnX6w { strings : $KSqeddCm4jIvlAUwC7OOp = "BtmED943HJ2bCWRZZgUbq" wide $Wk5JQl3d1rplbJQDpEsGU = "EdIKQvqcKayVRlY8QN5VO" base64 $z4I2Edl8pa2XXPYZgSww8 = <built-in function hex> condition : /\W?/ % of ( $KSqeddCm4jIvlAUwC7OOp ) } 

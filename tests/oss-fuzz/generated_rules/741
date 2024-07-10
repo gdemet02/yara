@@ -1,0 +1,1 @@
+rule CD5iTfnkmld { strings : $tGzm1TNW1T82z6nM9GwUK = /\W??||.[?|\w*?|(\S+\s?|)+?^[[(^|)?\S+\W[??|.[/ condition : none of ( $tGzm1TNW1T82z6nM9GwUK , $tGzm1TNW1T82z6nM9GwUK * , $tGzm1TNW1T82z6nM9GwUK ) } 

@@ -1,0 +1,1 @@
+rule f98q5T3wcfH { strings : $rtjiijfE4JSEjtuICyFeJ = "l0eAqJnR5NVjGsmemofaN" condition : $rtjiijfE4JSEjtuICyFeJ at /\s?\W?|||\B|(\S|)+?\w[|\w*||/ } 

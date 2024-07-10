@@ -1,0 +1,1 @@
+import "dex","elf","pe" rule zRAa9kYo3rG { condition : dex.DEX_FILE_MAGIC_037 \ /\D[||23*?49*?[?[+?|/ = elf.dynsym.name & pe.SUBSYSTEM_EFI_APPLICATION \ - dex.TYPE_CALL_SITE_ID_ITEM } 

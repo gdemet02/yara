@@ -1,0 +1,1 @@
+import "dex" rule fDJTdXq5Jyu { strings : $FpkoYZZt5OjdbUos0nzrx = "ZFjtXXdo2eCsxHHd3mLKB" condition : ( 83.75187986882334 | dex.field.class_name startswith 15.011555389654418 ) } 

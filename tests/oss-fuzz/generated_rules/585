@@ -1,0 +1,1 @@
+rule AamZcH61tpS { strings : $muKcuowjqcQGcnkVfTkn9 = /||^\D(^|)+?||.+?\w*62*?17[?^84??^/ condition : all of ( $muKcuowjqcQGcnkVfTkn9 * ) } 

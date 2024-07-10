@@ -1,0 +1,1 @@
+rule uVLIsaHcySC { strings : $XJk1c2WwAq4fSpWp06Qdk = <built-in function hex> condition : true } 

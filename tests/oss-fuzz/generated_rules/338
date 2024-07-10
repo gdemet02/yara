@@ -1,0 +1,1 @@
+import "pe" rule bmKKjpXofCj { condition : pe.signatures.digest + pe.signatures.file_digest } 

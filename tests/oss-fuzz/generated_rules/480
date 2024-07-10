@@ -1,0 +1,1 @@
+rule ZaD5Fvo58Ew { strings : $r7KB0yCQ29LtjoN6uTobc = <built-in function hex> $ivCKsyvf9CPTHEe9Fb3w9 = "vUr4Q3b7f8EEzrfQoGyiq" xor ascii base64 ( "ZXNqJTXGCqs71KIVrbP4t" ) $hsyF7l3iCbvGQbk9GyrOJ = <built-in function hex> $dKXeXMEBEsxyhN7YSa6dI = "fywcR8qzDD0c0cIiaVzx8" condition : ~ ~ 16.636203231414015 % of ( $ivCKsyvf9CPTHEe9Fb3w9 * ) } 

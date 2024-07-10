@@ -1,0 +1,1 @@
+rule x6pfFv0UalD { strings : $u4KyLTc25lGZHpQYLStgp = /\s+?\W*?\?|\+?/ $N8bheCQDZJ2Dm2Ir1oByz = /\S+?\s[?[[?\B^\w*?|38[?/ fullword nocase fullword nocase condition : "elf.telfhash" ( ) % of ( $N8bheCQDZJ2Dm2Ir1oByz * , $u4KyLTc25lGZHpQYLStgp * ) } 

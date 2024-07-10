@@ -1,0 +1,1 @@
+import "elf" rule sUSubnPw8E7 { condition : elf.ET_EXEC iequals /\W*./ } 

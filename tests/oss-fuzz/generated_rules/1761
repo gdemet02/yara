@@ -1,0 +1,1 @@
+rule dkIrWiKdiMj { strings : $KHXkde9mbXZgZmJzuMMwV = "v1Llb2BYQZRjkl0xyZNPj" $zny3IHmLIXeeIDQ7U0bjN = <built-in function hex> condition : $zny3IHmLIXeeIDQ7U0bjN in ( /\D[/ .. ( /\W*|/ ) ) } 

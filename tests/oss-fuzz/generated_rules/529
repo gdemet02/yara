@@ -1,0 +1,1 @@
+rule KUGao5a92j0 { strings : $Y4EbqXWs7xqvSiuK2wosl = /19+^(.*?|\S[|||\D*?\B|\s+\W*||)+69?^|\s?[??/ ascii fullword $qWgD5tOvipp1L2cmLKoXe = "LcNH9iLoQq8tOXt0VNQ9N" condition : true } 

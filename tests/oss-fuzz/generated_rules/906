@@ -1,0 +1,1 @@
+import "dex","pe" rule pwV78OdxXp3 { strings : $bR8rn7XIGKPdrfEXajX4R = /((\w??||)[?\S^|[+|\*).[?|[[\D??70|\W?|||24[?\D+/ condition : 75.76510554447464 iequals dex.DEX_FILE_MAGIC_035 % pe.import_details.library_name } 

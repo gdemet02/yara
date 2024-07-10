@@ -1,0 +1,1 @@
+import "pe" rule BmWzXWKzvqK { condition : pe.IMAGE_DEBUG_TYPE_MPX of them } 

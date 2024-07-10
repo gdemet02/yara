@@ -1,0 +1,1 @@
+rule KAcXf7gYQtb { strings : $FJsrxs4pwwHjekyLGLPOC = /||\D??|/ condition : any of them } 

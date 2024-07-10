@@ -1,0 +1,1 @@
+rule iDVOh6e3lv9 { strings : $e1vELJ7j4EYaDKh9nwBdG = "K815DjJwqQVp6mO9beU1W" $IbtDxtF3ze60w3qCGzJxf = "MTYeJkuqcFji4i7xPyYUN" base64 ( "BWyC8YOoQQN0OUNKvNWrF" ) $dRUXplfMDTzfz9EtqaJ1m = <built-in function hex> condition : ( ( false ) ) } 

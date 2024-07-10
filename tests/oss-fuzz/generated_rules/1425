@@ -1,0 +1,1 @@
+rule O85zxxXqGQv { strings : $PKDQ4izHuBpwQuvATlkeF = <built-in function hex> condition : none of ( $PKDQ4izHuBpwQuvATlkeF ) at 9.57980020257584 } 

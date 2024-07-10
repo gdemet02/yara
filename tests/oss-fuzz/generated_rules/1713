@@ -1,0 +1,1 @@
+rule J6k84fFuokP { strings : $sXuGrpA68QhEx7m1Qg56v = /[*|^|\s?|.*/ wide nocase fullword condition : $sXuGrpA68QhEx7m1Qg56v } 

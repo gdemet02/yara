@@ -1,0 +1,1 @@
+import "pe" rule AXUIjTWSxX7 { strings : $ykNS7dqzjUFYsVdsZPwCu = <built-in function hex> condition : 89.54823780034641 pe.delayed_import_details.functions.name \ 15.383718442477212 istartswith - - pe.signatures.signer_info.program_name } 

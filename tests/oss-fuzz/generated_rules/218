@@ -1,0 +1,1 @@
+rule d00nnKRal1l { strings : $dnM2e0rxHJY72qNLKXNsW = <built-in function hex> $tcxar2vhaP8b8Ay26jofo = <built-in function hex> condition : $dnM2e0rxHJY72qNLKXNsW } 

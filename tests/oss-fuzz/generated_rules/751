@@ -1,0 +1,1 @@
+rule kJxdatCss3e { strings : $RAPOetM36ZjYSDau9MHVT = /[*\B\D[?/ fullword condition : any of ( $RAPOetM36ZjYSDau9MHVT , $RAPOetM36ZjYSDau9MHVT , $RAPOetM36ZjYSDau9MHVT ) } 

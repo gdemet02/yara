@@ -1,0 +1,1 @@
+rule n9KLhDINYs5 { strings : $KmMpFUyX7O3vWeRtRTvqQ = /[[?\D[?/ condition : any of ( $KmMpFUyX7O3vWeRtRTvqQ ) } 

@@ -1,0 +1,1 @@
+rule vZF30ZexUAS { strings : $zEONOoK2P5nqWNj68GZpz = <built-in function hex> $YYkqLLvB6s548lRKOxQRG = /\D/ condition : /\B/ iendswith /36[?|\S[/ ^ /\B|\?\B/ } 

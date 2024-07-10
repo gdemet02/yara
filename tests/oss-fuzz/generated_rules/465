@@ -1,0 +1,1 @@
+rule DDE9Ca1wCwo { strings : $eVS6c852GZTPO4I5doICI = /(\w*)??[[||\s\s?[*?||/ fullword fullword fullword ascii ascii condition : false } 

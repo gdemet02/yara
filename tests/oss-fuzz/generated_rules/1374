@@ -1,0 +1,1 @@
+import "pe" rule kHimmERCgwY { strings : $Kmg9UL6wf1p67uq5obDw6 = /\w*?/ condition : pe.size_of_image iequals pe.NO_ISOLATION } 

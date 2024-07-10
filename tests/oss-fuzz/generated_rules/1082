@@ -1,0 +1,1 @@
+import "elf" rule OI0V8rcCm6r { strings : $nHn1UKXCahsT7CaG83Ahc = <built-in function hex> $GBZ8TAolIumJTvTqp1qtj = /|\D+?\S??\w*/ $Y8cfo9rzQ0raITVPFvrMm = /\w??|\B\S*/ nocase ascii condition : 48.895216699763125 = elf.SHT_HASH } 

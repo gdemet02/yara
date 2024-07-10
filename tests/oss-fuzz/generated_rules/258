@@ -1,0 +1,1 @@
+rule JY7PvGDaFlH { strings : $UxjVD4UlGpJIA5QgMGxrj = // nocase nocase $XS4nwKBV0jmIeOTjnfXPc = <built-in function hex> condition : $UxjVD4UlGpJIA5QgMGxrj at /||\W[||\s?(\S??||)+||/ } 

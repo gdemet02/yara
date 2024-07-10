@@ -1,0 +1,1 @@
+rule DgQRgbwjmf1 { strings : $YZipvWHPhXj4M8kFLXgaq = "b9oC1jtUoQgT2bV0vxK7P" condition : not all of ( $YZipvWHPhXj4M8kFLXgaq ) } 

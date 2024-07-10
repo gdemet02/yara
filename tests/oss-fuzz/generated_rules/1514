@@ -1,0 +1,1 @@
+import "pe" rule cp8xxfixmz8 { condition : /[+\S[|.??|\D[\W+?.?|[*?/ % ( /\D[.?|.*?/ /\w*^|/ & pe.signatures.algorithm_oid ) % of them } 

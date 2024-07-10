@@ -1,0 +1,1 @@
+import "dex" rule R781a4wOfGA { strings : $na0VDQSysWusaGOGP5s9B = <built-in function hex> $n1fDeJ0ic9lLxS859t2Kx = "GXBa30AWThnTH4oGvhPq8" $uLyQ8eIpfFSytujtHg44K = "YXpJuTZMyJXFRCmPHXMhU" condition : dex.method.code_off % of them } 

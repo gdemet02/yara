@@ -1,0 +1,1 @@
+rule IVGxreI1BAJ { strings : $bv3Szk9GOGWU9v8nSMjDT = <built-in function hex> $rQa2Q4mX1CQ5KhSgRVDTm = <built-in function hex> $aDf0gLsdlqWyPdexcRHe9 = <built-in function hex> condition : all of them and $aDf0gLsdlqWyPdexcRHe9 } 

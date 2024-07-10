@@ -1,0 +1,1 @@
+rule w4Yd7DIjSnE { strings : $QywIMUpvBtlJShid8pKIF = <built-in function hex> $LkGIKcPtuHJuLzQoD5vIW = "D4FKvpcCJrb7lsvWkjifD" ascii condition : none of ( $LkGIKcPtuHJuLzQoD5vIW ) } 

@@ -1,0 +1,1 @@
+rule sIwshcVH7ni { strings : $sdzruUTkHHTy0l7BCRmoU = /\S[?/ condition : for none of ( $sdzruUTkHHTy0l7BCRmoU ) : ( for any ) } 

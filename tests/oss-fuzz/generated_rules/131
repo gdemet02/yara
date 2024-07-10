@@ -1,0 +1,1 @@
+import "dex" rule x11rEs1ZTQR { condition : dex.DEX_FILE_MAGIC_036 iequals /\w[/ } 

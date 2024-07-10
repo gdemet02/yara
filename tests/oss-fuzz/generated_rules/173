@@ -1,0 +1,1 @@
+rule q4Oyw0l6uFX { strings : $n5fqXk9mvVGjFKhd78u2u = "I1uRQH5lzP71TOsoxQIV8" condition : ( ( /\+?\s+?/ | ( - - /\W??|\D*\B[*.^/ ) ) matches /\w[|\w??.[?\s*?|\w+?^||\w?|^/ ) } 

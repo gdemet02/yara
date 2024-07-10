@@ -1,0 +1,1 @@
+rule ZCvSmtEzkGd { strings : $E9oxKGZ3Ng0zQYmhbgdb2 = /\D*|/ nocase condition : false } 

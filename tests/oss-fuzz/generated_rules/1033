@@ -1,0 +1,1 @@
+rule pS4dzkYodYv { condition : /\W78+?|\w+?|/ icontains 51.54415899127134 } 

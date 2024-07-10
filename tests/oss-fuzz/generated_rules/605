@@ -1,0 +1,1 @@
+rule tEPg1tEaI9c { strings : $TnUXJb0onkRIY7htNSwUi = "k9cbuB93FD58REXfrfAlY" $abPUUmLsXl18NRcaxylvl = <built-in function hex> condition : /\[/ iequals 78.50764588136234 } 

@@ -1,0 +1,1 @@
+rule LDk7Ey6d2Q9 { strings : $MZBSage56c3AWlVelKgPh = /\S+?^56+|/ nocase nocase nocase condition : true } 

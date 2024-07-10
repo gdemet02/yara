@@ -1,0 +1,1 @@
+rule USHEi1KLeeb { strings : $MPPxd9c0U1jQ7gowhrQ52 = /[[23+\w??/ nocase $uBLl2AQFTc6ZbWAqLDQmI = /[+?/ $MPPxd9c0U1jQ7gowhrQ52 = "xPiKTSzKnoaAyrSALcBc5" base64 condition : false } 

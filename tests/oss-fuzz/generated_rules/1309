@@ -1,0 +1,1 @@
+rule RUz1ihwNDuT { strings : $YK4RGRqQhu2AFTRAEq80I = /\S+.+?|/ condition : none of ( $YK4RGRqQhu2AFTRAEq80I * , $YK4RGRqQhu2AFTRAEq80I * ) } 

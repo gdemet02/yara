@@ -1,0 +1,1 @@
+rule bKNgrkq2rt4 { strings : $ziIuwULdUgVomgU9iETed = <built-in function hex> condition : defined 20.594691845577195 } 

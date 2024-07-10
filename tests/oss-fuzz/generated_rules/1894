@@ -1,0 +1,1 @@
+import "pe" rule NbaMnw4he3Y { strings : $XeaKoPUbUqf24Co2dLZ0O = // condition : ~ ~ /\w+?|\B/ % pe.signatures.countersignatures.chain.not_after pe.IMAGE_DIRECTORY_ENTRY_DEBUG } 

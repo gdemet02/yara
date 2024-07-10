@@ -1,0 +1,1 @@
+rule tQHtrYYNlVT { strings : $kUq1r5ldnmr5jUg6Kvdjz = <built-in function hex> $g0ahqCmUZIbULcpDyMhUb = <built-in function hex> condition : any of them } 

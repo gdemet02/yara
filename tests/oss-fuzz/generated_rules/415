@@ -1,0 +1,1 @@
+import "pe" rule A7Yo4CH0AZJ { condition : pe.SECTION_LNK_COMDAT == 33.01226433201108 \ 97.16505914301165 } 

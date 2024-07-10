@@ -1,0 +1,1 @@
+import "pe" rule AvgteUxRUqw { condition : pe.SECTION_ALIGN_8192BYTES } 

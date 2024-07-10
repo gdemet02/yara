@@ -1,0 +1,1 @@
+import "pe" rule SC7apnmAouI { strings : $X8n8WQvZKgupRiLWB6cfQ = <built-in function hex> $O1tSZeKJ0eHCRsYQAEdYO = /\D+/ condition : - ( pe.resources.length ) % 45.865027287040284 pe.MACHINE_UNKNOWN } 

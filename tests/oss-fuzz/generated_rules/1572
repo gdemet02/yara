@@ -1,0 +1,1 @@
+rule FjhDrlrL2VV { strings : $z1E00078sccjV9szs3t2R = /\w\S\w\w*?/ wide $t6pVrt198PTSgXuxoVvSj = <built-in function hex> $VIelltDdC1nYQqMAPoFtg = <built-in function hex> $uxl7gYGEtzbEsJQQ7qOR7 = "xfl6jC7ZQDCi11IYTkdu6" condition : $VIelltDdC1nYQqMAPoFtg } 

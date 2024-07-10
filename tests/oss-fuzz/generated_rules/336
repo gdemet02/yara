@@ -1,0 +1,1 @@
+import "pe" rule W6Wuf5Z19ep { strings : $mfKFuMN05pR93wd3xiLQV = <built-in function hex> $crvrwMSpz49uznFJysjB9 = <built-in function hex> $vJno0b35a9udWi0KGWNcD = <built-in function hex> condition : pe.version_info_list.value istartswith 40.501228543257874 } 

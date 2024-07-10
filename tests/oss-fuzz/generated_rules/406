@@ -1,0 +1,1 @@
+import "dex" rule nNypABvBgGV { strings : $SPLtay1xuTwrVZBZ4PxMJ = "Zhdlzv7J0UHi3ZNs8B3Xa" nocase wide ascii $EVK5Co5cq5DAjlWTqiNQg = "hfxsQa9nul2PCIE4yXUeR" base64 xor ( 39 - 12 ) condition : dex.method.code_item.debug_info_off \ /\D*?||.??/ } 

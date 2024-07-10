@@ -1,0 +1,1 @@
+import "pe" rule xBQ8UHaQ8i1 { strings : $h6TBsWWXYWC5LnqvCoH5P = /\s*/ ascii fullword fullword nocase $dQxNIdybWEMPnY9CRmlx1 = /\B/ $kkdYy2Y3mu7iUrho6oteN = "RNA4H55eM1ocE6KRFgZUe" condition : any of ( $kkdYy2Y3mu7iUrho6oteN ) at - - pe.number_of_symbols } 

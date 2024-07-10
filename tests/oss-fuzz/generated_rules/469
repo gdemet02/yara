@@ -1,0 +1,1 @@
+import "pe" rule fqsYzakDfxe { condition : for pe.signatures.thumbprint } 

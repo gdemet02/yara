@@ -1,0 +1,1 @@
+import "pe","elf","dex" rule FhB8QwLLHYn { strings : $PPfbdRsw6hNBK4b3HcLpo = <built-in function hex> condition : pe.IMAGE_NT_OPTIONAL_HDR32_MAGIC iequals /||/ ^ /92[?/ & - ~ 20.708146563710137 * - l3DRqks5sOSXl5fyWHbEZ % /\s??||\s+/ + - 54.2580776348148 elf.ET_REL | elf.SHT_NOTE - dex.TYPE_METHOD_HANDLE_ITEM * pe.rich_signature.clear_data } 

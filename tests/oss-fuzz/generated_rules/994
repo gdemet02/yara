@@ -1,0 +1,1 @@
+import "pe" rule LEzqxOF6iXV { strings : $tounE0QeHhTPkMXKelrNL = /^^||\W*?\w*?^\S\S?|/ nocase nocase $FDDUadDTPSByxPYZ4OqYe = <built-in function hex> condition : pe.sections.name | ( 21.37969337967778 \ pe.signatures.signer_info.digest ) of ( $tounE0QeHhTPkMXKelrNL , $FDDUadDTPSByxPYZ4OqYe ) } 

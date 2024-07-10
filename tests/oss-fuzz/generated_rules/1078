@@ -1,0 +1,1 @@
+rule FoXRaQryqcA { strings : $GMSeh0Kc1dMAfR5npDHQ2 = "oW4uA43Lg3EdEpp60PgDD" xor base64 ( "VoeCvdzThMsuDIXTCTulw" ) condition : defined ( all of ( $GMSeh0Kc1dMAfR5npDHQ2 , $GMSeh0Kc1dMAfR5npDHQ2 * , $GMSeh0Kc1dMAfR5npDHQ2 * ) ) } 

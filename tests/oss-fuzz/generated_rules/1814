@@ -1,0 +1,1 @@
+rule XihUrTksMru { strings : $n9TlNTUFlipxLjs0oygLl = "bCtbZJq1KKadiNSzCSZ7Q" $TmseBHEYhQE0eCxzaj2AU = "pad3hBN4ltKDxsaO0jEZF" condition : true } 

@@ -1,0 +1,1 @@
+rule U1Zl7MDLS1a { strings : $ujLIFc6UbWtR3cyc5pW1O = <built-in function hex> $nW5j2W4lMbvJD8c9L8D05 = /\B||||\W+?\B||\B|/ $BmJ2mrMPGGJgC3mBZbrxX = "AKBvYn6DTlyNIDEoyUU4n" condition : false } 

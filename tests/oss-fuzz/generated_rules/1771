@@ -1,0 +1,1 @@
+rule C894h65mHxR { strings : $U9uX5xmFn5QGy3Rz86GRd = "dJDwBbbWKm30vSWZ1TIJF" condition : 84.17649870705428 % of ( $U9uX5xmFn5QGy3Rz86GRd ) } 

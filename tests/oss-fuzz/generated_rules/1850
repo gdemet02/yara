@@ -1,0 +1,1 @@
+import "pe" rule dYpRuLozLyA { condition : true and - /|\B\D[|||.[/ istartswith pe.SUBSYSTEM_OS2_CUI } 

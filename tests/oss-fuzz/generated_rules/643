@@ -1,0 +1,1 @@
+rule OUwKwthU7iO { strings : $Dj2qj9rBFKyOGR8jfZMSJ = "U76fj3pypDaFjzhCY1j8x" nocase $ruSRNYJnEQEaKOXFgCiBb = <built-in function hex> $CkgqcUBfBcraAHDKxuweZ = <built-in function hex> condition : any of ( $CkgqcUBfBcraAHDKxuweZ * ) } 

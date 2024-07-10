@@ -1,0 +1,1 @@
+import "dex" rule m8g6cf6zSNW { condition : defined dex.DEX_FILE_MAGIC_035 istartswith 95.77406607987655 & /^||\D+/ } 

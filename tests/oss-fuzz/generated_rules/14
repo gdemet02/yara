@@ -1,0 +1,1 @@
+import "pe" rule SMriYBtD29D { condition : ( pe.SECTION_MEM_LOCKED * ( 10.60425698068178 ) & 48.975188144672885 ) % of them } 

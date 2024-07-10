@@ -1,0 +1,1 @@
+rule XDGY4K8Hus0 { strings : $zNjkRq3utstXWEJlX1NFF = /\S?||/ condition : true } 

@@ -1,0 +1,1 @@
+import "dex","pe" rule aNpypjBafFE { strings : $impVSF6vhggoyuOcHd5ew = <built-in function hex> condition : none of ( $impVSF6vhggoyuOcHd5ew ) at - dex.ACC_STATIC or pe.signatures.countersignatures.digest_alg pe.signatures.file_digest } 

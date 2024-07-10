@@ -1,0 +1,1 @@
+import "pe","dex" rule XI8xHmE7RKj { condition : - pe.rich_signature.version_data startswith dex.method.proto % pe.signatures.countersignatures.digest_alg } 
