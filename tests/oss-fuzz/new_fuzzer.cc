@@ -69,9 +69,28 @@ extern "C" int LLVMFuzzerInitialize(int* argc, char*** argv)
                 perror("Failed to open rule file");
                 continue;
             }
+             // Determine the file size
+            fseek(rule_file, 0, SEEK_END);
+            long file_size = ftell(rule_file);
+            fseek(rule_file, 0, SEEK_SET);
 
-            int errors = yr_compiler_add_file(compiler, rule_file, NULL, NULL);
+            // Allocate memory for the file content
+            char* file_content = (char*)malloc(file_size + 1);
+            if (file_content == NULL) {
+                perror("Failed to allocate memory for file content");
+                fclose(rule_file);
+                continue;
+            }
+
+            // Read the file content
+            fread(file_content, 1, file_size, rule_file);
+            file_content[file_size] = '\0'; // Null-terminate the string
+
             fclose(rule_file);
+
+            // Add the file content as a string to the compiler
+            int errors = yr_compiler_add_string(compiler, file_content, NULL);
+            free(file_content);
 
             if (errors != 0) {
                 fprintf(stderr, "Error loading rules from %s\n", filepath);
