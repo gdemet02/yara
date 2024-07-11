@@ -1,1 +1,1 @@
-rule QD4eSLhSoLO { strings : $tWrLItBuWT2wkLu2V7Vv5 = "CIpHUGZYJF1EqNYyWNBWX" condition : true } 
+rule mbFrJwrLKev { strings : $eGegVmd = "SyR793" condition : all of ( $eGegVmd ) } 

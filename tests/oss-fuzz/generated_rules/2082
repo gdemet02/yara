@@ -1,0 +1,1 @@
+import "elf" rule NoxMG1g2Put { condition : 74.38183737014486 * elf.PT_GNU_STACK } 

@@ -1,1 +1,1 @@
-import "dex","pe" rule khxAL3uT5c0 { strings : $k3FiAGAn5nsDsHmuAyCvx = /\w\B^\+?\w+?\B/ nocase $X6uoyAsqc8KMoVSqiJ1yd = /66?[??||^||[?/ wide wide nocase condition : 54.651633136286335 == dex.ACC_PROTECTED * - pe.RESOURCE_TYPE_HTML } 
+import "elf" rule t1FFdbCrbWu { condition : elf.STT_SECTION } 

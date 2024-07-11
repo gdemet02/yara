@@ -1,1 +1,1 @@
-import "pe" rule WjOXheNme2p { strings : $Vhf1P3BRvOAIPCahfzUb7 = <built-in function hex> condition : ( pe.SECTION_ALIGN_8192BYTES ) contains /63??|||/ - pe.SUBSYSTEM_NATIVE \ 24.352676146147058 - 78.2187298223265 } 
+rule MDwJfcGdmJR { condition : true } 

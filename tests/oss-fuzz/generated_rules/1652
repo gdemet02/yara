@@ -1,1 +1,1 @@
-import "pe" rule sgeFHrA2ihe { condition : pe.resources.type_string startswith 10.051326772101199 or all of ( cKhab9KFAHc * , pjDB3LVtNli * ) } 
+import "elf" rule PYBSJndk2Ef { condition : ( elf.STT_COMMON ) } 

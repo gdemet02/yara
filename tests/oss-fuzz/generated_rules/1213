@@ -1,1 +1,1 @@
-rule vO4e0tHl7vN { strings : $y9KUkDpUINJ9SPzT5lG0N = "bokzWos8aSNbIzbTOvGgv" condition : ( 8.483317601856989 ) of ( $y9KUkDpUINJ9SPzT5lG0N , $y9KUkDpUINJ9SPzT5lG0N , $y9KUkDpUINJ9SPzT5lG0N ) } 
+rule HtOSJ9LxPqb { condition : ( ( false ) ) } 

@@ -1,1 +1,1 @@
-import "pe" rule mnd09hkt9t5 { strings : $MwQPBqleYSVyduVYyAmDK = "XDdLmgyfL4mgteQtJcg0l" xor ( 61 - 15 ) $D2WqVf9h5CSUYVRCUnaHs = /^||.+(\s??|\*?\w\B(\w+^^)*?||(\s[)[?[[)||^[*^\B(\+?|.*^\B|16*?||.*?|||\S+\B\s+\s[?|(\D[)*\B\[?)?/ $Cz3KKnWAB2xzPHT04UgZm = <built-in function hex> condition : "elf.telfhash" ( ) /\w*(\W+||||(\W[?\w*?\S??)*?\S?|)^\*?|/ startswith pe.signatures.digest_alg } 
+rule SPpQx2Ea57T { strings : $gSXeyewubX = "fOsnt6C" $PiqB64H = "v4lAnkLG" xor condition : defined any of them } 

@@ -1,1 +1,1 @@
-rule ecQtL6S6mpx { strings : $BBpg78jlmOpIupIQBvCRQ = "kspvgvkju1WKhALmQyFz3" base64 wide wide base64wide nocase condition : any of ( $BBpg78jlmOpIupIQBvCRQ ) } 
+rule COrqxJTFan2 { strings : $sS8OyMtG = "gD1t1L9U7" wide ascii condition : $sS8OyMtG } 

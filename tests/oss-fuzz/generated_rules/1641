@@ -1,1 +1,1 @@
-import "elf" rule R8vupH0cWRg { strings : $Wv1gggy4HZJcmjiVVBXYY = "fhGJ8q5ZA5jkhf0Cpr43w" $StlaLAUkPZC78AGln5eh0 = /\w??.[?\s??|\S*(^)+|\W*([[\B.[\D+|\s+?\D??\W?)+?/ $IDSZrFhwGYyaRx87Mjyca = "ie42prTZvhjHffKhhEhlz" xor condition : $Wv1gggy4HZJcmjiVVBXYY in ( elf.PT_LOAD .. 39.657149594031104 14.681323087509778 ) } 
+rule Y1wh8hfIYE3 { condition : defined true } 

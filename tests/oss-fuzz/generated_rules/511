@@ -1,1 +1,1 @@
-import "dex" rule tJBnoAf5dzY { strings : $qXr5pGyYKEhDh6ta4Dv5c = /\?|^|||\D?\w[|||/ $zLzXSDfPWO2FfVw9spc4w = /\B||\w+?/ nocase fullword condition : ( for 21.360448491632255 ^ dex.DEX_FILE_MAGIC_036 ) } 
+rule gVHb3zpbjGk { condition : false } 

@@ -1,1 +1,1 @@
-rule PZcpm2XrkgI { strings : $vseXtMNnJP1GTCa0idoyK = <built-in function hex> condition : $vseXtMNnJP1GTCa0idoyK } 
+rule HUk7DrEflJP { condition : true } 

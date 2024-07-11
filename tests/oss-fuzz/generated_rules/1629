@@ -1,1 +1,1 @@
-rule PU5BUYfO1WP { strings : $XHqCZzWJNHM9LXhmH2pig = /\D?|\s+\+?^\W+?/ nocase wide wide wide nocase condition : true } 
+rule brRBXutggQs { condition : false } 

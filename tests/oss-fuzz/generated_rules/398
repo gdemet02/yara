@@ -1,1 +1,1 @@
-import "elf","pe" rule mzc40kfBtUt { condition : not elf.DT_RELAENT pe.SECTION_GPREL } 
+rule VWyQHYMG5jV { condition : true } 

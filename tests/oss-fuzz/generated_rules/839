@@ -1,1 +1,1 @@
-import "pe" rule AKEuZnGHWwY { condition : pe.SECTION_MEM_PURGEABLE 10.652621845550026 * pe.signatures.signer_info.chain.algorithm - - /\W??\??/ - 29.229946154633147 } 
+rule cK1r1hoSL2y { condition : 99.92191586006807 } 

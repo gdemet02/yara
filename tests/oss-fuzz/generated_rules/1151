@@ -1,1 +1,1 @@
-rule FweqOd4FGh6 { strings : $yDiiY9zcS5QFZs16JZbWd = <built-in function hex> condition : true } 
+import "elf" rule RJ72vPDKgKj { condition : - elf.EM_ARM } 

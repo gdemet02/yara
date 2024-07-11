@@ -1,1 +1,1 @@
-import "pe" rule uXWugslfNI5 { strings : $lKGmpDZvBaTwjUfxHhYI3 = "o6jbiDpikQBL8rg6J6CUI" condition : pe.MACHINE_SH5 % of them } 
+rule TAbqGn7UQU0 { condition : false } 

@@ -1,1 +1,1 @@
-import "pe" rule IqcXzr4Y7bb { strings : $HmvfamdwbabfLHbVrZpBY = /^/ condition : $HmvfamdwbabfLHbVrZpBY in ( /[*?|/ .. ( pe.NET_RUN_FROM_SWAP + ( pe.resources.type_string ) ) ) } 
+rule rwfjdEcTo0u { condition : false } 

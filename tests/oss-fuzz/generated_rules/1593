@@ -1,1 +1,1 @@
-rule t4PMQIXo43e { strings : $bUsmURN3ETmISMa0Iuabn = /^[[?[/ $y9JGrgpkkoSCLbku9o038 = "j2a4YEPphjIFC2OSL5qeq" condition : any of ( $bUsmURN3ETmISMa0Iuabn * , $y9JGrgpkkoSCLbku9o038 * ) } 
+rule PG4c6A66JuL { strings : $o48F2Ef = "xi3a34kY3E" nocase condition : $o48F2Ef } 

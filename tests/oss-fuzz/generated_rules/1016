@@ -1,1 +1,1 @@
-rule n28MvCnrb5B { condition : defined true } 
+rule uf10zJAwF0K { strings : $PI3gYR = "v3XNSI" condition : $PI3gYR } 

@@ -1,1 +1,1 @@
-rule Hiw6eQRmahA { strings : $xS3ho4Fli2LsCQXyRw6MR = "NDG8YJ19LOXFnS8auQnhK" wide $kHmlwdimbTci1vplFyR1i = <built-in function hex> condition : all of ( $xS3ho4Fli2LsCQXyRw6MR * , $kHmlwdimbTci1vplFyR1i , $kHmlwdimbTci1vplFyR1i ) } 
+rule ufzuzF3PUM3 { condition : 21.901563299156045 - ( 18.295523670644343 ) } 

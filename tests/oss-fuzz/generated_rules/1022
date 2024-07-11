@@ -1,1 +1,1 @@
-rule Q8RbOuICufA { strings : $ZKEhZ2EjO01YHD9ALIPt1 = "xdtMkkj9FhXXdBY122pls" nocase base64wide condition : true } 
+rule YYR3NeKsgdD { condition : true } 

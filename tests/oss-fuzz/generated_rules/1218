@@ -1,1 +1,1 @@
-rule LLSCP8aKyWM { strings : $TbdYosY8ad2kvbpfHkcGl = "wEJHGA3GXfeNxCO80BweK" condition : - ( 74.50322299504073 ) of ( $TbdYosY8ad2kvbpfHkcGl ) } 
+rule k1wRk8uC317 { condition : not true } 

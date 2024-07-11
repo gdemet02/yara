@@ -1,1 +1,1 @@
-rule ZWa8hH58JZw { strings : $jE1qV1UlLoCzRQqfXzd3M = "m5OoZ5hUJ8GKaoiidgbO5" nocase base64 condition : false } 
+import "elf" rule QW2N31lr4Cp { condition : elf.SHT_DYNSYM } 

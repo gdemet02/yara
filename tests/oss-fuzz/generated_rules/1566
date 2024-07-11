@@ -1,1 +1,1 @@
-import "dex","pe" rule sKKA01DuCoh { strings : $H544WtXkrb0LozXTgMMmy = /\\w?/ $H544WtXkrb0LozXTgMMmy = <built-in function hex> condition : "pe.exports" ( dex.field.class_name ) pe.signatures.certificates.algorithm of them } 
+rule O3tdtJ0gfNm { condition : true } 

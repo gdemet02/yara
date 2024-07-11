@@ -1,1 +1,1 @@
-import "pe" rule DnDYFs9F3I4 { strings : $kLZ7KDkYriWSCgomYxMm0 = /.+?91[||\W+^|\D?/ $xXGJkiSOtewFJFWpACLkI = <built-in function hex> $ImxHzWNMKnJiHUW3tKXjN = "RRetCBnbRyrk8KdHCrziq" condition : all of ( $xXGJkiSOtewFJFWpACLkI ) at /9?\B\D+?^||^|\w|\w[?||.*?/ * pe.signatures.countersignatures.chain.subject } 
+rule ADZf69AWhp6 { condition : true } 

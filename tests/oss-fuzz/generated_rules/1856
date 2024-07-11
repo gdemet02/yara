@@ -1,1 +1,1 @@
-import "pe","dex" rule RJXIHLv1XCx { strings : $Ob6rpmpGrXXEjUfLhtk1S = "xftQ4itJV9pmE0FLADTj5" ascii xor ( 72 ) $TfamifaK6K2EjF8pJnqTI = <built-in function hex> condition : $Ob6rpmpGrXXEjUfLhtk1S at pe.MACHINE_R4000 \ ( - dex.DEX_FILE_MAGIC_037 ) } 
+rule YTAMGEhlWiZ { condition : 49.860038139343054 } 

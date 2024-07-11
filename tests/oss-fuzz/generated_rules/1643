@@ -1,1 +1,1 @@
-rule B6X32e1rw8j { strings : $MPAO14FuFuOWuWQPxAzD1 = /39+/ $onsZKjvpusDNEVrKJkwJk = /(\w[|\s|\B[|\W??|)??/ wide nocase condition : any of ( $MPAO14FuFuOWuWQPxAzD1 ) } 
+rule U43Nq96ITS4 { condition : true } 

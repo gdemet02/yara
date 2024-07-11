@@ -1,1 +1,1 @@
-import "pe" rule ujohGEwrSo5 { condition : ( pe.signatures.serial ) iendswith 4.2751064040565945 "pe.exports" ( pe.signatures.countersignatures.chain.subject ) } 
+rule BE9eWqK9zUi { strings : $Rghcbr = "M4mEttq6" condition : $Rghcbr } 

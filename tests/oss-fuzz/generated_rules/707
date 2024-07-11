@@ -1,1 +1,1 @@
-import "pe" rule yJq1MKYWnc9 { strings : $nMg7GxfFiyMEcLuNjlyqQ = /\w|\s+?|^([+?14*\S?[??)*?3*||.?\D+?|\??^[*?.+|\D+?\*?(\??|\w??|||\w*?([*?|)||||\W*|27|\w+?0[)+\W??(\S*)??/ $UqhQFrBq5zFStw0eD2FFk = <built-in function hex> condition : pe.signatures.certificates.subject = /\+|||||\s[?||/ \ pe.overlay.size % pe.SECTION_CNT_INITIALIZED_DATA \ pe.sections.raw_data_offset ^ 5.584148781461218 } 
+rule tngz6vgTNuo { condition : false } 

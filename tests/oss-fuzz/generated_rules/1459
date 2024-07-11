@@ -1,1 +1,1 @@
-import "dex","pe" rule tqUhOLGqXlz { strings : $xuWSA2yjMn68L21X1ozAM = <built-in function hex> $k7KPctcDtzkzrk4MYnFIv = "w7PIwGglQYEH7ck8XdP7m" nocase $tjUpQBm538oeRs0WaO5xy = "b5kIBufdHIb5q8zY3BMm5" base64 ( "GcW6RcBmNCyjLErRA35rj" ) condition : dex.DEX_FILE_MAGIC_037 icontains pe.signatures.certificates.serial * - dex.method.code_item.insns | dex.method.code_item.insns // & 51.2648350190794 /\S+?||\B|/ } 
+rule ifVizSqfqCK { condition : true } 

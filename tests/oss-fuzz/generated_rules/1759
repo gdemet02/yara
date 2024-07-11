@@ -1,1 +1,1 @@
-rule dkbCi6l0Vfl { strings : $CGfEN08e4rUS77nYiV2yu = /\w*|/ ascii condition : all of ( $CGfEN08e4rUS77nYiV2yu * , $CGfEN08e4rUS77nYiV2yu * , $CGfEN08e4rUS77nYiV2yu ) } 
+rule XOqhp8CNRq1 { condition : true } 

@@ -1,1 +1,1 @@
-import "pe","dex" rule NKzBbqq90Cr { condition : - pe.signatures.signer_info.chain.issuer contains ~ ~ /.?|\B/ % /\B|\w+\B(.??|\B|)[?|\??|\W+^|||54[?/ - - /\[/ pe.signatures.countersignatures.digest \ /12??.*|/ + ~ dex.DEX_FILE_MAGIC_036 + 26.101834219810293 } 
+rule p6s70Nvthu2 { condition : true } 

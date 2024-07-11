@@ -1,1 +1,1 @@
-rule tNu4IZWnJbj { strings : $ufLG9038T01YnFH72bcXJ = <built-in function hex> $QVeubhNh4j4olyqgTB6Fu = "rWHE6eRXUfLZ5N3AHiXwj" condition : false } 
+rule Y4R3SLpoiZB { condition : true } 

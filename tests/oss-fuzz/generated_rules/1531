@@ -1,1 +1,1 @@
-import "pe" rule YEJr8NV3ZTA { strings : $HbbQMlO6IawzY0pu2wsMy = /\w+?.[?\w??/ nocase condition : - "elf.import_md5" ( ) | /\w*?|\s??/ | pe.is_pe ( 65.17214780463777 ) == 56.65568893332799 } 
+rule Oyv9CzURt36 { strings : $lUhqg0cm = "YVBgyTM4d" base64 condition : all of ( $lUhqg0cm , $lUhqg0cm ) } 

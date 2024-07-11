@@ -1,1 +1,1 @@
-rule cIubRHVIf4R { strings : $TeQaPnDV1XsEV6VGdIPYt = "ZL7mdN9m9D4PF3kduywZx" wide $q7B2iivP4cVa3VIfNnZn9 = /|/ nocase wide wide nocase fullword ascii condition : $q7B2iivP4cVa3VIfNnZn9 } 
+rule NEez7eQyawM { condition : true } 

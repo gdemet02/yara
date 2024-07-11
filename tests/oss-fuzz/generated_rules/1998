@@ -1,1 +1,1 @@
-import "dex","pe" rule vGk7gmMZucm { strings : $FODnDfR81OOGENeTl5S0p = <built-in function hex> $qRe5suVpgBgJLcviA8LYt = <built-in function hex> $tibcI8x6Bu8jxOUPmLlp0 = <built-in function hex> condition : ~ ( ~ 69.468509180549 * ~ ( 68.29175762761913 * 9.685501840269295 | ~ dex.method.virtual ) \ pe.number_of_signatures pe.signatures.signer_info.digest ) contains dex.method.code_item.insns_size \ ~ dex.string_ids.offset } 
+rule hWRxLKIRufL { condition : true } 

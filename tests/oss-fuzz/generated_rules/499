@@ -1,1 +1,1 @@
-rule qFnUmjlwu5h { strings : $yk3OsKcWnDoZPCkQ8X21w = "M7cRvUiDRodEr6nxHqLXV" condition : $yk3OsKcWnDoZPCkQ8X21w } 
+rule MQM1luUCw0T { strings : $Px3eODlS = "n0pr6Cr0h" condition : $Px3eODlS } 

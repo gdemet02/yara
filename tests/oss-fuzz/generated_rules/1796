@@ -1,1 +1,1 @@
-import "dex","elf" rule A3Pc1IKbO7b { strings : $naBIieacoKegrr94TsnA6 = <built-in function hex> $alROHzzNaLwwVz2XjgrK7 = <built-in function hex> $qrOFI4WP34nPB5vINb5yC = "sengdxhduvJq8Ei7oCrvC" $xAawYhA4dizvHoZT1wcTO = <built-in function hex> condition : dex.method.proto % elf.sections.name != 41.946077205778934 } 
+rule Jiqik5F3tJp { condition : false } 

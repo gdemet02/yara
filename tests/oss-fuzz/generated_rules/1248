@@ -1,1 +1,1 @@
-import "pe" rule MVKAwIdzNma { strings : $uiPd4RwFxTQaDDqlGPLRx = <built-in function hex> $ApY2pMcTs98hBWxnurjoZ = "a6UTEAauUXKPI8IN9JDJ6" $dEPsJiRwnJKYWPlRfDZva = <built-in function hex> condition : ~ /\D[|^\?/ & ( pe.rich_signature.version_data ) matches /^[??.+\\w[|/ } 
+import "elf" rule Pqk3OixFvdS { condition : 59.84908767016533 - elf.PF_W } 

@@ -1,1 +1,1 @@
-import "dex","pe" rule W2SbrIULIYj { strings : $TFLQip5CWVsARqZ1lSowx = /\D??|/ fullword $EnkpivHhayT8xt3ZVPrdP = "r3KA12xax1eSvGjP8w1Mu" $Uzfgy1cOHmNiMLsdmgGma = <built-in function hex> condition : "pe.rva_to_offset" ( dex.TYPE_CODE_ITEM ) istartswith pe.export_details.forward_name } 
+rule B9jW7j1V9zr { condition : false } 

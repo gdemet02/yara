@@ -1,1 +1,1 @@
-import "dex","elf" rule vs8Ev2mqWB8 { condition : for ( dex.string_ids.value * elf.ET_DYN ) } 
+rule CHhOFxSCfck { condition : false } 

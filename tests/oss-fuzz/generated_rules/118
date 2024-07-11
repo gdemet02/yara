@@ -1,1 +1,1 @@
-rule DfdKkxFfGwF { strings : $XZ9tJA432IlKGJ8HsTAdD = /\D*?|\w[\S?|((\B\S?|\[?)+((14[|)+?([*)+?\S?||)+|\\s*|||(\S[|)[||\S+|[[\S+\W+\W[?|)[\S?|\s*?/ condition : $XZ9tJA432IlKGJ8HsTAdD at 60.798059016764974 } 
+rule jxpOyWHe9ku { condition : false } 

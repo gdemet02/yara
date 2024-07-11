@@ -1,1 +1,1 @@
-rule K6uKg4rjWJn { strings : $n3p9oWgU9yq2t5DGwKaLh = "k0OOLSg4XKcRbFHcePjtJ" condition : $n3p9oWgU9yq2t5DGwKaLh } 
+rule vsOAfgh9Qre { condition : false } 

@@ -1,1 +1,1 @@
-import "dex" rule BPGAztKHuCs { strings : $mjTdQ7S2GBG3KQ9KRGQ6m = /\B|/ ascii condition : 10.897678182232129 = - dex.field.name } 
+import "elf" rule CqbF7la6dwg { condition : ( ( elf.sh_entry_size ) ) != 57.89650397145367 } 

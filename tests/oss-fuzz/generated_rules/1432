@@ -1,1 +1,1 @@
-rule DUzCPkmInLY { strings : $zEONOoK2P5nqWNj68GZpz = "CdNBnhRIi6EQ3X9HKJmpu" condition : for all } 
+import "elf" rule L5466lmm6GN { condition : elf.DT_INIT_ARRAYSZ == 22.169599949333474 } 

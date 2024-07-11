@@ -1,1 +1,1 @@
-import "dex" rule MJwJelnkl0K { strings : $cX8NdJK7x7uSlRPstpVxx = /\B[[?/ wide fullword condition : dex.number_of_methods of ( $cX8NdJK7x7uSlRPstpVxx , $cX8NdJK7x7uSlRPstpVxx ) } 
+rule aeA9JCNDtiB { condition : true } 

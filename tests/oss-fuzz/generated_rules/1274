@@ -1,1 +1,1 @@
-rule mOGdB7pnK5o { strings : $mLNr6I5EEKxi4eKjS9q9b = /\W[?\B|/ $oQp0Yk0pRkss3pegNwLsU = "VEIR39xPJzPjBMqCxGnz7" nocase $qsqyLa4fbvR8scio96BiW = "pBzgK8xBIHZW4lRBMO3wX" base64wide $LaGUIh4izPieW6qkgMa2A = <built-in function hex> $xRdWhMiWHA0IERgOISob2 = "XlC1D3oTMObmHKytCF51f" wide fullword condition : $mLNr6I5EEKxi4eKjS9q9b } 
+rule r62Bbx6MJRr { condition : false } 

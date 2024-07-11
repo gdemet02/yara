@@ -1,1 +1,1 @@
-import "dex" rule Q8UY3HCMpuw { strings : $nQvOREtmP7mN5EBI2eNGg = /\D*?||^^/ $pWzSFXPjaMT0QBUqIXT49 = "bgkWkBt1lsAhnHufa4T4B" $IxkK6W8o86JJL3w1ihkO1 = <built-in function hex> condition : dex.proto_ids.shorty_idx of ( $nQvOREtmP7mN5EBI2eNGg , $pWzSFXPjaMT0QBUqIXT49 ) } 
+rule EwE18yud8ui { condition : 76.96251725213195 } 

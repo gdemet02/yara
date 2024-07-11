@@ -1,1 +1,1 @@
-rule Mc57UO1NTQY { strings : $xCdQ1ZkUnxVByNawv278E = "blDV5axGDltWisxIcKO80" condition : false } 
+rule JFp71ZvlkAs { strings : $HLNpby7ijX = "anjNzY" wide fullword nocase condition : $HLNpby7ijX } 

@@ -1,1 +1,1 @@
-import "pe" rule eThmaizqw2I { strings : $lnTY5rMFLGlEvhDnVC3HC = <built-in function hex> $bK8RAaZPnuVmP4Hn1GgSl = /\s[?\D\w[?/ condition : pe.rich_signature.clear_data & pe.resource_version.major | pe.signatures.signer_info.digest endswith ( /\w*/ ) } 
+rule r620CbPMhNv { condition : false } 

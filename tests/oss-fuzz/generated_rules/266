@@ -1,1 +1,1 @@
-rule ONV7KGTq9ha { strings : $J3XAidP40wY6x2rLHsV17 = <built-in function hex> $MqSvkeJrFmCC5oc1rHr9u = <built-in function hex> $WAA1Y6HZJhYWCs1nr4tb7 = "DkCIQKjdTdyo67L2TyxhL" condition : none of ( $WAA1Y6HZJhYWCs1nr4tb7 * ) } 
+rule rjUD3qIWgwi { condition : false } 

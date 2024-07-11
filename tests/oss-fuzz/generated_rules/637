@@ -1,1 +1,1 @@
-import "elf" rule d28jKP1GPx5 { strings : $Coj8ImbYgeaRkmjA34nx6 = "rplqh3yiJ3R5hsUTOmsGE" ascii condition : /\w[|\|(\S??|)*?|\S+?/ == elf.segments.virtual_address } 
+rule ConiAXZlzZ8 { condition : false } 

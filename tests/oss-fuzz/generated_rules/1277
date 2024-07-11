@@ -1,1 +1,1 @@
-import "pe" rule I3JZgKc7RY5 { strings : $vLuVqHeUKpNsMMqKErUsF = <built-in function hex> $xUAHeEuLGIJ5Uu6WYYDZL = /(\W?)??65|\B12*?\w??||\B|/ wide wide condition : pe.signatures.algorithm_oid of ( $xUAHeEuLGIJ5Uu6WYYDZL , $xUAHeEuLGIJ5Uu6WYYDZL , $vLuVqHeUKpNsMMqKErUsF , $vLuVqHeUKpNsMMqKErUsF ) } 
+rule AJup8baWKJw { condition : true } 

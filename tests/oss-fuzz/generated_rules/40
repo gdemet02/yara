@@ -1,1 +1,1 @@
-rule lXUcPeHXQyE { strings : $akJQvjfDfGnMzFV7AaaGb = /\[1+?|[*\\+?/ nocase wide ascii wide $QGUVeEYJTGX9lC7xrwgSm = /\D?\w[?\w*^\S??/ $zHZ2or10nK12ONvmtkH3p = /^\*?\D+?|/ nocase $uaoen6dG7HqHzD9O00YQq = <built-in function hex> $bB57o6TQcGMzA4lMAm5jh = // $r2FRvjDH3tiVf1JcdBn2h = "aJ3KDRNPZgllVP04VZdc0" $Y9NqX21bNZ3YgMynAWNBl = <built-in function hex> condition : for /[[?12[/ } 
+rule NcP5qhEQWQR { condition : true } 

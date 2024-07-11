@@ -1,1 +1,1 @@
-import "dex","pe" rule VdLTghH1nYN { strings : $KihfjeLuC8E8Ta4gt6VoY = "uzwIPSZKojxJmFLbLW4hG" xor ascii condition : for none of ( $KihfjeLuC8E8Ta4gt6VoY ) : ( not $KihfjeLuC8E8Ta4gt6VoY at dex.header.class_defs_offset % ( dex.ACC_NATIVE * - pe.RESOURCE_TYPE_ANIICON ) ) } 
+rule fHfkKhy6viq { condition : true } 

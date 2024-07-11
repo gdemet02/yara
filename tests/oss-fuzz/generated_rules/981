@@ -1,1 +1,1 @@
-import "pe" rule NYaFiu4lGMg { condition : ~ pe.import_details.functions.rva matches /\D+?/ } 
+rule JgN35HIkQvW { condition : false } 

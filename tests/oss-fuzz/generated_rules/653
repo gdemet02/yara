@@ -1,1 +1,1 @@
-import "pe" rule vWHtfP9I3sl { strings : $mgr4hGKZeYtgcfMN2xhNx = /\D?|[[?|[(\W+?|^|51*^(\+?\W?)?\s+?(\S*?\D+)[?\B\W+|\W+?|93*|)*(||)|[^|/ ascii condition : $mgr4hGKZeYtgcfMN2xhNx at pe.signatures.signer_info.digest_alg % 68.61783820782725 } 
+import "elf" rule iavLFfxvFCs { condition : - elf.DT_FINI_ARRAY \ elf.ET_REL != elf.PT_GNU_STACK % elf.DT_SYMBOLIC } 

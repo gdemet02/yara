@@ -1,1 +1,1 @@
-rule kPmKkwDeRVE { strings : $pqK04ke01VSdqSOOXQFN2 = "GNkTv8MRpBwoH2t3zl40Y" $jP5vTSJGmUuwwo1yc8fTN = "JwpMRZur0MG8jRbPSGhTZ" base64 ( "BPCk250clebBm4A6o9D6j" ) condition : ( /\w??||||/ % of ( $pqK04ke01VSdqSOOXQFN2 * ) ) } 
+rule jb7qopTaTdg { condition : false } 

@@ -1,1 +1,1 @@
-rule IW943LsbOBR { strings : $dAofklNcvQq50Gu61i5Lf = "BlPpH7T9nOwt12EISxdSC" ascii $Z5aAtnuPNxfCEkSODnW5J = <built-in function hex> $ipt75BPf7qdhN8H1ddqjJ = /\B\s+?\S??\B.|^\s?\s[/ nocase ascii wide ascii nocase fullword nocase ascii ascii wide wide condition : true } 
+rule TTpSVuUVFIB { condition : true } 

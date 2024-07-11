@@ -1,1 +1,1 @@
-import "dex","pe" rule D3cPkRGAJB2 { condition : none of them and dex.field.name \ - dex.proto_ids.shorty_idx ^ /\s??/ & pe.version_info_list.key } 
+rule dsE4LK1aLT9 { strings : $q2WWvF = "U3J9Rl5" wide condition : ( $q2WWvF ) } 

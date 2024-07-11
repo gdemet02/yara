@@ -1,1 +1,1 @@
-rule CjbeWBGt9Ic { strings : $SCEYepswhnJryez57u8gD = /\s\s+?\W*\D+\D[?^|[[?^68[|\B|[?||[?\s[?/ fullword wide nocase condition : $SCEYepswhnJryez57u8gD } 
+rule GPR7N4mnfnb { condition : true } 

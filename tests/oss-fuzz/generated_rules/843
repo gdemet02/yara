@@ -1,1 +1,1 @@
-import "pe" rule FQrkfHmPDst { condition : pe.NO_SEH matches /[+?\s[|||.+/ } 
+rule ClYBUayr5tc { condition : false } 

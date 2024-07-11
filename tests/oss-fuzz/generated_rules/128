@@ -1,1 +1,1 @@
-import "pe" rule LKZyo84yoHd { strings : $XG18SobobJ1RsgjBXlz8B = <built-in function hex> $EQW7E452VMv9yuTP6PSFz = /\D+?|^/ condition : pe.signatures.countersignatures.chain.serial % of ( $EQW7E452VMv9yuTP6PSFz * ) } 
+rule egzr6bKlFsi { condition : true } 

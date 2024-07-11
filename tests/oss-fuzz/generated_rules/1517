@@ -1,1 +1,1 @@
-rule emMDqktyljR { condition : for none } 
+rule IBmfu0aOQld { strings : $rafJFv = "WWg6a8" condition : $rafJFv } 

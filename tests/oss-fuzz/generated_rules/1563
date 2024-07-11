@@ -1,1 +1,1 @@
-import "pe","dex" rule QkjvN8jmdo7 { strings : $d9XC5rBCAx86PJk1fbOxG = /^/ condition : ~ 70.01969605402806 pe.RESOURCE_TYPE_RCDATA % /\s?|||^/ /(||^\\??)\S[|\w*?^\s?/ pe.RELOCS_STRIPPED + dex.class_defs.annotations_offset } 
+import "elf" rule xJ8B95yCVSr { condition : elf.DT_DEBUG } 

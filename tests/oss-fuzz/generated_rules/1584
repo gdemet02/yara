@@ -1,1 +1,1 @@
-import "pe" rule yuIvMKBTSLy { strings : $ha69jh1jojFgVgHWGKGOw = /\W??(\S)\B|5?/ fullword wide condition : pe.signatures.algorithm = pe.signatures.algorithm_oid } 
+rule yJC2bnbSFXg { condition : true } 

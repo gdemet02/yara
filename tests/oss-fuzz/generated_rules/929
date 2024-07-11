@@ -1,1 +1,1 @@
-rule OWfCaSky924 { strings : $wdHok3v6Ed7TLYZmxJodq = <built-in function hex> condition : any of ( $wdHok3v6Ed7TLYZmxJodq , $wdHok3v6Ed7TLYZmxJodq ) } 
+rule p3CdNdFsrrY { condition : true } 

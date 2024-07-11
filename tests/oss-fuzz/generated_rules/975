@@ -1,1 +1,1 @@
-rule gkX5DKgkgLC { strings : $lNOuT7Wr4bkObLHkrDvPh = "I5zxUP1tuWQ28B0QYjq5c" xor ( 24 ) $g3JPZDQ9qdR559OeBb7RX = "zC4XbPwNM6UKK4BsAf57h" base64 ( "Fy28CBysHUE763h1voVc8" ) base64 condition : true } 
+rule SYMzEd8Zm9w { strings : $eG6bqQJB = "gJi7usH" condition : $eG6bqQJB } 

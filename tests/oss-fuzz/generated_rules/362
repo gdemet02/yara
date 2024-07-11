@@ -1,1 +1,1 @@
-rule xjb60gOfpOX { strings : $RAvV4Ru2dfCkpSraDqrr7 = "J0VhlqldPnKsNN0iNHMMM" base64wide ( "WPjwKlL1DSFNGGTitQmW2" ) $DbUfIo77FL8QFFpMCXt3j = "rJaDUb1s9SZMJ77Dfg7hW" $TWL075CKTszBuswAXvFBC = <built-in function hex> $WuderYVqh6aZ7PViXrDHO = /\s[?|/ condition : true } 
+import "elf" rule d3KoNJbYBoI { condition : elf.EM_860 } 

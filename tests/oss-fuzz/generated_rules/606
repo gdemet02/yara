@@ -1,1 +1,1 @@
-import "elf","pe" rule MjPmrihWuOx { condition : - elf.type pe.pdb_path } 
+import "elf" rule QtHT0NdwmSh { condition : elf.PT_GNU_STACK } 

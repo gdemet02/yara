@@ -1,1 +1,1 @@
-import "pe" rule KZ14rsBeu2J { strings : $Y1fYGY5Qayf0jFZE5WcS1 = "rDO61XQqKm6kPaiagcBeG" condition : pe.signatures.number_of_certificates == /\s+|\s+?\B|.+?|/ } 
+rule TwncT5ItE3M { condition : true } 

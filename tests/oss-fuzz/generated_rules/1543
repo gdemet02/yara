@@ -1,1 +1,1 @@
-rule v2tPkuqyogW { strings : $NfP6tnloMSEctsQqi6ad0 = "G5CI9C1YW0zbJ3a37ntKD" wide $tsAh7Y6wM979ipKFzcECP = /\D|\W+?[[(\*.+(^)*||\+?|[?|\S[)*|.\w?|(\S[?\S*\S[|||.*?)+|\B\B/ wide $nwkH7x68LBHK1EaRWM93T = "wbaaX9SZOeWCPxG11hhMT" ascii xor condition : none of them at /\S*/ } 
+rule MVA2SWIUNa9 { condition : false } 

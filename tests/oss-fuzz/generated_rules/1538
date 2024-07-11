@@ -1,1 +1,1 @@
-import "pe" rule IaxsHnSlgj7 { condition : 3.4107704439139908 contains pe.signatures.serial } 
+rule U9MUBIofH6e { strings : $QGlyf4 = "VctyGRGh" nocase condition : none of ( $QGlyf4 ) } 

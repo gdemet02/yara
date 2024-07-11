@@ -1,1 +1,1 @@
-import "pe" rule zoBfrMDXHSn { strings : $DLXwGeEkMiQ6Q1rR8Y6UJ = <built-in function hex> condition : pe.number_of_symbols matches /\S[/ } 
+import "elf" rule sx0Sc5P6tMo { condition : elf.ET_EXEC } 

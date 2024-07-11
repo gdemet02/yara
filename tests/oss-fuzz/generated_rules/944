@@ -1,1 +1,1 @@
-import "pe" rule bMknrlHjnFs { strings : $iQjJPz1ZSRpPS9PrKy3dw = /\B||\w+/ $MjgQt8UvxzEUTZZvkyBJM = "SZkqYNSn2QJI6q6oJsTdn" condition : pe.signatures.signer_info.chain.subject matches /|[*?/ } 
+rule YFgqWsukFXL { condition : false } 

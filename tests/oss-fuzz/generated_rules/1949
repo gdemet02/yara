@@ -1,1 +1,1 @@
-rule c6ADwNGRPcK { strings : $ZJbDlT0k8ujXfCJG8k8do = /|100[|\w+\B/ ascii condition : true } 
+rule lV8YGYsbyqc { strings : $S0cQ7NbFd = "NhKiPD" xor ( 21 - 39 ) condition : $S0cQ7NbFd } 

@@ -1,1 +1,1 @@
-rule ELVNFQe0H14 { strings : $gRanGjy3geAz2AVExEysT = "p2lw5Rn0T6SuEz3o6ZbQE" base64 $baRUzFM8WC7dnGTNl5iRQ = "bptwMvN18OiRAthNC21oM" condition : false } 
+rule PW1GFpgAA8I { condition : false } 

@@ -1,1 +1,1 @@
-rule BxKuEqOZc4t { strings : $XJdL1nCcvSChY3Q0Mwe8y = /\S+?^|\S?|\D+\S??[??\B||/ ascii $NZg93oV6g4NdWBowcUPYI = <built-in function hex> $Fyor346Q3fQybYkfilF64 = /\D*/ condition : true } 
+rule xCfS3PxFOTE { condition : false } 

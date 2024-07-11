@@ -1,1 +1,1 @@
-rule o7Tvo21o3VK { strings : $cdMUEkHZmVWrpzgjlLbSY = /\B|(\W+?|.[|)+\?92*||||||\D?|/ ascii ascii condition : ( false ) } 
+rule KoEDCnEAD7j { condition : true } 

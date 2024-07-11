@@ -1,1 +1,1 @@
-import "pe" rule MU8FwMFbeKS { strings : $S251QRoIKAWz0Z2siiAYk = <built-in function hex> condition : pe.version_info_list.key contains - pe.overlay.offset - pe.resources.offset + ( pe.signatures.countersignatures.chain.subject ) } 
+rule A3r8DDZZdhJ { condition : false } 

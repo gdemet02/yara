@@ -1,1 +1,1 @@
-import "pe" rule IC810A5XsD4 { strings : $fnHAanPezMggStSxgdNOI = <built-in function hex> condition : pe.linker_version.minor % of ( $fnHAanPezMggStSxgdNOI , $fnHAanPezMggStSxgdNOI ) } 
+rule fpl6ul6ZcbT { strings : $o0W0hSGkj = "I5J3lW" condition : not none of ( $o0W0hSGkj ) } 

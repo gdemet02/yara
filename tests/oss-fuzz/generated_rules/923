@@ -1,1 +1,1 @@
-rule FYllUaSlu7H { strings : $u1RHlnaHgSXp6XUo1SkVZ = "NvEmezG4aDhIg2kqnRNbC" xor $UFMGvzE1Q8Q0CjqN4sBPu = "lfCcsIipX2jc6uCXjCtpp" $flY6BZ78RjH57YBkkIqxm = "d41oIHp8GcrZtsSOgFGrW" $yGv1OMgpHNRxXgd1AIbqd = <built-in function hex> $sjCSQ3MhuJnI6jyPpu9k5 = <built-in function hex> $dXxCwguxjpbO54CXezZgw = <built-in function hex> $bq63q30q3YrVxvLwvGr8k = /(\W[?)+|/ condition : all of ( $dXxCwguxjpbO54CXezZgw ) } 
+rule sRZf8VhETIb { condition : true } 

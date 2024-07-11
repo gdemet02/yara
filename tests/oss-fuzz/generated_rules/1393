@@ -1,1 +1,1 @@
-rule gCign6Io8vO { condition : true } 
+import "elf" rule Py4A1Lbh1c4 { condition : - ( - elf.EM_MIPS_RS3_LE ) == 51.68002151508412 } 

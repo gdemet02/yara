@@ -1,1 +1,1 @@
-import "elf" rule QbdssFRAxI2 { condition : 48.97517755048072 == elf.EM_MIPS_RS3_LE } 
+rule Achz0Z9FFur { strings : $DjRL7MJ = "ol1ntLx" condition : $DjRL7MJ } 

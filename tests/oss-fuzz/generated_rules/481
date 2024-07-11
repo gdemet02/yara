@@ -1,1 +1,1 @@
-import "pe" rule qVh09eETYLe { condition : - pe.IMAGE_DEBUG_TYPE_FIXUP + 79.16004329544906 istartswith /(\B\s[\s*?\s*?|[[\W?||(\s[\D[?\s+?)|\D??)*\B.+?\D?|/ } 
+rule QYJN08ch9cX { condition : true } 

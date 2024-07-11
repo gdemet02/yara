@@ -1,1 +1,1 @@
-import "pe" rule K2xFOVbtKpj { condition : /\W+|^\s+\w[|||\w??[??|\W[/ & ( pe.signatures.countersignatures.digest_alg ) matches /\*?\B\B[*?[*\w*[+|\??(\s[?|[*?|)*?|||\w*/ } 
+rule uEFttOdRMXj { condition : false } 

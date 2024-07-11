@@ -1,1 +1,1 @@
-rule G75XBBJqzQ6 { strings : $LbFr0hoB4buGm7zDqkOr8 = <built-in function hex> condition : /\B(\S?)[?|/ != /\??\*?|\D[|\W+?/ } 
+rule y7qIYVld2xv { condition : 55.80813583393092 } 

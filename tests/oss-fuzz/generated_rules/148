@@ -1,1 +1,1 @@
-import "pe" rule IjxGOQECP3H { strings : $ZtQHeDQxuwDa4qHFo00iB = /(\w[?\B88?)??|^\W??|(\D*\S\S*?||||[+?\S??||)??(\D+||^\S+?||\w??\D[?\D*\S*48*\*?\*?||\W*?||\S[?|\B\s[?\B|)[?||\[|^\S?/ nocase condition : not $ZtQHeDQxuwDa4qHFo00iB in ( ( /^|[*?[+?/ /|/ % /[||\B\W[?\B\w??|^||/ ^ /^\S??||||\w[?\+?.??|\s+?||\+\S+?\w[/ \ pe.signatures.signer_info.chain.issuer ( 75.2228715511851 & /^|\B/ ) * 91.4956103389087 & /\s??||.+\w??|\D+?/ ) .. /\D+?|[*?\D[\s+?^\S*?|/ ) } 
+rule x4wWgpHA4HH { condition : true } 

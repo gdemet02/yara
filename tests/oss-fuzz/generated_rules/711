@@ -1,1 +1,1 @@
-rule XjIh0AnwrNE { condition : ~ /^^|||^||/ ( /[+|\W+?||\B|\s??(24*?)*\D+?||\+\w\S[/ ) + /\B/ = 73.69782330057107 } 
+rule GrddjoODRhG { condition : true } 

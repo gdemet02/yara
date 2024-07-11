@@ -1,1 +1,1 @@
-rule xkyOSfeTKLX { strings : $ukUh0wZcLnHObO9hQtDck = <built-in function hex> $KbFNBzHBAwyZ2OtGugQU8 = <built-in function hex> condition : false } 
+rule jKgU6M7ukVc { condition : false } 

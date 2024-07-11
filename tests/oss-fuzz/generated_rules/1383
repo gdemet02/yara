@@ -1,1 +1,1 @@
-import "pe" rule zbQG9dAGCZ4 { strings : $Ev85VDyQ9Y8UnW03WBNkp = /45.*?\D+?|/ ascii condition : pe.RESOURCE_TYPE_RCDATA istartswith /\*\B|/ + pe.sections.number_of_relocations and true and 55.444035658012005 /(\*\w[65)+?/ } 
+rule O90NWRLuIYc { condition : false } 

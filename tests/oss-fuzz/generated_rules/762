@@ -1,1 +1,1 @@
-rule XDeOBaNJqXu { strings : $uthx9aRaOEV6tIk74NSwH = <built-in function hex> condition : all of ( $uthx9aRaOEV6tIk74NSwH ) } 
+rule avBYQ3finWA { strings : $eSwWx4f = "VWksh9i8n" condition : none of them } 

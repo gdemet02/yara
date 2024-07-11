@@ -1,1 +1,1 @@
-rule Hm874RWqZ7m { strings : $kTH4pP4JKWIEmWdWrGxLx = "mznsiEHYEdfVxhbuYFJVy" condition : ( any of ( $kTH4pP4JKWIEmWdWrGxLx , $kTH4pP4JKWIEmWdWrGxLx * ) ) } 
+rule AKocehlnbrU { condition : false } 

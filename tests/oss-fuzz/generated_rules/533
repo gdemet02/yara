@@ -1,1 +1,1 @@
-import "pe" rule UEUvzxBSaJ0 { condition : ( ( pe.rich_signature.clear_data ) ) icontains pe.signatures.digest_alg - pe.signatures.signer_info.chain.algorithm_oid } 
+rule LyC59DLgfEr { condition : false } 

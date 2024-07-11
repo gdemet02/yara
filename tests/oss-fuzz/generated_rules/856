@@ -1,1 +1,1 @@
-import "dex" rule W0XCzwqSjka { strings : $MsObsH2rchIGApjo1KDFW = "O8kUd9snlWPF4MbwwKh8Z" fullword base64wide ( "ZxYyeu2QVX7W3t2YZlZnb" ) xor ( 33 ) condition : dex.method.name 56.406398874888154 matches /[[(\s??|(\W[?.*?||[*)[?13??\w+94\W[|\s*?|\[?)*\s*|/ or true } 
+rule wwD9QAJT9h3 { strings : $ENEI4s6qB = "IAfhkep" condition : $ENEI4s6qB } 

@@ -1,1 +1,1 @@
-rule CBPXnlmULzO { condition : true } 
+rule r8dOkmFLgT2 { strings : $bB5HRY = "oqjyQ7gWCZ" condition : any of them } 

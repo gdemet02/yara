@@ -1,1 +1,1 @@
-import "pe" rule UhumpHdlTe6 { condition : pe.APPCONTAINER } 
+rule hSdE2ghz6Ps { strings : $b1Y4VhgXA = "I7tUUv" condition : $b1Y4VhgXA } 

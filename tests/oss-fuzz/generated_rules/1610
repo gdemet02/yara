@@ -1,1 +1,1 @@
-rule ogpZaZnMeLg { strings : $Y2ciLQ2bDN2h0JAoKRgN9 = <built-in function hex> $QOOuzAdHgpaJO3zXx9GKe = "dam4l5HJHlCCAXlFDPXwH" xor $ztI2K66Lhc6Ca4kTBYDnX = // wide fullword $iEwH7kjZrZg3lZpKVFzIO = /\S??\W+?/ ascii $z9xbAdEuEOgMpNE3X8MK2 = "sU0X4OxZrTFSAftpR2IYg" condition : not true } 
+rule lwdgDItxNZo { condition : false } 

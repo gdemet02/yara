@@ -1,1 +1,1 @@
-import "pe" rule RYHXr5hRLVY { strings : $RmON1E9Z8h8uZnzWYK5sy = "G50zETZ4vC2vDGhSgJjO9" xor ( 24 ) $cWdNAE0XdHOWZ6rRl6ymy = "uIuUaHEPXLoKs8Z3K06Ve" condition : ( pe.resources.type_string - pe.dll_characteristics ) ~ /\D[?||||\D*\S*\D+?||(||\??|\B|||\s*)*\B^/ - pe.SECTION_ALIGN_2048BYTES } 
+rule yiZ3GC58WFt { condition : false } 

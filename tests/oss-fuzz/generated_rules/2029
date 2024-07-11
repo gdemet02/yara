@@ -1,0 +1,1 @@
+rule GKulyIMXUIa { condition : not false } 

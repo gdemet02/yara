@@ -1,1 +1,1 @@
-import "dex" rule OXxVzUWFxI1 { condition : dex.header.magic == ( 0.8369082499679159 ) } 
+rule ioK2WmJJYbW { condition : true } 

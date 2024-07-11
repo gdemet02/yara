@@ -1,1 +1,1 @@
-import "dex","pe" rule s9PJBE29Fod { strings : $lXKiNklBjWAYdHjFrkTod = "gzlXH2XGMpN0KtqgjLoqR" xor ( 79 - 61 ) condition : "pe.exports" ( dex.string_ids.offset ) - 20.12128500036021 ^ pe.signatures.countersignatures.chain.algorithm_oid & /\s*/ icontains pe.sections.name pe.signatures.signer_info.chain.algorithm } 
+rule iucalsgtmgk { condition : true } 

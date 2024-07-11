@@ -1,1 +1,1 @@
-import "dex" rule NmxvzeQEzuB { strings : $KELb5FVXwtj9NXUJPX0C5 = <built-in function hex> condition : 61.67596732867597 icontains ( dex.proto_ids.parameters_offset ) or ( false ) } 
+rule EGHPxfwuUgL { condition : false } 

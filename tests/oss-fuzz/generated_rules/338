@@ -1,1 +1,1 @@
-import "pe" rule bmKKjpXofCj { condition : pe.signatures.digest + pe.signatures.file_digest } 
+rule DT5LWPm4pH7 { condition : false } 

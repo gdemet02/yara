@@ -1,1 +1,1 @@
-import "pe" rule xy1WHBO3TZo { strings : $MMyUFmsMgVFq60mnvzIlC = <built-in function hex> condition : pe.IMAGE_DEBUG_TYPE_OMAP_FROM_SRC } 
+rule PGq5aIdZop7 { strings : $Yv0e5p = "HgUvycfw" condition : none of ( $Yv0e5p ) } 

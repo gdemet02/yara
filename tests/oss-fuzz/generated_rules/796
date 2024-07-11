@@ -1,1 +1,1 @@
-rule lXimXVhPmtc { strings : $MCXh5aioG3le7LAERCsqN = "sI6f5NdKQ78gtjQnTfv3r" condition : false } 
+import "elf" rule y2yGEcQjUoK { condition : 94.8839466604401 \ ( elf.PF_R ) } 

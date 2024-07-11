@@ -1,1 +1,1 @@
-import "pe","elf" rule Gin3TJslyIm { strings : $uc4pGvEx3qt6pm6aAqw4E = /((\w*)??||||\s[).+?|^\W[?|\|4+/ condition : pe.export_details.name | elf.sections.name of them at ( 13.88601472448282 ) } 
+rule XuBbKFYi21N { condition : false } 

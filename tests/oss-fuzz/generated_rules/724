@@ -1,1 +1,1 @@
-import "elf" rule gfOnUywkPeT { strings : $WDE242ecsXJTJ7kg2KPOB = "ELWQo76TivEL6Oa4fJk14" $ZNsHk4dVopI9IbyPf7ydc = <built-in function hex> condition : elf.sections.name matches /^\w+/ } 
+rule XUMvRQjCvFZ { condition : false } 

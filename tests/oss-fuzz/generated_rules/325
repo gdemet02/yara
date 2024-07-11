@@ -1,1 +1,1 @@
-rule rquq9HjYZPA { strings : $aPdRJhcc8xM7PQ6dGt4yE = /\D/ $Q6DpDoR6B4BFVMufdi0Y5 = "laZFRVm5ZgeGdVsWRoKji" condition : /\W\S+?|\D??|||(\S+?|||[?|)+/ of them } 
+rule A1JnkCf2uLi { condition : false } 

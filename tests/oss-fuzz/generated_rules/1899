@@ -1,1 +1,1 @@
-import "pe","dex" rule DLNYvnG8tEC { condition : ~ pe.signatures.certificates.thumbprint contains dex.ACC_TRANSIENT } 
+rule oidzHN2uWft { condition : false } 

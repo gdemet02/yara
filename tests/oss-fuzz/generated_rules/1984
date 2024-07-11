@@ -1,1 +1,1 @@
-import "pe" rule duwuQ7278Ea { strings : $kHfk8zD8mOk0tQ3jdT0py = /.[1\S+?.+?/ ascii wide fullword nocase wide condition : - /\B\s*?.[[|^|\D[|\S??|\w??|7??|^/ istartswith ( /[*[*?/ * pe.is_pe ) } 
+rule wfZT3Vqlyeo { condition : false } 

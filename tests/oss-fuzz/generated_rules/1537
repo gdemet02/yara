@@ -1,1 +1,1 @@
-rule XMHcRi1S7A8 { strings : $bVXGmXoe59yyc9sr5SPMQ = /\W[||/ wide $e4hV78Fty7Cl3hqv1Xemf = /^|.*?|/ ascii nocase nocase condition : $bVXGmXoe59yyc9sr5SPMQ } 
+rule avTmwxDkrxw { condition : false } 

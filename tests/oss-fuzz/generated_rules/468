@@ -1,1 +1,1 @@
-rule fUJTNWOjz1X { strings : $dhbQLSXanBvqHvwPogn3w = /\w[?\B/ condition : for any } 
+rule FkGJk0JX5WK { strings : $Qolk80gWRR = "ILLkXXWDc" condition : all of ( $Qolk80gWRR ) } 

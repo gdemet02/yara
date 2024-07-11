@@ -1,1 +1,1 @@
-import "dex" rule RwVdANUfwdd { strings : $kuMQhWnWz2T1xhiiBMDkn = <built-in function hex> condition : /60*?^/ == dex.method.method_idx_diff } 
+rule tkZgmTYnyGQ { condition : false } 

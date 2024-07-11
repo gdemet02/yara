@@ -1,1 +1,1 @@
-rule qUMjpftNt4m { strings : $rwsrzOdYo1RbLBf3hTmce = /\??|.[/ nocase condition : /^|||\W*?||\B\S[?|[*?\W+|\D?|\s\S*?|/ ~ /(\W*\*[?||\.+)[\W??|/ } 
+rule N3MNjJQs9ac { strings : $z4BfdBzsyN = "VF1g7ZF1X" ascii condition : any of them } 

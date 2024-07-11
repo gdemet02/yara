@@ -1,1 +1,1 @@
-import "elf" rule ceRGcZKS7iQ { strings : $aLGi1FkuPt9j6zYVFd89t = /\B\D*|^[+?[+?||((42|\W?\B)*[??|\D*?||\w[)*.[|\B|\w??/ $nP4HWyc3Gc2I6V6oGBli0 = /\S[|\B\W[*?/ condition : elf.segments.memory_size % of them } 
+rule HJQwEuwMTZY { condition : true } 

@@ -1,1 +1,1 @@
-rule BAkIwXZtzN0 { strings : $zSmOvi4Y8mJveR3tcGqXA = <built-in function hex> $jd4WvQHwCCBYm6f7Nmyoh = <built-in function hex> $fph0cImteLAL6IH4430B7 = <built-in function hex> condition : true } 
+import "elf" rule TuUAhB1bHzK { condition : 64.2727317838812 == elf.SHT_SYMTAB and true } 

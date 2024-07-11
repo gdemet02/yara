@@ -1,1 +1,1 @@
-import "pe" rule lhAQKLT8UCx { strings : $GFLfwlUAAY8GVfyF9GDvg = "CbTVISPFyhOF3F84mUtvQ" $zODwuhZ8rsovbd6zQkrJH = <built-in function hex> condition : none of ( $GFLfwlUAAY8GVfyF9GDvg , $zODwuhZ8rsovbd6zQkrJH ) in ( ( /57+\D[?|\\s[||\w[/ ) * /\|||\S\B|[*||/ ~ 64.25786243794151 .. pe.signatures.countersignatures.chain.thumbprint ) } 
+rule IKWAGJTB8nw { condition : true } 

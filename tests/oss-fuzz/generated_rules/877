@@ -1,1 +1,1 @@
-rule NMppwq4sUjF { strings : $A4thciPkNlKnICwXTiJwN = <built-in function hex> $HvnBesTqnmV4RE1v7bb3t = "tYQVFtiTimOX8VaI4ZyDL" base64wide ( "zzKZnRDk4NtuxuufNvYPb" ) $sk0JD1t5hHGyXceSReW1X = <built-in function hex> $BW8adR9CUfkJSQpVP9u75 = /^|\S+?28[|/ ascii wide condition : true } 
+rule mLzYZKsFkRX { condition : true } 

@@ -1,1 +1,1 @@
-import "elf" rule WQ5omFPohUG { condition : 42.71847196452205 != elf.sh_entry_size } 
+rule gcFbljINlX7 { condition : false } 

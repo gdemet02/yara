@@ -1,1 +1,1 @@
-import "elf","pe" rule pP6wL115YBF { condition : elf.STT_COMMON contains - pe.signatures.certificates.subject } 
+rule sxB5IPdr02o { condition : false } 

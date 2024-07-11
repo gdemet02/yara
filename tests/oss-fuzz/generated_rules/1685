@@ -1,1 +1,1 @@
-rule OPKaq2DzQri { strings : $rJ6Knf4yOxAWgphFclL0u = <built-in function hex> $UtQ3pIImP500be6XQpGbD = /((\D[?||||(\w+^|(\w*[*(97*\W[?)[?|)*?)[[*|\B\W*)+?((\B\S*.?|\D+?|)+?|)+[[\D*?33\*)??|\+||56+|/ ascii ascii fullword $Nx7RNFvjo7V09PL4YCka6 = /\W??|^\S[?|[\s\[/ fullword wide ascii wide condition : for all of ( $UtQ3pIImP500be6XQpGbD , $rJ6Knf4yOxAWgphFclL0u , $Nx7RNFvjo7V09PL4YCka6 ) : ( for any ) } 
+rule LD8J5LN7PPD { condition : false } 

@@ -1,1 +1,1 @@
-rule S2sA38gPjqS { strings : $WCyl6cmxlkTl85wEkvihy = /\W?.*?38+\?91*|\B/ $OhUJXJMOA8SiTKcn4RsVM = <built-in function hex> condition : true } 
+rule W4jZL17v52Q { condition : false } 

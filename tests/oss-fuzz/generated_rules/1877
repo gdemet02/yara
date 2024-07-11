@@ -1,1 +1,1 @@
-rule dFCym7jBz6x { strings : $sWYh7Zj69iCpn0NuSKhmF = "YgEG8wkO5elyTDqAjReJu" xor fullword fullword $EzMQveocr60BRlhPu8L3l = "DAQ1koI0eelInFzM7u0Ka" nocase base64 base64wide ( "Xbl5PKppURwhYlojsmjdL" ) condition : ( 59.1019386142679 of ( $sWYh7Zj69iCpn0NuSKhmF * , $EzMQveocr60BRlhPu8L3l ) ) } 
+rule gEitCTVB8YC { condition : false } 

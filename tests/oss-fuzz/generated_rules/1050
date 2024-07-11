@@ -1,1 +1,1 @@
-rule UOCPOGILd1d { strings : $p7FiSZpIyqdUG9jCDvqWD = "zKa3zqvdS9SN3ZvUS1Yhm" fullword xor ( 1 - 41 ) condition : true } 
+rule GCNV6iJXdEJ { strings : $nofj9gB = "P43XwU0PQd" condition : none of ( $nofj9gB ) } 

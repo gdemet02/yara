@@ -1,1 +1,1 @@
-import "pe" rule YmocFFOs7A9 { strings : $hiu7cEULFFIZuRFZZzKT0 = <built-in function hex> $PgbgIOEvVQLn3YP1ftGjp = <built-in function hex> condition : pe.IMAGE_DEBUG_TYPE_FIXUP != - pe.signatures.certificates.algorithm } 
+rule QyUlFKqt3jf { condition : 89.54577792639591 } 

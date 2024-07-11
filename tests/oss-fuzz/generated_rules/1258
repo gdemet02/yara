@@ -1,1 +1,1 @@
-rule fsX0d9lGrCL { strings : $Hj2ZmvBDvKx1JHbKcpTqt = <built-in function hex> condition : any of ( $Hj2ZmvBDvKx1JHbKcpTqt , $Hj2ZmvBDvKx1JHbKcpTqt , $Hj2ZmvBDvKx1JHbKcpTqt , $Hj2ZmvBDvKx1JHbKcpTqt * , $Hj2ZmvBDvKx1JHbKcpTqt , $Hj2ZmvBDvKx1JHbKcpTqt , $Hj2ZmvBDvKx1JHbKcpTqt * ) } 
+rule uP4tgboqexX { condition : true } 

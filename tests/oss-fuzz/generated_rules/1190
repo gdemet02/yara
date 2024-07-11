@@ -1,1 +1,1 @@
-import "pe","dex" rule Bpl1pgXrCXQ { condition : pe.signatures.signer_info.chain.not_after != ~ - ( 2.7674951205321374 & dex.method.name pe.version_info_list.value + pe.IMAGE_DEBUG_TYPE_OMAP_FROM_SRC ) } 
+rule nZTfnNyRWSO { condition : false and true } 

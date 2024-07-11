@@ -1,1 +1,1 @@
-import "pe" rule Ta8gUcsFQ5l { condition : ~ pe.signatures.certificates.issuer - 6.743171046422292 /^/ + 86.49314287286558 } 
+rule VEj4yITJgpz { strings : $q4fqNNXrJ = "CAhMW1b" base64wide condition : $q4fqNNXrJ } 

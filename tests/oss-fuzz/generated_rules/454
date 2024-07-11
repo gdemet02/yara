@@ -1,1 +1,1 @@
-rule WAiL7FSr6Gr { strings : $lBWRosIhPAeDu3Lq10ca4 = "uvCk6fUqpQPyiUr0T38Sh" $OM6YvpWtmUQN0PyqVsm21 = <built-in function hex> condition : $lBWRosIhPAeDu3Lq10ca4 at 19.127352788991438 } 
+rule NgA2uH3EewE { condition : true } 

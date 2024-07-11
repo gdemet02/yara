@@ -1,1 +1,1 @@
-rule IaDHs7L8ygH { strings : $HhKU51dhAzpNmSTkdmcFU = "OXpzqqOHOB67gMLlmlLq9" nocase condition : $HhKU51dhAzpNmSTkdmcFU } 
+rule gXtYkdLNZHj { condition : defined defined true } 

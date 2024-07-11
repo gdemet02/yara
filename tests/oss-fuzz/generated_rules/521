@@ -1,1 +1,1 @@
-rule VmirxCaAyIa { strings : $zKF5OBPbngJHGfJUMKqKf = /\W+|\+^/ nocase ascii condition : $zKF5OBPbngJHGfJUMKqKf } 
+rule Z3qJN1J1t7H { condition : false } 

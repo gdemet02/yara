@@ -1,1 +1,1 @@
-rule XkBfCG5z8gj { strings : $aRCCV6R4AlkXfRv0KPEtj = /.[?/ condition : for all } 
+rule SSic9WpPryN { condition : true } 

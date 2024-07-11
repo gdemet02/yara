@@ -1,1 +1,1 @@
-import "pe" rule IefL3Z3x0uh { strings : $J1pZG6WhPEdzeQNXV7P5G = "qGtlSi36SGgkr8oPEoi22" $XFU5DwE4rGsgRLzjjsVVa = "MtllETJNTpqu8j2c4ZCDM" fullword base64wide condition : pe.dll_name iequals /||\W*?|.+?|[+\*\B|\W[\S??(||)|\W[?/ } 
+rule KGSsVFoIqon { condition : true } 

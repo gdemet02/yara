@@ -1,1 +1,1 @@
-rule AR6k66Qdilw { strings : $hVqPcLu6rdGokY519DwLQ = "Nrsw7u5FYN0gZSdMVvUfX" $kjU9IiGkRfE9IV7tMNAT9 = "Rai75VyT9VCW7NhQbklYs" xor condition : 8.589533146845806 matches /34*?|\B\w[?|/ } 
+rule zXHR549f8zM { condition : 57.624698311581966 } 

@@ -1,1 +1,1 @@
-import "pe","dex" rule UGggdT2NkWE { condition : pe.image_version.major != dex.TYPE_DEBUG_INFO_ITEM } 
+rule N9ZVxIP3UXG { condition : false } 

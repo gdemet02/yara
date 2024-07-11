@@ -1,1 +1,1 @@
-rule JvR7hUWIavv { strings : $OG1oLWu9jGNQFe9RbuqPw = <built-in function hex> $Cr2GaFfwytoH5nEmfLjl9 = /\D?|\W??\W*\W??||95*\[\B.[?|\s*?.\S||()?||\??\D*?\B||(\B|||||^.?|)*([+?.+\D||\+?|86|)?[*?\s[|44+?|[*(\w??64+(.??.[|\D*?|(\B\B\w\[?(\s*?\S[?[?||\s+?|\??.?||\B)?)+|)+?)??\D[.[?||\s[90|||\s[?/ condition : 64.28630217137929 42.14929884748313 } 
+rule cZvatx1peGR { strings : $tC1Qep6cD = "QfYOecqDN" condition : $tC1Qep6cD } 

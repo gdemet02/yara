@@ -1,1 +1,1 @@
-rule VYTCzZW0hEX { strings : $W5LgBofFz8KnLeGGqVvJP = /\w[?|.[\s?/ condition : - 0.640673788234225 | 83.63364111695586 matches /\s+/ } 
+rule d32PsJUQAyW { condition : - 47.14420984968197 } 

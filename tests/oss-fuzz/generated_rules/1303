@@ -1,1 +1,1 @@
-import "dex" rule UrOPgPzFXSu { strings : $YIieN0Wupj3m0MKY4mZPc = "qxv8pckFtSYyeLHPZZnAJ" $f6afZkH2MKYTz0h3D0vGX = "hMy7OVNk7BJipgTMAW8Cb" nocase condition : dex.field_ids.type_idx endswith /\w?|/ } 
+rule rrF1jgAIOPK { condition : false } 

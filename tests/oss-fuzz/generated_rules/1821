@@ -1,1 +1,1 @@
-rule XWkV1f9ikbS { strings : $VGToriB2snxPWiY6yQ0Ih = /47*?/ ascii condition : none of ( $VGToriB2snxPWiY6yQ0Ih , $VGToriB2snxPWiY6yQ0Ih ) } 
+rule Xw5zDPv8qRy { strings : $qGcRaGJ = "xRpck1nI" xor ( 27 ) fullword condition : $qGcRaGJ } 

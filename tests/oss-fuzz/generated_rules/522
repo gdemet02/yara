@@ -1,1 +1,1 @@
-import "pe","dex" rule Hs0i4eyVA4m { strings : $gosZ3LLLdFFpUYlVZatFw = /\S[?\W/ wide ascii wide wide $vr0Nzpip2u7EISPRSFXXo = <built-in function hex> condition : pe.signatures.algorithm endswith dex.class_defs.super_class_idx } 
+rule DQFzSs58MXW { condition : false } 

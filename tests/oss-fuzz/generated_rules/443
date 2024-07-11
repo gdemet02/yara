@@ -1,1 +1,1 @@
-rule CVDMYq7w0qz { strings : $KzDOwPsExuaW5oZ4e6inJ = /17[?\D[\W+/ nocase nocase $lfn0T5VL324iij27VQQHu = "MVP2h5C93iYUKwoAWPtNL" condition : /\W*|19*?\S*/ matches /||\s\S[?|/ } 
+import "elf" rule d4vNeBpIfey { strings : $XzLeL2xYwV = "fsTRSEutoX" ascii condition : not elf.DT_REL of ( $XzLeL2xYwV ) } 

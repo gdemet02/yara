@@ -1,1 +1,1 @@
-rule IXhN4wQkcFl { strings : $vU3XRnGMmpvnQ8b4AFw2m = "UM4uDd2HtD6t9XdUvXQ98" xor base64wide base64 condition : false } 
+import "elf" rule O0zEyeESDRh { condition : ( elf.DT_RELAENT ) } 

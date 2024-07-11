@@ -1,1 +1,1 @@
-rule MfjP05YlejH { strings : $yxDJqVUZJcfPzAsqPX1GI = /100[\B42+?||\s??|/ fullword nocase nocase ascii condition : for /66+?\S[|[??|\[?[+?|/ 3.0275453043124734 $yxDJqVUZJcfPzAsqPX1GI in $yxDJqVUZJcfPzAsqPX1GI : ( ( /\s+?\W+?(\B\w*\S+?)*?\w?\s|\?/ ) matches /\+?/ ) } 
+rule TkoN07B28Rl { condition : true } 

@@ -1,1 +1,1 @@
-rule fNiK1RZ9U3H { condition : for none } 
+rule g7RwPWIiU1F { strings : $fAvOMDIUR = "PcMRBy" condition : $fAvOMDIUR } 

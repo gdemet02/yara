@@ -1,1 +1,1 @@
-import "pe" rule MXpyTsAfRfW { condition : pe.export_details.forward_name icontains /^\s?()+|[|.*.+?/ } 
+rule QVQmyFPNkY4 { strings : $MEm6YS0nU = "nIrcxk" base64wide condition : $MEm6YS0nU } 

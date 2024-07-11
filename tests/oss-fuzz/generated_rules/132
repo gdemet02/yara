@@ -1,1 +1,1 @@
-import "pe","elf" rule ctid1gjZW6o { strings : $aChY6rHu7kUqp2rxRjtUe = "fDF0PXq0NtZnnluLkEifT" nocase base64wide xor ( 40 ) base64wide ( "q0W927fBzq83BcZPMXog1" ) fullword ascii condition : ( pe.rich_signature.clear_data ) + elf.DT_REL } 
+rule jiZqZpX5y1F { condition : true } 

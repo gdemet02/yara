@@ -1,1 +1,1 @@
-import "pe" rule sYuolFgRcF5 { condition : pe.sections.raw_data_size startswith pe.signatures.countersignatures.chain.serial } 
+rule pjPHd6rciec { condition : false } 

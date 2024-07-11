@@ -1,1 +1,1 @@
-import "elf" rule peezgbJT55p { strings : $Vx5STwB1xX7CabOiDGLu3 = "ugTSMZvg3iHUDZWhDGqvB" nocase base64 wide fullword $KhwyN8wLarf9N0pZdvcwX = <built-in function hex> condition : none of ( $Vx5STwB1xX7CabOiDGLu3 ) at elf.EM_ARM & - ~ 7.186914952093215 } 
+rule iOa3zPeaFqe { condition : false } 

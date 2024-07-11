@@ -1,1 +1,1 @@
-rule PyZfxbD6Is7 { strings : $pZ9QVVKx00y8UsC2aHtUv = /\*?||34^/ nocase ascii $jgaSNXtlhNiUcxM8YYRuS = /\W[?.??\S*?||||||/ ascii nocase $hJ1b7qXUCO2HjFEI4ywZE = <built-in function hex> condition : $hJ1b7qXUCO2HjFEI4ywZE } 
+rule cTUZ2ogdenH { strings : $yMuS4IzcJ = "CFI8Fo" condition : defined defined none of them } 

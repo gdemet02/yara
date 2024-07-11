@@ -1,1 +1,1 @@
-rule g53gl5jeuQS { condition : false } 
+rule n620MTCBXVR { strings : $v868WrJ = "S2AdqnJcdU" xor fullword condition : $v868WrJ } 

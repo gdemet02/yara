@@ -1,1 +1,1 @@
-import "pe" rule SG47cdRm3TB { strings : $BhrTWElRK4gM88XY2L8aJ = /\/ condition : 50.52677421685513 = pe.import_details.functions.rva } 
+rule Q94MxrIJyms { strings : $sIVtwC6OT = "DXEqALzzKo" condition : defined $sIVtwC6OT } 

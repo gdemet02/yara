@@ -1,1 +1,1 @@
-import "dex","pe" rule TIzXYoDIjAZ { condition : dex.method.code_item.outs_size % 99.17720765856203 startswith pe.number_of_delayed_imported_functions | ( /\W*/ | ~ dex.TYPE_ANNOTATIONS_DIRECTORY_ITEM * 9.495322737777379 + 17.30725672477511 ) | 99.99906294157984 \ /(.?\w)[\W\D\S[?||\D?|\S*?(.+?)??||/ } 
+rule zWaweLuSCS5 { condition : defined true } 

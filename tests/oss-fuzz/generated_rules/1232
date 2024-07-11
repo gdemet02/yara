@@ -1,1 +1,1 @@
-rule mlsYhnNqe3h { condition : false } 
+import "elf" rule fz8REsxSGCc { strings : $A8BQRDaVEX = "wxfr6H1" ascii nocase condition : elf.DT_NULL % of them } 

@@ -1,1 +1,1 @@
-import "pe" rule Gcke0CeDLac { strings : $RRgTwCu3okf0MhVCizT4y = "z44in0br5kKxAjpDx1UmU" $FrUc8NgTAZOAeAXmpwwIo = /\??|\*?||\w??|/ $WLrzj5s4VDtoqiy7gJmwa = /\W\*\W*|||||\?^|/ fullword fullword fullword wide wide ascii $PCRUj00uVKBL9mxILjy4p = "nudcWFIPinecR3TnqcRK7" $lpm9EKjgjsD7daFl90kk5 = <built-in function hex> condition : none of ( $PCRUj00uVKBL9mxILjy4p ) or 76.80148224312539 pe.RESOURCE_TYPE_ICON + "pe.imports" ( pe.is_pe pe.signatures.countersignatures.chain.subject ) % ( 37.16958277338499 ) of ( $FrUc8NgTAZOAeAXmpwwIo * ) } 
+rule WUFo85j02XQ { condition : false } 

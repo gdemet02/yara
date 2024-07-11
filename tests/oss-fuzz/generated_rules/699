@@ -1,1 +1,1 @@
-rule SDM05XHNTBD { strings : $r2M0bELCf3RVj4HxlDjhz = "KTGA7ZWgWnIZMRQmeQI36" base64 $QF1DhDGJRu0C7HiPgs0mK = "HtxnHTESy72B1tch8bR6c" base64wide xor ( 60 ) xor ( 19 ) base64 base64 base64wide ( "qAK6YTYwYsXb08Qfbo3yN" ) $apqD0Uv0bntJJ6nvnUOb1 = "lFS1O9CCEqkfYyKfiGg76" $xYIp5WZ1llC2WLSstovlD = <built-in function hex> $nOVdbliA4f5Zu4oJPEVb8 = "hd0bpQDpbYpqFWuwFgUUS" fullword base64wide ( "qDAetMOTxX2sQOsnumb5I" ) condition : $nOVdbliA4f5Zu4oJPEVb8 at ~ - /\B\w|/ /\S+?/ } 
+rule bgNs17VKET5 { strings : $hk5LiS = "NhDmJgcE7" condition : $hk5LiS } 

@@ -1,1 +1,1 @@
-rule omyWbBRBPoz { strings : $ecXRFWRe1x0XwxFj6CxWD = <built-in function hex> condition : $ecXRFWRe1x0XwxFj6CxWD } 
+rule Tt8RxsHt6WU { condition : false } 

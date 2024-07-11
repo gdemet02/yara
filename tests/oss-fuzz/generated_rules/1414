@@ -1,1 +1,1 @@
-rule khSCXGBy80j { strings : $Yrx5wDi51EBCrV67xYAPN = "tx419QKMCTpDRBb2FUghX" condition : $Yrx5wDi51EBCrV67xYAPN } 
+rule RTpZC8KnA4e { condition : true } 

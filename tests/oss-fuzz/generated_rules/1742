@@ -1,1 +1,1 @@
-rule Hme6tJQ3Iob { strings : $ui7WaJTAOiGdeVqPusV9E = <built-in function hex> condition : for none } 
+rule uIWYPnHTICd { condition : true } 

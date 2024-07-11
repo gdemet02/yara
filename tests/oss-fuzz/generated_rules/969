@@ -1,1 +1,1 @@
-import "pe" rule HMLodczdM35 { strings : $RlQjm9H21Kdd24khuzqOn = <built-in function hex> condition : pe.MACHINE_SH3DSP } 
+rule cjrLosoFlNq { condition : true } 

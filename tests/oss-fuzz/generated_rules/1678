@@ -1,1 +1,1 @@
-rule nWnzTbPgFwD { strings : $lSh91ErfQ3ezmtrE10P03 = "YiAtmCUTqpmNiKY8JQF5t" condition : false } 
+rule jSTyVKr5dve { condition : defined false } 

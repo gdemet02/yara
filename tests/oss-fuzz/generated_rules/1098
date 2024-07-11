@@ -1,1 +1,1 @@
-rule wVHDXwW9VlJ { strings : $CQtpvZj3hrqueF6R52Dbc = <built-in function hex> $JXa0HQ6Iy6kBYiQTB5Y3o = <built-in function hex> $AM1L0OUYqO0vFXlgo54X7 = /98?||\B\*/ wide $l4yE8Ijh1SIDWOQjKgXs4 = /\B.[?||\S[?(\S?)*?^|^|\S+|||\w*?/ nocase condition : true } 
+rule mcAMMWjlXWv { condition : true } 

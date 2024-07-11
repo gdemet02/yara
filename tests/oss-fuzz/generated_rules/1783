@@ -1,1 +1,1 @@
-import "elf","pe" rule sOKeUW7uDL6 { strings : $vJy89oVhm9M1udtknOmPb = /\w+^|^|||(\s[?[[([*?\s*|[[?)[?\S[||\+.?|\W[?|\??\D+?.??|[??^\[?49[?\S?)?|^/ condition : - elf.sections.name % pe.SUBSYSTEM_OS2_CUI + pe.RESOURCE_TYPE_BITMAP of ( $vJy89oVhm9M1udtknOmPb ) } 
+rule g34YSZUM88v { condition : true } 

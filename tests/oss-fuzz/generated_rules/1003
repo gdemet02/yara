@@ -1,1 +1,1 @@
-import "dex" rule jO8kvReAzQ6 { condition : for dex.DEX_FILE_MAGIC_039 } 
+rule FbBbuxO1U9b { strings : $c6Q6vZz8c = "EVUHb7" xor condition : all of ( $c6Q6vZz8c ) } 

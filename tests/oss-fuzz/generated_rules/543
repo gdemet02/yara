@@ -1,1 +1,1 @@
-import "pe" rule mhiM9T5uNJU { strings : $RYBYn4ogjakpmcCw9rua9 = "HpAH96XY2G1VFqWtu9CJI" fullword condition : any of them at 74.56814301630973 | /\B/ pe.signatures.certificates.issuer | 75.85042094184068 ^ /.??\D?|\D[?|[+\s*?|\w?||/ + "pe.rich_signature.version" ( entrypoint pe.SECTION_ALIGN_256BYTES ) } 
+rule TVeuDajo735 { condition : true } 

@@ -1,1 +1,1 @@
-rule jmLGjo1Re0r { strings : $qBVzJqKi95h7Jd29JkIEl = <built-in function hex> condition : 76.86473333188775 == 64.97741844654324 } 
+rule y7HE9cAURlO { strings : $jig9oLt = "QNEgk1" nocase condition : ( $jig9oLt ) } 

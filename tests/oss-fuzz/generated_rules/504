@@ -1,1 +1,1 @@
-import "pe","elf" rule taAtFbj6rHH { strings : $luEZWoWnAeHiAcgPfZkh4 = <built-in function hex> condition : /\B|\S[||\W*|\B|/ + pe.rich_signature.raw_data & ~ elf.PT_NULL } 
+rule nLLfdgefrnb { condition : false } 

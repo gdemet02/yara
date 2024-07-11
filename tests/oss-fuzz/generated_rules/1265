@@ -1,1 +1,1 @@
-import "dex","pe" rule eEW5wqQVq0P { strings : $urJg0JtHbGMwxqbrjZSH4 = <built-in function hex> $lcdk3YdiLbdp4cfc0UkGa = /\w/ fullword ascii fullword $QnlJ9UmPTMhwAWk8jO2LD = <built-in function hex> condition : dex.method.proto iequals dex.method.code_item.insns | ~ "elf.import_md5" ( ) & pe.SECTION_CNT_INITIALIZED_DATA } 
+rule pG3xVDc8bIh { condition : false } 

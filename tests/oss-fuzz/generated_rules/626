@@ -1,1 +1,1 @@
-import "pe" rule umuDY4vvhWI { condition : for pe.IMAGE_NT_OPTIONAL_HDR64_MAGIC } 
+rule w8HlpvZnrb5 { condition : true } 

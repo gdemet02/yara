@@ -1,1 +1,1 @@
-import "dex" rule h0kD6spaXVn { condition : - dex.method.proto * 29.56332240745421 matches /\B(\D*?^\w*\D+?^|\s+|\D[)[|\B\s*?||/ } 
+import "elf" rule D1IO81pX09Q { condition : not elf.EM_PPC64 } 

@@ -1,1 +1,1 @@
-import "pe" rule NX7LYkuNqlk { condition : pe.entry_point startswith 58.79533603149787 } 
+rule TfkTA4lIhLx { condition : true } 

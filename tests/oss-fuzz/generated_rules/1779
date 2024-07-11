@@ -1,1 +1,1 @@
-import "pe" rule PrLX4WvZvmX { condition : 93.88877170824685 \ 32.68144931110577 iendswith pe.import_details.number_of_functions } 
+rule Z4O0TXRkl1J { strings : $Tvgyms9xhL = "AeR6r92" wide fullword condition : all of them } 

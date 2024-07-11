@@ -1,1 +1,1 @@
-rule JdpzgymxuwM { strings : $dwCxrwXR5iJ275cDyB5yj = /()*?\W+.??|/ condition : all of ( $dwCxrwXR5iJ275cDyB5yj ) } 
+import "elf" rule l3ZZn4pM2WO { strings : $eF48mtlHV = "QSWwtIzUBZ" ascii condition : - elf.PT_GNU_EH_FRAME of them } 

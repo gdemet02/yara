@@ -1,1 +1,1 @@
-rule harbzfVNJx7 { condition : "elf.telfhash" ( ) of them at /.??\W?\s[/ ^ /(\w?|||)[/ | 96.89432668982248 } 
+rule BYn3Di3AvAN { strings : $Nhqqyd = "YdvWqiS" condition : none of them } 

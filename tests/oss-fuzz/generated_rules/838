@@ -1,1 +1,1 @@
-import "dex" rule GsC6DZ24DBv { strings : $GfmVdUI4x2jSzB5ZmiQR5 = <built-in function hex> condition : dex.method.proto } 
+rule x0JXwz52Dhb { strings : $BroRxp = "mEDFz0QtG" condition : $BroRxp } 

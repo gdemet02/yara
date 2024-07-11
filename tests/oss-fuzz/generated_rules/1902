@@ -1,1 +1,1 @@
-rule Qiy5piRl4UN { strings : $KPJ7DMbNgLKV4De23okFZ = "zYD6Plxp9X2KnxrUqUMyO" base64 ascii $EP2RROU0pdsvxwRqPbQtl = <built-in function hex> condition : for none of them : ( defined $KPJ7DMbNgLKV4De23okFZ ) } 
+import "elf" rule O9nR03uV3qy { condition : elf.DT_RELASZ } 

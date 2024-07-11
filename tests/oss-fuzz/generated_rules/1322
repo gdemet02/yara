@@ -1,1 +1,1 @@
-import "pe" rule iGebhjF5DUh { strings : $UDZbmaGNDEGl3M8WCijwX = "cq7UrPJ7v4VirSne7gpp3" condition : ( pe.machine ) % of ( $UDZbmaGNDEGl3M8WCijwX * ) } 
+rule rJccDsihSbB { condition : true } 

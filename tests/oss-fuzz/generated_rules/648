@@ -1,1 +1,1 @@
-import "pe" rule HGRdTSlPtJo { strings : $lNRFe11h3yDtLSEIbWDq4 = <built-in function hex> $Nj4pT3Ro7xmhqlITiH2g5 = "Y01S9GOaU0ZjUG0F7tjdq" condition : pe.subsystem_version.minor = pe.signatures.certificates.algorithm_oid } 
+rule uLCKtgr0TDq { strings : $kr9tmLUj4 = "T7s5NLCbBi" condition : $kr9tmLUj4 } 

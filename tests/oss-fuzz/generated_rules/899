@@ -1,1 +1,1 @@
-import "pe" rule kYeQyzZHcPP { condition : pe.signatures.signer_info.chain.algorithm = 68.61497480103407 } 
+rule zGEq3Qg9IYA { strings : $j4TlTS = "skoixSPUJ" condition : $j4TlTS } 

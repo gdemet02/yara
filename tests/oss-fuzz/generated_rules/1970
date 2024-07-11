@@ -1,1 +1,1 @@
-import "pe" rule tVToEHveCtl { strings : $iBtXlgqNKr3RmE5Fot6Va = <built-in function hex> condition : ( 92.83876618227681 pe.signatures.serial ) of ( $iBtXlgqNKr3RmE5Fot6Va * ) } 
+rule VQhukPtcVYy { condition : false } 

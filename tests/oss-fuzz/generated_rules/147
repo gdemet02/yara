@@ -1,1 +1,1 @@
-import "pe" rule CLa3L036nTR { condition : pe.signatures.certificates.algorithm endswith pe.signatures.digest_alg pe.signatures.subject } 
+rule d52qYJOU7A0 { condition : true } 

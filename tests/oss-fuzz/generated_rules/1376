@@ -1,1 +1,1 @@
-rule vLZ3uLBKuZz { strings : $dxfZ66FlBVqEIw1G4qOxA = "m5cWoyCo8K6DwPgryi6QV" xor ( 95 ) base64 condition : ( defined true ) } 
+rule bFsZZHfXSGL { condition : false } 

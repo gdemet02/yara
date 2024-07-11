@@ -1,1 +1,1 @@
-import "pe" rule FxMSjQQxVDc { strings : $x3vTWuTBeT9Jva5uPhGlv = /(.+?||)??|./ ascii wide fullword fullword fullword wide nocase $gZ285Ff1nP1dDJtAzIen8 = /\B\W[?(\S*?([+?)+?)+?|/ ascii $NHbAXMBaakuGmtIuHIwe3 = /\D\S[/ condition : 12.68022073127476 /\S??/ | pe.signatures.certificates.thumbprint } 
+rule tCkpLOmx5xz { condition : false } 

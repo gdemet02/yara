@@ -1,1 +1,1 @@
-import "dex","pe" rule qRaCLgmzK9s { strings : $LIeQgUXYyZ1J6alht16lc = /^^|/ $xAShcm5F9RPEWwFl5AbiE = "CXjJstYFFaqwSys68X6Np" base64 ( "mpkTYrEhzAva4bEfw0diu" ) base64 ( "bU23OwAaeqFn6EtbGKVhm" ) condition : ( dex.method.access_flags ) /\S|\D[?|/ ^ /.[?\s*|/ & /.+?\s\w+?/ * 73.03481015834187 iequals pe.subsystem } 
+rule lFxqocFTMbN { condition : true } 

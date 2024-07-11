@@ -1,1 +1,1 @@
-rule nQtoACFlNTQ { condition : false } 
+import "elf" rule wRA4w8eMnk6 { strings : $f2bRe3MZn = "qbmM1YkzV2" condition : ( none of them at elf.DT_ENCODING ) } 

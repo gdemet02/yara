@@ -1,1 +1,1 @@
-import "pe" rule mrg7wnxh4tP { strings : $mdv0nZcrCYNRuoJmXWJKl = "esBEtYDRE8mnY3Yoggz5g" $toPlQBwXbWoYLHHlulLTB = "OAiA1QpA4lpjJ5PBgFrup" condition : /.||54+?[[\B|\B\*|\W/ iequals pe.RESOURCE_TYPE_FONTDIR } 
+rule tzDwPXpKxuP { condition : false } 

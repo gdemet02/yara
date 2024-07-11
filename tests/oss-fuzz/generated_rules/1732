@@ -1,1 +1,1 @@
-rule tGi8pZGK94c { strings : $rqLSV0wYvebAizo0FL79G = "oGi4v1RzX4ls6Wy6b57in" base64 ascii condition : defined ( ( $rqLSV0wYvebAizo0FL79G ) ) } 
+rule Ylh2cRyiV2K { condition : true } 

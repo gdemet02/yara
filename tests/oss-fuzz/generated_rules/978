@@ -1,1 +1,1 @@
-import "pe","dex" rule kBLe4PJywdX { strings : $fDhsgxHcJIAzxaAMExiwf = "zOJBMUpBG8zyynQQ8EmrC" wide nocase xor ( 93 - 48 ) fullword nocase nocase fullword condition : defined for pe.rich_signature.raw_data and - ( /[*^|/ ) pe.signatures.countersignatures.chain.issuer = 62.396238571297836 dex.method.direct * "dex.has_class" ( /([??||51?|)?/ ) } 
+rule MU92mFSBYmD { condition : false } 

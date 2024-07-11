@@ -1,1 +1,1 @@
-import "dex","pe" rule o1AJtTouOAJ { strings : $RctB4YaMfKpVd9I9SzCZt = /(^|\??).+?||28+?\S*\W+|\B|\S/ condition : ~ dex.string_ids.value \ 71.05131869327282 - /\*17*?\S*?(\W??(|\s+\B||60*|^.*?)[|^^|\B)[\[|\w??|\D[?\B||\B|/ of them at pe.timestamp } 
+rule SZ9FjDYV4m4 { condition : true } 

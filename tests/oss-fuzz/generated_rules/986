@@ -1,1 +1,1 @@
-import "pe" rule sGunuDIKHxV { strings : $PNkk5qZdRd4ajzUEKsGqa = /\w*|[[?|.*?\S*|((\D*)+?\W+)\*|/ wide nocase fullword fullword wide ascii ascii wide fullword fullword condition : $PNkk5qZdRd4ajzUEKsGqa at pe.signatures.certificates.thumbprint } 
+rule HCyfNerdGJD { condition : true } 

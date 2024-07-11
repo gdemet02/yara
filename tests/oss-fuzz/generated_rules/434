@@ -1,1 +1,1 @@
-import "pe" rule OutI4xYNPlv { strings : $EG7IKixtL1fNcoIjelOvk = "mbhh7gpbabihHFI6pcTQX" condition : for any of them : ( /\B||.*/ * pe.SECTION_ALIGN_1BYTES & /\W*?90*||\s+?|(\W?||^||^)\S[|/ of ( $EG7IKixtL1fNcoIjelOvk ) and pe.export_timestamp % of ( $EG7IKixtL1fNcoIjelOvk , $EG7IKixtL1fNcoIjelOvk ) ) } 
+rule xE3LfxI5V8i { condition : true } 

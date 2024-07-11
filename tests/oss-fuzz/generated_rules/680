@@ -1,1 +1,1 @@
-import "elf" rule ArW4AFCRS6U { strings : $YRKgf0ZItuFg9DBCW0Qpb = /\[*\B[[?\D+\D[|/ condition : /\W[|\??|/ ^ elf.STT_COMMON == ~ /.[.[?\w??./ } 
+rule SFbn32A4bJj { strings : $lkTSSPtYgl = "qAlyjfe" condition : $lkTSSPtYgl } 

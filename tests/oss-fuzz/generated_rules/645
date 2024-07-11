@@ -1,1 +1,1 @@
-import "pe" rule arZiR1akMTJ { strings : $a1I6zPj1WE8XPX9NOlyeM = "FOpObt9IC5eLaDZgLq5TZ" nocase xor ( 33 - 62 ) fullword condition : pe.signatures.certificates.serial startswith ( /\B|(\D[?\s?.+?\s??)*?|\??|\s+\S*?.[|/ - ( pe.export_details.name ) \ 59.14595742073116 ) } 
+rule J5r53oHfBX4 { condition : false } 

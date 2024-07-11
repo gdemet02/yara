@@ -1,1 +1,1 @@
-import "pe" rule Rf8NhsMFlX3 { strings : $VVbNP6DXTU6IB6AFCRh8N = /|\D*\w*\s[?|.[?||||[+|\[?32*\S*|/ ascii $tMd8ArHw1YChwzp3UxNzu = "G7kPwe2NDinrZQ4yUJ6Jp" fullword $h7mtGyBXkm5SxKZmkFC17 = "IL4voRd7pfpqJ5Y5UdcST" $L8NqbK8NOXLE06JYJwifB = <built-in function hex> condition : ( ~ 8.340687976976469 \ - - pe.signatures.certificates.serial + ( pe.import_details.functions.name ) ( pe.delayed_import_details.number_of_functions ) ) != pe.SECTION_ALIGN_16BYTES } 
+rule IrkZAvyJdwz { condition : false } 

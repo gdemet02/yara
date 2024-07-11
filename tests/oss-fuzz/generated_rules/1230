@@ -1,1 +1,1 @@
-rule AGRyTUFh5rq { strings : $W2azqamv0X2GT4ntFKUOi = /[*?|[+?\B/ ascii nocase condition : true } 
+rule eqGuVj8sdUU { condition : false } 

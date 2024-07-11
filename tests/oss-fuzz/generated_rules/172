@@ -1,1 +1,1 @@
-import "pe" rule JFhcCva43Eq { condition : ( /^\W+|/ = pe.SECTION_ALIGN_4BYTES ) } 
+rule fNaZgGfq1mG { condition : true } 

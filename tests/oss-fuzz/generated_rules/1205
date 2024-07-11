@@ -1,1 +1,1 @@
-import "pe" rule y0gU2bcL3Na { condition : - ~ - pe.resources.name_string 76.27674559015186 + ( pe.signatures.algorithm_oid ) endswith 50.50351629834502 % 80.15860457400699 } 
+rule vZFLdqTNCWV { condition : false } 

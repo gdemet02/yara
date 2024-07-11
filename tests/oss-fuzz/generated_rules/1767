@@ -1,1 +1,1 @@
-import "pe" rule xpWUWSWfM5X { condition : "pe.is_32bit" ( ) iequals 80.34108509496815 - pe.resources.name_string } 
+rule M8TiQ1FZjw4 { condition : false } 

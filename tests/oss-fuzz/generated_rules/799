@@ -1,1 +1,1 @@
-rule vzE8S4a7d4V { strings : $O6oaRDMYs3bF0pfPppIGV = <built-in function hex> condition : any of ( $O6oaRDMYs3bF0pfPppIGV * ) } 
+rule XXwgTqiz5RK { condition : 22.146824943303077 } 

@@ -1,1 +1,1 @@
-rule BNK3F6n9kp3 { strings : $Z35llkUBvQBqcv6Q34FLB = "k6glkjMFVknnjl9KKBPjQ" xor condition : all of them } 
+import "elf" rule dr863nQOprP { condition : ~ elf.DT_RELENT } 

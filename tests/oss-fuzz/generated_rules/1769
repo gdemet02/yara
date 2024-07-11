@@ -1,1 +1,1 @@
-rule euFw1dXsEBO { strings : $nySk2YAtSlStEWfzpjMgR = <built-in function hex> $twSeNmCZWDDMFtdAaLUjp = <built-in function hex> $SrGAMck8zmmkL3v0WNOl4 = "yUMF1mqZ39IuF0XYfjJiH" $bb7E7epH73Ss5QxVi0TTZ = <built-in function hex> condition : /\B\D+(\w??||||\s?\\D+?[|16[.[||[[?\S??(\B||((([?|^^(\w||^\S[?\s?||\W?|\B\B(^|\w??||\B(\|)?|||^.?)[||)*?)+?\D+?)?)*18?)?\*^\[[+|\S?|||\W*\D[|[*?||)[?/ matches /^|\?(\S[|[[?(\S[?\W[.??\+?|\+||||)*|.?\D[?|)+?/ } 
+rule Cjd8fUO28Sg { condition : ( true ) } 

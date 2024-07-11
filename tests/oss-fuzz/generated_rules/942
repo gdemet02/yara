@@ -1,1 +1,1 @@
-import "elf","pe" rule NOBPCpK7TnI { condition : elf.DT_RUNPATH - pe.signatures.serial - pe.DLL } 
+rule YUxVgsE5M5y { condition : true } 

@@ -1,1 +1,1 @@
-import "pe","dex" rule u720vtJYVvI { strings : $zXUyq0S7lv3qqOsNOZZLB = "KJrX0lqBtvRBzsPnkKe0u" condition : pe.signatures.certificates.algorithm pe.signatures.countersignatures.chain.issuer | dex.DEX_FILE_MAGIC_039 | /\W??44[?|\B/ ^ pe.version_info_list.value ( 53.11325402878649 \ /|^\W??||^||/ ) ^ 22.18010431023808 \ ( 37.114036727774916 ) matches /.|/ } 
+rule ySEggCJoHgA { condition : true } 

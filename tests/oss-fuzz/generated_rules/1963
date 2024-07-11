@@ -1,1 +1,1 @@
-import "dex" rule ffQGPAZvl2K { strings : $zmY05m2rlTLsNFRf0q3pX = "LbOIoXM8mkOLV8DNQZpWP" xor fullword wide $O6GMadhL6B3Ipz6Fm21Zt = /\B(^[*|)??/ fullword wide fullword $zqLdKpgSV7kh845oAW8wp = "fix0ym5aAnpuHsMP448lp" $MohfaRJy31TAiXNUEBehJ = /\W[/ condition : for none of ( $zqLdKpgSV7kh845oAW8wp , $MohfaRJy31TAiXNUEBehJ ) : ( - ~ /\W??\w||/ & dex.method.class_name - /([?.|\[\S*\S*?|||(||)?||62??55)+?||82*?|/ ( 50.351930823527724 ) | dex.DEX_FILE_MAGIC_039 8.679100220910508 of ( $zqLdKpgSV7kh845oAW8wp ) ) } 
+rule Ajwj6dBdqSk { condition : true } 

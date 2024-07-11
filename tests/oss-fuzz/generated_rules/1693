@@ -1,1 +1,1 @@
-rule ETyJGRbhStS { strings : $hhod8PEc78VPdalgcgQo8 = <built-in function hex> condition : false } 
+import "elf" rule aognDToQeuW { condition : 13.510101937962283 != elf.DT_SYMENT } 

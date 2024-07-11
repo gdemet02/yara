@@ -1,1 +1,1 @@
-import "pe" rule G3eyttO1PeR { strings : $l6fbtMCHf98kgtYI4UkQC = <built-in function hex> condition : 26.947342140580098 & ~ ~ /^\s+|||/ != - pe.signatures.countersignatures.chain.subject } 
+rule Gba5dQGdWY5 { condition : true } 

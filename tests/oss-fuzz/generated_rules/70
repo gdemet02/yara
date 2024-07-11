@@ -1,1 +1,1 @@
-rule z23avqLk3hg { strings : $PXixf5RcqQIVPMo0AZDao = /\+?||/ ascii $GlyS8hD4BthdsBE0jsQ15 = <built-in function hex> $yH5F3ezTvrkR7sGRwdLds = <built-in function hex> condition : any of ( $GlyS8hD4BthdsBE0jsQ15 , $GlyS8hD4BthdsBE0jsQ15 ) } 
+rule dxlAqI1N18O { strings : $pzwKuhX = "TPRJp4OF" ascii fullword condition : $pzwKuhX } 

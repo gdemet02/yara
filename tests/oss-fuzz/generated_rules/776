@@ -1,1 +1,1 @@
-rule ZBcP16FhJJN { strings : $D554PzjXpvYfnLuU84110 = <built-in function hex> condition : defined none of them } 
+import "elf" rule hsCbqMs7Gry { condition : ( elf.PT_GNU_STACK ) } 

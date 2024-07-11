@@ -1,1 +1,1 @@
-import "pe" rule jEUeyYJ8t7O { condition : pe.rich_signature.raw_data } 
+import "elf" rule BJYvRynjgVL { strings : $RyJteD2UF = "rJfu0nIU" condition : elf.ph_offset % of ( $RyJteD2UF ) } 

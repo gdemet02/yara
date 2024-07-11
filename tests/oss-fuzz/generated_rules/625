@@ -1,1 +1,1 @@
-rule tE9p4RiZHNA { strings : $WIbcdDFGssUkmCdSHH2pw = <built-in function hex> condition : 19.8825717739905 != 90.39659849129703 } 
+rule NOJpzXlVfBW { condition : 43.97708899486492 } 

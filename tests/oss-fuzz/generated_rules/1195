@@ -1,1 +1,1 @@
-rule IvDqKOHFSwF { strings : $NlYYpXOL10KZU4LXMmVih = "hG36xSlWGAhCDhJniiCck" ascii xor ( 94 - 85 ) $y429tL6TQgLedfsURLpcL = "V7NQRv8n9jxHEuPdnGvrg" $qh3SERC8IA0x2RC1ImSeU = <built-in function hex> $NQUYepkR5KNFuQ8pYbs7m = "h5mAks1ecwghISLttBhEl" $g9fgADlpmSdwveEFqJ5Ch = // condition : all of ( $g9fgADlpmSdwveEFqJ5Ch ) } 
+rule vcCxFzCD7IW { condition : true } 

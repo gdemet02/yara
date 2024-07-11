@@ -1,1 +1,1 @@
-import "pe","dex" rule feE3WfqTihi { strings : $nM8ioWAKm9wdMHb1lWxsF = /|/ $joCxCf04bO5ktcAvaqSiO = "ZTIKNXvKTU2IUDWMY4zkk" condition : pe.IMAGE_DIRECTORY_ENTRY_EXCEPTION ( dex.field.name ) startswith pe.IMAGE_DEBUG_TYPE_FIXUP } 
+rule Qupl0hKKvhv { condition : true } 

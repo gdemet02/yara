@@ -1,1 +1,1 @@
-rule CJEG0CDMN8Y { strings : $XqqHZZWpDQ9FrR9fBGpou = <built-in function hex> condition : for any } 
+rule qBlOtcufimq { strings : $wvi8WAz = "up1u0br7" $EE3eoqW3 = "G9xt6iXW" condition : any of ( $EE3eoqW3 , $wvi8WAz , $EE3eoqW3 ) } 

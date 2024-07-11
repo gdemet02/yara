@@ -1,1 +1,1 @@
-rule c86ee8bD5Y0 { strings : $bBjUzpf21H9OyUoNgPcVX = "yDF8x9gpNQKk7ZhPhlAJW" wide xor ( 87 - 31 ) $n1xTDmNt4TmcPLlUWb1WK = /\w+||/ fullword wide wide condition : /\D??|\s+|\S+\w?/ iendswith 1.4711916053712804 } 
+rule cN5Wc3zsIZf { condition : false } 

@@ -1,1 +1,1 @@
-import "pe","dex" rule Or1wJLx3ZWv { condition : pe.signatures.certificates.algorithm_oid + dex.ENDIAN_CONSTANT istartswith dex.DEX_FILE_MAGIC_037 } 
+rule yy4exa6gGld { condition : false } 

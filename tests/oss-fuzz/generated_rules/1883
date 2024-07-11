@@ -1,1 +1,1 @@
-import "pe" rule C23EA5VKrGn { strings : $c0KX8sV3VWFygTX1LMDpR = "euDeu43MkJSYC7RPF1hFn" condition : 71.40055181103236 = pe.overlay.offset } 
+rule VLbWfF6UhRx { condition : false } 

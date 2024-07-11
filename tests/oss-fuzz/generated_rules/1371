@@ -1,1 +1,1 @@
-import "pe","dex","elf" rule wuZ6VV03VmY { condition : pe.IMAGE_DIRECTORY_ENTRY_TLS // startswith dex.class_defs.static_values_offset * elf.ET_DYN } 
+rule zEuFUpRat9o { strings : $ekxnAXPDN = "Iy2vv6y" ascii condition : $ekxnAXPDN } 

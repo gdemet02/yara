@@ -1,1 +1,1 @@
-import "dex","elf","pe" rule AVU1jUQGxzs { strings : $qNAoipaMu7inQovW08ZVG = "xMeiFOgijvBIg8AR4wFYl" xor ( 68 ) $BhDtxhnlE43morJ5S4K0U = <built-in function hex> condition : not ~ - /\[\B|.+\S*|[[|(\[?)+.+/ \ dex.header.magic + elf.symtab.name \ ( /\w*?/ ) \ 77.16213320901412 elf.PT_GNU_STACK pe.signatures.countersignatures.chain.algorithm_oid % of ( $qNAoipaMu7inQovW08ZVG ) } 
+rule LBqt8UzIJqF { condition : true } 

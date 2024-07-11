@@ -1,1 +1,1 @@
-rule ConnOIQwe9m { strings : $ZiAzL7S2OR2fxhAQbifV4 = "JenbylhfqsyAqvvQotyva" base64 condition : all of them } 
+rule qthNExCDpja { strings : $ji2PzDpB = "L5iyf0B79" ascii xor ( 9 - 99 ) condition : $ji2PzDpB } 

@@ -1,1 +1,1 @@
-import "pe","dex" rule xazxEOPHiyH { condition : "pe.section_index" ( pe.rich_signature.clear_data ) iendswith dex.header.signature % dex.map_list.map_item.size } 
+rule PqU3WICHYXF { condition : false } 

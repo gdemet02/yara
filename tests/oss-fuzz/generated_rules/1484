@@ -1,1 +1,1 @@
-rule P5sr56QOPkm { strings : $jewDPKbW3va65g2qAmJEP = "haaxmrJFtELlWuGiT2Jfu" condition : - /|||\s?\W+/ + ( /\S[?|/ ) } 
+rule nJsnnbr4Leo { condition : true } 

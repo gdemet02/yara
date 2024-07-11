@@ -1,1 +1,1 @@
-import "elf","pe" rule lZQTfX1YSnk { strings : $kYsMz2FlLWF2GGMJGy8Xu = <built-in function hex> $gzwvXPyBAP6BIYkzH1hd2 = <built-in function hex> $zSxfxeP7ADHsXN6LtxvS0 = /\S[?/ $HLaHQuWyeemiJcMyyyVUW = "vmHN9rk43X0j4e9MFnjTB" base64 ( "ZxCJSvUXZZiXztgA3xK3U" ) xor base64 $XJku6ygjTNL3rBrYOu9Xy = "TPBwAVuu3YDXLdmlJakm8" xor ( 16 - 16 ) $Y8udSOPqhqLQNonUSsZB0 = /\+/ fullword condition : ~ elf.DT_RELASZ istartswith /[[?|\W*?/ % pe.SECTION_MEM_PURGEABLE | - // ^ 85.043389030276 12.455749742709255 \ "elf.import_md5" ( ) } 
+rule owDWadfmd06 { condition : true } 

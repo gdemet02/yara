@@ -1,1 +1,1 @@
-rule GpWoCZiSdOV { strings : $xS1XvEsqWQjWSspgBWvFI = // nocase $FUnecq7DHFLAJuDvs52jD = // fullword wide $NLO1mTMM5QyBzBvV0xUVQ = /^/ wide nocase nocase ascii nocase wide $aH9g5Y1ovH7qFUV4qBM63 = /\s?\S??|\W*?|/ nocase $kz90Y2JIUfWdjXEZV7fhS = "ZLPripPKUjP74l9LJnJo0" condition : 6.076106181054575 % of ( $FUnecq7DHFLAJuDvs52jD , $FUnecq7DHFLAJuDvs52jD , $NLO1mTMM5QyBzBvV0xUVQ * , $FUnecq7DHFLAJuDvs52jD ) } 
+rule w9Qrqvdprgl { condition : true } 

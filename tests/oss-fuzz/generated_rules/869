@@ -1,1 +1,1 @@
-import "pe","elf","dex" rule kyYmNqFTaJq { condition : /\S||\B/ % pe.signatures.certificates.subject % - /||\B.*(\S[?\D+||||\w[?|\B[[)??/ | ~ "pe.rva_to_offset" ( elf.DT_INIT ) | dex.ACC_PUBLIC ( pe.signatures.thumbprint ) % of them } 
+rule EundMkdSuBk { condition : true } 

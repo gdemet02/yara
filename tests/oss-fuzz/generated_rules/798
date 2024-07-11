@@ -1,1 +1,1 @@
-rule hNqS2VoVlIB { strings : $kXE0q0PYsEOiOOkB92LuQ = <built-in function hex> $pBTjz3Y8kuFqqKYldAwow = // fullword fullword $myhUEkftfIF6I3vmAB9qV = /\S[?/ condition : /\W+?/ % of ( $kXE0q0PYsEOiOOkB92LuQ , $myhUEkftfIF6I3vmAB9qV , $pBTjz3Y8kuFqqKYldAwow , $myhUEkftfIF6I3vmAB9qV , $pBTjz3Y8kuFqqKYldAwow , $pBTjz3Y8kuFqqKYldAwow ) } 
+rule WINTTuaeZ0z { condition : true } 

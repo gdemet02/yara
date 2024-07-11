@@ -1,1 +1,1 @@
-import "pe","elf","dex" rule lk7GsrE57Ul { strings : $iSXeenZfGlMxZBWhNbFmn = "lhy44OxFOdmJ0EQTRZbPL" $hvufkVuFho8fm7BGn5CLl = /(|)*|^/ $L8mU8lZ1WGy4e1QexAtSn = <built-in function hex> $tp1uvHncyJipYciJQ0HkW = "nuGRDPRhxU3xKumid2b06" $zYjQDY2LyzT035Xy61ScL = "cX3D8WVPxJ90s6hoCzYqF" condition : /\S*\D*?/ pe.delayed_import_details.library_name - - ~ elf.SHF_EXECINSTR + ~ ( - dex.field.class_name ) elf.segments.virtual_address of ( $tp1uvHncyJipYciJQ0HkW * ) } 
+rule D6um57iKR8N { condition : ( true ) } 

@@ -1,1 +1,1 @@
-rule JpJd4J1G6gb { strings : $agkMqTPYw5cxFCNTo8xiD = "eIndwpRiYlk46FSA8HsAP" base64wide condition : $agkMqTPYw5cxFCNTo8xiD } 
+rule M5waYJNjCcU { condition : ( true ) } 

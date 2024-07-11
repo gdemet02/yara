@@ -1,1 +1,1 @@
-rule U6oaNAjVT9s { strings : $dvOnPGBbGz3faooZaEDgx = <built-in function hex> $AQAoVHHGXRjhjHAk7RKZt = /[*/ $rIJd9ysaJCJzWJxOEq7AB = "Jz7Nl32sPsglSMYc6ZUex" condition : $dvOnPGBbGz3faooZaEDgx } 
+rule aXh0RFNVd4Q { strings : $reG3AV = "JwrRsx" nocase ascii $lysgr9 = "RaanBflh7" condition : all of ( $reG3AV , $lysgr9 , $reG3AV ) } 

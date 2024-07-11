@@ -1,1 +1,1 @@
-rule JjckIbtwK6u { strings : $QpqZPkcUqVZAi2pyO692Z = <built-in function hex> $netsUhLczUL8WSmxaIZ9X = /\D+?2??/ fullword nocase condition : 69.34126744864558 = 46.64129211627163 } 
+rule ZJg0tIMIxpo { condition : true } 

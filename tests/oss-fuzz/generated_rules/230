@@ -1,1 +1,1 @@
-import "pe" rule nWz8bPXjiqt { strings : $hg5JUv2ltHXsTyWziXmXI = <built-in function hex> condition : pe.SECTION_MEM_EXECUTE = pe.signatures.signer_info.chain.algorithm } 
+rule jmM3OjZ0CU7 { condition : false } 

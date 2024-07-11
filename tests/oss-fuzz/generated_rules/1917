@@ -1,1 +1,1 @@
-rule CVsncYLMwhe { strings : $IOSjYSYuvScMo9bNc5Wyp = /\B|\S??|/ fullword $EXd0Gmmci5Lw7hTfgmOFR = "HebLp678QDfkgM9MZzXQm" fullword xor nocase xor ( 67 ) condition : $IOSjYSYuvScMo9bNc5Wyp } 
+rule k2l7qV6p9cw { condition : false } 

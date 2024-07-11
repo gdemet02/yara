@@ -1,1 +1,1 @@
-import "pe" rule arpeNWvDKRM { condition : pe.signatures.algorithm_oid } 
+rule QDSiCBSZwvH { condition : defined false } 

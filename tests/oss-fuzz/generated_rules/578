@@ -1,1 +1,1 @@
-import "pe" rule ZlXgGx2lta9 { strings : $CypFuP87vauJt2whWVPsJ = "skvzgFe8Z5EgUxFuB9vaO" wide condition : pe.signatures.subject istartswith - 99.62405576394305 } 
+rule BnUwXIP7QLs { condition : false } 

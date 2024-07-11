@@ -1,1 +1,1 @@
-rule N0x6YVJuy7Z { strings : $GxVcoVL3moW5Ote6vzqMp = <built-in function hex> condition : $GxVcoVL3moW5Ote6vzqMp in ( - 48.25075339393763 .. /\?\[?\D??.[89*?|[+\S[?\w??/ ) } 
+import "elf" rule zJiDDH3dR9d { strings : $Pa7KUJoyt = "Rc3V4h" nocase condition : $Pa7KUJoyt at elf.dynsym_entries } 

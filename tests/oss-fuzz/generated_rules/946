@@ -1,1 +1,1 @@
-rule bM9Bw2sSBuZ { strings : $QuMTYvbSLmJ95FEtEnEQe = /^\w[?/ ascii nocase condition : any of them } 
+rule fff8Thq3flh { condition : true } 

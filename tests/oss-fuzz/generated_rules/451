@@ -1,1 +1,1 @@
-import "pe" rule gCdWRrb4b5K { strings : $Me2pUfOFrhkNVxM4A7vec = "MCSmeLJUSyNFs1G4OQUlB" $WKtrCj4MWAl6Md9RNNoEM = /\B/ fullword wide $OlpFNlGUbgEuNa3UC9Z6z = "UwpwsxifBkHVZNWzaonhe" base64wide condition : ( 93.78200871439985 \ pe.sections.number_of_relocations ) iendswith /\B/ } 
+rule zpGswG7gxYj { condition : defined false } 

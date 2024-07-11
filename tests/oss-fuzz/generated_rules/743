@@ -1,1 +1,1 @@
-import "dex" rule x6Gw9Vaiu1C { strings : $GxQfV2nV8G4YLzcIXcayo = "Q7pXnogJQJGFLXkFiU0kj" $ImOBKdtqjg971xGTWuzYT = "GmwtXQRsGo1WzgC5duPYw" condition : - dex.TYPE_ANNOTATIONS_DIRECTORY_ITEM % of ( $ImOBKdtqjg971xGTWuzYT , $ImOBKdtqjg971xGTWuzYT ) } 
+rule ieKZdLYLXOk { condition : true } 

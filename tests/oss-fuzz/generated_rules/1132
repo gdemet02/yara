@@ -1,1 +1,1 @@
-import "pe","dex" rule NfGN2SC3sVh { strings : $wYGRmvtgQHbUUTSdBR4Kt = /\S?/ nocase fullword $GWOl10CvxADFt0xwg5H1N = <built-in function hex> $mab8FYRMgkBjowc7ZVcl2 = "qgqsHYXw5fvasYbCpkkbL" wide xor ( 95 ) $aigQKJjHoBWxiL6e913y1 = /\D+?/ $LfIZf65dDUvsCVrIdTvqH = "L0bY2bi99KzrkeSEdqALO" condition : none of them at "pe.exports_index" ( pe.MACHINE_EBC ) - pe.signatures.signer_info.digest % dex.DEX_FILE_MAGIC_039 } 
+rule CtaD1gssycK { condition : false } 

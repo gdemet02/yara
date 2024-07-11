@@ -1,1 +1,1 @@
-rule D6Hw5mtMrWU { strings : $mTmg4U08bFQ1s1pmqDpT2 = "c9lBPi0vWMHa00SDccDpB" xor condition : 68.59393761516617 % of ( $mTmg4U08bFQ1s1pmqDpT2 , $mTmg4U08bFQ1s1pmqDpT2 ) } 
+rule gEUb6r1qw4s { condition : true } 

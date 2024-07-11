@@ -1,1 +1,1 @@
-rule ShyVV9Shed9 { strings : $W7UQCNCy25gfe5sEIiusd = "nk6AfsVYaSRXEuq4Cnm0t" base64wide nocase ascii base64 ( "MZxp7gydHnlYZLXoem3Ax" ) base64 ( "q9MoH7L6WWyPIuKyadfvf" ) $uTUDbLbtHWRN8TP9uQRL7 = <built-in function hex> condition : false and $W7UQCNCy25gfe5sEIiusd } 
+rule RUzPLkjWAsH { condition : false } 

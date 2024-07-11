@@ -1,1 +1,1 @@
-import "pe" rule XabfnJsI6Dl { strings : $b3joieoB17U630m4GW7TZ = /64|||\B|\S+||\s[|\W?/ ascii fullword condition : pe.signatures.signer_info.chain.algorithm matches /\B|\B|\S+?||\W[?\B/ } 
+rule M0jCiFuU811 { condition : ( 16.413577841568728 ) } 

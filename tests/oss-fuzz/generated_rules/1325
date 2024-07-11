@@ -1,1 +1,1 @@
-rule qWRE8yKSIRU { strings : $iKztsv7KCyqQVAlguvGh5 = "qBAoasbSLiCcZcBnFEM2I" $CYOMdA0DoXl2Z3TgsW7uN = <built-in function hex> $dTtiwOCHqMyDDPu0HpRre = /\W[||/ condition : for all } 
+rule KyPHL257vfQ { condition : not true } 

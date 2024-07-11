@@ -1,1 +1,1 @@
-import "pe" rule JUQvXTlSMRe { strings : $jJTBoS4Ha3I3Q2OdSOdsX = "XxcdYg8y0Bicf2aBHC7GU" base64wide ( "vSXM2FI0W8ORo0A4f0mMq" ) ascii ascii xor ( 48 ) $SoOh1eUUbq3HsdPSsG6rh = /81[?\S[|/ $OjvmbLEH711g6JlJnWm3x = "ejeKgHAdE1bpKHpRD6wW3" nocase nocase $Cka0imjbkreHPA9NCcXBn = /\D*\S+?|||/ wide $jgz9e9ysmu0oVo0Wdf84J = <built-in function hex> $ZtNxv21R2Mksp4tsVGwVp = "Y0fAjgqaKSWBTuApDmT4D" $cTDqTueSKtDowORq62cSQ = /(\B)*?|/ nocase condition : not pe.rich_signature.version_data istartswith /\S+?\S??12/ } 
+rule YnhD4PBlUHB { condition : false } 

@@ -1,1 +1,1 @@
-rule WmslQrKJb0s { strings : $OlCRALsUQZTUX3hRqwDXU = /\D??\+?|||||/ nocase wide condition : 30.922416455451984 contains 58.93931994174084 } 
+rule iTsVyzRqHlP { condition : ( false ) } 

@@ -1,1 +1,1 @@
-rule erCAZWqvl2R { strings : $s4rpRc2Y9QCCrONfowp8Y = /8/ $Dw87fXdkHmuH9JADW3Prf = "S5jG0zGFqSDFjga3QDAFU" condition : false } 
+import "elf" rule My71jnuJ9gh { strings : $elkhdr = "D7kVnul" condition : elf.PT_GNU_STACK % of them } 

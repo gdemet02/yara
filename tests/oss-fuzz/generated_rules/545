@@ -1,1 +1,1 @@
-rule NI0rzV7sJVs { strings : $btCGndsMJSb6ohPD0zJxO = /\w[?||\+?\[\D[|||/ condition : any of them } 
+rule bNdR5rMgWUl { strings : $elqnV0je = "PXccpv" condition : $elqnV0je } 

@@ -1,1 +1,1 @@
-import "elf" rule cJ92PZqljD5 { strings : $M9iKHZPUmrl7QwN4MhWks = "MbIvo1KelTm3cP2x7qVgA" condition : for elf.symtab.name } 
+rule pnpxmbWYtf3 { condition : false } 

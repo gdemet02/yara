@@ -1,1 +1,1 @@
-rule IN4e3aG4o3A { strings : $Lx6oKiCGCUh85q01BIaHc = <built-in function hex> $F6DqXqvwvY2a4GG6EEl2T = "hoe7V5Va3oSNssfJTekVt" xor ( 51 - 98 ) condition : true } 
+rule UWdkQnVhGvj { condition : true } 

@@ -1,1 +1,1 @@
-rule n1qTvLuqu5T { condition : false } 
+rule Bx2hdfXuaiA { strings : $vm5psxcLz = "Eft1xP" condition : none of ( $vm5psxcLz , $vm5psxcLz ) } 

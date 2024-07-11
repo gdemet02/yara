@@ -1,1 +1,1 @@
-rule bpGwb8X7qSj { strings : $pzadNnLAC1vlExojwlmuE = /|||\W[?|/ nocase ascii $vjNjSQlEYraEFBoHLOl6J = <built-in function hex> condition : none of ( $vjNjSQlEYraEFBoHLOl6J ) } 
+rule v3reCKHjjvO { condition : false } 

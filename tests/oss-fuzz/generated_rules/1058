@@ -1,1 +1,1 @@
-rule Ljr2A6dgIcc { condition : false } 
+rule e99Gda5eRpw { strings : $n8g7yAqiSf = "Ufd8Yzq2" condition : none of ( $n8g7yAqiSf , $n8g7yAqiSf ) } 

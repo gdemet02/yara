@@ -1,1 +1,1 @@
-rule VIiFVWn1BXi { strings : $u29DaFEY7NnDDLXro0XLj = /\[?(\*|(\D[?^|[?\B\[?[\s+?)?|(|.[?)*?(\w)??.[||68*?)[?/ condition : /\+?\D(\S+|\*?37??|\S*?|.+||[[?|.\W[\*?\B\B|)\w?|/ } 
+import "elf" rule huT9V0BSF3K { strings : $PbsCaHXa = "oSkxH13" condition : elf.ph_offset % of them } 

@@ -1,1 +1,1 @@
-rule s4QHSK9MF6P { strings : $ho9LaLhz31zF5u6QCS9DX = <built-in function hex> $TcgK1ZiMl1rCp7fGkWWIr = "xcEcZgjzezZCk9DLVIJBu" base64 ( "Sdk6zMyxK1IUZuLJWR9z2" ) $cFA8MNFUNb1e1NxxJQXbc = <built-in function hex> condition : $TcgK1ZiMl1rCp7fGkWWIr } 
+rule wVUbcY69EfS { condition : false } 

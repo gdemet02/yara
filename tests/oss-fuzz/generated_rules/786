@@ -1,1 +1,1 @@
-import "pe" rule dbj8A2iPOKj { strings : $teMdbxxIjy5JMdHuR2ht8 = <built-in function hex> condition : pe.IMAGE_DEBUG_TYPE_POGO endswith ~ pe.IMAGE_DIRECTORY_ENTRY_IAT % 21.52132364399586 } 
+rule GhnvuzybIYC { condition : true } 

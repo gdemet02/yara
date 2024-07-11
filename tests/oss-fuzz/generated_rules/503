@@ -1,1 +1,1 @@
-import "pe" rule HlHxzRGrYjn { strings : $DgrSZS6bOtoPHmViD0Xy8 = /(||)*|\D[\S+||/ $WB4KbRvUzHLU2Io5vg7Uw = <built-in function hex> $Way9RTBagFWt42y6mYp5E = <built-in function hex> condition : not $WB4KbRvUzHLU2Io5vg7Uw at "pe.is_dll" ( ) ~ ~ 28.464619830929216 /30?||\W+/ pe.signatures.signer_info.digest_alg } 
+rule LWva63vJobe { condition : false } 

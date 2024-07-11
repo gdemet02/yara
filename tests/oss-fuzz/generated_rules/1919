@@ -1,1 +1,1 @@
-import "pe" rule ThtBhsTPXrm { strings : $G111lruwE3EQn56dMqrkV = <built-in function hex> condition : 89.17378064823201 + pe.SECTION_LNK_REMOVE icontains /^/ } 
+rule KNHkJnvkClQ { condition : false } 

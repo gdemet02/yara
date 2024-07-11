@@ -1,1 +1,1 @@
-import "pe","elf" rule xC0lm0lwwYE { condition : 39.88577336519706 * // | /\D??|\W+/ | pe.signatures.countersignatures.chain.version elf.symtab.name } 
+rule DlDFk7uH4V9 { condition : false } 

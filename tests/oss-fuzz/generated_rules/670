@@ -1,1 +1,1 @@
-import "dex" rule JcWHrHKtbPW { strings : $nUO4YbjHgfqndbLHux11J = <built-in function hex> $dSkwioU3uHWkKrM3o99Sj = /[+||\S?||(88+\([+?.+?||)[?|||\D[\W*)?|\*||\B|\W+?/ condition : /\+?|/ istartswith ~ dex.string_ids.value } 
+rule hbPydoWgaFH { condition : true } 

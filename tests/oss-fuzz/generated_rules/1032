@@ -1,1 +1,1 @@
-rule RCstF5sRgPt { strings : $ma1qMJDWFpCwnIgnV7U3m = <built-in function hex> $F5oZUdzUIbsGo2zD8pYQC = /\D*?\?/ condition : all of ( $F5oZUdzUIbsGo2zD8pYQC ) } 
+rule kve7WtP1ue3 { condition : 65.77835533065908 } 

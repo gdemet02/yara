@@ -1,1 +1,1 @@
-import "pe" rule KrlWnuW1g4h { strings : $D3bu6Y0tVZ9gwklacnNcv = /\??|/ fullword $u6JtSb8oTit3TJmROxr7R = // ascii condition : pe.export_details.ordinal contains 43.07065260362496 } 
+rule C2GHe05TDi3 { condition : true } 

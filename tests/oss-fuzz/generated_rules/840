@@ -1,1 +1,1 @@
-import "dex","pe" rule DXBQ5wq4eyo { strings : $hPq9uCc0OrkRglKBxLlob = "PVwsNn1jjq44DEt9RNLPZ" xor ( 1 - 73 ) condition : /(\s*\W[?)?.+|\D+?\B\W??|\w*|^^||\D??|/ % /^|||\w??/ ^ /[*?50+|/ dex.ACC_ANNOTATION & pe.signatures.digest_alg iendswith "elf.import_md5" ( ) } 
+rule cnJg4h887wo { condition : true or true } 

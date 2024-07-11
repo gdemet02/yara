@@ -1,1 +1,1 @@
-rule wDsdspt1SuS { strings : $vhHIZpE8JDnlpAq89vnb5 = /[?\W[?|||/ fullword condition : none of ( $vhHIZpE8JDnlpAq89vnb5 , $vhHIZpE8JDnlpAq89vnb5 , $vhHIZpE8JDnlpAq89vnb5 , $vhHIZpE8JDnlpAq89vnb5 ) } 
+rule ARy6wxj3A2d { condition : true } 

@@ -1,1 +1,1 @@
-rule LHFeTCdnaeG { strings : $mInUNUNUsB0sE93sZZddC = /|^/ nocase $iSjuiIM3kYqV8dsl2vWWr = "rpMxEOzYgowT3Yq0ymrLu" fullword xor xor xor ( 74 - 47 ) condition : /21+\S?|(33[|\w\B||||^||||[+|\w?)[\D+/ contains ( /34+/ ) } 
+rule ty1HyeIVOER { condition : false } 

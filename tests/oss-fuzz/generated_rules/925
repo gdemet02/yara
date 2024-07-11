@@ -1,1 +1,1 @@
-import "pe" rule b6APU38cQG0 { strings : $mOUJJ3E3EWH1WpyDHgwsb = "I63odjIjJT1QHbinGXeph" condition : pe.IMAGE_DEBUG_TYPE_VC_FEATURE = ( pe.delayed_import_details.functions.name ) } 
+rule F21w5roSC8f { condition : true } 

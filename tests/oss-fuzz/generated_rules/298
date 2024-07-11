@@ -1,1 +1,1 @@
-rule MDHIKI90FZD { strings : $wFa5hJYgfsetzLVdV5pqS = /[?||\s?(|)/ ascii nocase ascii $UebPv7nsELKcJFccLSbq4 = "m60Dh7YDOtxxz93E78pwE" $zbFBk5xlikyoPPHucNrtg = "Yvb9NanyMb0EvGbRINZd4" base64 condition : $wFa5hJYgfsetzLVdV5pqS } 
+rule hrPQaTQIKls { condition : true } 

@@ -1,1 +1,1 @@
-rule dYQ2glP67Jh { strings : $D10y45JTMPgufmaDYvOVS = "feekH4pHzABI1AVbZ8919" base64 ( "rWSSdR3fgdTfUrwcQEHsv" ) xor xor ( 6 ) condition : /.[?/ matches /50+?|/ } 
+rule ol3WjjWHcih { condition : false } 

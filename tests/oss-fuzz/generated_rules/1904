@@ -1,1 +1,1 @@
-import "pe","dex" rule mcZ03p6vECF { strings : $gNs1tTkjuQWk1djZGFvH3 = <built-in function hex> $EDGH5EMgO85t3kU9zdvJe = /^\?/ ascii $Spvg66qOzoLa6ezMLZkTK = "vpTJ5C1StV9IvkpzwBKsm" condition : not $gNs1tTkjuQWk1djZGFvH3 in ( pe.rich_signature.version_data .. ( dex.field.proto ) ) } 
+rule KQNKIPrtP5a { condition : 47.27658539232182 } 

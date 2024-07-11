@@ -1,1 +1,1 @@
-rule hgo3CPWcWy8 { strings : $pIEYMa2J1xtlynNROZVf3 = /.\B/ ascii $iQZeKqXTIbbx7LGLJXiqp = "rNGZGfhXvK2Bsfo4rAsal" nocase $lo0OLtKIhbWisfjNhelf7 = /\S*?|[??/ ascii condition : any of them } 
+rule lraweL49tEu { condition : false } 

@@ -1,1 +1,1 @@
-rule zxcTo1HYSBy { strings : $XMrBJs0oUFa8kTkNny9ir = /||/ nocase condition : all of ( $XMrBJs0oUFa8kTkNny9ir ) } 
+rule HpkGUA48p0v { condition : true } 

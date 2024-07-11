@@ -1,1 +1,1 @@
-rule gB6NFHMpW9C { strings : $i74YtWNypFg1D8suCfeTy = "nGnpFrBWXeUQ2Eu5x0EoN" base64 condition : $i74YtWNypFg1D8suCfeTy } 
+rule xvmDFYXTEm9 { condition : false } 

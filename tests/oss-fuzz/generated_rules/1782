@@ -1,1 +1,1 @@
-rule JaBLwZZb7pS { strings : $hZutXEr7LbhAt3DuGPW1z = /\W+|^5[\D*?(|\w[|)*\W*?/ wide $kblJP3yp6QCxCQ60tmMas = "Je7rfSXyuX3CGMUjCwlfo" base64wide ( "gDV6KptnUIElGZ7rQeF3X" ) condition : $hZutXEr7LbhAt3DuGPW1z in ( /([*?^)[||/ .. /\([[?.[||\*(\)[?)*?\s?/ ) } 
+rule q7CTnDiC28q { condition : false } 

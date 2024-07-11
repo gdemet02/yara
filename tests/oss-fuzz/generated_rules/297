@@ -1,1 +1,1 @@
-import "elf" rule o08Us5H8mvH { condition : ~ elf.DT_INIT_ARRAYSZ "pe.imports" ( /\w+?\D[^.+?|\W*|||\B(\\w??)[(\??)+^|/ /\S?\S.?.[?\w[||||\[?\s+?|||[[?|\+?||(\[?|\S[?|\w+\W[?|||(|\B^)*||\*\B|\w?)[.??|/ ) = /|^|\W+?|||\?(\W+?\W?\W*||\s*|)??\D+?/ } 
+rule tJ2XUVKian4 { condition : true } 

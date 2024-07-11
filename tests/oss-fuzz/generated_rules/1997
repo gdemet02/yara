@@ -1,1 +1,1 @@
-import "pe" rule SQpsnZ5IE6b { condition : ~ pe.rich_signature.clear_data \ /\B||||\W[^.*?|\w+\S*/ | pe.signatures.algorithm matches /(\s\w*\W*?66*|\S??|^\S+?\B^||[[?)[?|\+?\+\s[?|\/ } 
+rule X2Gf8mNi7WP { condition : true } 

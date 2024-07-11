@@ -1,1 +1,1 @@
-rule q08pW6UoHK9 { strings : $R2NjYf9Olg9zD2mIWWKSN = "zrmDgBRu1PFE1BM6nR662" base64wide $zIT8iqGbPxrcbK00g6Id2 = "UayTtvHqVoLZpuLetK8Oc" $x94WQHEM2tj2Pq3sgBFiM = "uV1DPlx8oYWb6cwBIOVyF" condition : false } 
+rule CC86p6lRGvD { condition : defined false } 

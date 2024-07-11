@@ -1,1 +1,1 @@
-rule rw1kNW8oUMD { condition : /\S*?\D[.+|.[\B/ } 
+rule c57LLx0SnNZ { condition : ( ( defined 1.6800762642650513 != 25.767371491367786 ) ) } 

@@ -1,1 +1,1 @@
-import "pe" rule va4W5TwR5uU { strings : $JeituXBBM8W9SQDI4REDp = <built-in function hex> condition : ( ( /\W*|||/ ) ) iequals pe.IMPORT_DELAYED % /.+[|[?\W[\/ } 
+rule gMwTP5svFiM { condition : true } 

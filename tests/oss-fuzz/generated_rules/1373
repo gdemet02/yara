@@ -1,1 +1,1 @@
-import "dex" rule lKCS8Su2JyW { strings : $Z6MZuEBDn5wwug7jlmFGi = /\??|/ wide fullword $PpCSt341G0yzrLNUOAZSx = "R3GQsaIBiwNRiCFwFmBer" xor ( 10 ) $sAEL6Tzhl2iDmxiw3mh7w = /\B\*?81+?\B|/ nocase nocase wide wide condition : dex.method.code_item.insns matches // } 
+rule Op4Qk2gaRQ7 { strings : $WIT6oxpuT = "x91xw0wKI" xor ( 44 ) fullword wide condition : $WIT6oxpuT } 

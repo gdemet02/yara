@@ -1,1 +1,1 @@
-rule DkECUJXc9PQ { strings : $qmf8aEAonFGryQuWt4Qpr = "WWIGp44gEvS7sq2Etvy6y" $GxLysYpBlF9vKA2EynxVx = "gmA3VMVPzM2vFPqVImThX" xor xor ( 20 - 34 ) base64 xor condition : $qmf8aEAonFGryQuWt4Qpr } 
+rule IYcIXt70KDo { condition : false } 

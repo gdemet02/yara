@@ -1,1 +1,1 @@
-rule PgcSegBD1c0 { condition : false } 
+rule JZLfYT0LEBW { strings : $zpV1C9q = "nrptHgN8rt" ascii condition : all of ( $zpV1C9q , $zpV1C9q ) } 

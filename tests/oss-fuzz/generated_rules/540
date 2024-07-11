@@ -1,1 +1,1 @@
-import "pe" rule XKRfPfW2dNl { strings : $Y8sAGs7woD503h4OQEOHX = "AehfCNIbD4U4FWyIFIfXQ" condition : pe.signatures.digest iequals 82.38746420684556 - pe.SECTION_CNT_INITIALIZED_DATA } 
+rule ipjXrzCvBr9 { condition : true } 

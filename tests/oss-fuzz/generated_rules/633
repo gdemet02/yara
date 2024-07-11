@@ -1,1 +1,1 @@
-rule mqlVQ0Z2dYU { strings : $vZifOdw5AP6bV4Il2L3ng = <built-in function hex> condition : $vZifOdw5AP6bV4Il2L3ng } 
+rule dGIMeMyY9eL { condition : true } 

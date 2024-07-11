@@ -1,1 +1,1 @@
-rule ZJr6UPSO10E { condition : /(.*[[?\W[?)+||/ } 
+import "elf" rule DhrPBqisJO4 { condition : ( elf.PT_LOAD != 13.887817897492704 ) } 

@@ -1,1 +1,1 @@
-rule Eqmm1mxpciE { strings : $ezsGMiCwIdSeLJNSmSMQB = <built-in function hex> condition : none of ( $ezsGMiCwIdSeLJNSmSMQB , $ezsGMiCwIdSeLJNSmSMQB , $ezsGMiCwIdSeLJNSmSMQB , $ezsGMiCwIdSeLJNSmSMQB ) } 
+rule k75QyEpw5K3 { condition : 4.0949177428722505 == 98.22459719717781 } 

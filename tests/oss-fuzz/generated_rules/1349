@@ -1,1 +1,1 @@
-import "pe" rule bYsJDDyLq2y { condition : not - pe.signatures.signer_info.chain.subject & 50.943281547510885 * pe.signatures.signer_info.chain.serial * 10.074052684575829 } 
+rule QsbKV6UByHL { condition : true } 

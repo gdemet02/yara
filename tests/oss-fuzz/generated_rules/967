@@ -1,1 +1,1 @@
-import "pe" rule nrnrSpPynVr { strings : $SUEXQ0kzA1hQfmZIu8Y6x = <built-in function hex> condition : pe.RESOURCE_TYPE_DLGINCLUDE == ( ~ - ( ( 53.932334601184905 ) - 41.77862164663439 + 9.977582401113905 ) ^ /\D+?\B.[\B/ ) } 
+rule ruHHNFo2CHJ { condition : true } 

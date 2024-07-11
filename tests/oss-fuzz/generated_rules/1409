@@ -1,1 +1,1 @@
-rule XTqFUHjA253 { strings : $F3aKwpm3XktQtOTKCnpBh = /(|\+)+?|\B||\S|/ nocase $gPQP5S6Dosx50rZTDdQJM = /.?|\B(\S[\S[|\D10??61*|\W[?)??\S?^/ fullword $DI4OlBHvM35CrBF2LfztC = /.??[+\s+\S*|||51[?50??\D+\W?(\W*\D?\[|)[?|\??\D[?.?/ condition : false } 
+rule yVUQ6AtbTWL { condition : false } 

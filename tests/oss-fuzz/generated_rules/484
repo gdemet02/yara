@@ -1,1 +1,1 @@
-import "dex","pe","elf" rule cGkZXerE9U7 { strings : $B5Dq5C777YvqErryDSCDU = "o98E1v139cCLryAM9zTkb" $INOBxg28yRuTmTiBpS4Yv = "c3O3yRu9nLpJhVc3Wk705" $sWK14AnMsvs6xmIFCOkwg = "NS6O3sXUcmq5M3c4m0308" ascii nocase condition : dex.TYPE_STRING_DATA_ITEM % 20.732767510692273 & pe.MACHINE_IA64 contains - elf.symtab.bind } 
+rule uZ4arcDWFJ4 { strings : $JEXePIn = "YQZWEsh" nocase condition : $JEXePIn } 

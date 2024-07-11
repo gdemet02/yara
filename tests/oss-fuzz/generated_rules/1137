@@ -1,1 +1,1 @@
-rule wcPCFHrL5No { strings : $X5eYShhGNks2yhp0PTz1k = <built-in function hex> $ZgtuIcayChTYzPHPBNkuf = "rey7Lw0GwNJovpbMk8Jt3" base64 ( "hwQrFtstwYPFIIDoUBtC3" ) xor ( 88 - 46 ) base64wide $cDVjv9Ik2Xe7uZzbTH0iQ = /\w*?/ ascii fullword $m2RQX8PV82vKe4wWNU7nX = <built-in function hex> $QWWpjHCmKMzTZqKsvx9SC = /||/ fullword $vqPOPgxwlXC8DP1McEbVQ = /\B\S?||||/ condition : $X5eYShhGNks2yhp0PTz1k } 
+rule YeHBV7UJLLH { condition : false } 

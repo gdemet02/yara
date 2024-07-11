@@ -1,1 +1,1 @@
-import "pe" rule MLkD4dRehUb { strings : $uYeEftQBXlGovVCc9RDbN = /\D[?||\S[?|/ wide $nnmrgnp5HJpX8tCFXQfsq = <built-in function hex> condition : for pe.resource_version.major } 
+rule isnQf9zJdn0 { condition : true } 

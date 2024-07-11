@@ -1,1 +1,1 @@
-rule Z2lmmP9Ka4x { strings : $lqDraDN3HhO40gJn9Btb3 = "AQMtW2cdXi60oe8qhtApU" $yOTwIGYUP2nP4yTphCSEA = "QaDRMCcakPgo3eIcKP63J" ascii ascii condition : true } 
+rule wiAbOB79qbZ { strings : $n7qzqatE = "GsNJVK4dt" condition : any of ( $n7qzqatE ) } 

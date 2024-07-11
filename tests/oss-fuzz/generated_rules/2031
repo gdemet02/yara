@@ -1,0 +1,1 @@
+import "elf" rule SoBuG798CAm { condition : elf.EM_68K } 

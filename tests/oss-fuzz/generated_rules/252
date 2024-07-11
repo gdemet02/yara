@@ -1,1 +1,1 @@
-rule PVeG5saHPMg { strings : $DJeOpxBau14MkF7dDL63f = <built-in function hex> $e3CiKOqVJiifadRwuPAZ8 = "yeuAiufaGOS8cp44qdnhe" $zNIatrGRuAkeLEt5JYLLk = "srPQLP4wG6SsxRRUDJbS9" xor ( 28 - 1 ) $lXNSJDOXV0KN0oLdxlSt7 = /\s+\[?|||(.[|\B(.+\w[||(|)*?\W[^)*?\w+?)[?^/ ascii condition : ( false ) and true } 
+rule Gjkw0pmnU2D { condition : ( false ) } 

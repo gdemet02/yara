@@ -1,1 +1,1 @@
-import "dex" rule dajlAOs4ht5 { strings : $MXVb3OGxRQXttvE6O7s0R = "EeusLRQLgHnj6JuLiJOv0" fullword xor $WlrsSsLZhkerkGImuW02L = /.+\w[|\S?/ condition : dex.TYPE_TYPE_LIST iendswith /\B22+\+|\w^|56\?86+|||78+\B^[??|||\w|[[\B[^/ * 20.479003183940712 } 
+rule Z1ftIom1QxW { condition : ( false ) } 

@@ -1,1 +1,1 @@
-rule GiB7zVAhgHk { strings : $Hc1ws9tpB9afJyN0VIZtv = "cnAJ9ZYyBDpd14jSI2Q1a" wide $m5dpLi1TSeHEWhUPwgqlZ = "ghzmYGsb6TYlW2BVJqPuR" base64wide base64 base64wide $i27720rxF4bN4MK2nfkc1 = <built-in function hex> condition : for any } 
+rule pkk1E1PjPoF { condition : false } 

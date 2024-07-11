@@ -1,1 +1,1 @@
-rule Q56xez0g7H8 { strings : $vR2Ny6NCu21KVRTn1wExn = <built-in function hex> condition : none of ( $vR2Ny6NCu21KVRTn1wExn , $vR2Ny6NCu21KVRTn1wExn , $vR2Ny6NCu21KVRTn1wExn ) } 
+rule piP3mSI2Jix { condition : true } 

@@ -1,1 +1,1 @@
-rule zkPdUS1yEdo { strings : $lTDTZDRMFdMBvSSKlCwzh = /^(\[\s??|)+?\S+|||\s[?||/ fullword fullword wide condition : true } 
+rule rAkdWmYXsZl { condition : true } 

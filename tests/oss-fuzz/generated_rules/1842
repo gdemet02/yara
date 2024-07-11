@@ -1,1 +1,1 @@
-import "elf","dex","pe" rule CAIamJFbw6S { strings : $OhleWi2NkgiGMXoemXvtj = <built-in function hex> condition : elf.symtab.name \ dex.class_data_item.instance_fields_size | /\s[?|^|(\B|^)??|[+?/ != pe.signatures.certificates.issuer } 
+rule BZamcZ7CpJD { condition : false } 

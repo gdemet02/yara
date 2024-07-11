@@ -1,1 +1,1 @@
-rule czfLVkGhEsY { condition : false } 
+rule DlhHEZ8DDUZ { strings : $quxEW9mDWr = "OMU45Rd4HB" fullword condition : $quxEW9mDWr } 

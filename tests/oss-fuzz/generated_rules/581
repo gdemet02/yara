@@ -1,1 +1,1 @@
-import "elf","pe" rule UIlWmjn2suO { strings : $eCxyYcyGCRK8kthcS0KjB = <built-in function hex> $RWw00EoaHfsCELEaGqV5n = "Nnt4EAHHa2TmO6H7lpI3r" $YnMwL4JIen3aWuW3OM888 = <built-in function hex> condition : ( elf.DT_NEEDED ) & elf.DT_PLTREL contains pe.IMAGE_NT_OPTIONAL_HDR32_MAGIC } 
+rule aTTx0XbWezr { strings : $kb1eo4JlO = "vZxI9q" condition : $kb1eo4JlO } 

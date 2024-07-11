@@ -1,1 +1,1 @@
-rule FxjeU6CrQxk { strings : $k1WUAVn59gVWoTu0d3AVo = <built-in function hex> condition : ( any of them ) } 
+rule z63jhecEatE { condition : 43.265039629650346 } 

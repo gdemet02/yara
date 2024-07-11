@@ -1,1 +1,1 @@
-import "pe" rule UQNqwO5iGHz { strings : $dLKyzfhPCZEsmNPTtHBZo = /\s+[+?|\s?/ condition : pe.signatures.countersignatures.digest % of ( $dLKyzfhPCZEsmNPTtHBZo ) } 
+rule CUQc74G8gZJ { condition : false } 

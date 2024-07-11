@@ -1,1 +1,1 @@
-import "dex" rule LRP8YkpDfWv { strings : $JfurZiwk9yT6ztuoTEFrV = "Jte4k2chxbYIFUlaeW0kc" $lkbokYtRkqR5OFPqRCLWb = "rHRMX16pGvDRCU0wdoMjx" condition : not ( /\B|(\w[\[)?|\S+?\S*?^\s+\+\??/ ) != dex.field_ids.class_idx } 
+rule FavVxmxPIhs { condition : false } 

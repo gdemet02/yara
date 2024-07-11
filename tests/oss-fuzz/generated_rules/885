@@ -1,1 +1,1 @@
-rule llcbLpYp56p { condition : true } 
+rule XiawtGuHbsS { strings : $QmVqT2i = "Euw7SPdM" condition : $QmVqT2i or any of ( $QmVqT2i ) } 

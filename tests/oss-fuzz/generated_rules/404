@@ -1,1 +1,1 @@
-import "pe" rule j29OudiqKUR { strings : $jCZicYSlgPddFDM9g3oUN = <built-in function hex> condition : 92.60939492710945 != pe.rich_signature.clear_data } 
+rule H8Y9b9URrBW { condition : false } 

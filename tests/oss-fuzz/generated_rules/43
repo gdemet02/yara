@@ -1,1 +1,1 @@
-import "pe" rule TAz6CRJRMYH { strings : $cmTLVE2RlISoJ0HpcGFpQ = /\W?/ $zCwQcjUXaPtqfxFzcg7aR = <built-in function hex> condition : pe.signatures.countersignatures.chain.issuer = ( 71.57893635253355 ) } 
+rule uDlVzyhB7T4 { condition : true } 

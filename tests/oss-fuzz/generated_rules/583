@@ -1,1 +1,1 @@
-rule Xe45M33C7LY { condition : none of them } 
+rule kDpiXCZaOJy { strings : $JQWuWWYVF = "BXwRIsn" wide condition : $JQWuWWYVF } 

@@ -1,1 +1,1 @@
-rule qWikikSIS8p { strings : $u5X7IXCVoc7gCy60symBQ = <built-in function hex> $wFw6ihKF90HgFp6e6CxMF = <built-in function hex> condition : none of ( $u5X7IXCVoc7gCy60symBQ , $wFw6ihKF90HgFp6e6CxMF , $wFw6ihKF90HgFp6e6CxMF , $wFw6ihKF90HgFp6e6CxMF ) } 
+rule dw2FD19v1qk { condition : false } 

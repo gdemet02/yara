@@ -1,1 +1,1 @@
-rule pMHoSsZBqEX { strings : $G9xNpOdfjaBg8n0BCStBq = <built-in function hex> $yhws0nkk7hhxXMRsZBmDb = "nZM3oawpTqFhRdlgDXvsZ" $g6BJlj18tOeDlW5Ro9Jce = "tyXzAgkjeBL9WHWypjRIx" condition : all of ( $yhws0nkk7hhxXMRsZBmDb * , $yhws0nkk7hhxXMRsZBmDb , $G9xNpOdfjaBg8n0BCStBq * ) } 
+rule N2G8hNByV5C { condition : true } 

@@ -1,1 +1,1 @@
-rule nh7pGfSm42v { strings : $HACbpspSpccqGmcX2KG47 = <built-in function hex> $uSk1tP53eIA0LYVpkFq6l = <built-in function hex> $KLJhQwmKxX6akL5xEHkF0 = "qGOHdSS6yKUyMcNCaVGdo" $otWC4GFhadkqtUHd2POF8 = "AVuZHE3jdHAfAcxpdHgmz" $YMRisIBmsjoM5YfJ9FiBB = /89??.*?||\D*?(\B|)[\S*?\w[||10*\s+[+35+?\B/ ascii $l1HyA306qdhkjr3wiKTRw = <built-in function hex> $WFtpnY6b17JUouIP5f90H = /^\B||\B\w*\B\B\W??^|((^|\w+?)*\S??)[?\S+?|\W[^\S+/ condition : ( not false ) } 
+rule ZbpCAj3MRh8 { condition : false } 

@@ -1,1 +1,1 @@
-rule L1k65hqJyzT { strings : $vhiBLLY5db3qfHOGmAXl2 = /.[|\s+?.*|||||\W??/ ascii $XKoi2bKXpdYjaH6iRHUlQ = "iYw8JUxJu07HWazDqdNVd" condition : for all } 
+rule tA1m9PTMFph { condition : true } 

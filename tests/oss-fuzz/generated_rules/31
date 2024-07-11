@@ -1,1 +1,1 @@
-import "dex","pe" rule L3YSQxJAG4r { strings : $LVKCaaeRJdLDjzsojUfUB = "SFhWkjxLIGezw4O51lzwH" xor ( 53 ) condition : - dex.DEX_FILE_MAGIC_035 of them at pe.pdb_path } 
+rule OQbDAqmDrHA { condition : false } 

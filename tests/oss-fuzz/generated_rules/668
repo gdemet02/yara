@@ -1,1 +1,1 @@
-rule kqf7BPptvNR { strings : $TsiX0uCxqOhfPPhTVFxYl = "a470r952WESxjHNGUUnIh" $LA1hIGt3l7k9x7XxXDKPy = "v6U3booLPt6yryFPnBcrK" base64wide ( "QRZCFFx7CvIZKJgxLwuLx" ) condition : $LA1hIGt3l7k9x7XxXDKPy at /\s+?/ } 
+rule LGWAK3ngBhq { condition : false } 

@@ -1,1 +1,1 @@
-rule BQOu5w5deeW { strings : $cj6CLx0N7uYgtHjWaeuFg = /|\[||/ nocase condition : true } 
+rule Dlg1PaC58Id { condition : false } 

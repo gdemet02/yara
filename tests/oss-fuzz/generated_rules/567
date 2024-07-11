@@ -1,1 +1,1 @@
-import "dex" rule xFFy4kLd55V { strings : $L9lsbeEvzTl7obLaJwrVI = /^|[+?||\B/ fullword condition : $L9lsbeEvzTl7obLaJwrVI at dex.DEX_FILE_MAGIC_037 } 
+rule MqSXI1HzSJE { strings : $tSrSMUV = "FPtVJt" condition : defined $tSrSMUV } 

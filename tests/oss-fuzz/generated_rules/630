@@ -1,1 +1,1 @@
-rule fVheg8NvEon { strings : $BnwpDp4cvb0FXsLQDNqJo = "Pbk5NnZNHyG6L73tuaBy4" $XBqV1V77Bafs6qinTPr8K = <built-in function hex> condition : /[\S[[*?\?|/ % of ( $BnwpDp4cvb0FXsLQDNqJo ) } 
+rule n5VAXyEilZK { condition : false } 

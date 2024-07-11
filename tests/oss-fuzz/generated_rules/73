@@ -1,1 +1,1 @@
-import "pe" rule i0O32gJM2w6 { condition : pe.SECTION_ALIGN_256BYTES ^ ( 35.1155697786361 \ ( ( pe.resources.language_string ) ) ) pe.pdb_path 88.57788984224545 } 
+rule QeTI32yM4qk { condition : false } 

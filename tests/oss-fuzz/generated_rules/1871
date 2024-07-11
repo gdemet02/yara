@@ -1,1 +1,1 @@
-rule emsOVI5IlTb { strings : $RD4YWCPQd3ngGz2E3STQm = /.??\B.?\D+||\w??/ $y5TPAYkU9QOmXSmiTupMw = /\D*|\S[\D*?/ nocase nocase condition : for any } 
+rule phAZSOLjOBU { condition : true } 

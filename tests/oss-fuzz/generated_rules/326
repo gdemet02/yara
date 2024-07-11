@@ -1,1 +1,1 @@
-rule Fg1FgDEY3Ef { strings : $p4PyzLFX8cAnHXrpBoGmx = <built-in function hex> $w9luPZDfYLpYAMOxEhT7M = "DkRgVE5Hw7go6TgWQnShS" xor ( 81 - 45 ) xor base64 condition : 45.20132420932224 startswith ( ( 94.2948803169732 ) ) } 
+rule DTTkYVPqvaW { condition : false and true } 

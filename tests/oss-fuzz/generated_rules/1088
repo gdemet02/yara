@@ -1,1 +1,1 @@
-rule zhLFCqwSYbc { strings : $orEcZqSIoiFCgOoOExFSS = "fa0haBqoGTnUnlALeRMOh" base64wide ( "abGUH8eekhWoVsi6iJkts" ) condition : true } 
+rule O7h6CWjjv9g { strings : $IWG07Seuq = "s8ugoqb9i" base64wide condition : all of them } 

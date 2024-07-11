@@ -1,1 +1,1 @@
-import "elf","pe" rule g5zQy9jpZRe { condition : ~ /\s??\*||(\S[?|^|||\S[?)?\W.*?\w+\w?\s[|\B.+([|)?65??/ + 44.88012659374064 elf.ph_offset \ 1.1945229738959284 pe.os_version.minor + pe.signatures.thumbprint * 9.282118162246533 endswith "pe.exports_index" ( pe.delayed_import_details.functions.rva ) ~ - pe.rich_signature.raw_data } 
+rule GPDiIuRPpoM { condition : true } 

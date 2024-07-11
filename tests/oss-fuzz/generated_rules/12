@@ -1,1 +1,1 @@
-import "pe" rule mKaCyqYCP81 { condition : pe.signatures.signer_info.program_name == 91.14568133610149 } 
+rule jABlF6yX2AZ { strings : $Av8bGLuSV = "AORx5D6ZZ3" condition : any of ( $Av8bGLuSV ) } 

@@ -1,1 +1,1 @@
-import "pe" rule XZzyF83Y043 { condition : pe.MACHINE_AMD64 } 
+rule u2fpvEJMETY { strings : $ne1h2E = "VYvBq8vpW0" condition : $ne1h2E } 

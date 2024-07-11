@@ -1,1 +1,1 @@
-rule jXSgKznM6SB { strings : $BNZcslgrI6seL9WGlUQuT = <built-in function hex> $TBdJqbbNUnWqbgbMzW87k = <built-in function hex> condition : /\B(\w+||||)*||/ iendswith 8.532892245208046 } 
+rule CZU5q17E3eu { condition : defined true } 

@@ -1,1 +1,1 @@
-import "pe" rule cVId9kq1TmK { condition : pe.signatures.issuer } 
+rule MZIiPEGWe0D { condition : false } 

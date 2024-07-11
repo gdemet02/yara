@@ -1,1 +1,1 @@
-import "pe" rule teMcx7OOhuY { condition : pe.signatures.algorithm } 
+rule fwEJaHs6Ljq { condition : ( true ) } 

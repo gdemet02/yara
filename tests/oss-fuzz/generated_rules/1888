@@ -1,1 +1,1 @@
-rule n1JDamTeVR4 { strings : $inMqaT7f3Nkd6okL4Bza9 = "KaBo0tt3P6GKbJ7euFprO" $UmKvTp98FWxORz96RHeFp = /\D*(91+|)+^(5+|)[?\D??|/ nocase nocase ascii condition : true } 
+rule Exh8lu6wIXz { condition : true } 

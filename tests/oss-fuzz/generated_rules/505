@@ -1,1 +1,1 @@
-import "pe" rule VZZOskTWtat { strings : $LCZgO9zKyPpTBoVtE1GfN = "t1KFoHmRuIghvo15I4Xw2" condition : pe.resources.name_string % of them } 
+rule wAfQvLaKSD6 { condition : false } 

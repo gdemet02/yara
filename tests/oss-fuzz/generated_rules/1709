@@ -1,1 +1,1 @@
-import "pe" rule SwZDVSWf1A5 { condition : ~ pe.delayed_import_details.library_name ^ - pe.signatures.countersignatures.chain.subject != pe.signatures.subject "yg1GpxG8ogHPCpRiapNGK" ^ /\W+?|\W[||[+\s?\s/ } 
+rule UuOM8CK3OMr { condition : not defined true } 

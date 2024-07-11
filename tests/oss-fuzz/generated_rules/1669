@@ -1,1 +1,1 @@
-import "pe","dex" rule ZrReizHhy8m { condition : pe.number_of_imported_functions != pe.import_details.library_name ^ dex.string_ids.value + - ~ 27.65960687534236 & ( ( /\[?/ ) ) | pe.SUBSYSTEM_UNKNOWN } 
+rule boAsN1WSZIV { strings : $KHXTBD = "mnmaVDiIHo" fullword xor wide condition : $KHXTBD } 

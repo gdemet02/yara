@@ -1,1 +1,1 @@
-rule tFEkDgxO9r4 { strings : $f9n3XKIcJO9g70DyHbJUh = "S9pkuVEs41hwCGmWHMhhN" condition : $f9n3XKIcJO9g70DyHbJUh } 
+rule lVN80Zoc215 { strings : $cPIgTslj6a = "wQ2Iaiz" condition : $cPIgTslj6a } 

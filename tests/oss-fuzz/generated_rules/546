@@ -1,1 +1,1 @@
-rule CIhdRX4Bkzv { strings : $JZ6OTZOYIJaiDd8l53vpn = "hgHY9xVhOs7FrKVNGnuAB" wide xor $rHqDeWkvyhVUgvlrIOBRJ = "L12qiUF2vqq5eox4X3mV3" condition : true } 
+rule LBHzzVDUID6 { condition : true } 

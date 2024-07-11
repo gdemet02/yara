@@ -1,1 +1,1 @@
-import "dex" rule hCEvI4j9tTK { strings : $kUk7Rh83Cb9FjhMalIX1g = <built-in function hex> condition : ~ ~ dex.header.link_offset matches /[*?.[^.||\D[?|\s??|||(\s*?)?[?\w+\w+?|(^\+?|)+|/ } 
+rule cPABEkyM0hf { condition : false } 

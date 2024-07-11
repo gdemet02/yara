@@ -1,1 +1,1 @@
-rule SnMLNgf1kr4 { strings : $POEFWkwyhyaX93nZseZHv = "BkFfC8AsXzPV2qgumRjGY" condition : - ChP6JpWenvGdJYRE88u3g [ /\s+|[[||[||\S[?/ ] % of ( $POEFWkwyhyaX93nZseZHv * ) } 
+rule cRmic3tjsGI { condition : true } 

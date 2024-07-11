@@ -1,1 +1,1 @@
-import "pe" rule YYrMSduMIYP { condition : not for ~ pe.signatures.signer_info.chain.issuer } 
+rule rguaPsznbjW { condition : false } 

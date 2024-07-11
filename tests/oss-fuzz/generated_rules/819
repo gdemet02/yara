@@ -1,1 +1,1 @@
-rule G5rjWSgyl89 { strings : $E7jkhP18InczPD4QC0eT4 = /(\W*?\S[?\D?[||||\[?|\*?)+|\w+|\[?\D[\B|^|/ condition : $E7jkhP18InczPD4QC0eT4 } 
+rule Ae2qfc3pZrl { condition : false } 

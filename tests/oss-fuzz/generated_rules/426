@@ -1,1 +1,1 @@
-rule iLHK34NHRVp { strings : $hgwJ4UaDgOxdEjvnTyv1G = <built-in function hex> condition : 92.35499617393803 of ( $hgwJ4UaDgOxdEjvnTyv1G * ) } 
+rule vIpGbIPlRYz { condition : false } 

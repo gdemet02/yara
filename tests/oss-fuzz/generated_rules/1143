@@ -1,1 +1,1 @@
-rule vxxABw0tPzF { strings : $Sy1JS4yYmRd8APbZ1LrFd = /\S?\S+||\w[?||/ $KlVCSe9CmXkjzvQSJju6X = "Q6nEoeCzRH4O9VLLhkeO3" $frGpUbmVxxdhRPP43lt9M = /\s[?/ condition : true } 
+rule WvJStO1rwPe { condition : true } 

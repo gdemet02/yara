@@ -1,1 +1,1 @@
-import "elf","pe" rule o4KwqUA2PtL { strings : $g6JsU9n4f0ZICmbM9VvrZ = /18*?|([*?|)??[+/ nocase ascii wide fullword wide condition : defined defined ( /5*/ ) & 54.46050341304031 & elf.DT_SYMENT - /^/ pe.signatures.algorithm_oid of ( $g6JsU9n4f0ZICmbM9VvrZ , $g6JsU9n4f0ZICmbM9VvrZ , $g6JsU9n4f0ZICmbM9VvrZ , $g6JsU9n4f0ZICmbM9VvrZ ) } 
+rule S3A0NiPuNbd { condition : false } 

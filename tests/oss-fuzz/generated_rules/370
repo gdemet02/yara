@@ -1,1 +1,1 @@
-rule LzHA95KUuRv { strings : $OV9JPK9h1P3wZFxvNPzvj = /\W*\??.*/ wide $vVvVFO5p61zZRkDq4Oz4v = /\S??/ $by5dLUNXPw7XvfIvcVAGR = <built-in function hex> condition : $by5dLUNXPw7XvfIvcVAGR } 
+rule so57KApFdco { condition : false } 

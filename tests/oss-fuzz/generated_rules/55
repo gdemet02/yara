@@ -1,1 +1,1 @@
-rule gMclbVzhXtB { strings : $qn5oCAT9DpsXA15TiRF4l = "auNu3Y0odKMibSoMNxzjf" xor ( 23 - 52 ) wide $bfwpawzPRxzOAUWhs9Xnb = <built-in function hex> $OavTLPUZGq692btzUwkBE = /(\w?\s+)+|\D*?|\[?./ ascii ascii ascii fullword condition : true } 
+rule wPXkx3dFDq3 { condition : true } 

@@ -1,1 +1,1 @@
-rule b6mTrtlI7bW { condition : true } 
+import "elf" rule vCkRQpn9VYN { condition : elf.DT_STRSZ } 

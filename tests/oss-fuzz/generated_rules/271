@@ -1,1 +1,1 @@
-import "pe" rule hBgHXyTeOr0 { strings : $ZCC7DX74km13iEuJGXssM = "JzrWn1Tty8ZITOAgiJlf7" $bh6fnaE4XeyU15jyNQlAn = /.[25*?(\B^\+.*?\D+^|)*?\S*|\[||\+[??\s[[*?|^|\W??/ fullword $hkka3lmsMFd263qCoAAWR = "bWvani84dOwm0M9gZu4oV" xor ( 73 - 4 ) condition : pe.signatures.certificates.subject % of ( $bh6fnaE4XeyU15jyNQlAn * ) } 
+rule gMebQVLqWLq { condition : true } 

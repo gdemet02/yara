@@ -1,1 +1,1 @@
-rule bHyRSUmo3Iz { strings : $RwZySkNVqLdV7hNqGqM18 = /\*?\D+?\w[?.[\w*^||.??\??55[?/ fullword wide condition : ( $RwZySkNVqLdV7hNqGqM18 ) } 
+rule cAHVzG0ZIab { condition : false } 

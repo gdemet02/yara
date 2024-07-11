@@ -1,1 +1,1 @@
-import "pe","dex" rule F43o3sJOkgG { strings : $foIw0e48UZRUkzS0BeRn4 = <built-in function hex> condition : defined ( $foIw0e48UZRUkzS0BeRn4 in ( pe.resources.type_string * ~ 96.6889327769791 ^ dex.TYPE_CALL_SITE_ID_ITEM .. pe.signatures.countersignatures.chain.not_after \ 41.26544976245845 ) ) } 
+rule GIH4NIS3BIS { condition : true } 

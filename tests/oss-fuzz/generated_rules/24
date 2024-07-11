@@ -1,1 +1,1 @@
-rule tNHokcjFLVQ { condition : true } 
+rule a0RBEYyY9j5 { strings : $COcyb05Cn = "sRyA70" condition : $COcyb05Cn } 

@@ -1,1 +1,1 @@
-rule jcSThio3SXg { strings : $SvUfXzs3YrNuInuVISpgf = /\w??/ ascii fullword $l2OJiKOxwzXz3BQQO9snE = <built-in function hex> condition : any of ( $l2OJiKOxwzXz3BQQO9snE , $SvUfXzs3YrNuInuVISpgf , $l2OJiKOxwzXz3BQQO9snE , $l2OJiKOxwzXz3BQQO9snE ) at /^(\B)[[*(\w+\*\B.?\B(^)+|)[\D|/ } 
+rule EfgKwXZCsnf { condition : true } 

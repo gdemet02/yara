@@ -1,1 +1,1 @@
-import "pe","dex" rule cDpnLL9Vt8Q { condition : pe.SUBSYSTEM_WINDOWS_CUI - ~ /^|/ & ~ dex.header.data_offset % 12.533315474476769 & /|/ iequals 68.14278547324581 } 
+rule uMsZefQfH9R { condition : true } 

@@ -1,1 +1,1 @@
-import "pe","dex" rule rL5hzFRFfXR { condition : /\[?\S*/ | /\w?([*?|)|/ + pe.RESOURCE_TYPE_VERSION + - pe.sections.full_name ^ ~ ~ ( pe.SECTION_GPREL ^ /\w[?|65*?\[?\B|\W|\D[/ ) * /(\D?^^|.\s+?\B\+)+\D*?\s?\W[(^(.??||||||)+||\w*(\s*?^|[[?\[?.*?\W??(.*\W+?)[||\D[?[[?^.|\w*?[?|||)+?.*|)?/ dex.field.proto ( pGS4icDfPeofV9Am1RIHw ) } 
+rule FrjuUMcV3r2 { condition : false } 

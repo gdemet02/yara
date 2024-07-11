@@ -1,1 +1,1 @@
-import "pe" rule LTITRZhpKac { strings : $LOcZAvhnFvdQW9Hw31YP8 = "eYuPeHShUcffC4Y38wo0o" $qOOgoabMEQHd5AdGAgtLy = /\D[\w?[\s[/ fullword ascii $Us8jVKfh3TGrhFZERho3Y = "ObgGYy9uK2IYpUM8GiPjR" $CgBWjY0uWOcwLw1CFkdN6 = <built-in function hex> $Ahm4yA7nAGbTL8yV1iX7o = <built-in function hex> condition : pe.signatures.countersignatures.chain.algorithm_oid == 11.964214673039365 } 
+rule VgqfPcL3Pc8 { condition : false } 

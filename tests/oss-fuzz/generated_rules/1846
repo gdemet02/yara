@@ -1,1 +1,1 @@
-import "pe","elf" rule AeCLZXUAIug { condition : "dex.has_class" ( /\B^|/ ) icontains - 46.95374856447672 % /[??^\*|.+^|/ | ~ ( pe.import_details.functions.name ) - 55.01529577414633 12.564805300077042 * elf.dynsym.size * /^|50[?\B||\s+/ } 
+rule tMym4C0IhaQ { condition : false } 

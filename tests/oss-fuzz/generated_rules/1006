@@ -1,1 +1,1 @@
-rule sAks91TQQjj { strings : $mcxrBunIblSSrmyeWj8m9 = /.+\w*99[/ $y8hqZTX5jKKhQGBsJ8krs = <built-in function hex> condition : $y8hqZTX5jKKhQGBsJ8krs } 
+import "elf" rule k3fyV5ALdFQ { condition : - ~ elf.DT_ENCODING != 70.24970333909421 } 

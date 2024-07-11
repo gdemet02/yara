@@ -1,1 +1,1 @@
-import "dex" rule bj7bO5JZnqa { condition : not dex.DEX_FILE_MAGIC_037 icontains ~ 80.77702867653171 } 
+rule iRLAIxU8aUZ { condition : true } 

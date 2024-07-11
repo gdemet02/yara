@@ -1,1 +1,1 @@
-rule Bgp0jkzD4Wv { strings : $bNHvYnhI94KHz3IRtGsFy = /(\w*\B)*18*?\D+^|||.*/ nocase ascii condition : false } 
+rule JMygt7xGsDE { condition : false } 

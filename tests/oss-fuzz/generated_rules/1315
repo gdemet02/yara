@@ -1,1 +1,1 @@
-import "pe" rule lcjIvYPUGjM { strings : $RfP3fyIEx4DPDGZ0H7Vyn = /\S*?\B\D+?\[\S[\s*./ wide fullword wide wide condition : pe.RESOURCE_TYPE_STRING of ( $RfP3fyIEx4DPDGZ0H7Vyn , $RfP3fyIEx4DPDGZ0H7Vyn , $RfP3fyIEx4DPDGZ0H7Vyn , $RfP3fyIEx4DPDGZ0H7Vyn ) } 
+rule RWDsCLLHO1M { condition : true } 

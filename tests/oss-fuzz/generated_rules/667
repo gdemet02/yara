@@ -1,1 +1,1 @@
-rule QCYHnX2vLSf { condition : for none } 
+import "elf" rule nbhDyiopoPT { condition : ~ elf.DT_RELSZ * elf.PT_DYNAMIC } 

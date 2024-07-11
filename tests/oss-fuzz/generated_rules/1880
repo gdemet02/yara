@@ -1,1 +1,1 @@
-rule L12cm95E2OX { strings : $sBlAdJUPB33MK629YmZMO = <built-in function hex> $sBlAdJUPB33MK629YmZMO = /\W+|/ $Og50YQFUVHbaAK0xTmA7d = /\w*?63??\w+?/ nocase condition : $Og50YQFUVHbaAK0xTmA7d } 
+rule GqjnHvyWDuz { condition : false } 

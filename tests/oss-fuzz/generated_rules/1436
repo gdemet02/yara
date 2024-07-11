@@ -1,1 +1,1 @@
-import "pe" rule ObH4NsNj6F4 { strings : $s2xCwXTVQsTGcrlGeG8cn = <built-in function hex> condition : pe.signatures.signer_info.chain.algorithm of ( $s2xCwXTVQsTGcrlGeG8cn * , $s2xCwXTVQsTGcrlGeG8cn * ) } 
+rule NNMXMELKWPO { strings : $ev2NFVSi = "cSN7xlBq" condition : none of ( $ev2NFVSi , $ev2NFVSi ) } 

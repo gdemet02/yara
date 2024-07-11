@@ -1,1 +1,1 @@
-import "pe" rule CQMNZ9zwcjY { strings : $w9k0fjF80FhNVzF7UAFSB = "Lbmd95xqAuSdG5SnCSqrU" $FmKlrAEE81gBobmfsbi39 = /\W8*?\S+?|||[?||^/ condition : /[[/ = ~ ( pe.dll_name ) } 
+rule fEbcdMbGqAV { condition : true } 

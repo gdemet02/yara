@@ -1,1 +1,1 @@
-rule HCOELHDAOrp { strings : $F6apDKtWa5FEyfzN8cVE7 = "KgIMSN9HP8sL5XB8zPm7u" wide $G3sz0fWdOSKdgx1uZ3ni7 = <built-in function hex> $M4mSJgtFNHyGGdSQs6gGp = /\W?|\D??|(\w*?\W+||||\W[\B|)[?\s[/ nocase $HVtibWsbLJnGCTUzuaLdD = /.?/ condition : true } 
+import "elf" rule MFFV2PBdOeT { condition : ( 16.432704253117492 ) == ( ( ~ elf.PT_GNU_EH_FRAME ) ) } 

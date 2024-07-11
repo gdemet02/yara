@@ -1,1 +1,1 @@
-rule PkigXZGjyjs { strings : $B89ldyWJN52r2dxpW0xt6 = "DsExrYcbzc4RITrJMOIgH" xor ( 81 ) wide ascii base64 xor base64 condition : false } 
+rule UskSZRxgdks { condition : false } 

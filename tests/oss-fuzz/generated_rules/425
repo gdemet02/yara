@@ -1,1 +1,1 @@
-rule uP5gULvah4D { strings : $rGM7Y7WWbGqB1uYUjN2dL = /^\*/ condition : true } 
+rule MFWdwIHmD21 { condition : false } 

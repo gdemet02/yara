@@ -1,1 +1,1 @@
-rule gq5yxTKFgpB { strings : $VCK3QjrqXRNlSWaQrUQNH = <built-in function hex> $onaPHzDZv98gTpSKjvfCW = /\+?|||.|/ wide fullword $c5ExDpXRZRZQZWqZruMaz = "JasOSyCFE1GIhRq2GIQ1x" ascii base64wide ( "LWzXdqvL0skYBf7qfPXsI" ) fullword xor ( 99 - 6 ) condition : false } 
+rule U2sw1MHFWrs { condition : false } 

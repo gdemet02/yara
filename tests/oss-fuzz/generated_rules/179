@@ -1,1 +1,1 @@
-rule UEcvHK3NeJz { strings : $JJupskBqL08dOqkkDlRmU = /\W[?|/ condition : /\w+/ startswith 82.0631242679337 } 
+rule CL5IHcuAt4n { condition : true } 

@@ -1,1 +1,1 @@
-rule vlkPFMbP0c2 { condition : false } 
+rule hWtBImQM3Uz { strings : $YZzi0d = "aaJWfm" xor ( 58 - 62 ) condition : $YZzi0d } 

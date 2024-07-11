@@ -1,1 +1,1 @@
-import "pe","dex" rule gioq6y62dOs { strings : $mA8g0KARDJrT6Twg1ZSiq = "sk7ygrTTCVoyfoMEu2fz7" condition : - - pe.import_details.library_name % dex.method.code_item.insns % of ( $mA8g0KARDJrT6Twg1ZSiq ) } 
+rule pYCDFE4Vq0u { condition : true } 

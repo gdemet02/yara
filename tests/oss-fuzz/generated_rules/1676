@@ -1,1 +1,1 @@
-rule RDF0H7iLyON { strings : $drRhdO32XDEu1pf0L2z3l = <built-in function hex> $FZnCvhF4Gmo4YRTMahdR9 = <built-in function hex> $QRR89Zy7c6cHVktw57nax = "WGWFCQJyJl1zMNUX0p3f3" fullword wide $pUZdzYNbD65RZhpUGQJI7 = "Icy7dADwYScBkT58qTVGt" base64 $ZbJRlUDCMRIyQeyRfQ1nt = "dhMC6419pjDLJ1UthXO7d" condition : false } 
+rule JvkbpokGZGW { condition : false } 

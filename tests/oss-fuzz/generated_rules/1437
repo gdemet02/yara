@@ -1,1 +1,1 @@
-rule IUhFM9p1o61 { strings : $AJMklMrmmOG9pIEuCjL9x = "cVTc0i4k1YRo12Z87L9XM" base64wide ( "WTLThjueUqDu5TKcDA6WZ" ) base64 ( "je005yCMQ7ez6Qit6yQs6" ) $AXODjJxFRrevbOrY2ElQ2 = "ftL1EoAZ5nj05YKtNhh7D" $Cf3ElMWFNrtF5LWwRVRRA = /(\*|||\B)*(\D*\s*[\W[?|\W+?)??|[+|.+|\S??\[?(\B18*?||\S+?\D[|)[||.+\S*?\S*?\W+/ condition : $Cf3ElMWFNrtF5LWwRVRRA } 
+rule IZNJ49RnDzN { condition : true } 

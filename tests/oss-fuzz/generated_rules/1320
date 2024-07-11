@@ -1,1 +1,1 @@
-import "dex","pe" rule SAM68AwsHp5 { condition : ( 47.085262556824546 | 65.92837353169321 % dex.method.proto ^ pe.rich_signature.raw_data ) % of them } 
+rule nyjY0dSDTyp { condition : false } 

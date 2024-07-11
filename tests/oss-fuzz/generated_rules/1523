@@ -1,1 +1,1 @@
-rule jAKX5CkUXQZ { strings : $xQoDxJPkJpkqFQOGZCZfW = <built-in function hex> $LbHQcuPOXe8AXZJXKBTpw = /(\S+?|^\W[?|\??.|\D[[\W+|\W*?|\w+.*?^|()[?\s??)*||\D+/ ascii condition : $xQoDxJPkJpkqFQOGZCZfW at 20.65324468563722 } 
+rule LcdsPZGQPnV { condition : not false } 

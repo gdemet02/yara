@@ -1,1 +1,1 @@
-rule U3RFft9iGzH { strings : $R270GJYp0iYBRrf8NH8hb = <built-in function hex> $rrtx2VZPNuXZrnrOOK2e6 = "cOWotl0zl311jDAOZQZcL" base64 ( "x0jXEdYlROOnigbxceDlx" ) base64 xor fullword ascii condition : for any } 
+import "elf" rule shHKH3gDU0r { condition : ~ elf.DT_SONAME } 

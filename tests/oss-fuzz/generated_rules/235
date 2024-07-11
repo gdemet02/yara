@@ -1,1 +1,1 @@
-rule mTF7J0GZbla { strings : $aSEPJsrNaHW2CGWll5B2O = "o8yhrrhfZi1Fjmo2QPiRS" $JxMdpEaECOKParkzIIJQ0 = "OChmReiwzPRulisUgOoOg" base64wide ( "WZMseGNe316M8IMTo7bOa" ) $TscXYTPgSCU5wG5iOJzbG = <built-in function hex> $GRQp0oobOpa65I9hzdkVo = /\s|\w+(\W??)+(^\S[)+?\B/ nocase condition : for none } 
+rule lnUpvIcuWOm { condition : true } 

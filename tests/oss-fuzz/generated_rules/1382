@@ -1,1 +1,1 @@
-rule ewdUtkiuNs5 { strings : $OmErMHRrcuth8QmcRBAJm = <built-in function hex> $mI2A3mp2RzUvTqrJzFJvZ = /\D+?/ condition : 8.347242991695115 % of ( $mI2A3mp2RzUvTqrJzFJvZ ) } 
+rule dXDdarUABcl { condition : not false } 

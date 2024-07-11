@@ -1,1 +1,1 @@
-rule w49bUhjqCI2 { strings : $hYoT2IrUh1FT4IN8PxwR3 = /\W??\w+\B||/ condition : false and true } 
+rule ztJiioshTgP { condition : true } 

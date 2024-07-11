@@ -1,1 +1,1 @@
-import "pe" rule FCZmMse61iz { condition : pe.size_of_code startswith pe.version_info_list.key } 
+rule DiiQ9mbHWva { condition : not false } 

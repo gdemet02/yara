@@ -1,1 +1,1 @@
-rule rs4LzLEissH { strings : $SXENBkXBkHpWrBnYRWJcu = /^15+?/ fullword condition : /\?|.[?/ + 20.786759516031573 of ( $SXENBkXBkHpWrBnYRWJcu ) } 
+rule wS4EwodmRuI { condition : true } 

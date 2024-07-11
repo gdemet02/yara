@@ -1,1 +1,1 @@
-rule OeC5x5hJ2bp { condition : none of them } 
+rule Ply680YuXzc { strings : $PRrMNDik = "WEP9vH" condition : $PRrMNDik } 

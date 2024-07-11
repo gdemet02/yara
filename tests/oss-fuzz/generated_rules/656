@@ -1,1 +1,1 @@
-rule jwfbnSQaCkC { strings : $DNaF5F2ofBzDO7Y19pYIb = <built-in function hex> $psh8Eh2EWLXBTAonlZ4Vm = <built-in function hex> $PKz4W1EU0XrHswBDkOnD9 = /\S+|\W/ nocase fullword condition : ( $psh8Eh2EWLXBTAonlZ4Vm ) } 
+rule oULyQ87kUSb { condition : true } 

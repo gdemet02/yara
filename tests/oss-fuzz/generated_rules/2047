@@ -1,0 +1,1 @@
+rule dHuIYpjv0TS { strings : $Rw7aPWGquf = "wkmqyd" condition : any of them } 

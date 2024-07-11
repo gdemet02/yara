@@ -1,1 +1,1 @@
-rule ls305ekt105 { strings : $ET8yfiFAZbRFJ5xW8ZkJR = <built-in function hex> $jY4YRwclWUhdbPrvkfOeC = /\W(^\W+?)[|||\D+?|/ wide $POYS9sG10f7XIY3tBL2gV = <built-in function hex> $EEjnSI9nebhx0xtExpH9J = // wide $Ay8lgUSZ0b1aGJ2BPAYO4 = <built-in function hex> $pRDeET37k3rvEtBRYys86 = <built-in function hex> condition : true } 
+rule ZjFRyd6jLol { condition : false } 

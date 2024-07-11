@@ -1,1 +1,1 @@
-import "pe" rule PeSI7CK1gZ0 { strings : $d6ZPrDjytNVnozO80Jsqc = /(\s??)+|\[?\D*|80|/ fullword $YLKs05T4LRJ9amL6eudeU = /\D[||/ $VLfx0tLocRyMNXK4gCs5k = /\s+.[/ condition : $d6ZPrDjytNVnozO80Jsqc in ( - pe.resources.language_string .. 49.693327368776416 \ /[??\W[||/ + 54.470418974611675 ) } 
+rule XFIZmciksbt { condition : true } 

@@ -1,1 +1,1 @@
-import "elf" rule nGwWuGxjEFY { strings : $ztaHYLr2BceUHsntDfAyQ = /\B(\S??)??\*?\s+|\W??\??^|13*?\s+?/ wide wide condition : ( elf.EM_860 ) + ( elf.STT_SECTION ) != 11.560465809155652 } 
+rule ekbd5JBZIIc { condition : true } 

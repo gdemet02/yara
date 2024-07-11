@@ -1,1 +1,1 @@
-rule X3bFSVQiQWO { strings : $Ac8671MnlSf7QMItfm4lf = /(^)*?||[\B|||\B/ ascii fullword condition : all of them } 
+rule vYaaKOjRt2n { strings : $lAGO0ct = "o0JsaW" condition : not for none of ( $lAGO0ct ) : ( $lAGO0ct ) } 

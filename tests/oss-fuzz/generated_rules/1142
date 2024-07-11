@@ -1,1 +1,1 @@
-import "elf","pe" rule wqL1zFSfYwa { condition : /\B/ & 42.73029958243201 * elf.ET_EXEC pe.WDM_DRIVER } 
+rule k83NQDlQND4 { condition : false } 

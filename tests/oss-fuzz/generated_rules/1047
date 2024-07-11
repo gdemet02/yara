@@ -1,1 +1,1 @@
-import "elf" rule MXdTeq5eupS { strings : $iuwhaqrO85QEIHVPXq79K = "l6ivlD6IBdBmmuJ4f20EQ" condition : elf.DT_FINI_ARRAY contains 65.20037883964545 } 
+rule QoAiSHpP4Iq { condition : true } 

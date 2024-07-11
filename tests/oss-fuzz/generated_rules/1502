@@ -1,1 +1,1 @@
-import "pe" rule DSpvbxrpVYd { strings : $IKgWzhYCnDG9wPYZAABC5 = <built-in function hex> condition : /^\B\D+||/ == pe.SECTION_MEM_PRELOAD } 
+rule hEbXDjUHX1K { condition : defined true } 

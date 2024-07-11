@@ -1,0 +1,1 @@
+rule naUpmtcFALn { strings : $LmaGuK = "ISxAVLM" base64wide condition : $LmaGuK } 

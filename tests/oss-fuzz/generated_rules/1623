@@ -1,1 +1,1 @@
-rule JompQVc5GTW { strings : $mOvAN6YQPlj1pZB8SEGGF = /\^|87*?||\*?\W*?\s+|[[|\W*?\??/ ascii condition : all of ( $mOvAN6YQPlj1pZB8SEGGF , $mOvAN6YQPlj1pZB8SEGGF ) } 
+rule Ryo6QLTE5PH { condition : false } 

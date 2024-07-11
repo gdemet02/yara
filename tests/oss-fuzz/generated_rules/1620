@@ -1,1 +1,1 @@
-import "pe" rule O0zg090yO27 { strings : $q3exQkCWEXaTJByTqNkfh = /\B|\W?\W?^\W\s??.*?\s?||/ $Chh0rUFAuCAl0OA8Ga4EW = /.?15?\W[?((^||.+?|)?|\D+?[[?65*?|\S[?|)*/ wide ascii condition : pe.export_timestamp & pe.signatures.issuer = pe.signatures.digest } 
+rule d5Z3FWX2hf6 { condition : true } 

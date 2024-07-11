@@ -1,1 +1,1 @@
-rule Het8jxfNlEo { strings : $kh8lBgSyspMaFR1wHl0hc = <built-in function hex> condition : ( 87.92570003301904 = - 72.42539658131541 ) } 
+rule A82dJOCv7Hs { condition : true } 

@@ -1,1 +1,1 @@
-rule xTKV5om9EjJ { strings : $NBPkyk6UBKH49ZvsFaPIu = /.[|/ $avRWl0kd8WVjBe0vCn9fw = /.+|.[?||/ condition : for any } 
+rule xVEhpBdpqCZ { condition : true } 

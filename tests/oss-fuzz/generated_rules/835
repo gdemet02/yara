@@ -1,1 +1,1 @@
-rule uJrB4vlrMnE { strings : $VFZJMmfD5Y13WkduIc0jD = /\B|\s\S\W[/ wide condition : $VFZJMmfD5Y13WkduIc0jD } 
+rule EOGHoCKOFhF { condition : true } 

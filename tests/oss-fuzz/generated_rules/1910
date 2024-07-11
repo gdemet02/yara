@@ -1,1 +1,1 @@
-import "pe" rule tRvwiCn54M6 { strings : $Zh9mgJxiOE3N71Klpoe78 = <built-in function hex> $IMDrMxflo24RbxAAwi6tX = /\w+/ wide condition : pe.SECTION_MEM_NOT_CACHED matches /\w*?\B/ } 
+rule shs7SFzOC34 { condition : not false } 

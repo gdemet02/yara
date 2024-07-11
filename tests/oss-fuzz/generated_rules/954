@@ -1,1 +1,1 @@
-rule QkuhbwXCPsZ { strings : $hGwif667PFIGl6dmLK7Um = <built-in function hex> $oT2OtbzwYgVlNabllDTGg = /(\B|)+|\w?|\D??/ wide nocase condition : ( ~ /\||||.?\S*[[?.??\S+|||/ ) } 
+rule Tn0N9mvToAL { condition : defined true } 

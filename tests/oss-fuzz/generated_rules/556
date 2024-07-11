@@ -1,1 +1,1 @@
-import "pe" rule apzlxIrjzGU { strings : $Dw87fXdkHmuH9JADW3Prf = /\S+?/ nocase condition : pe.signatures.subject % of ( $Dw87fXdkHmuH9JADW3Prf * ) } 
+rule RZ5lrRttSwP { condition : true } 

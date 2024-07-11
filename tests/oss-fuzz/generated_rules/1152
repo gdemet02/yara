@@ -1,1 +1,1 @@
-import "elf" rule hHlWkIlC4xf { strings : $kPdsKGOwq0BpU18hX1Zfh = "Ywv3xaQ903weni0CLl6DL" condition : elf.STT_OBJECT % of ( $kPdsKGOwq0BpU18hX1Zfh ) } 
+rule kxHvtnwtrA3 { condition : true } 

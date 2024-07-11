@@ -1,1 +1,1 @@
-import "pe" rule trMdUNM1XTw { condition : 25.77281294560355 of them in ( pe.SECTION_MEM_EXECUTE + /\D+|||\D?|||\69+||\w??/ .. pe.delayed_import_details.functions.name ) } 
+rule KFgF2m4jQXp { condition : true } 

@@ -1,1 +1,1 @@
-import "dex","elf" rule ETmRuwTrAfJ { condition : dex.field.proto elf.ET_DYN = elf.DT_PLTREL } 
+rule nB5L1dinxc1 { strings : $LuAVrvgq = "cKzHYucJ" base64wide condition : ( $LuAVrvgq ) } 

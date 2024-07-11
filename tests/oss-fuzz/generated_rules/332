@@ -1,1 +1,1 @@
-rule XJacW6CRecA { strings : $AWylTt4tAf9v9gum1l9Jz = "q12MAoOEIkTGFy2yatKDq" fullword $nikRmUgj9O0HZWmEHop9o = <built-in function hex> condition : all of ( $nikRmUgj9O0HZWmEHop9o * ) } 
+rule HDBtUBE3FJK { condition : true } 

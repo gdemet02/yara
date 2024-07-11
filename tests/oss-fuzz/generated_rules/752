@@ -1,1 +1,1 @@
-rule Xg0sE0SXNDw { strings : $bAgrYC9wGnUuXlmrNdYCu = <built-in function hex> $QVywM8uO5tVYlR60dMINA = "oKYa7ksDlXI4ne0Ah6cUY" xor ( 55 ) $KB1JMPFpgb4uZA1Hj5ahg = <built-in function hex> $oGU6mMYwWPvCLte1bt3WJ = "zm1ewi4gNvMlTtNjXBeaB" base64 condition : for all } 
+rule Bx98F2fs59W { condition : true } 

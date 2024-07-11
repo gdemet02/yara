@@ -1,1 +1,1 @@
-import "pe" rule ajEiTzN94XE { condition : ( pe.IMAGE_DEBUG_TYPE_FPO ) % of them } 
+rule jjiltKSvsaF { condition : false } 

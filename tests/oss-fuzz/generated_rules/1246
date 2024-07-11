@@ -1,1 +1,1 @@
-import "pe" rule tv7SAvXEMLj { condition : - /\[(|\s*?)?\W*/ 7.597201687128274 iendswith pe.version_info_list.key } 
+import "elf" rule tx2EKZEZj1Q { condition : elf.PF_X } 

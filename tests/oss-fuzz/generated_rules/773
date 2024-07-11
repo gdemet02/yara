@@ -1,1 +1,1 @@
-import "dex" rule Rdkx7j1NsPD { strings : $dPKq1STu6cdxVQabLBInJ = <built-in function hex> condition : "pe.language" ( "pe.rich_signature.version" ( dex.method.code_item.outs_size dex.map_list.map_item.type ) ) matches /\B/ } 
+rule Eq81bIs9K8b { condition : false } 

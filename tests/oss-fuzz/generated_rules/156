@@ -1,1 +1,1 @@
-rule fMVZxohwpkB { strings : $qlWzUUdYxOjIYkMfRrmpX = /|/ wide nocase $hDJDTKdhgSh26LHa6BAat = "F3f6RqbXgRAENVLRfgbyE" wide base64 ( "Ask2n4YtBQQ5Eh4ck5UuP" ) $AuvgWMu8MuVBBK6sI4X1z = "MxZT0LX4fex1WjBA53dgC" ascii base64 ( "EjFJxaXWAKEHoEVYylGIM" ) condition : true } 
+rule t3DKYj3ENWa { condition : true } 

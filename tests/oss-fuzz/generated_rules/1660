@@ -1,1 +1,1 @@
-import "pe" rule ZpnW2Qcn723 { condition : pe.signatures.signer_info.chain.thumbprint - pe.rich_signature.length = - pe.signatures.countersignatures.chain.algorithm } 
+rule o0LAPu84UEE { condition : true } 

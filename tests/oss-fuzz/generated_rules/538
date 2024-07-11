@@ -1,1 +1,1 @@
-rule qIKKD4SCa8R { strings : $hJYqgkDACemcZjJmF6UnF = /[[?|\D+?(\B|||^||(^.|\W[||^||.??\w)?\B^|)*?|.+\w/ nocase condition : true } 
+rule gXJSXU6Gram { condition : false } 

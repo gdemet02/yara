@@ -1,1 +1,1 @@
-import "elf","dex","pe" rule Hr4yujPvPuZ { condition : ( /\*?/ ) % elf.dynsym.value * 77.52616260051965 != elf.PT_GNU_EH_FRAME ( dex.field.name - pe.signatures.countersignatures.chain.thumbprint * pe.SECTION_LNK_COMDAT ) ^ pe.signatures.signer_info.program_name & ~ /6?\/ & /.+?|([?\+|)*.|/ ^ - 89.09787133155274 } 
+rule y3TMfx9VHvv { condition : true } 

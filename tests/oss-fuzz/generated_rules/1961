@@ -1,1 +1,1 @@
-import "pe" rule cdGVmHYwWsR { strings : $WkPCsCtJQoI3je4UrL3BJ = /^|\s?\S?/ $nkN05Li3XokJ90gzkYhqZ = /\+?\s*?||||\B||\B\W+|||||(\*?\D\S*|\S?)+?|/ condition : ~ ~ ~ pe.is_pe * pe.export_details.name /\S??|||/ } 
+rule Wgn3Ch7Dyfp { condition : false } 

@@ -1,1 +1,1 @@
-rule N33XISLPbh1 { strings : $NBYaXgxbqUlSGtwJ7jUTt = /\B13+?\s*?|||85[?^/ fullword wide $pp87C6oSbxXEQmYWu4h0v = /\S*?|/ condition : 36.34913828637131 % of ( $NBYaXgxbqUlSGtwJ7jUTt ) } 
+rule UpglO3y09iF { condition : true } 

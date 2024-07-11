@@ -1,1 +1,1 @@
-import "pe" rule zgmVPasVr5l { strings : $EHo8dlFfSaJn7sEqxPUg1 = /(\S??\s[?|\+(\s+\B\S*|)?^\B\s[?||\w*32[|\D|.)+?(.[?)*?|||/ nocase condition : pe.SUBSYSTEM_UNKNOWN contains 96.1951534737598 } 
+rule ri5ghq4UDpf { condition : 91.22077269916274 } 

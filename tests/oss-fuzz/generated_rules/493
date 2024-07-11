@@ -1,1 +1,1 @@
-rule BmOCOrAOPyB { condition : true } 
+import "elf" rule BkY5PvT6CeY { strings : $Gy2Lsslfl4 = "SBRY9nBP" $PwKgIQp1 = "a9ynDBY319" condition : elf.DT_INIT_ARRAYSZ of them } 

@@ -1,1 +1,1 @@
-import "pe" rule lFqC7sC21MW { condition : pe.HIGH_ENTROPY_VA = ~ pe.sections.full_name } 
+rule vZbRCQ0PVjU { condition : false } 

@@ -1,1 +1,1 @@
-import "pe" rule NSmtshixeB3 { strings : $nUqmWmVIu9Vbv86x8UT5Q = /\w[?/ wide ascii condition : pe.signatures.verified contains 39.64681103441892 } 
+import "elf" rule cBRNOSJ2k1G { condition : elf.EM_X86_64 } 

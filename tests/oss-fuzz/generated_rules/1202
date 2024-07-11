@@ -1,1 +1,1 @@
-rule cKSQTHoHwye { strings : $mqCgVfWopF3u9BiUhkF9F = /[+\??\?\D+?|/ fullword wide condition : true } 
+rule RObyfv17z8J { condition : false } 

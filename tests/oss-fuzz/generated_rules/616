@@ -1,1 +1,1 @@
-rule By18K1lzDFw { strings : $FrXqz15zC3q5IZclGXw04 = "MUj7OJJGliXhX8BeuqBbX" ascii condition : true } 
+import "elf" rule R86SWjVXviN { strings : $lm9l4FiX = "beO6ZSKBVO" condition : $lm9l4FiX at elf.PT_TLS } 

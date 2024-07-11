@@ -1,1 +1,1 @@
-rule OGTEJB4yWqP { strings : $bEoVyM9AEBL4xjnyQQ4yk = /(\D+?(\s[)[\s*\B\D?||\w?\S?|||[[)/ condition : true } 
+rule x4uohCU4CoN { condition : true } 

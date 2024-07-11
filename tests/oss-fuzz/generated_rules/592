@@ -1,1 +1,1 @@
-import "pe" rule m6OjFpXFjDv { condition : pe.SUBSYSTEM_WINDOWS_CE_GUI iendswith /\S[?/ } 
+rule sEIpc0XCZdB { condition : false } 

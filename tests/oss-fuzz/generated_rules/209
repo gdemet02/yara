@@ -1,1 +1,1 @@
-rule OjDkelVn3wl { strings : $CzLxHqCcG792Mam68WooX = "uaG4PuQyAZsEYKPqELjgH" base64 condition : true } 
+rule lgQKInskCdT { strings : $HtyH76fFD = "LDpapabv" fullword condition : none of ( $HtyH76fFD , $HtyH76fFD ) } 

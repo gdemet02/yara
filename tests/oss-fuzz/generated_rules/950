@@ -1,1 +1,1 @@
-import "dex" rule wIPZIqIyS9m { strings : $ZMKL9cKULvWbuJYjT746N = <built-in function hex> condition : dex.map_list.map_item.offset | /\w[?/ icontains 86.82135749672919 } 
+rule xF2TYvcM9A0 { condition : true } 

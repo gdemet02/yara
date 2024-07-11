@@ -1,1 +1,1 @@
-import "pe","dex" rule PZ3ZSqiYAh0 { strings : $mt89fe0X9wwNbiB5PdgnC = "knKW5cfe0BzO6i0KlhQkf" condition : not true or pe.signatures.countersignatures.chain.serial ~ dex.header.type_ids_size + 16.031914124171276 } 
+rule AhV5kmpZuhf { condition : true } 

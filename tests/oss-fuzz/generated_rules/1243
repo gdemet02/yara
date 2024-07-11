@@ -1,1 +1,1 @@
-rule ntrDeim71AV { strings : $zEm5qAxmgrjroezMq0BtK = <built-in function hex> condition : for all } 
+rule pHZq7jToHpe { strings : $Gsob0qux = "NsS6gA" base64wide condition : none of ( $Gsob0qux ) } 

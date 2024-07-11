@@ -1,1 +1,1 @@
-import "pe" rule WNLM1qe4AWQ { strings : $B2jqS7uo9lDwG6rZC1iJ8 = "TKR1n70gSUVEYwVgaZu2j" base64wide ( "I3KzT3L7kIzKVbfhBNV2h" ) wide base64wide ( "qqk0r4x0JJ0VThS2if9oH" ) $WZrBSnhT764cD33qRLhIP = "eq6gNBbOi21rD317Sutcs" base64wide fullword condition : not pe.sections.pointer_to_relocations != /(\B\w?||||\B||\S[)+?\D[?\W?\\D?/ } 
+rule D1NEtqlCaZR { condition : true } 

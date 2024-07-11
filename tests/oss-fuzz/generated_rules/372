@@ -1,1 +1,1 @@
-import "dex" rule FOb19vDSp4v { strings : $gbVAgilKjJJTpWgJUJywC = "KRQFHUOTttUUiP8vlYnN9" condition : $gbVAgilKjJJTpWgJUJywC at /\w|/ % - ( dex.method.method_idx_diff ) } 
+rule XR0rfWAfPx6 { strings : $f0jAKj = "V78UZGs47l" wide condition : none of them } 

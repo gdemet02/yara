@@ -1,1 +1,1 @@
-rule wDJvawWhvzX { strings : $yfV2SkdQD0DKipqKT1TPU = <built-in function hex> condition : none of ( $yfV2SkdQD0DKipqKT1TPU , $yfV2SkdQD0DKipqKT1TPU * , $yfV2SkdQD0DKipqKT1TPU ) } 
+rule j2PPVS5ajez { condition : 57.53819341519932 } 

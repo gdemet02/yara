@@ -1,1 +1,1 @@
-rule bULpvnOsKUs { strings : $LYHnXovh4X3tQHQsT85fD = <built-in function hex> $nQYfvPVf5SoqJME2LAe6t = /\w\B|\??\S*?\S??\w[?\s/ fullword $GaAP9lsVuExtOKAIYYoke = <built-in function hex> $BMB9uzad1qfBWskxOMvNM = /\s??/ fullword condition : for 72.58504848378713 } 
+rule grR3jh1afi3 { condition : false } 

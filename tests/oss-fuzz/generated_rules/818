@@ -1,1 +1,1 @@
-import "elf" rule GpoAXIos3uf { strings : $gnEQnik2Zxbmmohiu05te = <built-in function hex> condition : elf.ET_CORE } 
+import "elf" rule Te8ZEFf8pJS { strings : $NzIrRKmSe = "hElzRK8" condition : $NzIrRKmSe at elf.DT_RELSZ } 

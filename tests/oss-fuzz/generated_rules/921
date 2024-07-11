@@ -1,1 +1,1 @@
-rule zGia5MN9FXd { condition : 61.04581239710348 % of them } 
+import "elf" rule uuO964M0Zjm { condition : elf.PT_NULL - ( 3.496757908623327 ) } 

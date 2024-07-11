@@ -1,1 +1,1 @@
-import "pe" rule BYRnUaMqmbC { strings : $OsypGRTkyOfNaqBqRCOeJ = <built-in function hex> condition : pe.IMAGE_DIRECTORY_ENTRY_SECURITY % of them } 
+rule g70O1tmG00I { condition : false } 

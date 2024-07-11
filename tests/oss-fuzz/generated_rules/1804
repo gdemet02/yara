@@ -1,1 +1,1 @@
-import "pe" rule FmXVKxw1OjR { strings : $DfKsPRz3IRiRHPnWt1ab8 = /(\w+\B[+\B|\s?31[)?|||72[?||\w[|\B|\S??57+?\[.+?|/ condition : pe.SUBSYSTEM_WINDOWS_CE_GUI iendswith pe.resources.language_string } 
+rule KHOlic6hUhx { condition : true } 

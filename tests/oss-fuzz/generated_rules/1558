@@ -1,1 +1,1 @@
-rule VN9W2AJzmzl { strings : $ossrXtFFFcSgJdi4hVpoJ = /\B|/ condition : $ossrXtFFFcSgJdi4hVpoJ at 58.537816006900776 } 
+rule l7ZeQDSBWQb { condition : false } 

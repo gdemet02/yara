@@ -1,1 +1,1 @@
-import "pe","dex" rule niOgpVvxlvJ { condition : pe.SECTION_ALIGN_2048BYTES endswith dex.ACC_ANNOTATION } 
+rule XrrDMs5Y9aN { condition : true } 

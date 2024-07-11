@@ -1,1 +1,1 @@
-rule rAoK5RtWSU2 { condition : ( for all ) } 
+import "elf" rule owLZky94YeA { condition : elf.entry_point & elf.STT_TLS } 

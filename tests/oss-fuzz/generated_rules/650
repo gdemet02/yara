@@ -1,1 +1,1 @@
-rule RwUwbjubOw3 { strings : $XZ3s0krFRJkwewiPjA4B2 = <built-in function hex> $CUclem5ZQEdYsSr9nSASA = /\B/ $HjTsbNtFOUDOR7NnrWi7V = "DzvWytYn3kkjkFenv52ZU" $aSGtJmCG3vOHDWOQNpQAu = <built-in function hex> condition : for any } 
+rule G7cX5hzkT8Z { condition : false } 

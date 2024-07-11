@@ -1,1 +1,1 @@
-import "elf" rule DfELw7x6x9K { strings : $s9ApI6K7V3pUncm47rNuM = /\+?|[*[[||||^|(46[?||.*\w*?|((\*|\w?||.*)?\s+\W[?\S+?)[|25*|)+|/ condition : $s9ApI6K7V3pUncm47rNuM at elf.DT_INIT } 
+rule UUT9zwqOgvF { condition : false } 

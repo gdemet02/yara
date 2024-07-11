@@ -1,1 +1,1 @@
-rule NnEY4LYLxyK { strings : $bU49xBfwfMvXQbp3vjJFJ = "V64lkixi5qlFr1FaQDbeA" wide xor ( 4 ) $fw3dYqpeGYMdPa9wJcvKF = "RiN9aLwIcNWsMhVajkQhH" wide condition : true } 
+rule w4vQfqVmcAJ { strings : $WhGKW7F = "NUTMma0isY" condition : any of ( $WhGKW7F ) } 

@@ -1,1 +1,1 @@
-import "pe" rule fqsYzakDfxe { condition : for pe.signatures.thumbprint } 
+rule UGncjhCdIWU { condition : false } 

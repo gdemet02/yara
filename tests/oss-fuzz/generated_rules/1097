@@ -1,1 +1,1 @@
-import "dex" rule X1ibgzDyDev { strings : $eboFFOawxFMHZcZIQ3g1m = <built-in function hex> $GpTx4fLJbpzYR5SSqD9TF = <built-in function hex> condition : $eboFFOawxFMHZcZIQ3g1m at dex.method.direct } 
+rule UdojEd8DHm8 { condition : false } 

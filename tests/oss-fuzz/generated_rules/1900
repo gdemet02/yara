@@ -1,1 +1,1 @@
-import "dex","pe","elf" rule D23c1ydM0wg { condition : 19.118711813869005 ^ 67.39631349623323 contains dex.DEX_FILE_MAGIC_038 and pe.BYTES_REVERSED_HI = dex.method.code_item.insns_size \ elf.PT_DYNAMIC % - dex.DEX_FILE_MAGIC_036 % pe.signatures.countersignatures.digest_alg * pe.signatures.signer_info.chain.issuer ^ 93.01933772757526 } 
+rule omCk7Nb70eQ { strings : $zBHcILi = "UZWyc9K9b" condition : any of ( $zBHcILi , $zBHcILi ) } 

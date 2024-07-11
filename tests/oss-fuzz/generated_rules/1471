@@ -1,1 +1,1 @@
-rule rqZ5VhleXjM { condition : false } 
+import "elf" rule X8aSPcmrQjp { condition : elf.STT_FILE } 

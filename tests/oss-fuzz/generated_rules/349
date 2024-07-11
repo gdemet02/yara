@@ -1,1 +1,1 @@
-import "pe" rule IcpmuHjXoUo { strings : $r1HfQJ3BWhyunI78DJby2 = <built-in function hex> condition : pe.delayed_import_details.library_name % of them } 
+rule fVOYXvD3y1a { condition : false } 

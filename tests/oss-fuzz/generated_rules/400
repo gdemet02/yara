@@ -1,1 +1,1 @@
-import "pe" rule cPxy6V97B47 { strings : $Da8pAicpdKnaf86wmNtdY = "ouE7UETOJhQg1hc8fD5xD" base64 $Kr6WYD1QRnipvPyLFtcHm = /|^.?\w*?||||/ nocase $bRDFxAWg1mBF1m00iYdrr = "FFv5y3YSJCFfjuwYrHgrE" wide wide condition : ( pe.version_info_list.value % of ( $bRDFxAWg1mBF1m00iYdrr * , $bRDFxAWg1mBF1m00iYdrr , $Da8pAicpdKnaf86wmNtdY ) ) } 
+rule BZ0Vjdxgkm6 { strings : $YVagnLgF = "PahDEkteM" wide condition : none of ( $YVagnLgF , $YVagnLgF ) } 

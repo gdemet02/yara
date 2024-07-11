@@ -1,1 +1,1 @@
-rule Nf1Eb830Czj { condition : false } 
+rule oREqnTwASbt { strings : $n0iwfxhf2 = "WOlrnN9hCJ" condition : any of ( $n0iwfxhf2 ) } 

@@ -1,1 +1,1 @@
-import "dex" rule BNizQuUHCsQ { strings : $yw00acuWy6aFpODRpx1lR = <built-in function hex> condition : kY5d4N6uGaMt4dvg2kW28 [ dex.ACC_ANNOTATION ] == /\s??\w^.*?|\W?[?^\s?\?\W+|\S??\B22+/ } 
+rule oPsPEfjfVxv { condition : true } 

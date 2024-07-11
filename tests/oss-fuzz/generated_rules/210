@@ -1,1 +1,1 @@
-import "pe","elf","dex" rule q05uqgGaltA { condition : any of them in ( /\B\s[?|(\D?.*^)?/ .. ~ ~ pe.signatures.issuer % /21*?|\D*|||\W/ - ( 68.45764392541143 ) pe.signatures.signer_info.chain.thumbprint \ "pe.rich_signature.version" ( "dex.has_method" ( /|\B||60+?\S/ ) elf.STT_FUNC ) + ( 43.952245196969876 ) /|/ ^ ( 80.74700297585 ^ pe.signatures.countersignatures.digest_alg + pe.file_alignment ) & elf.PT_TLS dex.field_ids.class_idx ) } 
+rule u6eVPPuCEvc { condition : true } 

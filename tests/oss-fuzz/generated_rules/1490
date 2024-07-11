@@ -1,1 +1,1 @@
-rule Arpuvr8nOen { strings : $JI9wnjv3BwUHBbFx338MM = /\B\w??|^/ $kuYaM6Ko99YWI1WqPyVYr = <built-in function hex> $qDLfAV1x7pQDjm0nBDESt = "CSQ7X7FwtqeTH8GCN9vrJ" base64 ( "wb0nqh4hp2klJbwm7Xivf" ) ascii condition : /\W*/ } 
+rule UUNkwIBCqfD { condition : ( false ) } 

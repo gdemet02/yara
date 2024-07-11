@@ -1,0 +1,1 @@
+rule bgvSYlrULes { strings : $THbT62K1Ry = "tx0W1f2" condition : ( any of ( $THbT62K1Ry , $THbT62K1Ry , $THbT62K1Ry ) ) } 

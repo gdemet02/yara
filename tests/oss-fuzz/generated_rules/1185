@@ -1,1 +1,1 @@
-rule NtLkWRS1VxK { condition : /|/ } 
+import "elf" rule oxFDbZi4tuv { strings : $kLI7RXe = "CNg7Dct" condition : $kLI7RXe at ( elf.STT_OBJECT ) } 

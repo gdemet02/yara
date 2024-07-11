@@ -1,1 +1,1 @@
-rule SKPssBV2Nli { strings : $dTSM6LGMJD7IqihuiJmsy = <built-in function hex> condition : /\D+?[+?|/ = /^\[.??|\D+|/ } 
+rule hQ2WDNPh9jn { strings : $TL9D4Fm3S = "ESW7sj6M" condition : none of them } 

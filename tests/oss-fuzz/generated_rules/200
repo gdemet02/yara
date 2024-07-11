@@ -1,1 +1,1 @@
-rule faPsVKbBHqi { condition : 67.34666256036476 } 
+import "elf" rule MD1G5GBKEXB { condition : elf.sh_entry_size } 

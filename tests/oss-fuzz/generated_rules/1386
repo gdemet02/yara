@@ -1,1 +1,1 @@
-import "elf","dex" rule LjutIRJO6bx { strings : $E8v22TLq6vzUF40q5197x = "gYCRqVSPekFpCvzW23JRc" condition : /\w*?|\W+|\S||(\B|\+?(90+?)*\W??|\S*?(.+|[+([*\s|)[?\s)*|)?\D\D+?|(^^|||||)|69+/ - elf.dynsym.value istartswith dex.method.code_item.ins_size } 
+rule jlPcCNiAAt8 { condition : false } 

@@ -1,1 +1,1 @@
-rule Xa9lYjSKRy5 { strings : $WOmT2EKqgi3tI7HSasJOj = /.|\??/ nocase fullword $OgOTutVWDyp4gQ3CxTgdC = /\s?\S[[?|/ $FlflDGdI6fSTdpeIFAl2Z = <built-in function hex> condition : false } 
+rule UEhPT6w1cHb { condition : false } 

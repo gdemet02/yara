@@ -1,1 +1,1 @@
-import "dex" rule Kzb1Ok0cgR5 { condition : /[*/ startswith ( dex.field.proto ) - dex.string_ids.value & /^.?|||\*?||^\W*?|\+?|||\W[?\W??\W??(\S[?^|)+13/ } 
+rule VSEL90wpy1r { condition : true } 

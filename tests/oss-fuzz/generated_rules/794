@@ -1,1 +1,1 @@
-import "elf","pe" rule dxeQeCG87lo { strings : $WjGqaPqaKuO3XLwXr9PgC = "JQs2cQgbmxTRBt2NsigAD" condition : elf.ET_DYN contains pe.signatures.countersignatures.digest } 
+rule QfSITltzhc4 { condition : false } 

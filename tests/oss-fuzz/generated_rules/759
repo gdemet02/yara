@@ -1,1 +1,1 @@
-import "pe","dex" rule pRKgwuyTdl0 { condition : /\D?||\s\s+/ != pe.version_info_list.value + dex.TYPE_TYPE_ID_ITEM } 
+rule iEOrNRayRE5 { condition : false } 

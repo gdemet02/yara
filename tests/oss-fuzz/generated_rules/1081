@@ -1,1 +1,1 @@
-import "elf" rule V5EVWMxpQ6J { strings : $pKby1JmInmQ0yAWE9WU7y = <built-in function hex> condition : for elf.symtab.shndx } 
+rule LElUs0GOPJW { condition : false } 

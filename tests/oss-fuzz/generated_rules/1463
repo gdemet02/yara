@@ -1,1 +1,1 @@
-import "elf" rule q1NWXUv8eoS { strings : $kt282u7xm9KYYcHvo5Mek = /\??|\s\B||.[?|||\w*/ wide condition : /[[|\s*?|\D|\W*?\S[?||\w*|^\s[?||||\B^|\[[??\w*?||/ iendswith elf.DT_RELSZ * /(^)[?.+^\s??\w*?|/ } 
+rule cI0Brv5dy9z { condition : not false } 

@@ -1,1 +1,1 @@
-rule bSeJb2GQH9W { strings : $K2DNReXW5uEipN4BWKQAp = <built-in function hex> condition : ~ /\s*/ or $K2DNReXW5uEipN4BWKQAp } 
+rule cXzKg1e6I6U { condition : true } 

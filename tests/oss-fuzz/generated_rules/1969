@@ -1,1 +1,1 @@
-rule Px9hIvu3StE { strings : $QGKdfj3S0L2pyr7DQfL0r = <built-in function hex> condition : - 50.261904761016815 != /^||/ } 
+rule B4CPrrgIMlx { condition : false } 

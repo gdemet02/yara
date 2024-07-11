@@ -1,1 +1,1 @@
-import "pe","elf" rule GsAuvYVr6Rw { condition : 7.206472649563922 pe.signatures.signer_info.chain.not_before - ( elf.STT_FILE ) * pe.signatures.certificates.thumbprint * pe.rich_signature.raw_data \ elf.sections.size matches /\S??|(\S*?|)||.?/ } 
+rule zFZUNzBacTT { condition : false } 

@@ -1,1 +1,1 @@
-rule ksC4XPMRlKZ { strings : $ZWoxHHKNLuVsM7Ysz6DkE = /|.+?/ wide fullword nocase nocase condition : for any of ( $ZWoxHHKNLuVsM7Ysz6DkE , $ZWoxHHKNLuVsM7Ysz6DkE , $ZWoxHHKNLuVsM7Ysz6DkE ) : ( $ZWoxHHKNLuVsM7Ysz6DkE ) } 
+import "elf" rule gOnagFHc2Cg { condition : elf.EM_68K == 27.178421322739066 } 

@@ -1,1 +1,1 @@
-import "elf" rule A2YHFW8nNlp { condition : elf.dynsym.type matches /^\w*|^.??[[?(\W?|)+\S+?|^\S|\S?\D??|\S*\w??\D+?\*.+\S[|||\D[?\S[?/ } 
+rule Z4hf92b3raZ { condition : true } 

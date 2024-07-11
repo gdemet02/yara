@@ -1,1 +1,1 @@
-import "pe" rule NTHFJWBL720 { condition : pe.signatures.algorithm } 
+rule WV13H3rGeSX { condition : false } 

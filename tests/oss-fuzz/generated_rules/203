@@ -1,1 +1,1 @@
-rule sxaOUEnlNPq { strings : $SuSgvHGEe854eq5LqkryW = /\W[||||\w??\D?\B|||/ nocase wide ascii nocase nocase condition : $SuSgvHGEe854eq5LqkryW } 
+rule NjlupbVVkAG { strings : $Tow0cs = "oRpbvmop" condition : $Tow0cs } 

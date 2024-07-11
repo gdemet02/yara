@@ -1,1 +1,1 @@
-import "pe","dex","elf" rule zkYojZRBn7Z { condition : ( - 92.94633852061229 | - pe.IMAGE_NT_OPTIONAL_HDR64_MAGIC - ~ ~ pe.checksum % dex.DEX_FILE_MAGIC_036 elf.entry_point pe.signatures.algorithm ^ pe.IMPORT_DELAYED ) pe.MACHINE_EBC } 
+rule xRH810xNl6C { condition : true } 

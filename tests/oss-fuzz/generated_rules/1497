@@ -1,1 +1,1 @@
-import "dex" rule pRrYXDhc3FJ { condition : dex.header.signature } 
+rule i6RAbZLWA36 { condition : false } 

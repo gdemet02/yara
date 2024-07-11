@@ -1,1 +1,1 @@
-import "pe" rule tfGOho1GS7A { condition : pe.signatures.certificates.issuer * pe.signatures.thumbprint == ( /\W+|(54??|[[?59|\w[).??/ ) } 
+rule G0m98W2iL2x { strings : $cYmYlQAA = "p8Vfljq9Sj" condition : none of them } 

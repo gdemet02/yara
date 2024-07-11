@@ -1,0 +1,1 @@
+rule GbykgYY8KBb { strings : $gOYk1nw = "iaBh8zURN" condition : $gOYk1nw } 

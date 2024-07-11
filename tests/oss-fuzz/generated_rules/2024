@@ -1,0 +1,1 @@
+import "elf" rule C1KQ3xdKPGN { condition : - elf.PT_NOTE - 30.343085061319886 } 

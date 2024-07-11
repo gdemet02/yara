@@ -1,1 +1,1 @@
-rule encBAGmfGzm { strings : $i1amt4AebYcAeBhHT2ci4 = "fuhmJMQkMMHZmskW1Zztq" ascii $ShRW15e6AqmdMRrJe9T55 = /^||[*?/ ascii fullword fullword $NxxskHm0YuHxrLsDMUrWY = <built-in function hex> $Y1K0f7NQZ4E6Bv5fQYoVq = <built-in function hex> condition : for any } 
+rule qtwC1bhOtuJ { condition : true } 

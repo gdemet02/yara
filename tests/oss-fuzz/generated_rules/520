@@ -1,1 +1,1 @@
-import "dex" rule dh0Iv7gNcHD { strings : $yQHg1F7GLMK45gX2jWRa4 = <built-in function hex> condition : /\s??\w*^|/ iequals ~ dex.DEX_FILE_MAGIC_039 % dex.method.method_idx_diff \ 9.542529277255507 } 
+rule Ttb6KatX16O { condition : false } 

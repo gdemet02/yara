@@ -1,1 +1,1 @@
-rule dI0Z09dCRxr { strings : $zgBIrKJcIzUQ2Jj2ptRPE = /6??(\S*?\W[?^\w??\S??|.*.?|84?\D+)|||\*/ $rqvtgsXjWo9wLJbRcgLS5 = "z8Ee6vtVkUgVGm7N3hb1y" $djfrTNBzOONEPetQmXpo1 = "KziaiWwUoTY1RQ1sMh4Q5" $HriWWV95OErhPCW5atfbH = /\W||/ wide $grqXcZ9VSmwKpyOljWAQ9 = <built-in function hex> $PqzRO0X62dli7by8kE4cX = /\B|\w+/ nocase condition : not false } 
+rule ccYy8OTIZnE { condition : true } 

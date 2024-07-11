@@ -1,1 +1,1 @@
-import "pe","elf" rule oSnC31aBtQ2 { strings : $vD64WNSktlRrQ7C2O2ZuB = "knuULSlL9CVc1NRxnHR1p" $p13lzVPeWof5zTpyO8nTx = /.[||\w/ condition : pe.MACHINE_SH4 & elf.SHT_NULL elf.DT_REL + /^|/ \ ( /|63+?|\s+|/ & ( - 32.35503985838957 ) * ( ( 73.12574271938931 ) ) ) ^ 26.634972705510506 \ elf.DT_NEEDED + pe.signatures.countersignatures.chain.algorithm * ( - /67?|/ ) - - 7.907514042756092 elf.SHT_NOBITS = /(\W[?|)?[\s*\w[?.*|\D.*|/ 16.62143181788125 } 
+rule RX5ikBykn68 { condition : false } 

@@ -1,1 +1,1 @@
-import "elf","pe" rule v5mCsIa5qYR { condition : 90.34403285014774 contains - elf.DT_STRTAB & ~ pe.SECTION_ALIGN_2BYTES % 27.153624331317726 & ( /|([*|)*\*|||||/ & pe.pdb_path ) } 
+rule StDp0KVyjXP { condition : true } 

@@ -1,1 +1,1 @@
-rule E0ofyhUaZyF { strings : $gQlaasQNdxbJ4qAb5THf0 = "YxFdYsaYOPYCd295p81G4" xor ( 45 - 12 ) condition : true } 
+rule HhS4HzAjj5J { condition : true } 

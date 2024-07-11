@@ -1,1 +1,1 @@
-rule mK0vdPPRko2 { strings : $zsMtyJO26OQAEp0rOodCY = /\D+?|\D+?/ ascii fullword nocase fullword ascii condition : true } 
+rule FGvzN414WaO { condition : false } 

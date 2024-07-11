@@ -1,1 +1,1 @@
-import "pe" rule Su5BZRRRaD5 { condition : pe.SUBSYSTEM_POSIX_CUI pe.export_details.rva } 
+rule Gnxnjd1DjXO { condition : false } 

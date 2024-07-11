@@ -1,1 +1,1 @@
-rule YAOIABdat4X { strings : $ZnuxF5Vtzr0NvwgIfdBKl = <built-in function hex> $HTM6SwCTQtyHxcWRTyGvd = "WMgxJe0iIrxf4AJaCXoEX" $mQJ85TXQCEyAyxdsKnunl = /\W??||\s.+?/ ascii fullword $iMCGptVwoXToXyM0KihAg = /\B||\W?[[\D\S+?|\B|||||/ fullword $w81c3baywWtpWPHiYnANu = /[?\s+/ wide condition : true or 73.04520521280455 % of ( $HTM6SwCTQtyHxcWRTyGvd , $HTM6SwCTQtyHxcWRTyGvd , $iMCGptVwoXToXyM0KihAg , $mQJ85TXQCEyAyxdsKnunl , $w81c3baywWtpWPHiYnANu ) } 
+rule IhshsXVkc1L { condition : true } 

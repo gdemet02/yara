@@ -1,1 +1,1 @@
-rule SpiJ4n1GljW { strings : $QTgMUtqsCNz6JfpODAoSB = /\W??.+?/ $mYmq0y5lL9NxuOzpBvtZI = "W5v8GeuWEsgYxx4eQqHht" xor ( 37 ) condition : $mYmq0y5lL9NxuOzpBvtZI } 
+rule wssjsVGzNwB { condition : false } 

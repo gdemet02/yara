@@ -1,1 +1,1 @@
-import "pe" rule RtajYcmpjvX { strings : $uljvXC1endq9Kc7I3SvfQ = <built-in function hex> $Bp0UX2Lq8fJTauJ3nwrTx = "kb3rA3xvgo6xCoUJIJ11h" condition : not for pe.signatures.signer_info.chain.issuer } 
+rule Qo6UCebm8Ff { condition : true } 

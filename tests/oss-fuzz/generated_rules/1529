@@ -1,1 +1,1 @@
-import "pe" rule JrjqgN2P95Q { strings : $t1zd2yjx77DwALrAqWFnj = <built-in function hex> $Ytbb8YE6Jz2QtNYE4IpSc = /\S+|^\s*?|(\+\D|||)*?\w*?|\W[(\s*|\s[[+?[*\??|(\B)[|\D*?)+/ fullword condition : defined defined pe.signatures.signer_info.chain.algorithm_oid of ( $t1zd2yjx77DwALrAqWFnj ) at /^\D*27|\D[?\[?35+?/ * pe.MACHINE_POWERPC ^ 24.793997282925385 0.20122853744359848 * /\s[||.??^\+?\w[?/ | pe.signatures.certificates.algorithm } 
+rule NJMkgh6ihxu { condition : true } 

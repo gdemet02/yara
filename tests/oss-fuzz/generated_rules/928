@@ -1,1 +1,1 @@
-rule LKA4eNV8RMT { strings : $MMWEwxUOBed0qN7gAPYXW = "p3iKA1K3W0SvpoGkcpb7k" xor ( 84 - 39 ) $f40LQ3KgTEgn68nD8y3s6 = <built-in function hex> $DU6tXZhOCH9gDopX1kx89 = <built-in function hex> condition : true } 
+rule QnWpDYHeYfl { condition : true } 

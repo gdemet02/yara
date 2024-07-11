@@ -1,1 +1,1 @@
-import "dex","pe" rule urqPuuZThnU { strings : $fIhERmocSPO42n6lIUVOw = "JJErw3JqNLVe25lwj6d1u" base64wide ( "IthxDmKkPYlFeZSOWBbCw" ) base64wide xor ( 61 - 77 ) condition : all of ( $fIhERmocSPO42n6lIUVOw ) at ( dex.ACC_STATIC | pe.MACHINE_ARMNT | 32.97915776150475 ) } 
+rule m8GmXxpOCtO { condition : false } 

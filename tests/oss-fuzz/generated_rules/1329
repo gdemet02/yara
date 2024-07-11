@@ -1,1 +1,1 @@
-import "pe" rule Y3AvkKKOaYn { strings : $qzDu0Y12YjasyUeQ7smRz = /\*/ condition : pe.win32_version_value of ( $qzDu0Y12YjasyUeQ7smRz , $qzDu0Y12YjasyUeQ7smRz * ) } 
+rule uEdD58pc9WM { strings : $jBm9Q03sfk = "WQPcYt" condition : $jBm9Q03sfk } 

@@ -1,1 +1,1 @@
-import "dex","pe" rule E4XxhEfDway { strings : $ylnfyF0rDB4pKJzhfhEKK = "Tfnfy4G7WxCnTOTChkvck" nocase condition : 43.27962528232639 - dex.field.static - pe.signatures.signer_info.chain.algorithm_oid } 
+rule Kz7iijBhrPO { condition : true } 

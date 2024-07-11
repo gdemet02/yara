@@ -1,1 +1,1 @@
-rule COjQesRFjVX { strings : $jDqMejvPlqvreMppgnGuQ = <built-in function hex> condition : 14.707371816943937 % of ( $jDqMejvPlqvreMppgnGuQ , $jDqMejvPlqvreMppgnGuQ * , $jDqMejvPlqvreMppgnGuQ * , $jDqMejvPlqvreMppgnGuQ * ) } 
+rule BgSkJoWsFoP { condition : false } 

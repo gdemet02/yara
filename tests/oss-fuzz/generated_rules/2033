@@ -1,0 +1,1 @@
+rule nY5mtgisqoL { strings : $Ech5hGAe = "tXhmWUkMV" fullword condition : $Ech5hGAe } 

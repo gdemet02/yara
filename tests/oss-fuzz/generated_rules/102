@@ -1,1 +1,1 @@
-rule HaGJZqZHmdD { strings : $lKwLTGF6G6SC9vZ4NIb05 = "En8xYMfBehDl2bgosk7ko" xor ( 15 ) base64wide ( "GcziFYu7y0YjNTUkQe2Wx" ) fullword base64 condition : true } 
+rule UfYaqAZtV4x { strings : $pBlLWfkjE = "ipMc3qu2" condition : none of ( $pBlLWfkjE ) } 

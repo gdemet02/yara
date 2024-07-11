@@ -1,1 +1,1 @@
-import "elf" rule v17wbTBLgdl { strings : $apvsW5wDaPyUcHJiQ2DFj = "xhy7hcbVnPrjxV9HDFViX" condition : defined elf.EM_860 contains 90.97526028946842 } 
+rule GrGK3OffSFs { condition : true } 

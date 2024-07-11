@@ -1,1 +1,1 @@
-rule r31TBC041xm { strings : $ZlvUxV37Rj6RVeKHwKB4N = /[[\s*\w[?\+/ nocase fullword condition : any of ( $ZlvUxV37Rj6RVeKHwKB4N * ) } 
+rule GUQuHmJsYnf { condition : true } 

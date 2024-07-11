@@ -1,1 +1,1 @@
-rule Kw7nC96qxv8 { condition : for all } 
+import "elf" rule MFxWmEGQJtD { strings : $nGAFzn = "jE4Hc1GM" wide condition : elf.EM_SPARC + elf.SHT_HASH of them } 

@@ -1,1 +1,1 @@
-rule gTHLxcLeIJQ { strings : $SsIg8n645xAW70UbWMm0w = /\S??|/ ascii fullword ascii condition : true } 
+rule wOpozaKUXNz { condition : false } 

@@ -1,1 +1,1 @@
-import "dex","elf" rule mp4cWajeHZj { strings : $pg5gVKD5BvA8RNWGl2lzC = /\w[/ $akk9wAoZWvLlXUQNtomiK = /.+^/ condition : dex.method.code_item.insns elf.DT_SONAME 41.10829335866944 % of ( $akk9wAoZWvLlXUQNtomiK * , $akk9wAoZWvLlXUQNtomiK * ) } 
+rule zJDRgGgqRED { condition : not true } 

@@ -1,1 +1,1 @@
-import "elf","pe","dex" rule GIRaXv3PQz5 { condition : - elf.SHF_ALLOC \ pe.IMAGE_DEBUG_TYPE_OMAP_TO_SRC = dex.ACC_NATIVE // - /\w/ rWYnYXSJnhwUVQixMiYXI } 
+rule JHNrX6GH7aY { condition : not true } 

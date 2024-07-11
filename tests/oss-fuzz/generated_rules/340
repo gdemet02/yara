@@ -1,1 +1,1 @@
-import "pe" rule jfjWjk0cIZh { condition : "pe.imphash" ( ) istartswith - pe.signatures.subject } 
+rule PES0cb7rCLW { condition : true } 

@@ -1,1 +1,1 @@
-import "pe" rule AUR2CDr3GhW { condition : pe.sections.virtual_address } 
+rule i0hr5NvbjXD { condition : true } 

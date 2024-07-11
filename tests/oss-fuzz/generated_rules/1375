@@ -1,1 +1,1 @@
-import "dex","pe","elf" rule Bs9xIcvgu8n { condition : 76.18706943797542 endswith dex.field.class_name pe.machine + elf.STB_WEAK } 
+rule JGRKJerufcb { condition : true } 

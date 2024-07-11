@@ -1,1 +1,1 @@
-import "pe" rule hpPkHRfJ6qD { condition : 78.55712704725258 endswith pe.signatures.countersignatures.chain.serial } 
+rule SsvEO9MMNWh { condition : not true } 

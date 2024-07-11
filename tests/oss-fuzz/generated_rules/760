@@ -1,1 +1,1 @@
-import "dex" rule QQdjm3oVjm8 { strings : $NbcAzOTiyHXy3nX6uhEJF = "a5OvYK3JaxA4DX63ugrPK" xor ( 1 ) $FelnDCIiI0cympKfMqK0A = <built-in function hex> condition : ( dex.ACC_PRIVATE ) % of ( $NbcAzOTiyHXy3nX6uhEJF * , $FelnDCIiI0cympKfMqK0A , $FelnDCIiI0cympKfMqK0A , $FelnDCIiI0cympKfMqK0A , $FelnDCIiI0cympKfMqK0A ) } 
+rule CX5CpDDXORZ { condition : true } 

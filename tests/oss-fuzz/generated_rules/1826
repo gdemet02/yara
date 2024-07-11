@@ -1,1 +1,1 @@
-import "pe","dex" rule IYKeY6PDFWS { condition : pe.base_of_data /(\w+?\B||)*?|||/ iendswith dex.ENDIAN_CONSTANT } 
+rule oR9lJwIc7oB { condition : false } 

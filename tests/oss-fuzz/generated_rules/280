@@ -1,1 +1,1 @@
-rule snnLyXFuVWd { strings : $Tsg0OK4AHuaiT1kZPNzBA = /\??|\B|\W??|/ $DPxBqmCRCC8ClgJMOqin9 = <built-in function hex> $AKtFmFUqZ6XYKqQHqhjWw = /((^).[?|)*?/ $oTgqmOdG6iHSZ1kzQs1Db = /.[/ $AwGsegFYNDl1VkoVxrVEH = "bbUJDnemzqWyeN3fVXIk2" xor ( 39 - 99 ) fullword $gojdihAN2qGi223l6ibv9 = /(\S+?|||||\S+?\W+?\D\B)??||\W?|\s[?\s[|\S|\s?25+|.*?\W^||\D+\s*?/ $ZUN3uXnPgxiHVAMdnMlbG = <built-in function hex> condition : false } 
+rule T6xTFnvnUc1 { condition : true } 

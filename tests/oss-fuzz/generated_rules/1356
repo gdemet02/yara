@@ -1,1 +1,1 @@
-rule e4J5XySlo2y { strings : $seeUm6NPkPQIpQLMg6Cpp = <built-in function hex> condition : $seeUm6NPkPQIpQLMg6Cpp } 
+rule PMDPo3q0cGX { condition : true } 

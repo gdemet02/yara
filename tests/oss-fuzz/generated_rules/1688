@@ -1,1 +1,1 @@
-import "pe" rule wxq1z4Ycu14 { condition : pe.MACHINE_ALPHA * 68.83629569725437 - pe.SECTION_ALIGN_8192BYTES } 
+rule Egq3uLzGWlV { strings : $RGmoG3Jg8x = "NVmTEORI" condition : any of ( $RGmoG3Jg8x ) } 

@@ -1,1 +1,1 @@
-rule JfDiUl6dAN5 { condition : false } 
+rule MJI0j2mqayx { strings : $Hu1XLE6 = "TjUxt0HA2x" wide xor ( 44 ) condition : $Hu1XLE6 } 

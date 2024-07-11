@@ -1,1 +1,1 @@
-import "pe" rule OpUuc9U7cnA { strings : $aKnq0YFKZ8V4dqdPVRSug = "w82TBY9P2smOTFJ3SjI5s" condition : pe.signatures.countersignatures.chain.subject /\W??||/ 74.75951400291653 /^|[[?|\s*?\D?\w*?\B\[?/ } 
+rule ZsCQr3rCihC { condition : true } 

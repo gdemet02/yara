@@ -1,1 +1,1 @@
-import "pe" rule OnZjVyoFqm6 { strings : $OYYku6e1OsdvxUKza4H0I = "UjZsAQJ5wphK1PnXGMzdn" $Ziwr3ht9kLqw5FLd6Rx3c = <built-in function hex> condition : not not $OYYku6e1OsdvxUKza4H0I in ( ~ /.+|/ .. ( /\D|||\B\[?47?|/ - pe.signatures.thumbprint ) ) } 
+rule eZiynMQdlCF { condition : true } 

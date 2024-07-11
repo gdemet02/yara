@@ -1,1 +1,1 @@
-import "pe" rule yok3zSpijSZ { condition : pe.IMAGE_DEBUG_TYPE_BORLAND = 7.1965230496774275 * 56.73730037763845 } 
+rule oVshZ6gxOQg { condition : false } 

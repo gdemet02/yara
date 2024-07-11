@@ -1,1 +1,1 @@
-import "pe" rule j6ziZw8e8Hf { strings : $jeDmxCFcjiIV3mRmGjrLh = <built-in function hex> condition : /\S??/ pe.SECTION_MEM_16BIT + /||\B/ } 
+rule R6De5IJsoeO { condition : true } 

@@ -1,1 +1,1 @@
-rule UzWK8P2xCdH { strings : $RhCe398Hki0y5oTb94upY = /(\D+|(\W+?[+\w+||58*?^||\W*?)+\w[|)*\S+/ condition : for 77.06644373587287 } 
+rule XY9OwsnK3lH { condition : true } 

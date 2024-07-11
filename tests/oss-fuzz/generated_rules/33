@@ -1,1 +1,1 @@
-rule HWSNCB4WVME { strings : $xRuyRTlQPsZZKp5QjcZa6 = <built-in function hex> $gj7UKxNfGrkUwLT4NCPTC = "KwBER0eyyBz0w7mQhj554" base64 ( "AUERJRtrghWhQOCllnkEG" ) $CM2fn0OwiZYbY6c3AfaX2 = <built-in function hex> $wMBexbrNAzqL3LV8Ts1AK = <built-in function hex> condition : 75.48325692510046 % of them } 
+rule eMJPUWWzmua { condition : false } 

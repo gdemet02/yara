@@ -1,1 +1,1 @@
-rule yHxevzKtO04 { condition : /\B|||\S[?||\w[?^/ /\B|/ } 
+rule kXg1xHOw28b { strings : $WPUhPpqMg = "ALQS64" xor ( 0 - 84 ) condition : defined none of ( $WPUhPpqMg , $WPUhPpqMg , $WPUhPpqMg , $WPUhPpqMg ) } 

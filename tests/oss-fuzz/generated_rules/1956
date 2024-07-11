@@ -1,1 +1,1 @@
-rule rLvbcaFip60 { strings : $Go19JcPBz1V9PLEOxgNwK = /\w+?\D*/ nocase condition : $Go19JcPBz1V9PLEOxgNwK } 
+rule gUI89yJMwAN { condition : false } 

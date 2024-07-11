@@ -1,1 +1,1 @@
-import "pe" rule f31abR0ARQR { strings : $GNSd0ZCD2CmVKrGZDsLmH = <built-in function hex> condition : pe.BYTES_REVERSED_LO * ( 72.89174297093258 ) \ pe.signatures.countersignatures.length_of_chain ^ pe.SUBSYSTEM_NATIVE_WINDOWS % of them } 
+rule m5QML9oOZQx { condition : ( true ) } 

@@ -1,1 +1,1 @@
-rule YqM31zTIL7x { condition : for 30.61416164073416 } 
+import "elf" rule dHm6sAbb5Nn { condition : elf.SHT_DYNAMIC } 

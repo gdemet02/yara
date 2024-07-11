@@ -1,1 +1,1 @@
-rule mjzsytmjGlu { strings : $XzBqv899LdIEwnla6ER93 = "glN4QnBvmumjGV3P1fUIS" ascii $jBHCzL8JA0D5cFWODqHv2 = /\s*?|\?/ fullword nocase $HhF0upLukzanQhKU8ovnA = <built-in function hex> condition : true } 
+rule ObwrcwoIHUF { condition : true } 

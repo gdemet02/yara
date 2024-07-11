@@ -1,1 +1,1 @@
-import "pe","dex","elf" rule XZRvucqrehp { strings : $cKbYaglSqgftUQRZ0zt1S = /.[|/ fullword fullword wide nocase fullword nocase condition : $cKbYaglSqgftUQRZ0zt1S in ( pe.signatures.certificates.algorithm_oid - dex.string_ids.value .. dex.DEX_FILE_MAGIC_038 - /.[?/ | dex.method.code_item.ins_size % elf.PT_GNU_EH_FRAME ^ 80.29818110862755 ) } 
+rule qhJYf9txd0q { condition : false } 

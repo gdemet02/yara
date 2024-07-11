@@ -1,1 +1,1 @@
-import "pe" rule ZLMDqR7BCM0 { strings : $RMTTqltzgmGCtSvE0OmFS = "RUvxnwOOZofWlDpYdIXAE" nocase xor ( 88 - 0 ) $O5LOHNRCPzIWooLZjakfa = /\B.|/ fullword ascii condition : /\B/ & /^|/ \ pe.image_version.major % of ( $O5LOHNRCPzIWooLZjakfa * , $RMTTqltzgmGCtSvE0OmFS * ) } 
+rule ZXb8e46AGmY { condition : false } 

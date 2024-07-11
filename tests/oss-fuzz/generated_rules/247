@@ -1,1 +1,1 @@
-rule d7L3fTZ6q54 { strings : $Xk30tsH1YzK3tgyTRQQj3 = "dTuklUs13yOZGUTuB5HoA" condition : 85.6882981672482 of them } 
+rule kDmadiybQIF { strings : $GC9OovJ = "Zm9mkpO" condition : ( $GC9OovJ ) } 

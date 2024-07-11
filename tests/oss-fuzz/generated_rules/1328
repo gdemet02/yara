@@ -1,1 +1,1 @@
-import "pe" rule onOq6UIjwGC { strings : $VbTUXweWqCRQBGRaYuFRS = <built-in function hex> $PCp80GC6YqdQzCnDMFmyI = <built-in function hex> $PYi7gu6zzti1ZrUbgqTGK = /|\w[?|[??/ nocase nocase condition : pe.WDM_DRIVER icontains ( - /\B/ ) } 
+rule Xm3MZtXkUnx { condition : not false } 

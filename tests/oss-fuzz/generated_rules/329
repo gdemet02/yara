@@ -1,1 +1,1 @@
-rule YZpZeVTl9P2 { strings : $B5q2I7GMBaGgm7WSaGqGt = /23[?\+?^|.?/ ascii fullword condition : 33.224267658214224 of ( $B5q2I7GMBaGgm7WSaGqGt * ) } 
+rule VmUfHJeltgL { condition : false } 

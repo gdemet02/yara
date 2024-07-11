@@ -1,1 +1,1 @@
-import "pe" rule rm0zXfz9xKi { strings : $uXBT9McCRDopqo7LHTybN = <built-in function hex> condition : pe.SECTION_ALIGN_2048BYTES = 5.7543446104492135 % 34.81433624533131 } 
+rule ahQ2Bo4afJC { condition : true } 

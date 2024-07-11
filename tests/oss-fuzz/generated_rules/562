@@ -1,1 +1,1 @@
-rule NDoWCGxvbgo { strings : $zZ1BBwDmNpo5aO5g0bg3H = "AKcvC0EEd8rBwkjNn5saO" base64 xor $JDRhz8qZXD7ztkXwQ0JOz = <built-in function hex> $KJROIkT47FcVJRFHLWLgX = /\w|^/ wide ascii $DvMGKodc8VT2rv5Trh3Ea = "UklqhzKWhq1Z5jjawzRSv" $CPB4PSQ6SQPpfWCZjMcWU = /98?(^||(\B(.+?||||\B)?)?|)[/ nocase condition : 83.48634036408369 of ( $KJROIkT47FcVJRFHLWLgX ) } 
+rule ClRqqNjf5gx { condition : true } 

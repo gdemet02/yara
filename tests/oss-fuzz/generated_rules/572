@@ -1,1 +1,1 @@
-import "pe" rule zl9YzlUVsqr { condition : pe.rich_signature.raw_data 35.45243622665622 } 
+rule c2TzRFgdkOe { strings : $GBuQjNux = "rmJBNLiUs" condition : $GBuQjNux } 

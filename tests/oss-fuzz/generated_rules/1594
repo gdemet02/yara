@@ -1,1 +1,1 @@
-rule HKGqOL5o9i2 { strings : $bwnh8HeaBOQFML8wN4Rtq = "Lio96tiHd2sq8TtSwrYUh" fullword $uxpQeLPMwABQTt7D140F4 = "RdOtl8XEtaYCReLHqdzGN" condition : none of them } 
+rule r8KI8FcblJO { condition : true } 

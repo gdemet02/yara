@@ -1,1 +1,1 @@
-rule aMC0RYyJYLa { strings : $XBTBlybF5314rkqRZkqAM = <built-in function hex> condition : any of ( $XBTBlybF5314rkqRZkqAM , $XBTBlybF5314rkqRZkqAM ) at 26.826829597978286 } 
+rule u9vyURapdhB { condition : true } 

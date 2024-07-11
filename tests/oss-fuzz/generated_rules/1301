@@ -1,1 +1,1 @@
-import "pe" rule m67Azctqzxo { condition : ( ( 60.41044552209625 ) ) 16.112574891141872 ^ pe.NO_ISOLATION icontains pe.export_details.offset } 
+rule LE5tPVGeyFp { condition : false } 

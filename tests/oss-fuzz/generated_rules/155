@@ -1,1 +1,1 @@
-import "pe" rule V2T2M1dsGi2 { condition : pe.import_details.library_name == pe.signatures.signer_info.chain.not_before } 
+rule VjRv37T2W8T { condition : false } 

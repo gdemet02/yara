@@ -1,1 +1,1 @@
-import "elf" rule SKYcfJjRfZI { strings : $pdVd4YrteCflfjtf0RxGV = /|/ ascii fullword $T6DuXgtIPJwA2yoMC6KSF = "uFF9O4703TOOMz40SXOzP" ascii base64wide base64 ascii xor ( 97 ) condition : not elf.symtab.name | - /\S*?.+?\*|[+?/ startswith - ( 73.35420601110525 % 54.02274852499174 ) & - /\W+[[|\+\S+|\*\s[?(\w?|\W+|.??|\s[25?\B|)*?|||/ | 63.427166339925165 } 
+rule IQ24HbkpLAQ { condition : false } 

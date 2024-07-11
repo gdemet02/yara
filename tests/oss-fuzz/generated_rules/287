@@ -1,1 +1,1 @@
-import "dex" rule XppSNpDjgxF { strings : $kDx3Jg1z930hL68byJtGg = "WziA291Fw0mfzJE7JSlMn" condition : dex.map_list.map_item.size % of ( $kDx3Jg1z930hL68byJtGg , $kDx3Jg1z930hL68byJtGg * , $kDx3Jg1z930hL68byJtGg ) } 
+import "elf" rule LmUPrhn69iL { condition : ( elf.DT_JMPREL ) != elf.DT_SYMTAB } 

@@ -1,1 +1,1 @@
-rule t6UxYWRyNLF { strings : $o5dNDqVnHFdkMiaz127sb = /((\S*)*)[?\B^/ condition : none of ( $o5dNDqVnHFdkMiaz127sb * , $o5dNDqVnHFdkMiaz127sb ) } 
+rule SIFDtFeM6Eq { condition : false } 

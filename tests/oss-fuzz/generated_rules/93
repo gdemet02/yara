@@ -1,1 +1,1 @@
-rule ydU4MQ7ECXA { strings : $h9xIW0g4I50UagdoA9kfD = "Du3X9Gt7fb1KLbjCNZ5Br" xor condition : none of ( $h9xIW0g4I50UagdoA9kfD ) } 
+rule R44nM8yryUT { condition : false } 

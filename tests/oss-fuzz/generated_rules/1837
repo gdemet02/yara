@@ -1,1 +1,1 @@
-import "pe" rule At5HMf8l5pq { strings : $LnE7XJUdLKRLVzFHvMNtW = /[?\*\B\S[?/ ascii ascii condition : ( pe.signatures.serial - /((\D*?|\s||.*)+\B)?/ % pe.rich_signature.version_data * pe.signatures.signer_info.program_name % /(\B|\||\W+|||\W+|\S[|)??|[+?|\D??|\B\s*?\w[?\w+?\D[^|\B\B.+\s?^(\[?|\B|||\w??\W[)*/ ) endswith - pe.SECTION_ALIGN_256BYTES } 
+rule SCp6MigUElu { condition : 98.46395834170669 == 35.31726362030666 } 

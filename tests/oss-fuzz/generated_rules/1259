@@ -1,1 +1,1 @@
-import "pe" rule eNkg5oim9gz { strings : $nITTHkEoJ0y8im0BFy6lf = "TToQZUYHW8NaKVcQQfMX6" condition : /\s[?|\D*[*72?|||/ pe.signatures.signer_info.chain.algorithm | /\B\D??/ matches /\B|\S+?|^/ } 
+rule EF4KWita9XG { condition : true } 

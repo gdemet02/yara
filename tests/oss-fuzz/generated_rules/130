@@ -1,1 +1,1 @@
-rule dE42CfGHc1M { strings : $TxrOE9l1KqFIYlRdleMVU = /\*/ wide fullword $qSMZvtU7991rOLpnsn5i3 = "FMzMMojBWkH8FzY1qdxO4" condition : for none } 
+rule urXNroFhPiS { condition : true } 

@@ -1,1 +1,1 @@
-import "pe" rule GKCtblzm4DB { condition : for pe.version_info_list.value } 
+rule J39QgCY7yQg { condition : false } 

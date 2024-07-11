@@ -1,1 +1,1 @@
-import "pe","dex" rule xtJzvMeKdsT { strings : $Y0SkMzPhqOEzsXfNPqC6Z = /\w*/ condition : pe.pointer_to_symbol_table ~ ~ dex.method.name != 45.240630315480814 } 
+rule oYGI0BQsvKy { condition : true } 

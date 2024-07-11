@@ -1,1 +1,1 @@
-rule zkYUiitktC8 { condition : ( "DfamTRzaiZOxBhF9W7G46" ) = - 78.14372970706351 } 
+import "elf" rule apEW1jbSIJT { condition : elf.DT_SYMBOLIC == 49.695247110031914 } 

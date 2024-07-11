@@ -1,1 +1,1 @@
-import "dex" rule b7abILdDRm4 { condition : /^.*(\[||\w*|\S*?51[?|)[./ startswith ~ dex.ACC_BRIDGE } 
+rule KACEvcnERFR { condition : true } 

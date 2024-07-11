@@ -1,1 +1,1 @@
-rule OWlVE7t1k6l { strings : $Nki8EzeCowIewIMT5UQqe = <built-in function hex> condition : 42.775371767620015 contains // } 
+rule LaKPv14f1y4 { condition : false } 

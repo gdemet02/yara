@@ -1,1 +1,1 @@
-rule CzD9FermdAN { strings : $HRFapryZUvG0QhUUpt3zV = /\s*?.*?/ $UwoVgYaavBY1w5pmahBb4 = /\W[?|\[\S+\W^|\D+/ ascii $VPntdpl7X5Sk3ZwW4EmzU = /[[?\D/ condition : $HRFapryZUvG0QhUUpt3zV } 
+rule keJZwILzanW { condition : false } 

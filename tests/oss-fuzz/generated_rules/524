@@ -1,1 +1,1 @@
-import "elf" rule LRg73Jh56R5 { strings : $zsBEfQgAnlMkT6a9irRO9 = <built-in function hex> condition : $zsBEfQgAnlMkT6a9irRO9 in ( /43*/ - /.+?[+?/ .. /\W+?\w[/ ) and $zsBEfQgAnlMkT6a9irRO9 in ( /\?^|\W*\w*?.*?\S[/ .. elf.DT_ENCODING % ~ /^/ ) } 
+rule CNf3EQ3Ih6Q { condition : true } 

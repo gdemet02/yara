@@ -1,1 +1,1 @@
-rule oDzBfKfC8BC { strings : $FpVgDKdUEP70dhUBCCKmM = "TiHJdGMQjzVl3uqJt1W6U" wide fullword xor base64 base64 $W6Xtv4W1TMGtUpqXrnl1J = <built-in function hex> $DASfEw5qs1GxCrLPW2I4V = "evFIKAc8ey7iSBawPJSA2" wide ascii ascii ascii nocase base64wide ( "Y8OmMGQJ8c4qssjWIGCGY" ) $Yi81YGOGso2NFW3MMmCL1 = <built-in function hex> condition : 96.73090647968374 % of ( $DASfEw5qs1GxCrLPW2I4V ) } 
+rule PwOO6C3kaz8 { condition : false } 

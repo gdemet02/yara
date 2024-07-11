@@ -1,1 +1,1 @@
-rule kcvD7VXP6sR { strings : $Z8MGc9ZzNomUH6JZLfkAP = /\S[?|\D[92|\S*\D[|/ $bFoadbDSbyhMifGwGglDe = <built-in function hex> condition : /\s[\w+?\D[.??|/ % of them } 
+rule PTwiUVaTP4J { condition : false } 

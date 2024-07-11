@@ -1,1 +1,1 @@
-import "pe" rule f84ubdqY5O5 { condition : pe.signatures.signer_info.chain.algorithm_oid endswith - 19.557787215111265 } 
+rule vKWos3zlAlc { condition : false } 

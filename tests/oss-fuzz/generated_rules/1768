@@ -1,1 +1,1 @@
-import "pe" rule sqi6HZUAPmi { condition : ( pe.signatures.countersignatures.chain.algorithm_oid ) istartswith 77.730657330953 } 
+rule A8D4UTQurZt { condition : true } 

@@ -1,1 +1,1 @@
-rule r4HpRSg9BKa { strings : $dPVskQnUANclxHLsMQJiC = "I5wd2LEvsPJJUsn4tJpio" $tldM0H8v88rfQwdrRz2QL = /\s*?\D?||/ condition : any of ( $dPVskQnUANclxHLsMQJiC , $tldM0H8v88rfQwdrRz2QL ) } 
+rule AFp0eKoYRzy { condition : true } 

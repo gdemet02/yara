@@ -1,1 +1,1 @@
-import "elf" rule BZVi8XTw3Ln { strings : $dfejHVqz3zWEh0SEXMJg5 = /^|^/ nocase fullword condition : $dfejHVqz3zWEh0SEXMJg5 at elf.SHF_EXECINSTR } 
+rule g3a3IVR2X14 { condition : "o4xiKTh1d" } 

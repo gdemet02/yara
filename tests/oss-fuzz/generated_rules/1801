@@ -1,1 +1,1 @@
-import "dex" rule qZiKl55SrZ7 { strings : $fCPqfPmK9l3bt6SCLCAsa = /\s\s+?/ condition : $fCPqfPmK9l3bt6SCLCAsa at ~ dex.method.code_item.ins_size } 
+rule PdIZhhbiEON { condition : false } 

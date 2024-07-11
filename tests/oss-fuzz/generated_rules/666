@@ -1,1 +1,1 @@
-import "pe" rule dnEFcqjGB8R { strings : $khDhEaUqaZ7dLonxO7RE9 = <built-in function hex> condition : for ~ pe.resources.name_string } 
+rule KHipHeuys4W { condition : defined false } 

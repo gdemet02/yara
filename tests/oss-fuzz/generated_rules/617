@@ -1,1 +1,1 @@
-rule GAQ3rM71YUK { condition : true } 
+rule jg8pvNIrgPK { strings : $E0bo0hwMR = "GKXGiM" condition : $E0bo0hwMR } 

@@ -1,1 +1,1 @@
-import "pe","elf" rule yFwmptwdaq6 { condition : pe.MACHINE_ARM64 pe.export_details.name ^ elf.SHT_NULL == /\w+?()+?|\B/ } 
+import "elf" rule x3Mi2NO8XGf { condition : 83.66149511490322 != elf.DT_FINI_ARRAYSZ } 

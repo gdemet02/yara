@@ -1,1 +1,1 @@
-import "pe" rule Grt1MbgB78T { strings : $wFtivVz7L2q3WlBaXQzdi = /\s[?||/ ascii ascii $OPpOZdqYWlZk8S4p2levM = <built-in function hex> $G1Y2Wwefo0uDIFoWSgtKr = /\B/ fullword condition : /\B|||\D[|/ contains pe.signatures.subject \ pe.AGGRESIVE_WS_TRIM } 
+rule wdYqXObeDte { condition : false } 

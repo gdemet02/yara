@@ -1,1 +1,1 @@
-rule fcpbjHN81Dv { strings : $WQINUv7ot19GWm5aJZ2h8 = /\[\w+?||/ wide nocase condition : /\B\B\D*||(^\D+?\)+?72*?|\B\B\S+\D??.[/ % of ( $WQINUv7ot19GWm5aJZ2h8 , $WQINUv7ot19GWm5aJZ2h8 , $WQINUv7ot19GWm5aJZ2h8 ) } 
+rule y3F5TM9VKBN { strings : $uHK9qwBK = "P8jIMPqcn" condition : not $uHK9qwBK } 

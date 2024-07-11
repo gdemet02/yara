@@ -1,1 +1,1 @@
-rule Vd9gS364nI5 { strings : $aaXm4Q4yUk0M12udmPT4A = "rFK2iaKxuLsNcHVcUb8C5" $Rb6sJEmmmTUoVUZ4holL9 = "NwnjAOKGPZLw1aL7Mdpls" $VK8DG3pXlaD2xgAuIIky1 = /19*?89[(\W??)*\D[|\W?/ ascii $TGMxEXPsCFRAPodPRpeE2 = <built-in function hex> condition : $aaXm4Q4yUk0M12udmPT4A at /\D??.?|\[?[[/ } 
+import "elf" rule UsYu23UJHOP { condition : elf.DT_NULL } 

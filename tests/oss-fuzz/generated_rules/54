@@ -1,1 +1,1 @@
-rule C21r0ZVzLlw { strings : $UwbjSkt2QDLbAaQLUl5hl = "JXtiu9hbp7ZiXerS93YWE" base64 ( "GeBPcFNgNmDlXxTHofqqE" ) base64wide $lfvTRZBpZWbPphGxhpwoG = "ZHpGYCqNLWG3sRQ1AgC8i" base64wide condition : none of ( $UwbjSkt2QDLbAaQLUl5hl * ) } 
+rule cpUfebrqD8q { strings : $BJWJE6S = "MuowM14SA" condition : any of them } 

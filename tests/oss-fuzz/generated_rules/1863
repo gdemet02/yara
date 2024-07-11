@@ -1,1 +1,1 @@
-rule OwJjZ0uwBTv { strings : $kjpVL3MSwbWzE5f2hCJmx = <built-in function hex> $tbYedK1XkuFdM5Q0GCdiP = /\S[?\w[?\B\W+||\W?./ ascii ascii condition : false } 
+rule a8DOnInACTJ { condition : true } 

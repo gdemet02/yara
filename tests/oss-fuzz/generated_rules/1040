@@ -1,1 +1,1 @@
-import "pe" rule MhweS7SWM4X { condition : pe.sections.full_name = /[??/ } 
+rule gY4azodD9QP { condition : true } 

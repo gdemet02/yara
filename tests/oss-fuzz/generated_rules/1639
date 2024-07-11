@@ -1,1 +1,1 @@
-rule LVIdsJ9lemt { strings : $Pb0cDEkjKuqVRDTgktHX6 = "F0fINH96XlBMLY4hU47Aa" xor ( 85 ) $VtltGUXyfAbSyqAdcPEkt = /\D\D+?|\+\B/ condition : true } 
+rule A0QyQfgrUEc { condition : true } 

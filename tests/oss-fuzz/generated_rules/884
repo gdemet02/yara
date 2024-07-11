@@ -1,1 +1,1 @@
-rule LVucM6tRj3F { strings : $QlOuMY623aO10UWKNh8Ly = /6*|\s*?\B/ condition : false } 
+rule MfKTrudzNIi { strings : $ymuhgzWCwP = "i4Vrrgep" base64 $iAUWyXZU = "Vx326k4ih" base64wide ascii condition : all of ( $iAUWyXZU , $ymuhgzWCwP , $ymuhgzWCwP ) } 

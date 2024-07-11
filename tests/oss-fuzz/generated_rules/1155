@@ -1,1 +1,1 @@
-rule owCPOmALTkZ { strings : $dCVgZaPLyxXS5nZseproO = "ATSndfSgTYwAghfdLzNBH" base64wide ( "psA27iiyJPnCwOxC7FBmi" ) base64 ( "peOKnwnfGKbOY2cn7JAKW" ) xor ( 71 ) $Xos2ZaCiWJGxg7drErCsp = <built-in function hex> condition : false } 
+rule Wo0uG7nv9uN { condition : false } 

@@ -1,1 +1,1 @@
-rule dxxY7GxQNSB { strings : $rwOeyAHHQfwrb2FuLu6Lj = "x6iiZaF5QVusHk7Cte8h0" xor ( 32 - 0 ) xor ( 24 - 30 ) base64 condition : $rwOeyAHHQfwrb2FuLu6Lj } 
+rule OW0l6ee3KvL { condition : true } 

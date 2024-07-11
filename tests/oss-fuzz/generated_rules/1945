@@ -1,1 +1,1 @@
-import "pe" rule xSmDSJfEHWT { strings : $G5yk56PDNHoJhZt8PA5qv = /(\B|\w[?^(.)[?|\s??|0??[+?)+?\w*?|\+?|/ $lAtIEejNKbjW9MCQLZi9C = "f5biXTFxz51ApxolZ9ivM" condition : ( ~ pe.pdb_path % of them ) } 
+rule COHnCvMXeoN { condition : false } 

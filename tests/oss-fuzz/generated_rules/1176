@@ -1,1 +1,1 @@
-import "pe" rule m3niahhd3PY { strings : $Vgadj5EmsiDb7gN1LuJJT = <built-in function hex> condition : for pe.rich_signature.offset } 
+rule ETrPgxhyLye { condition : false } 

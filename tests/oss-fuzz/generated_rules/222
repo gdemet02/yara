@@ -1,1 +1,1 @@
-import "dex" rule tgROAro7Tgz { strings : $lqvVla9NhgiLA2A2SQVbk = "Yg1LuAa0NCdlV1M20g2wy" base64 condition : /\B||||/ startswith dex.field.class_name } 
+import "elf" rule oO0ah6obOKW { condition : ( elf.EM_M32 ) } 

@@ -1,1 +1,1 @@
-import "pe","elf" rule BegOhofS3od { strings : $qziax2wwHnFiKowhzpbEV = /\D+?^|[*(\+?)*?|/ $DWqxlVFQtfcX7FjH9nVLC = "fqk3YWwsfXqZ6r5dMAIHM" $FcABrIzo8JOIISoTbngEl = "uqaZGj1gr00T9Ehv2n03O" $HELBp4M25C5K6IZEMvJQL = /\S[|\D?|||\B\D[?||/ $zlAO7Ck4VzbppaKCcWJUb = /16*?\B67\s*?||||||\s*?[?^|\s[|\w?\D+?/ condition : ( 40.69106744730845 + 7.922089725145853 - /^5?|^|/ ) == pe.signatures.countersignatures.chain.subject & pe.SUBSYSTEM_OS2_CUI | elf.symtab.name } 
+rule flUNKNnmyqX { condition : false } 

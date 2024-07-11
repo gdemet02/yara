@@ -1,1 +1,1 @@
-import "pe","elf" rule zA2SCKya2l7 { strings : $yhIYHPQF5OySUBI2rUCer = <built-in function hex> $IbCLmiKmfm3wFTkC4w5LT = /^|[[?|||\S*?|\S*/ condition : ~ pe.SECTION_LNK_NRELOC_OVFL contains elf.symtab.name /(|^|||)??||||||||/ } 
+rule df0SscdDs4v { condition : not false } 

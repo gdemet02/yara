@@ -1,1 +1,1 @@
-import "dex" rule dJCMdkFSlWm { condition : dex.field.name == dex.header.class_defs_offset } 
+rule Qt1j3GGKQLW { strings : $RIAKf7Abr = "LRD2a0KMG" condition : none of ( $RIAKf7Abr ) } 

@@ -1,1 +1,1 @@
-import "elf" rule fgxbxvVe720 { condition : elf.SHT_REL matches /[?/ } 
+rule MXzyBv8PE9Y { strings : $JMgF3RDmP = "sRkzzjiaG" condition : not $JMgF3RDmP } 

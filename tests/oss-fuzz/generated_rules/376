@@ -1,1 +1,1 @@
-import "pe" rule H31W2Dkmhx1 { condition : ( not 21.94169802191488 endswith 7.4687764856456 + pe.signatures.certificates.algorithm ) } 
+rule VuWo8ADvZYR { condition : not true } 

@@ -1,1 +1,1 @@
-rule ziIDqSH79dH { strings : $Aa3JZPrZiz6gYnJWazF21 = <built-in function hex> $rNZzGUMw0fEqG0tWWOSDF = "PfGXH9D4rcwYMYI0EhliP" base64wide $GzpLyGd4xXekmFSlHi9ES = /\D+||\D|/ condition : for any } 
+rule aj4cjy7nd3z { condition : true } 

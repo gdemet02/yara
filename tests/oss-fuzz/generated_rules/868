@@ -1,1 +1,1 @@
-rule gA5Bm4ZO8re { strings : $DraqG6gSQxGQJvMrSw5Qz = /\s?/ $RupCQU4VE1oKv363F18S0 = "jZcyJtDNmqDMF7PAq2hH0" fullword $syaXVL4aj2dMvyJvTunaN = "j15BsNULoj7TtScbSJbK3" xor $sNVj2VF4JAaPs5MIZGP7R = <built-in function hex> $Cg4chDfUuzwi8jB9wuWHT = "fXQiqPK3WjEASjhspq7br" xor condition : false } 
+rule nqIiQOJusuo { condition : true } 

@@ -1,1 +1,1 @@
-import "elf","pe" rule S3P05XTdjTW { strings : $YPxFeR1HvTS7Pj29L3OMW = "srH4SqG4FooDScx7Jy6cs" nocase base64 nocase condition : elf.STT_NOTYPE icontains pe.NET_RUN_FROM_SWAP } 
+rule bXK9kPsZJo1 { condition : 20.784900415241868 } 

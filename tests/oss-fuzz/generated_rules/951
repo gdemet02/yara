@@ -1,1 +1,1 @@
-import "pe" rule nj777jf6R2e { strings : $kKDLRK6vPSTz1i31RIS4F = <built-in function hex> $OhdwXSsOThFKotRX7digc = "SJT1XT0LjoMAMkMd6W45s" base64wide $xktWUervtFXzLK11b9myF = /\W??||/ condition : for pe.signatures.certificates.thumbprint * ~ ~ pe.version_info_list.value * ( pe.signatures.algorithm_oid ) } 
+rule SC9cWTkn9i8 { condition : false } 

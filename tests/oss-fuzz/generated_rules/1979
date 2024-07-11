@@ -1,1 +1,1 @@
-import "pe" rule WCAn7IOJ7D7 { strings : $yWIt9Q0EXDz8E3BnSEwVF = /(\s??|[\B\w*?\W[?||\B(\S?|)??\w*?\W*?|)*60*/ fullword nocase $eymUqudqOixkQABrBKOXF = "IetAnwRZRd47qOY1534oV" wide fullword fullword wide base64wide base64wide base64wide nocase base64 $ysveU0xQxsaY9csbnanWT = /\W[?\s[?||\w*?\W??24[\S+?||||/ condition : 21.767655674336915 iequals pe.signatures.countersignatures.chain.issuer } 
+rule XXRc0dPb7pb { condition : false } 

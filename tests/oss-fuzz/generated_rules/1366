@@ -1,1 +1,1 @@
-rule Cg9cZrCfjCR { condition : true } 
+rule KJeOyKgNzH3 { strings : $tiYhG4h = "nlebp9V" base64 condition : none of ( $tiYhG4h ) } 

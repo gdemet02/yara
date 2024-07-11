@@ -1,1 +1,1 @@
-rule Ivc3Jwhl4ga { strings : $nfpOsLQulMLXKau2KzMEK = /\W*?[+?|\w61+\W*\B|[??||/ $pRFhEXjfl7jusgqTh9HmA = "rZehHO9waYr47iPC47T7Y" $SF5zvdaAjWVhRy51QcrFT = "mvEP094ebHBXQuUqX3zor" $mlXqQ6UJ7u7nTl4tCMdVL = /\D+||/ nocase fullword nocase wide condition : $pRFhEXjfl7jusgqTh9HmA at /.?/ } 
+rule RMfClski3If { condition : false } 

@@ -1,1 +1,1 @@
-rule z0pUNv6LfGF { strings : $NLL4LiS98yyRN5WG9BYPF = <built-in function hex> condition : /\B/ 59.1002068110918 % of ( $NLL4LiS98yyRN5WG9BYPF ) } 
+rule RIGMh3XyB4i { condition : true } 

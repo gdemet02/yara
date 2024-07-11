@@ -1,1 +1,1 @@
-rule ZSZZ7pLhGLO { strings : $mXaOOPdYWj5kDpwS1N6Qf = <built-in function hex> condition : for none } 
+rule aLao8ycW9MT { strings : $bXfsrht6 = "PSn12gT" fullword condition : any of them } 

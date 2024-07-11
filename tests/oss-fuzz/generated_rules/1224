@@ -1,1 +1,1 @@
-import "elf","pe","dex" rule AxXCXqQfwBH { strings : $dMffdO3rpPsbB3x87wRUr = /(\w+?[[?|\W[?\S*?)(\W[?\D[||\?)?|.||/ condition : elf.DT_SYMTAB ( pe.resources.language_string ) - dex.TYPE_METHOD_ID_ITEM } 
+rule uvxTugJI4tp { condition : true } 

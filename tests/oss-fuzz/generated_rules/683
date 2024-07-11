@@ -1,1 +1,1 @@
-import "dex" rule YCbsWMU8z6p { condition : /^|/ istartswith dex.DEX_FILE_MAGIC_039 } 
+rule iQ84QjOMxnQ { condition : false } 

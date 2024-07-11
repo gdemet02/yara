@@ -1,1 +1,1 @@
-rule Q8lkmrrxLZ8 { strings : $qwo2ve93pcyIgaMenPbzB = <built-in function hex> $svYckXukCX73zry3KLtuo = <built-in function hex> condition : /\s[||/ iendswith /\+.*?30?|\B|(.*?)+||/ } 
+rule wmQ795PJvy2 { condition : true } 

@@ -1,1 +1,1 @@
-import "elf","pe" rule w4staetd3OU { strings : $BPMqCNqgX7O8AW0akQ50H = /\D+||||^/ $nb5996OnIOZyKB8hN0KDL = /\[|\w+?|\B\W65[||||\s[.[?\D[\S[?.*?\S[?\B.[?/ condition : 2.0661088448523324 endswith /\S+?|52?|(44*?|^\w+|||\D+?[[|||\s*)*8*?||70+?/ \ elf.entry_point - 39.009637905903205 % ( pe.SUBSYSTEM_OS2_CUI ) % pe.SUBSYSTEM_WINDOWS_CUI } 
+rule yV1uBzhI9iH { condition : defined false } 

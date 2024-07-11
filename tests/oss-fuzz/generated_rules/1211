@@ -1,1 +1,1 @@
-import "elf","dex" rule Z0CB7du5KGR { strings : $tD68TeV52StvnfrooyIQf = <built-in function hex> $KNGCDqEjyxkBbqYyx2l8V = "SYSZxDXNaUN3aTZ9KDjwg" $YKyu7kfWWyBsuEtnE9X8M = /^|||\??/ $dfzs8zlOji2S9Twq9Vcv8 = /\[\B|||||\??[+^|\B|/ nocase $NLXtqNemNRWjPcalFfQSF = <built-in function hex> condition : ~ ( elf.PT_GNU_EH_FRAME ) == /\S|\D[?|/ * ( ~ 26.787761747803685 dex.DEX_FILE_MAGIC_035 ) } 
+rule pOge1j7LZgt { condition : true } 

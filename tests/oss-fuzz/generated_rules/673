@@ -1,1 +1,1 @@
-import "pe","dex" rule HiWC76yQY23 { condition : ( ( "pe.delayed_import_rva" ( pe.version_info_list.value dex.field.proto ) ) ) dex.field.field_idx_diff pe.signatures.thumbprint } 
+rule RgvWsXZLNRJ { condition : true } 

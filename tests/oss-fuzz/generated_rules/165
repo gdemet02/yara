@@ -1,1 +1,1 @@
-rule ZgquUl12X3l { strings : $msVbB8A4gXSTGH7I5Shf8 = "SG7BpL9oqqS2gPlM1Gd2I" $o3NsH1BFzSGrLICNQ4rcV = /\D[?/ fullword condition : for any } 
+rule Jf0pMO7Nz8r { strings : $TfS70Q = "YlnPKs" condition : all of them } 

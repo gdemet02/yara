@@ -1,1 +1,1 @@
-import "pe","dex" rule TWrUB9blILp { strings : $dfJBRIP7z02s1Qi4odb18 = /\s+[+[*\S+?\*^^|/ ascii $Xnr0d8VnbIAf2GcWZxGJi = /[+?|.[?\B||\+?\B\D||^\S[?|/ condition : - pe.SECTION_CNT_CODE of ( $dfJBRIP7z02s1Qi4odb18 ) at dex.class_defs.static_values_offset dex.ACC_BRIDGE } 
+rule KIl6C6bfCmk { strings : $oFnkOvz = "IKUes4gXM" condition : for none of ( $oFnkOvz , $oFnkOvz ) : ( $oFnkOvz ) } 

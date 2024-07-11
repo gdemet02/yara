@@ -1,1 +1,1 @@
-import "dex" rule VECxAPKI7HX { strings : $rk1PUkt9mplu0HzSk1WOI = /[?/ fullword nocase $S7hURbbRFntpkrmPnbMZR = "rpj7V9FukLG5SwkXvn4Dl" condition : /^\S??/ ^ dex.header.type_ids_size 60.50298284190253 % of ( $S7hURbbRFntpkrmPnbMZR ) } 
+rule BoVKzQDMUj1 { condition : false } 

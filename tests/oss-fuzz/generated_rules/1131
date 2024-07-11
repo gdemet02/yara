@@ -1,1 +1,1 @@
-rule LOkgjsyqaAj { condition : false } 
+rule ckywWgv4UkE { strings : $NCXMixSb = "SHx8SUJe" fullword condition : any of ( $NCXMixSb , $NCXMixSb ) } 

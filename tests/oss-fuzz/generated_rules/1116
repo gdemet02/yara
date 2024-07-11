@@ -1,1 +1,1 @@
-import "pe" rule Ghfu5WVZlPi { strings : $Ontlqd3Q5q6Yv9avymy7Q = <built-in function hex> condition : $Ontlqd3Q5q6Yv9avymy7Q at - pe.NO_SEH } 
+rule jGcWzKA7yMI { condition : false } 

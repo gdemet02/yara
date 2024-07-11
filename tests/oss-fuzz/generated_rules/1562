@@ -1,1 +1,1 @@
-import "pe" rule JxPQpjYKkxG { strings : $myE73rebKh7oztpeDl1nW = /\s*|\w??\D*|\B|||/ fullword condition : pe.version_info_list.key } 
+rule cMt5kwDavXH { condition : false } 

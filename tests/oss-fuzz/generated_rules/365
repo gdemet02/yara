@@ -1,1 +1,1 @@
-rule avryu5KN2NU { strings : $vKaSrzmwMp3HdUFdrrNc9 = <built-in function hex> $Xz1IW2EG4Eb3Y1fWc8lkj = "SH0Rg2PHoopQNAxT3T6ES" $ZLnAaVxbSmnqTMMHbyld7 = "yzMi4u7T33Rl1JPDcrzPl" base64wide ( "Zt2reIljwv5Zeh2vDsns6" ) condition : all of them } 
+rule QUPC8AOxHf4 { condition : true } 

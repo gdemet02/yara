@@ -1,1 +1,1 @@
-import "pe" rule kTflZSqYsvr { condition : /\^|\D[?/ startswith /[|/ * pe.signatures.signer_info.chain.serial } 
+rule N593qZddrjp { strings : $ar9eTQr07 = "fFoT2fRnRi" nocase condition : $ar9eTQr07 } 

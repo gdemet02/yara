@@ -1,1 +1,1 @@
-rule jT7q4EXi9ir { strings : $Z9CF7GdEMXq8k7Tjwht56 = /.?/ condition : ( $Z9CF7GdEMXq8k7Tjwht56 ) } 
+rule nqgMXeLhB0y { condition : 76.89049159611547 } 

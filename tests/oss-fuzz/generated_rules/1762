@@ -1,1 +1,1 @@
-rule wpsRJMbCehM { strings : $b158S7YmwQj22CPIXBBne = /.?\S*?|/ condition : defined false } 
+rule fRWTBdwfcMM { condition : false } 

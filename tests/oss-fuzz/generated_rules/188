@@ -1,1 +1,1 @@
-rule BHEG2h8xr7D { strings : $iiaTPn9PeiUXBxm8ICbSe = "yOyUDuOWtNuR2BT3ngvJY" xor ( 27 - 35 ) base64wide ( "mF379vivsW6Pf2HagCtmJ" ) base64 condition : $iiaTPn9PeiUXBxm8ICbSe at 86.81497017690553 } 
+rule pSBufHWmxNI { condition : false } 

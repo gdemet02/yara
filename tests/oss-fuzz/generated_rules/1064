@@ -1,1 +1,1 @@
-rule iLNPZVsdMRO { strings : $GcdfuBIUnoFYZqlMkGfGA = /[*|/ $MwIXpMK0610taUjwlfdqh = "wmryOFvED0gjJ2zgZ0Adr" nocase xor ( 92 ) fullword fullword $uVMBCDlhgX3kvUzbHKk66 = /\s[|\S[?|/ nocase $igmW1lYDsz4LxytHzaXTI = <built-in function hex> condition : for none $uVMBCDlhgX3kvUzbHKk66 , $uVMBCDlhgX3kvUzbHKk66 in $uVMBCDlhgX3kvUzbHKk66 ( ) . $uVMBCDlhgX3kvUzbHKk66 : ( false ) } 
+rule kcsYSG8sJdX { condition : true } 

@@ -1,1 +1,1 @@
-rule VXriTyHg4xn { strings : $U0rGNhMEb7xABitlefqMm = <built-in function hex> $gryxXguSPB9vBDokNXwla = <built-in function hex> condition : for all } 
+rule HPwUw97r4qd { strings : $vguMO3DZ = "ksWPkwb" condition : $vguMO3DZ } 

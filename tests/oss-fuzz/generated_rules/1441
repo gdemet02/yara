@@ -1,1 +1,1 @@
-rule qKUtia77nE3 { strings : $uYxDKyKkgalBRohLmoo4W = <built-in function hex> condition : $uYxDKyKkgalBRohLmoo4W at ~ - 88.17265470666123 } 
+rule jsfy52BnrNG { condition : false } 

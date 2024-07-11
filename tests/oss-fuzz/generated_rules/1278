@@ -1,1 +1,1 @@
-import "pe" rule RwfZDgU0yu4 { condition : ~ /\[|(|\s[?\s?\s+?|)??||||/ == pe.signatures.countersignatures.chain.issuer % ( pe.signatures.digest ) } 
+rule TFK4CR2aGwP { strings : $QB4HXf7 = "j1GmbPT" condition : $QB4HXf7 } 

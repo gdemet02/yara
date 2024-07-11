@@ -1,1 +1,1 @@
-import "pe" rule Efy3CivSDrN { condition : ~ pe.version_info_list.value = 65.04273125785886 * /.+?||/ - 21.037899747091217 - pe.number_of_delayed_imports } 
+rule GFxA5uOEY2h { condition : defined false } 

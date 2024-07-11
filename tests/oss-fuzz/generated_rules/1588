@@ -1,1 +1,1 @@
-rule v8Hq17b39mw { strings : $IDNHWp4lmJrURXFTpvwEI = /59?^98[?.[/ fullword fullword condition : any of ( $IDNHWp4lmJrURXFTpvwEI ) } 
+rule O8rYQ6C5MOk { condition : true } 

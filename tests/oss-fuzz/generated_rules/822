@@ -1,1 +1,1 @@
-rule tygpJjP7EnW { strings : $DYFu4sbVhnkw9ltJBab6D = "HdvSg30fw4drNcU3gIn3P" xor ( 0 - 20 ) base64 wide condition : true } 
+rule kpr34tmyqe9 { condition : true } 

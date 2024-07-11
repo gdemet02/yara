@@ -1,1 +1,1 @@
-rule ljU4DfQRrf6 { strings : $ANnc6nFxUWfKDGAKUUgto = /\S?|/ ascii condition : false } 
+rule GVtxJn4Lqny { condition : true } 

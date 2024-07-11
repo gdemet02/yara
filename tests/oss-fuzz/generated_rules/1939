@@ -1,1 +1,1 @@
-rule oRdHEtSLgJ4 { strings : $QZqtgyjjfUB30m9CfY2dk = // wide $rVIOT3O7eU1lbqs4Y9xsv = "kaUOjb0o9HvrQYgnLKYkV" xor ( 7 - 86 ) $fvFdLfN90z960NtKVvlma = /([+?|\S+?)/ nocase $izYNbadgMLfyQ3Aj0P03Y = /\w*?[+|||\D[?(34*\S??.[)*|||(\B|)?/ condition : ( /\S[|\D+?[??||\S[|^\+?.*/ ) } 
+rule HWaBoWS1Mfg { condition : true } 

@@ -1,1 +1,1 @@
-rule yjEWHllpxbu { condition : true } 
+import "elf" rule YT7yhcy1YqM { condition : ( elf.dynamic_section_entries ) } 

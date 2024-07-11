@@ -1,1 +1,1 @@
-import "pe" rule vTcEv0gH6GN { strings : $ZbHhbHVmg4LOqfD5YlMTo = /\S+?||\s??\W?85[\D[/ condition : /\W+?(\S*\w+?||||\B||)[88[\B^[[?(^\*?||\s?\w[?||\S+?\s*|\W*?)?[+|\s*?/ & pe.version_info_list.key ^ 25.510651502247406 * 77.58714204195456 } 
+rule WavUCYVdCUE { condition : 62.03778314911401 } 

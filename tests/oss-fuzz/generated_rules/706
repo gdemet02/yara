@@ -1,1 +1,1 @@
-import "elf" rule B88tKniY1aT { strings : $kzCdni2SWKW2T56IsxL33 = <built-in function hex> $R8fipbVw46CcGC8lVMRXB = "Lwn3yJdThWHFTu6OkwlOf" xor ( 13 - 27 ) $AHLgdmNAj3rUMN4xhsN9h = <built-in function hex> condition : /\[.[||/ + 8.20846512680058 == ( elf.SHT_NULL ) } 
+rule AuLfaZBt61p { condition : true } 

@@ -1,1 +1,1 @@
-rule m7USI79v5em { strings : $bVBuboLlbki79IJKKv8Br = /\+\D+?[+/ nocase wide condition : ( false ) } 
+rule nzPv4VmFMQx { strings : $bqELVpg = "jKv2w0eR" nocase condition : $bqELVpg } 

@@ -1,1 +1,1 @@
-rule BArIGc2UZsE { strings : $RtaVVNGyAPq1jTZzbziKe = /^|/ $VLQ1Wa9fi9MSBd51Vz1TM = "pHYvncgHgeruVroTvivDJ" condition : true } 
+rule kWhWID65dMc { strings : $HbcNZUrWA = "s9tV8gj" xor condition : $HbcNZUrWA } 

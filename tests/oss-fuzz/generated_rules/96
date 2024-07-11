@@ -1,1 +1,1 @@
-import "pe" rule oBj8OBpr6uz { condition : pe.IMAGE_NT_OPTIONAL_HDR32_MAGIC iequals pe.signatures.countersignatures.chain.not_after } 
+rule FNny7CPcpMt { condition : true } 

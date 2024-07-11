@@ -1,1 +1,1 @@
-import "pe" rule PKK5IbNy2Ro { strings : $Jv0zXnSVZfVutNnllVaHP = "vgKWpQdfA0OvYSCF0rlQA" wide fullword base64wide ( "CbTCWFyz6RgCt4VdfVYsj" ) xor condition : "pe.rich_signature.version" ( pe.MACHINE_I386 pe.MACHINE_32BIT ) ( pe.export_details.name ) + 42.4995004984814 = 32.191861538739275 } 
+rule I7vUYL1UADa { condition : false } 

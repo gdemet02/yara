@@ -1,1 +1,1 @@
-rule BNaoKFoY9vW { condition : true } 
+import "elf" rule tP8XrjlX01j { condition : not 37.655147410467215 == elf.DT_RPATH } 

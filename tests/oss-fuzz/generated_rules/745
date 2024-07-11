@@ -1,1 +1,1 @@
-import "pe" rule CPjIkNtOqwg { strings : $N0aDWcPycvNM0LILU8TCC = /.[?|\W*|^|/ condition : ( ~ pe.version_info_list.value ) = "dex.has_method" ( pe.signatures.digest pe.signatures.certificates.serial ) } 
+rule sIzcqQALeEP { condition : true } 

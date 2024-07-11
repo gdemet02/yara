@@ -1,0 +1,1 @@
+import "elf" rule pnVCebPTccr { condition : 44.37986947111489 != elf.EM_68K } 

@@ -1,1 +1,1 @@
-import "dex" rule S6fTlXF1XOb { condition : dex.TYPE_STRING_DATA_ITEM * dex.DEX_FILE_MAGIC_035 icontains 40.748714517462616 } 
+rule x7rYSKUQrmL { condition : false } 

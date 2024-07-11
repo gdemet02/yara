@@ -1,1 +1,1 @@
-import "pe" rule sCoxTocBuya { strings : $M4DclQDdc1LdjlaESrSTp = "j5VsWgaEkwIOscWjwawZM" wide wide condition : for "pe.rva_to_offset" ( pe.RELOCS_STRIPPED ) } 
+import "elf" rule CXAJo1kJfrg { strings : $k8Lhketf = "bhj8Ii2a" condition : elf.STT_FUNC % of ( $k8Lhketf , $k8Lhketf ) } 

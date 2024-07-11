@@ -1,1 +1,1 @@
-rule sl19DJB90CJ { strings : $BDIsiKhyhd7R7fYQ1ISxD = /\[|(^|\w*\B)?/ ascii $XdGM2AFWgnJeDorjOEjqj = <built-in function hex> condition : $BDIsiKhyhd7R7fYQ1ISxD at /\w??||||/ } 
+import "elf" rule fSkWqYjagoa { condition : elf.SHT_SHLIB } 

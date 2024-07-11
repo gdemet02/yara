@@ -1,1 +1,1 @@
-import "elf","pe" rule FUR59BB0uMS { strings : $gXnvIqLT6ttQnhBcMggGl = /./ ascii condition : ( ( ~ elf.EM_M32 | 1.5153179064330446 ) ^ pe.signatures.countersignatures.chain.algorithm_oid % of ( $gXnvIqLT6ttQnhBcMggGl * ) ) } 
+rule yniX1Eq3sTL { condition : false } 

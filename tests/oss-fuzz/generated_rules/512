@@ -1,1 +1,1 @@
-rule Xd2PnPRf4yp { strings : $OZwacaZxwsB0vr3ybt4Ib = "orZyBbCjOLNeIi6flllUY" base64wide ( "C6c1gsMMPqrjsdfntEXe5" ) condition : all of ( $OZwacaZxwsB0vr3ybt4Ib ) } 
+rule UhkBYjxSjvc { condition : false } 

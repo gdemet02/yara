@@ -1,1 +1,1 @@
-rule MGtw23lKhBQ { strings : $sy0LjfGWOPt1XOjTFm8wx = "SRfUAySzNPnc4Aao4JSQU" base64 ascii ascii condition : $sy0LjfGWOPt1XOjTFm8wx } 
+rule v5MuwbpWO74 { condition : true } 

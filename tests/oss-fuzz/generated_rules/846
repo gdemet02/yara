@@ -1,1 +1,1 @@
-rule tG1BwGaZYh1 { strings : $LPWD7tA8106bTgQCMbduB = <built-in function hex> $ERMOFZ979oBT5LXNWAJLg = "CrY37b8RThKeUxnkM603I" fullword base64 ( "QTm8e0Ez7ZxNPezRAAZxb" ) base64 $WD7oPyov5oViB186721qE = "V2ddyZ6Ifo5FaOyps4q3F" fullword $C9ruomedAx7TwKVX10IWI = <built-in function hex> condition : for any } 
+rule otoXyIjEYka { condition : true } 

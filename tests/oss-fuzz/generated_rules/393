@@ -1,1 +1,1 @@
-rule Oe1moa6JMmr { condition : true } 
+rule dgk6ScSu4jC { strings : $mk4E3O = "eUeyPCo" xor ( 91 ) condition : $mk4E3O } 

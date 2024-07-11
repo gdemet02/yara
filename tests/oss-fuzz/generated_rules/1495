@@ -1,1 +1,1 @@
-rule aU4dfmSKGps { strings : $c46920Aw8QVA1SevxfXrD = /\B|/ wide $KV5z6llpIolQuG7QxFUmS = <built-in function hex> condition : $KV5z6llpIolQuG7QxFUmS } 
+rule A88QsWb7JAK { condition : false } 

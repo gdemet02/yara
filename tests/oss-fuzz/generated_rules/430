@@ -1,1 +1,1 @@
-import "pe" rule VSV1mKxJ4mG { strings : $QuPXihZqow4dunnTlOmQE = "RsKZiGg2uE2D0mLF6rrTF" $TzC5szlVcg73yOduI5GVL = <built-in function hex> $hkmVsTL6dHNwzCujHfjYh = "qZYqm5SSxBc3yW03AJzgQ" condition : ~ pe.SYSTEM of ( $TzC5szlVcg73yOduI5GVL , $QuPXihZqow4dunnTlOmQE * ) } 
+rule UJ7KiwkJbm8 { condition : true } 

@@ -1,1 +1,1 @@
-rule P3752vLV37g { strings : $lMTW15LzCnhLx4GPEDxSX = <built-in function hex> $P4V8cMtUuW2mYmfa0UAnb = "mnim8YNy2fbHRq8z3HFHo" wide $IBRskpU2DkHVC4IFhcBG3 = "QLaoEuHBvzcxISBtST3Fr" xor ( 36 ) nocase condition : $IBRskpU2DkHVC4IFhcBG3 at 28.89760267810604 } 
+rule WyyWjwoA5jK { condition : true } 

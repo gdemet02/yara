@@ -1,1 +1,1 @@
-import "pe","dex","elf" rule l7ZqFFt86ZM { strings : $EYItzb5tW4OvPoYTYfxWS = "z6s8DX6B8F5zGZGWmS5po" $MGvPdl30kufMEyrzxiaWL = "XxWSQTAyZWkBm4CRc0xiC" condition : ( - pe.SECTION_ALIGN_MASK ) iequals 71.73394379259025 ( pe.dll_name ) \ - - /\B||\s*||||\w|\w[?|||/ % ( /||\D*|\S+?.+(100?\B[+?)[?|(|[[?||)[?\W?56*./ ) & dex.DEX_FILE_MAGIC_036 elf.sections.name } 
+rule GoGGOQ4eLjB { strings : $odqmxWqSlH = "PKbof3rw" condition : $odqmxWqSlH } 

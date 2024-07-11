@@ -1,1 +1,1 @@
-rule f5Cb6cCUdKM { strings : $XHxsX42BV3EZF7QsH3fPC = "hCD2T0ofOcDGIGsCfQPX4" $XK894TLWS38jP99g5JwEf = "nABI72q74HOSWk6VLLSoj" base64wide base64 ( "TBXhg8O0LRvXA2ZIJBcUZ" ) condition : 43.12361417019134 of ( $XHxsX42BV3EZF7QsH3fPC * ) } 
+rule me9OMxxOwhi { condition : false } 

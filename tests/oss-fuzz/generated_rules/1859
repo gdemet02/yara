@@ -1,1 +1,1 @@
-import "dex" rule Y6GPCWY0K9R { strings : $f0qeR4NwpYLxp9NNBkauR = <built-in function hex> $aXeoQ7Qm32xWL2xvIqM1J = "tf9V5rRs5PHQG9mx7W0fz" $PYxiTgkOANWD9Zd9lNVNP = /\B^\w+|/ fullword condition : ~ /.??|\S[?\W*.*?\B^\W[|||\W/ == dex.ACC_ABSTRACT } 
+rule fhTw5xjJnkG { condition : false } 

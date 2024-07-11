@@ -1,1 +1,1 @@
-import "pe" rule YZk7acUvz7B { condition : pe.SECTION_ALIGN_4BYTES endswith 69.15725045313214 or pe.rich_signature.raw_data matches /\[^\W??|\B|^[[|\D+?||36+?/ } 
+rule FBgXJP7O7t6 { condition : true } 

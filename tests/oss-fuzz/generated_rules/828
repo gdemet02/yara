@@ -1,1 +1,1 @@
-rule oElu3H39GYb { strings : $zGK1MQkSsFPCNSpl3ej21 = "zRUcwo70sZ0cXGbahouf2" wide xor ( 34 ) $mg7wUx2swQBtuIruZx5N1 = "oRXFO29LlGXWE3xcoB5B8" $bkNpNJejFuQ7aGpe0AHtt = <built-in function hex> $KL9eV3OPh4iPZPRnsT1qQ = /.\S+?(\W[|[\w[?|(|)+|)+||||^|.*?\W?/ fullword ascii fullword nocase fullword wide $lxr8GRcIpAfFhcgnkbNFM = <built-in function hex> $epT4SdelyljqLP2goQ5Ud = // fullword condition : for 91.5244330703854 of them : ( $lxr8GRcIpAfFhcgnkbNFM ) } 
+rule ooRbJBmtvAp { condition : false } 

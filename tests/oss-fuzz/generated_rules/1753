@@ -1,1 +1,1 @@
-rule XuwO3HcgkFm { strings : $qYrqPNwMoE5Q5fzRL2koV = /\s??\s[?|\[?81+\W??||||/ condition : $qYrqPNwMoE5Q5fzRL2koV at 11.235487430842328 } 
+rule Pwk3ZVqrR2A { condition : true } 

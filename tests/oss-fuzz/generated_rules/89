@@ -1,1 +1,1 @@
-rule E7CMy1gOyrM { strings : $yMdcakklNtfJw5oOSfU1c = "kukWddIu5mbsfgf5V3nkT" condition : none of ( $yMdcakklNtfJw5oOSfU1c * , $yMdcakklNtfJw5oOSfU1c * , $yMdcakklNtfJw5oOSfU1c ) } 
+rule nSywseRFzbC { condition : 80.39144651215311 } 

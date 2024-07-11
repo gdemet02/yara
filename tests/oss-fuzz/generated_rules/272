@@ -1,1 +1,1 @@
-rule MRQn0pmx4Vh { strings : $p8jN4sSXvHoChD2JnKP9S = /[??42+/ fullword wide condition : true } 
+rule eq5lftmj4Eq { condition : ( true ) } 

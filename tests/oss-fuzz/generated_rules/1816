@@ -1,1 +1,1 @@
-rule RL97LshmD4S { condition : false } 
+rule J4mPNfw9GTs { strings : $Va7MnpHPt = "ATgzBEfu" condition : $Va7MnpHPt } 

@@ -1,1 +1,1 @@
-import "pe" rule xyrHbPkwQZh { condition : pe.IMAGE_DIRECTORY_ENTRY_GLOBALPTR = ( pe.NX_COMPAT pe.signatures.digest_alg - pe.signatures.digest & /\D*?/ & /\B^|||/ ) | 93.18040390428386 + 44.36221226042903 } 
+rule LY7YntQInt6 { condition : not true } 

@@ -1,1 +1,1 @@
-import "elf" rule hXOL3qXeHDZ { condition : elf.symtab.bind != ( - 43.01296326294221 ) and for none } 
+rule Qq7TGJrSWnJ { condition : false } 

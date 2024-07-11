@@ -1,1 +1,1 @@
-import "elf" rule v25h7L0XS52 { condition : elf.dynsym.value } 
+rule rRAglJwPkm3 { condition : false } 

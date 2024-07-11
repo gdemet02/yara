@@ -1,1 +1,1 @@
-rule zBrdNnCCkh8 { strings : $sQpfHrTyckrrr40nNMKwM = /\B/ condition : true } 
+rule PCAJH6MTgms { condition : defined false } 

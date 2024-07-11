@@ -1,1 +1,1 @@
-rule kklfZyMrjeg { strings : $b9o6FE2wy08gcFroEMdbe = "yc4tbiOznAUqQTY2W94SV" base64wide $ncMYBqCcP1P36ucV8WxMq = /\B|84+?\s*\B^\*||/ $GHEldZtVUAHiQj5f0q892 = "Zul8XmBNlFfJJGYnyt2cl" nocase xor ( 39 ) xor ( 30 - 56 ) base64wide ( "uZICcKFheRBf9jBYEiD9O" ) condition : any of ( $b9o6FE2wy08gcFroEMdbe * , $b9o6FE2wy08gcFroEMdbe , $ncMYBqCcP1P36ucV8WxMq * , $ncMYBqCcP1P36ucV8WxMq ) or defined all of ( $ncMYBqCcP1P36ucV8WxMq , $b9o6FE2wy08gcFroEMdbe , $ncMYBqCcP1P36ucV8WxMq ) } 
+rule uz2qHxzlIKc { strings : $LLO8nuliTI = "MiBtxfv" xor fullword condition : $LLO8nuliTI } 

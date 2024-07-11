@@ -1,1 +1,1 @@
-import "pe" rule K4fsMADAhN2 { condition : pe.signatures.subject } 
+rule SzDMDXCEijC { condition : true } 

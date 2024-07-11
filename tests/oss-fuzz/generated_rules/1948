@@ -1,1 +1,1 @@
-import "dex","pe" rule q0manPPqdF2 { condition : dex.method_ids.class_idx startswith ( ~ - 69.70132102541719 \ 4.486879171258762 ) % ( /\|||\s*?|\\B94+/ \ 47.849342990771206 ) ^ ( - pe.signatures.signer_info.digest_alg ) + ~ pe.characteristics % pe.rich_signature.raw_data \ 76.95403031737266 } 
+rule SymNDLFxXaz { condition : true } 

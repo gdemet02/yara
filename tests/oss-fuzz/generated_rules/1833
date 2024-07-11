@@ -1,1 +1,1 @@
-import "elf","pe","dex" rule FUjGMPVlpXO { strings : $PKCUu3LkMBEJ3k6oxIOXe = <built-in function hex> condition : defined all of ( $PKCUu3LkMBEJ3k6oxIOXe ) at 29.564718645258047 or ( elf.STT_FUNC = pe.signatures.signer_info.chain.algorithm_oid % dex.DEX_FILE_MAGIC_036 | pe.RESOURCE_TYPE_VXD ) and $PKCUu3LkMBEJ3k6oxIOXe in ( 93.83745067447538 .. pe.entry_point_raw ) } 
+rule b6RwQ8ljEae { strings : $K7ViW2sup = "pCw4I6Q" condition : $K7ViW2sup } 

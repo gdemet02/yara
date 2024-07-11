@@ -1,1 +1,1 @@
-import "dex","pe" rule nK42LF8LBLJ { strings : $IexRzj3XH1gNerYDidf40 = /\S?|[??\D||||^|[?|44[||/ fullword fullword ascii condition : any of ( $IexRzj3XH1gNerYDidf40 , $IexRzj3XH1gNerYDidf40 * ) and ( 74.30110897943896 ) /\S??/ | - dex.method.proto * dex.DEX_FILE_MAGIC_036 % dex.TYPE_ANNOTATION_SET_REF_LIST /\B(||)[?\B.??|^\S*/ \ pe.import_details.functions.name & 66.96573402548402 & /\w?|\B\??\B.*?||[[?/ | pe.SECTION_MEM_WRITE != 65.90427638077979 } 
+rule UXor8kHjnV1 { condition : false } 

@@ -1,1 +1,1 @@
-import "elf","pe" rule McAktPxjRDg { condition : 1.136297912113271 & ~ ~ 39.26555327782286 /\D?\w*/ % - elf.sections.name \ elf.DT_ENCODING & - pe.signatures.signer_info.digest & 19.28797530494818 istartswith /\s*?|||4*/ } 
+import "elf" rule whAbx7MaavB { condition : elf.dynamic_section_entries } 

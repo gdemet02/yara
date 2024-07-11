@@ -1,1 +1,1 @@
-import "pe" rule D0XzhmNuBK1 { condition : pe.RESOURCE_TYPE_ANICURSOR = pe.signatures.countersignatures.chain.thumbprint } 
+rule Z4VsHZ64juH { condition : false } 

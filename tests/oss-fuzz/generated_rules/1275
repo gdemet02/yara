@@ -1,1 +1,1 @@
-rule ClXaz5dgoxw { strings : $fdd9lo3f7b3dDWwYy7dhP = <built-in function hex> condition : ( all of ( $fdd9lo3f7b3dDWwYy7dhP * , $fdd9lo3f7b3dDWwYy7dhP * , $fdd9lo3f7b3dDWwYy7dhP * , $fdd9lo3f7b3dDWwYy7dhP ) ) } 
+rule atjwMVmQiYp { strings : $hj6iOv = "hlfEnI" condition : $hj6iOv } 

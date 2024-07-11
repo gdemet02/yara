@@ -1,1 +1,1 @@
-rule J1puwSN8urU { strings : $gd8BpgZKmhkZPbRxB02is = /^||/ fullword nocase fullword wide condition : false } 
+rule I1QpooEM0oy { condition : false } 

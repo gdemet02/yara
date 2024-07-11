@@ -1,1 +1,1 @@
-rule eRK57kgEzJw { strings : $BbFqG67xb8cWIlKiieMyH = "DACGdZHytSvY1tOIhXy26" condition : all of ( $BbFqG67xb8cWIlKiieMyH * , $BbFqG67xb8cWIlKiieMyH , $BbFqG67xb8cWIlKiieMyH * , $BbFqG67xb8cWIlKiieMyH * ) } 
+rule z6eDDeibhzF { condition : true } 

@@ -1,1 +1,1 @@
-import "pe" rule f6AjJUMS7zS { strings : $EVWgpgAsZFPkZXj798nRS = /\w+?/ $EGrGTqbl3K3by1JGomVJv = /\S.?|/ condition : for Z1v39ELZXeTWQAyp16Tpk [ pe.NO_ISOLATION ] } 
+rule xhOakJOVjaE { condition : false } 

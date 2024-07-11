@@ -1,1 +1,1 @@
-rule YIWI2dgILS1 { strings : $Yh8Zb8k4HMMCPeXWF6fuL = <built-in function hex> condition : ( false ) } 
+rule CY8NtUAZEdy { condition : defined false } 

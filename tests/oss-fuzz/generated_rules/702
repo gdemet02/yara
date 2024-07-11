@@ -1,1 +1,1 @@
-import "pe" rule c75PXAY4wT3 { condition : pe.signatures.thumbprint != // \ pe.resources.language_string } 
+rule v28hsITaJwW { condition : true } 

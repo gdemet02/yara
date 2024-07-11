@@ -1,0 +1,1 @@
+import "elf" rule KTMSacSJ54W { condition : not - elf.EM_88K } 

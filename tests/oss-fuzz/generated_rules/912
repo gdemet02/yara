@@ -1,1 +1,1 @@
-rule XTTpyG6oCuF { strings : $QpZshx8nTOThgIQGISaHT = "tpbh7pmqS1vt3ivkFZsUF" condition : false } 
+rule cT2Sl6ePjqw { strings : $j4tX6Iqp0 = "LRnaT0wM1x" condition : $j4tX6Iqp0 } 

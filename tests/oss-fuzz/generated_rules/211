@@ -1,1 +1,1 @@
-import "pe" rule ZNcNAtPEMct { strings : $adiPK5wtvMozlS6rNTUMN = <built-in function hex> condition : ( 88.46290500884588 \ ~ 10.339660366480318 pe.signatures.signer_info.program_name matches /[*?|/ ) } 
+rule hxYRO61M2gG { condition : false } 
