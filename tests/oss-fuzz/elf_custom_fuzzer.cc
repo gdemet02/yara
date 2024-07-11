@@ -282,22 +282,79 @@ YR_RULES* rules = NULL;
 
 extern "C" int LLVMFuzzerInitialize(int* argc, char*** argv)
 {
-  YR_COMPILER* compiler;
 
-  if (yr_initialize() != ERROR_SUCCESS)
-    return 0;
+    YR_COMPILER* compiler;
+    YR_RULES* rules;
+    const char* rules_dir = "generated_rules"; // Specify your rules directory here
+    struct dirent* entry;
+    DIR* dp;
 
-  if (yr_compiler_create(&compiler) != ERROR_SUCCESS)
-    return 0;
-  
-  if (yr_compiler_add_string(compiler, "import \"elf\"", NULL) == 0)
-    yr_compiler_get_rules(compiler, &rules);
+    if (yr_initialize() != ERROR_SUCCESS)
+        return 0;
 
-  yr_compiler_destroy(compiler);
+    if (yr_compiler_create(&compiler) != ERROR_SUCCESS)
+        return 0;
+
+    dp = opendir(rules_dir);
+    if (dp == NULL) {
+        perror("Failed to open rules directory");
+        yr_compiler_destroy(compiler);
+        yr_finalize();
+        return 0;
+    }
+
+    while ((entry = readdir(dp))) {
+        if (entry->d_type == DT_REG) { // Check if it is a regular file
+            char filepath[256];
+            snprintf(filepath, sizeof(filepath), "%s/%s", rules_dir, entry->d_name);
+            
+            FILE* rule_file = fopen(filepath, "r");
+            if (rule_file == NULL) {
+                perror("Failed to open rule file");
+                continue;
+            }
+             // Determine the file size
+            fseek(rule_file, 0, SEEK_END);
+            long file_size = ftell(rule_file);
+            fseek(rule_file, 0, SEEK_SET);
+
+            // Allocate memory for the file content
+            char* file_content = (char*)malloc(file_size + 1);
+            if (file_content == NULL) {
+                perror("Failed to allocate memory for file content");
+                fclose(rule_file);
+                continue;
+            }
+
+            // Read the file content
+            fread(file_content, 1, file_size, rule_file);
+            file_content[file_size] = '\0'; // Null-terminate the string
+
+            fclose(rule_file);
+
+            // Add the file content as a string to the compiler
+            int errors = yr_compiler_add_string(compiler, file_content, NULL);
+            free(file_content);
+
+            if (errors != 0) {
+                fprintf(stderr, "Error loading rules from %s\n", filepath);
+            }
+        }
+    }
+    closedir(dp);
+
+    if (yr_compiler_get_rules(compiler, &rules) != ERROR_SUCCESS) {
+        fprintf(stderr, "Failed to get compiled rules\n");
+        yr_compiler_destroy(compiler);
+        yr_finalize();
+        return 0;
+    }
+
+    yr_compiler_destroy(compiler);
 
   return 0;
-}
 
+}
 
 int callback(
     YR_SCAN_CONTEXT* context,
