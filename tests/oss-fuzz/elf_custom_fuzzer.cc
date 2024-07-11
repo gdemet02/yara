@@ -38,6 +38,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <sys/mman.h>
 #include <sys/stat.h>
 
+#include <dirent.h>
+
 /////MELKOR Declares/////
 
 #include <stdio.h>
